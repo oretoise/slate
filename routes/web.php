@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/{program}', function($program) {
+    $view = '/' . $program;
+    return view($view);
+});
