@@ -18,7 +18,7 @@ Route::get('/', function () {
 
 Route::get('/{program}', function($program) {
     $view = '/programs/' . $program . '/home' ;
-    return view($view, ['test' => $program]);
+    return view($view)->with('test', $program);
 });
 
 Route::get('/{program}/{day}', function($program, $day) {
