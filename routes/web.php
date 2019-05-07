@@ -11,11 +11,17 @@
 |
 */
 
+# TODO: Change this to home view.
 Route::get('/', function () {
     return view('welcome');
 });
 
 Route::get('/{program}', function($program) {
-    $view = '/' . $program;
+    $view = '/programs/' . $program . '/home.blade.php' ;
+    return view($view);
+});
+
+Route::get('/{program}/{day}', function($program, $day) {
+    $view = '/programs/' . $program . '/' . $day;
     return view($view);
 });
