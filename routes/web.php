@@ -17,7 +17,7 @@ Route::get('/', function () {
 });
 
 Route::get('/{program}', function($program) {
-    $view = '/programs/' . $program . '/home.blade.php' ;
+    $view = '/programs/' . $program . '/home' ;
     return view($view);
 });
 
