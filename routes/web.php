@@ -23,5 +23,5 @@ Route::get('/{program}', function($program) {
 
 Route::get('/{program}/{day}', function($program, $day) {
     $view = '/programs/' . $program . '/' . $day;
-    return view($view)->with('test', $program);
+    return view($view)->with('program', $program);
 });
