@@ -138,7 +138,7 @@
                     <table height="100%" width="100%" cellpadding="0" cellspacing="0">
                         <tr>
                             <td valign="top" background="https://cdn01.its.msstate.edu/i/basedrupal/1.0.5/img/background/bg_header.jpg">
-                                <img alt="Mississippi State University" src="/img/{{$program}}.png" style="height:auto; width:100%; max-width: 617px; min-height: 58px; min-width:320px;" />
+                                <img alt="Mississippi State University" src="/slate/img/{{$program}}.png" style="height:auto; width:100%; max-width: 617px; min-height: 58px; min-width:320px;" />
                             </td>
                         </tr>
                     </table>
