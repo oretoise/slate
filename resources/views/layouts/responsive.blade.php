@@ -6,6 +6,7 @@
         <title>@yield('title')</title>
         <style>
 			a {color: #007FA3;}
+			.apply {padding-top: 10px;}
 		    .info {padding-bottom: 10px;}
 			.img-center {display: none;}
 			.small_message > a {color: #660000;}
