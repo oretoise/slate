@@ -1,2 +1,2 @@
-<a alias="apply_button" conversion="false" href="https://goo.gl/v2ujcN">
-<img alt="Apply now!" border="0" mdid="9038c91d-e82d-4e03-a203-dd83f4a7ca62" src="https://gallery.mailchimp.com/08645bc06c5353fea3c46c46c/images/ffa56c4c-2485-42a1-b64c-0117a7873a74.png" st="M" style="border-color: #000000; margin: 0px; border-radius: 10px;" title="Apply now!"/></a>
+<a href="https://goo.gl/v2ujcN">
+<img alt="Apply now!" border="0" src="https://gallery.mailchimp.com/08645bc06c5353fea3c46c46c/images/ffa56c4c-2485-42a1-b64c-0117a7873a74.png" style="border-color: #000000; margin: 0px; border-radius: 10px;" title="Apply now!"/></a>
