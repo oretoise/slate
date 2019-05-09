@@ -3,10 +3,9 @@
 @section('content')
 <h3>Day 40 - Subject: Apply Now!</h3>
 <p>Dear *|FNAME|*,</p>
-<p>
+<p class="clearfix">
 <img class="img-right" src="https://gallery.mailchimp.com/08645bc06c5353fea3c46c46c/images/b10d16fb-929c-4da9-a078-03ea7a918365.png"/>
-    Have you submitted your application for admission into the online Master of Agriculture with a concentration in Animal and Dairy Sciences program yet?  The earlier you submit your application, the better chance you have of getting into the classes you need.
-    
+Have you submitted your application for admission into the online Master of Agriculture with a concentration in Animal and Dairy Sciences program yet?  The earlier you submit your application, the better chance you have of getting into the classes you need.
 </p>
 
 <p>Your application must be submitted by the semester deadline in which you plan to enroll:</p>

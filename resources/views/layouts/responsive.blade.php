@@ -141,8 +141,12 @@
 
                 .img-right {
                     float: right;
-                    padding-left: 10px;
+		    padding-left: 10px;
                 }
+
+		.clearfix {
+		    overflow: visible;
+		}
         	}
         </style>
     </head>
@@ -171,7 +175,6 @@
 			</div>
 
 			<div class="content">
-                <div class="wrapper">
                     @yield('content')
 
                     <div class="sig">
@@ -187,7 +190,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
 			</div>
 
 			<div class="footer">
