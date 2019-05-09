@@ -151,9 +151,7 @@
 				<div class="sig">
 					<div class="wrapper">
 						<div class="signature">
-							<p>
-								@yield('signature')
-							</p>
+							@yield('signature')
 						</div>
 
 						<div class="apply">
