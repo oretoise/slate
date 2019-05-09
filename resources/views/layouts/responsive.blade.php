@@ -5,13 +5,19 @@
     	<meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>@yield('title')</title>
         <style>
+			a {color: #007FA3;}
+		    .info {padding-bottom: 10px;}
+			.img-center {display: none;}
+			.small_message > a {color: #660000;}
+		    .social {padding-bottom: 10px;}
+		    .social > a > img {padding: 0px 5px 0px 5px;}
+			table {margin: auto;}
+
         	body {
         		font-family: "Helvetica", "Arial", "Lucida Grande", sans-serif;
         		margin: 0;
         		background-color: #CCCCCC;
         	}
-
-		    a {color: #660000;}
 
 		    .wrapper {
 		        display: grid;
@@ -33,15 +39,9 @@
 
 		    .content {
 		    	background: #FFFFFF;
-		    	padding:10px 10px 10px 10px;
+		    	padding:5px 20px 20px 20px;
 		    	font-size: 10.0pt;
 		    }
-
-            .content .wrapper > p > a {
-                color: #007FA3;
-            }
-
-            table {margin: auto;}
 
 		    .footer {
 		    	background: #000000;
@@ -53,38 +53,13 @@
 		    	text-align: center;
 		    }
 
-		    .info {padding-bottom: 10px;}
-			.mobile-hide {display:none;}
-		    .social {padding-bottom: 10px;}
-		    .social > a > img {padding: 0px 5px 0px 5px;}
-			
-            .sig .wrapper .signature > p > a {
-                color: #007FA3;
-            }
-
-			.img-center {
-                display: none;
-            }
-
             .img-right {
-                display: block;
                 max-width: 350px;
-                height: auto;
-                margin: auto;
-                padding-right: 10px;
+				display: none;
             }
 
         	@media only screen and (min-width: 486px) {
-
-                .center .wrapper {
-                    grid-template-columns: 50% 50%;
-                    grid-template-rows: auto;
-                    text-align: left;
-                }
-
-			    .wrapper {
-			    	max-width: 900px;
-			    }
+			    .wrapper {max-width: 750px;}
 
 			    .signature {
 			    	grid-row: 2;
@@ -103,7 +78,7 @@
 
 			    .footer {
 			    	background: #000000;
-			    	padding: 10px 10px 10px 10px;
+			    	padding: 20px 20px 20px 20px;
 			    }
 
 			    .info {
@@ -141,16 +116,12 @@
 
                 .img-right {
                     float: right;
-		    padding-left: 10px;
+					display: block;
+		    		padding: 0px 0px 10px 10px;
                 }
-
-		.clearfix {
-		    overflow: visible;
-		}
         	}
         </style>
     </head>
-
 	<body>
 		<div class="wrapper">
 			<div class="small_message">
@@ -167,7 +138,7 @@
                     <table height="100%" width="100%" cellpadding="0" cellspacing="0">
                         <tr>
                             <td valign="top" background="https://cdn01.its.msstate.edu/i/basedrupal/1.0.5/img/background/bg_header.jpg">
-                                <img alt="Mississippi State University" src="" style="height:auto; width:100%; max-width: 617px; min-height: 58px; min-width:320px;" />
+                                <img alt="Mississippi State University" src="/img/{{$program}}.png" style="height:auto; width:100%; max-width: 617px; min-height: 58px; min-width:320px;" />
                             </td>
                         </tr>
                     </table>
@@ -175,21 +146,21 @@
 			</div>
 
 			<div class="content">
-                    @yield('content')
+				@yield('content')
 
-                    <div class="sig">
-                        <div class="wrapper">
-                            <div class="signature">
-                                <p>
-                                    @yield('signature')
-                                </p>
-                            </div>
+				<div class="sig">
+					<div class="wrapper">
+						<div class="signature">
+							<p>
+								@yield('signature')
+							</p>
+						</div>
 
-                            <div class="apply">
-                                @yield('apply')
-                            </div>
-                        </div>
-                    </div>
+						<div class="apply">
+							@yield('apply')
+						</div>
+					</div>
+				</div>
 			</div>
 
 			<div class="footer">
