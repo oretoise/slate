@@ -124,10 +124,10 @@
         	}
         </style>
     </head>
-	<body>
+	<body style='background-color:#CCCCCC'>
 		<div class="wrapper">
 			<div class="small_message">
-				Having trouble viewing this email? <a href="%%view_email_url%%">View it in your browser.</a>
+				Having trouble viewing this email? <a href="*|ARCHIVE|*">View it in your browser.</a>
 			</div>
 
 			<div class="header">
