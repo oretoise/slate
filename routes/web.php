@@ -13,7 +13,7 @@
 
 # TODO: Change this to home view.
 Route::get('/', function () {
-    return view('welcome');
+    return view('home')->with('program', 'home');
 });
 
 Route::get('/{program}', function($program) {

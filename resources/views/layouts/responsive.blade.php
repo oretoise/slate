@@ -106,7 +106,7 @@
 
 			<div class="header">
                 <div style="background-color:#660000;">
-					<img alt="Mississippi State University" src="https://goto.msstate.edu/www/images/Distance/{{$program}}_header.jpg" style="height:auto; width:100%; min-height: 58px; min-width:320px;" />
+					<img alt="Mississippi State University" src="https://goto.msstate.edu/www/images/Distance/{{$program}}_header.png" style="height:auto; width:100%; min-height: 58px; min-width:320px;" />
                 </div>
 			</div>
 

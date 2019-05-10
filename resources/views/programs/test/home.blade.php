@@ -1,14 +1,8 @@
 @extends('layouts.responsive')
 
 @section('content')
-    <p>Listing of plans</p>
-    {{ $program }}
-@endsection
-
-@section('signature')
-    @include('signatures.sig')
-@endsection
-
-@section('apply')
-    @include('programs.test.apply')
+<h2>{{ strtoupper($program) }} Communication Plan:</h2>
+<ul>
+    <li><a href="{{ url('test/zero') }}">zero</a></li>
+</ul>
 @endsection
