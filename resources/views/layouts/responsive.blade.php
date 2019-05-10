@@ -145,7 +145,7 @@
 							<img src="http://distance.msstate.edu/images/global/social/linkedIn.png" /></a>
 						</td>
 						<td class="divider_footer logo">
-							<img src="http://devel.distance.msstate.edu/images/msstate_flipped.png" style="width: 125px; height: auto;"/>
+							<img src="http://devel.distance.msstate.edu/images/msstate_flipped.png" style="width: 170px;"/>
 						</td>
 					</tr>
 				</table>
