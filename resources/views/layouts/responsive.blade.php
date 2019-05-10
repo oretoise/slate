@@ -13,18 +13,18 @@
 			.small_message > a {color: #660000;}
 		    .social {padding-bottom: 10px;}
 		    .social > a > img {padding: 0px 5px 0px 5px;}
-			table {margin: auto;}
+			.wrapper {margin: auto;}
+
+			table, tbody, tr, td {
+				padding:0; margin:0;border-collapse: collapse;
+				width: 100%;
+			}
 
         	body {
         		font-family: "Helvetica", "Arial", "Lucida Grande", sans-serif;
         		margin: 0;
         		background-color: #CCCCCC;
         	}
-
-		    .wrapper {
-		        display: grid;
-		        margin: auto;
-		    }
 
 		    .small_message {
 		    	text-align: center;
@@ -47,12 +47,9 @@
 
 		    .footer {
 		    	background: #000000;
-		    	padding: 10px 10px 10px 10px;
-		    }
-
-		    .footer .wrapper {
-		    	color: #FFFFFF;
-		    	text-align: center;
+				color: #FFFFFF;
+		    	padding: 20px 20px 20px 20px;
+				text-align: center;
 		    }
 
             .img-right {
@@ -60,51 +57,34 @@
 				display: none;
             }
 
-        	@media only screen and (min-width: 486px) {
-			    .wrapper {max-width: 750px;}
+			.divider {
+				width: 100%;
+				display: block;
+			}
 
-			    .signature {
-			    	grid-row: 2;
-			    }
+			.divider_footer {
+				display: block;
+				width: 100%;
+			}
 
-			    .apply {
-			    	grid-column: auto;
-			    	grid-row: 2;
-                    margin-left: auto;
-			    }
-
-                .sig .wrapper {
-                    display: grid;
-                    grid-template-columns: 50% 50%;
+			@media only screen and (min-width: 610px) {
+				.img-right {
+                    float: right;
+					display: block;
+		    		padding: 0px 0px 10px 10px;
                 }
+			}
 
-			    .footer {
-			    	background: #000000;
-			    	padding: 20px 20px 20px 20px;
-			    }
-
-			    .info {
-			    	grid-column: 1;
-			    	grid-row: auto;
-			    	text-align: left;
-			    }
+        	@media only screen and (min-width: 500px) {
+				.divider {display:table-cell;}
+				.divider_footer {display:table-cell;width:33.3%;}
+				.info {text-align: left;}
+				.logo {text-align:right;}
+				.wrapper {max-width: 750px;}
 
 			    .social {
-			    	grid-column: 2;
-			    	grid-row:auto;
 			    	margin-top:auto;
 			    	margin-bottom:auto;
-			    }
-
-			    .social > a > img {
-		    		padding-left: 5px;
-		    		padding-right: 5px;
-			    }
-
-			    .logo {
-			    	grid-column: 3;
-			    	grid-row:auto;
-			    	text-align:right;
 			    }
 
 				.img-center {
@@ -114,12 +94,6 @@
                     margin: auto;
                     padding-right: 10px;
                     padding-top: 10px;
-                }
-
-                .img-right {
-                    float: right;
-					display: block;
-		    		padding: 0px 0px 10px 10px;
                 }
         	}
         </style>
@@ -132,61 +106,49 @@
 
 			<div class="header">
                 <div style="background-color:#660000;">
-                    <!--[if gte mso 9]>
-                    <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
-                    <v:fill type="tile" src="https://cdn01.its.msstate.edu/i/basedrupal/1.0.5/img/background/bg_header.jpg" color="#660000"/>
-                    </v:background>
-                    <![endif]-->
-                    <table height="100%" width="100%" cellpadding="0" cellspacing="0">
-                        <tr>
-                            <td valign="top" background="https://cdn01.its.msstate.edu/i/basedrupal/1.0.5/img/background/bg_header.jpg">
-                                <img alt="Mississippi State University" src="/slate/img/{{$program}}.png" style="height:auto; width:100%; max-width: 617px; min-height: 58px; min-width:320px;" />
-                            </td>
-                        </tr>
-                    </table>
+					<img alt="Mississippi State University" src="https://goto.msstate.edu/www/images/Distance/{{$program}}_header.jpg" style="height:auto; width:100%; min-height: 58px; min-width:320px;" />
                 </div>
 			</div>
 
 			<div class="content">
 				@yield('content')
 
-				<div class="sig">
-					<div class="wrapper">
-						<div class="signature">
+				<table>
+					<tr>
+						<td class="divider">
 							@yield('signature')
-						</div>
-
-						<div class="apply">
+						</td>
+						<td class="divider">
 							@yield('apply')
-						</div>
-					</div>
-				</div>
+						</td>
+					</tr>
+				</table>
 			</div>
 
 			<div class="footer">
-				<div class="wrapper">
-					<div class="info">
-						<b>*|USER:COMPANY|*</b><br/>*|USER:ADDRESS|*
-					</div>
+				<table>
+					<tr>
+						<td class="divider_footer info">
+							<b>*|USER:COMPANY|*</b><br/>*|USER:ADDRESS|*
+						</td>
+						<td class="divider_footer social">
+							<a href="https://www.facebook.com/Distance.Education.MSU" target="_blank">
+							<img src="http://distance.msstate.edu/images/global/social/facebook.png" /></a>
 
-					<div class="social">
-						<a href="https://www.facebook.com/Distance.Education.MSU" target="_blank">
-	                    <img src="http://distance.msstate.edu/images/global/social/facebook.png" /></a>
+							<a href="https://twitter.com/MSStateDistance" target="_blank">
+							<img src="http://distance.msstate.edu/images/global/social/twitter.png" /></a>
 
-	                    <a href="https://twitter.com/MSStateDistance" target="_blank">
-	                    <img src="http://distance.msstate.edu/images/global/social/twitter.png" /></a>
+							<a href="https://instagram.com/msstatedistance/" target="_blank">
+							<img src="http://distance.msstate.edu/images/global/social/instagram.png" /></a>
 
-	                    <a href="https://instagram.com/msstatedistance/" target="_blank">
-	                    <img src="http://distance.msstate.edu/images/global/social/instagram.png" /></a>
-
-	                    <a href="http://www.linkedin.com/company/mississippi-state-university-center-for-distance-education?trk=company_name" target="_blank">
-	                    <img src="http://distance.msstate.edu/images/global/social/linkedIn.png" /></a>
-					</div>
-
-					<div class="logo">
-						<img src="http://distance.msstate.edu/images/distance/distance@StateStacked.png" width="125" height="70"/>
-					</div>
-				</div>
+							<a href="http://www.linkedin.com/company/mississippi-state-university-center-for-distance-education?trk=company_name" target="_blank">
+							<img src="http://distance.msstate.edu/images/global/social/linkedIn.png" /></a>
+						</td>
+						<td class="divider_footer logo">
+							<img src="http://distance.msstate.edu/images/distance/distance@StateStacked.png" width="125" height="70"/>
+						</td>
+					</tr>
+				</table>
 			</div>
 
             <div class="small_message">
