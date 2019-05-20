@@ -1,2 +1,2 @@
 <a href="https://goo.gl/v2ujcN">
-<img alt="Apply now!" border="0" src="https://gallery.mailchimp.com/08645bc06c5353fea3c46c46c/images/ffa56c4c-2485-42a1-b64c-0117a7873a74.png" style="border-color: #000000; margin: 0px; border-radius: 10px;" title="Apply now!"/></a>
+<img alt="Apply now!" src="https://gallery.mailchimp.com/08645bc06c5353fea3c46c46c/images/4a0dd851-7f19-4b3a-98d5-68fa501de50d.png" title="Apply now!"/></a>

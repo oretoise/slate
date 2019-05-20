@@ -1,7 +1,7 @@
 @extends('layouts.responsive')
 
 @section('content')
-<h3>Day 40 - Subject: Apply Now!</h3>
+<h3>Day 0 - Subject: Apply Now!</h3>
 <p>Dear *|FNAME|*,</p>
 <p>
 <img class="img-right" src="https://gallery.mailchimp.com/08645bc06c5353fea3c46c46c/images/b10d16fb-929c-4da9-a078-03ea7a918365.png"/>
