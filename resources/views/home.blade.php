@@ -5,5 +5,6 @@
 
 <ul>
     <li><a href=" {{ url('test') }}">Test</a>
+    <li><a href=" {{ url('bba') }}">BBA</a>
 </ul>
 @endsection
