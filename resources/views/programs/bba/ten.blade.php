@@ -6,7 +6,7 @@
 <p>At Mississippi State University, you have a team of staff who will support you in your pursuit of your degree.</p>
 <p style="text-align: center;">Meet Your Team!</p>
 
-<table>
+<table style="width: 400px; margin: auto;">
     <tr>
         <td class="divider" style="width: 50%;">
             <img src="https://goto.msstate.edu/www/images/Distance/bba/Jimerson_Mark_20170322_R3H1186~mj359.jpg">
@@ -20,8 +20,10 @@
             622-325-2657 (F)
         </td>
     </tr>
-    <tr style="padding-top: 10px;">
-        <td>
+    <tr>
+        <td class="divider"></td>
+        <td class="divider">
+            <br/>
             Chris Pilgram<br/>
             Assistant Director, Distance Learning<br/>
             College of Business<br/>

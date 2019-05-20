@@ -7,5 +7,10 @@
     <li><a href="{{ url('bba/three') }}">three</a></li>
     <li><a href="{{ url('bba/seven') }}">seven</a></li>
     <li><a href="{{ url('bba/ten') }}">ten</a></li>
+    <li><a href="{{ url('bba/seventeen') }}">seventeen</a></li>
+    <li><a href="{{ url('bba/twentyfour') }}">twentyfour</a></li>
+    <li><a href="{{ url('bba/thirtyfive') }}">thirtyfive</a></li>
+    <li><a href="{{ url('bba/fourtyseven') }}">fourtyseven</a></li>
+    <li><a href="{{ url('bba/fiftyfive') }}">fiftyfive</a></li>
 </ul>
 @endsection

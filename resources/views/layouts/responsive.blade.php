@@ -13,6 +13,7 @@
 			.small_message > a {color: #660000;}
 		    .social {padding-bottom: 10px;}
 		    .social > a > img {padding: 0px 5px 0px 5px;}
+			.divider > img {padding: 0px 5px 10px 5px;}
 			.wrapper {margin: auto;}
 
 			table, tbody, tr, td {
