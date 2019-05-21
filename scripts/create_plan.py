@@ -7,7 +7,6 @@ import os
 import pandas as pd
 import pathlib
 
-
 def arguments():
     """ Parse arguments. """
 
@@ -37,7 +36,8 @@ def homepage(acronym, name, path):
             home_array = home_file.split("\n")
             
             # Cut off "@endsection" and "\t</ul>" (<ul> closer)
-            new_homepage = home_array[:-2]
+            # TODO: Determine where "@endsection" is and go from there rather than hardcoding.
+            new_homepage = home_array[:-3]
 
             # Build new program link.
             link = "\t<li><a href=\" {{ url(\'" + acronym.lower() + "') }}\">"
@@ -57,8 +57,6 @@ def homepage(acronym, name, path):
                 f.write("%s\n" % line)
                 print(line)
 
-    return
-
 
 def skeleton(acronym, day_string, content, path, signature, home=False):
     """ Generate skeleton file. """
@@ -74,8 +72,7 @@ def skeleton(acronym, day_string, content, path, signature, home=False):
         default += "\n@endsection"
         
         # Apply section
-        default += "\n\n@section('apply')\n\t@include('programs." + acronym
-        default += ".apply')\n@endsection"
+        default += "\n\n@section('apply')\n\t@include('common.apply')\n@endsection"
     
     # Generate filename and full file path.
     filename = day_string + ".blade.php"
@@ -108,7 +105,7 @@ def main(acronym, days, name, signature):
         raise SystemExit
     else:
         print("Making directory ", program_dir)
-        #program_dir.mkdir(parents=True)
+        program_dir.mkdir(parents=True)
     
     # Import numbers CSV.
     try:

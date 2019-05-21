@@ -25,5 +25,5 @@ Have you submitted your application for admission into the online Master of Agri
 @endsection
 
 @section('apply')
-    @include('programs.test.apply')
+    @include('common.apply')
 @endsection
