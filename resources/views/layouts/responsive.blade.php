@@ -10,6 +10,7 @@
 			.apply {padding-top: 10px;}
 		    .info {padding-bottom: 10px;}
 			.img-center {display: none;}
+			.img-right {display: none;}
 			.small_message > a {color: #660000;}
 		    .social {padding-bottom: 10px;}
 		    .social > a > img {padding: 0px 5px 0px 5px;}
@@ -53,11 +54,6 @@
 				text-align: center;
 		    }
 
-            .img-right {
-                max-width: 350px;
-				display: none;
-            }
-
 			.divider {
 				width: 100%;
 				display: block;
@@ -76,6 +72,17 @@
                 }
 			}
 
+			@media only screen and (min-width: 730px) {
+				.img-center {
+                    max-width: 700px;
+                    height: auto;
+                    display: block;
+                    margin: auto;
+                    padding-right: 10px;
+                    padding-top: 10px;
+                }
+			}
+
         	@media only screen and (min-width: 500px) {
 				.divider {display:table-cell;}
 				.divider_footer {display:table-cell;width:33.3%;}
@@ -87,15 +94,6 @@
 			    	margin-top:auto;
 			    	margin-bottom:auto;
 			    }
-
-				.img-center {
-                    max-width: 700px;
-                    height: auto;
-                    display: block;
-                    margin: auto;
-                    padding-right: 10px;
-                    padding-top: 10px;
-                }
         	}
         </style>
     </head>
