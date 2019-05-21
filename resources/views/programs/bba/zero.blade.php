@@ -30,5 +30,5 @@
 @endsection
 
 @section('apply')
-    @include('programs.bba.apply')
+    @include('common.apply')
 @endsection
