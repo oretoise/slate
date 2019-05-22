@@ -23,6 +23,7 @@ Route::get('/{program}', function($program) {
 Route::get('/{program}/{day}', function($program, $day) {
     if ($program == 'geosciences') {
         $view = '/programs/geosciences/' . $day . '/home';
+        $program = 'geosciences/' . $day;
     } else {
         $view = '/programs/' . $program . '/' . $day;
     }
