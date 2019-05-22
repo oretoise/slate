@@ -11,7 +11,6 @@
 |
 */
 
-# TODO: Change this to home view.
 Route::get('/', function () {
     return view('home')->with('program', 'home');
 });
@@ -22,6 +21,16 @@ Route::get('/{program}', function($program) {
 });
 
 Route::get('/{program}/{day}', function($program, $day) {
-    $view = '/programs/' . $program . '/' . $day;
+    if ($program == 'geosciences') {
+        $view = '/programs/geosciences/' . $day . '/home';
+    } else {
+        $view = '/programs/' . $program . '/' . $day;
+    }
+    return view($view)->with('program', $program);
+});
+
+Route::get('/geosciences/{program}/{day}', function($program, $day) {
+    $view = '/programs/geosciences/' . $program . '/' . $day;
+    $program = 'geosciences/' . $program;
     return view($view)->with('program', $program);
 });
