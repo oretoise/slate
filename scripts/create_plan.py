@@ -10,7 +10,7 @@ import pathlib
 def arguments():
     """ Parse arguments. """
 
-    description = 'Uploads provided email files to MailChimp as Campaign/Automation'
+    description = 'Create skeleton email files for Slate-compatible communication plan.'
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument("-a", "--Acronym", action="store", help="Program Acronym", required=True)
     parser.add_argument("-d", "--Days", nargs='+', type=int, required=True)
