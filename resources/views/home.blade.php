@@ -9,5 +9,6 @@
 	<li><a href=" {{ url('bsis') }}">BSIS</a>
 	<li><a href=" {{ url('elem') }}">ELEMED</a>
 	<li><a href=" {{ url('geosciences/bomp') }}">BOMP</a>
+	<li><a href=" {{ url('bsindt') }}">BSINDT</a>
 </ul>
 @endsection
