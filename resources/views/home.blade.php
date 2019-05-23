@@ -10,5 +10,6 @@
 	<li><a href=" {{ url('elem') }}">ELEMED</a>
 	<li><a href=" {{ url('geosciences/bomp') }}">BOMP</a>
 	<li><a href=" {{ url('bsindt') }}">BSINDT</a>
+	<li><a href=" {{ url('psychology') }}">Psychology</a>
 </ul>
 @endsection
