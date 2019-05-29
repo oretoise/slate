@@ -57,6 +57,7 @@
 			.divider {
 				width: 100%;
 				display: block;
+				padding-bottom: 5px;
 			}
 
 			.divider_footer {

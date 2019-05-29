@@ -12,15 +12,15 @@
     <tbody>
 		<tr>
             <td class="divider" style="width: 50%;">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/evan_hawkins.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/programs/psychology/eakins.png">
             </td>
             <td class="divider" style="text-align: center; width: 50%;">
-                <b>Evan Hawkins</b><br/>
+                <b>Deborah K. Eakin, Ph.D.</b><br/>
                 <i>Online Coordinator/Advisor</i><br/>
                 Department of Psychology<br/>
-                <a href="mailto:e.hawkins@msstate.edu">e.hawkins@msstate.edu</a><br/>
-                (P): 662-325-2655<br/>
-                (F): 622-325-2657
+                <a href="mailto:deakin@psychology.msstate.edu">deakin@psychology.msstate.edu</a><br/>
+                (P): 662-325-7949<br/>
+                (F): 622-325-7212
             </td>
         </tr>
         <tr>

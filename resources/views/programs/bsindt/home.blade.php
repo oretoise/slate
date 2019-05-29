@@ -19,7 +19,7 @@
 		<a href="{{ url('bsindt/fourteen') }}">Day 14</a>
 	</li>
 	<li>
-		<a href="{{ url('bsindt/seventeen') }}">Day 17 **NOT DONE**</a>
+		<a href="{{ url('bsindt/seventeen') }}">Day 17</a>
 	</li>
 	<li>
 		<a href="{{ url('bsindt/twentyfour') }}">Day 24</a>
