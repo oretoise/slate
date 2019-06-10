@@ -18,7 +18,7 @@
 			.wrapper {margin: auto;}
 
 			table, tbody, tr, td {
-				padding:0; margin:0;border-collapse: collapse;
+				padding:0; margin:0; border-collapse: collapse;
 				width: 100%;
 			}
 
@@ -89,6 +89,7 @@
 				.divider_footer {display:table-cell;width:33.3%;}
 				.info {text-align: left;}
 				.logo {text-align:right;}
+                .staff {width: auto; padding: 5px 5px 5px 5px;}
 				.wrapper {max-width: 750px;}
 
 			    .social {
