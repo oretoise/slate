@@ -11,5 +11,6 @@
 	<li><a href=" {{ url('geosciences/bomp') }}">BOMP</a>
 	<li><a href=" {{ url('bsindt') }}">BSINDT</a>
 	<li><a href=" {{ url('psychology') }}">Psychology</a>
+	<li><a href=" {{ url('wellness') }}">Wellness Coaching Certificate</a>
 </ul>
 @endsection
