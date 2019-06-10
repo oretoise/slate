@@ -13,7 +13,7 @@
 		<a href="{{ url('wellness/seven') }}">Day 7</a>
 	</li>
 	<li>
-		<a href="{{ url('wellness/ten') }}">Day 10 - MISSING IMAGE</a>
+		<a href="{{ url('wellness/ten') }}">Day 10</a>
 	</li>
 	<li>
 		<a href="{{ url('wellness/thirteen') }}">Day 13</a>
@@ -31,7 +31,7 @@
 		<a href="{{ url('wellness/fourtyseven') }}">Day 47</a>
 	</li>
 	<li>
-		<a href="{{ url('wellness/fiftyfive') }}">Day 55 - MISSING IMAGE</a>
+		<a href="{{ url('wellness/fiftyfive') }}">Day 55</a>
 	</li>
 </ul>
 @endsection
