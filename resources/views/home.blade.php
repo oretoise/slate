@@ -12,5 +12,6 @@
 	<li><a href=" {{ url('bsindt') }}">BSINDT</a>
 	<li><a href=" {{ url('psychology') }}">Psychology</a>
 	<li><a href=" {{ url('wellness') }}">Wellness Coaching Certificate</a>
+	<li><a href=" {{ url('agriculture') }}">Agriculture - ADS</a>
 </ul>
 @endsection
