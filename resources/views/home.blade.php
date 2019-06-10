@@ -13,5 +13,6 @@
 	<li><a href=" {{ url('psychology') }}">Psychology</a>
 	<li><a href=" {{ url('wellness') }}">Wellness Coaching Certificate</a>
 	<li><a href=" {{ url('agriculture') }}">Agriculture - ADS</a>
+	<li><a href=" {{ url('geosciences/amp') }}">MS Geoscience - Applied Meteorology</a>
 </ul>
 @endsection
