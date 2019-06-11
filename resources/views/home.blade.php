@@ -14,5 +14,6 @@
 	<li><a href=" {{ url('wellness') }}">Wellness Coaching Certificate</a>
 	<li><a href=" {{ url('agriculture') }}">Agriculture - ADS</a>
 	<li><a href=" {{ url('geosciences/amp') }}">MS Geoscience - Applied Meteorology</a>
+	<li><a href=" {{ url('geosciences/engs') }}">MS Geosciences - Environmental</a>
 </ul>
 @endsection
