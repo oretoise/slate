@@ -41,7 +41,7 @@ def homepage(acronym, name, path):
 
             # Build new program link.
             link = "\t<li><a href=\" {{ url(\'" + acronym.lower() + "') }}\">"
-            link += name + "</a>"
+            link += name + "</a></li>"
 
             # Add new program link.
             new_homepage.append(link)
