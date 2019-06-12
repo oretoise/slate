@@ -39,6 +39,10 @@
         </tr>
     </tbody>
 </table>
+
+<p>We are here to assist you with any questions you have regarding the program. We're happy to help!</p>
+
+<p>Thank you,</p>
 @endsection
 
 @section('signature')
