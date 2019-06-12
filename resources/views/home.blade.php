@@ -19,5 +19,6 @@
 	<li><a href=" {{ url('forestry') }}">MS Forestry</a></li>
 	<li><a href=" {{ url('mabm') }}">Master's in Agribusiness Management</a></li>
 	<li><a href=" {{ url('msei') }}">MS Early Intervention</a></li>
+	<li><a href=" {{ url('msgb') }}">MS General Biology</a></li>
 </ul>
 @endsection
