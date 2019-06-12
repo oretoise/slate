@@ -16,5 +16,6 @@
 	<li><a href=" {{ url('geosciences/amp') }}">MS Geoscience - Applied Meteorology</a>
 	<li><a href=" {{ url('geosciences/engs') }}">MS Geosciences - Environmental</a>
 	<li><a href=" {{ url('health') }}">MS Food Science, Nutrition, & Health Promotion</a>
+	<li><a href=" {{ url('forestry') }}">MS Forestry</a>
 </ul>
 @endsection
