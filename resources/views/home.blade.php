@@ -20,5 +20,6 @@
 	<li><a href=" {{ url('mabm') }}">Master's in Agribusiness Management</a></li>
 	<li><a href=" {{ url('msei') }}">MS Early Intervention</a></li>
 	<li><a href=" {{ url('msgb') }}">MS General Biology</a></li>
+	<li><a href=" {{ url('geosciences/tig') }}">MS Geosciences - ENGS / TIG</a></li>
 </ul>
 @endsection
