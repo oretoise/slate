@@ -1,7 +1,7 @@
 @extends('layouts.responsive')
 
 @section('content')
-<h3>Day 37 - Subject: </h3>
+<h3>Day 37 - Subject: Hear from our online MBA Faculty</h3>
 
 <p>
     Dear *|FNAME|*,
@@ -24,7 +24,7 @@
 
 <p>
     <i>
-        "My goal for every online student is to have an immersive experience regardless of whether it is a face-to-face experience or if the student is a 1,000 miles away.  In my online course, I lecture, we have presentations, and we discuss relevant current day issues just like the face-to-face version of my class.  I try to foster a feeling of community within the class.  One of the chief goals of my online class is for students to learn the content but also learn from other students who are drawing from different work backgrounds, cultures, and attitudes.  One of the best aspects of online education is the diversity of students in the program that bring a fresh and diverse voice to business issues."
+        "My goal for every online student is to have an immersive experience regardless of whether it is a face-to-face experience or if the student is 1,000 miles away.  In my online course, I lecture, we have presentations, and we discuss relevant current day issues just like the face-to-face version of my class.  I try to foster a feeling of community within the class.  One of the chief goals of my online class is for students to learn the content but also learn from other students who are drawing from different work backgrounds, cultures, and attitudes.  One of the best aspects of online education is the diversity of students in the program that bring a fresh and diverse voice to business issues."
     </i>
 </p>
 
