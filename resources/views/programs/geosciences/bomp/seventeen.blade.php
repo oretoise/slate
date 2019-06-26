@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 17 - Subject: Meet the BOMP Program Coordinator!</h3>
-<p>Greetings, *|FNAME|*,</p>
+<p>Greetings, @{{First}},</p>
 
 <p>
 	<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/staff/joy_bailey.png" />

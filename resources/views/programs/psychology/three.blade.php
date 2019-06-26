@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 3 - Subject: Why should you complete a bachelor’s degree?</h3>
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>
 	<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/psychology/psychology_2.png" />

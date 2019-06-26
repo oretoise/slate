@@ -1,4 +1,4 @@
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>
     <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/orientation.png"/>

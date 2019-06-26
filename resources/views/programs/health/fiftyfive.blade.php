@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 55 - Subject: The Bulldog Family Wants You!</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>As your coordinator, I am here to answer questions you have about the program.</p>
 <p>You may start the Health Promotion program at the beginning of fall, spring, or summer semesters.</p>

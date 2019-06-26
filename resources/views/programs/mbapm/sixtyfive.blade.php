@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 65 - Subject: The Bulldog family wants you!</h3>
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>As your online coordinator, I am here to assist you with any questions you have regarding the <a href="http://www.distance.msstate.edu/mbapm">Online MBA-PM program</a> at Mississippi State University.  If you haven't yet applied, the sooner you complete your application, the closer you are to reaching your educational goals.</p>
 

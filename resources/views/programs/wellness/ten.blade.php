@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 10 - Subject: Apply Now!</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/wellness/wellness_2.png" />
 

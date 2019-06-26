@@ -4,7 +4,7 @@
 <h3>Day 37 - Subject: Hear from our online MBA Faculty</h3>
 
 <p>
-    Dear *|FNAME|*,
+    Dear @{{First}},
 </p>
 
 <p>

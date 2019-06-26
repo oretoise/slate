@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 7 - Subject: Don’t Miss the Deadline!</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <a href="https://youtu.be/-gzq528lad0"><img class="img-right" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/grad_admissions_video.png" /></a>
 

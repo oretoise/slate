@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 65 - Subject: The Bulldog family wants you!</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>The sooner you complete your application, the closer you are to reaching your educational goals!</p>
 <p>As the Environmental Geosciences program coordinator, I am here to answer any questions you have about the program.</p>

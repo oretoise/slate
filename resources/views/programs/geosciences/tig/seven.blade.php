@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 7 - Subject: Environmental Geosciences Program Information</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/geosciences/tig_2.png" />
 

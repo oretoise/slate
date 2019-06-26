@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 3 - Subject: MBA-PM FAQs!</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>After reviewing the online Master of Business Administration in Project Management (MBA-PM) program website and brochure, you may have looming questions that you are unsure how to ask.  I am including some of the frequently asked questions that I receive from prospective students.</p>
 

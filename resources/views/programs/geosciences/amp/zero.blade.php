@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 0 - Subject: Thank you for checking out MSU's online Applied Meteorology program!</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>Thank you for your interest in the <b>Applied Meteorology (AMP) program</b>. The AMP was developed in consultation with representatives from the University Corporation for Atmospheric Research (UCAR), the Cooperative Program for Operational Meteorology, Education and Training (COMET), the National Weather Service, and the Caribbean Weather Service and is designed for individuals with meteorological, environmental, or hazards-related careers worldwide.</p>
 

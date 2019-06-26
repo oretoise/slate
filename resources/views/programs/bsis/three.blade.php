@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 3 - Subject: Why should you complete a bachelor’s degree?</h3>
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>According to the market research brief, <i>Market Viability of an Online Bachelor of Science in Interdisciplinary Studies at Mississippi State University</i>, compiled by the Education Advisory Board, the following information was discovered:
 

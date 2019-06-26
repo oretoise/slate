@@ -5,7 +5,7 @@
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/geosciences/amp/amp_banner.png" />
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>The sooner you complete your application, the closer you are to reaching your educational goals.</p>
 <p>As the Applied Meteorology program coordinator, I am your main point of contact, and I'm here to answer any questions you have about the program.</p>

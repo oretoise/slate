@@ -1,4 +1,4 @@
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>We're here to answer your questions and to be of service during your educational journey.  Below, you will find student services designed to help you as you earn your degree.</p>
 

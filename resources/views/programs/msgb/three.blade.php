@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 3 - Subject: Online Master's in General Biology Program</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/msgb/msgb_1.png"/>
 

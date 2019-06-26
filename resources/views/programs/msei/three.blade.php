@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 3 - Subject: Earn your Master of Science in Early Intervention degree online!</h3>
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/msei/msei_1.png" />
 

@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 17 - Subject: Meet your Psychology program team!</h3>
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>
 	Here at Mississippi State University, you have a team of staff who are here to support you in your pursuit of your degree. Meet your team!

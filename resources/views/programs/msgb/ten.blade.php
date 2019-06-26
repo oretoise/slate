@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 10 - Subject: Meet your MSGB program coordinator!</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/staff/joy_bailey.png" />
 

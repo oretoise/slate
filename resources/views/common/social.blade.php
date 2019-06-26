@@ -1,4 +1,4 @@
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>
     Be part of the Bulldog Family!  Choose your favorite social media platform to connect with us so you can keep up with important deadlines and other topics and essential announcements.

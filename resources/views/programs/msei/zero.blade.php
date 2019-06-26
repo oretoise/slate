@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 0 - Subject: Thanks for your interest in the MSEI program!</h3>
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>Thank you for your interest in the online Master of Science in Early Intervention (MSEI) program at Mississippi State University.</p>
 

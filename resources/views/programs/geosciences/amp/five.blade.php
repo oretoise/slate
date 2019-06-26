@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 5 - Subject: If you have questions, we have answers!</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>Wondering if the time to start is now?  Here are some answers to frequently asked questions to help you confidently take the next step.</p>
 

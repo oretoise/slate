@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 0 - Subject: </h3>
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/msis_1.png" />
 

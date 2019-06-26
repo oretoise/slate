@@ -1,4 +1,4 @@
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 <p>
     <a href="https://youtu.be/_z2sKz5yhwk"><img class="img-right" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/tuition_fees_video.png"/></a>
     The number one concern for most students is affordability. "How much is this going to cost?"

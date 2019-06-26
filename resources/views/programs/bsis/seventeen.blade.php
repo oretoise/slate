@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 17 - Subject: </h3>
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <table style="width: 450px; margin: auto;">
     <tbody>

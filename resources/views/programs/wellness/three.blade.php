@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 3 - Subject: Clinical Health Promotion and Wellness Coaching Certificate Information</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/wellness/wellness_1.png" />
 

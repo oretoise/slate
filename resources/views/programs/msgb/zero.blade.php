@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 0 - Subject: Thanks for your interest in the MSGB program!</h3>
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>Thank you for your interest in the online Master of Science in General Biology (MSGB) program at Mississippi State University. Although designed for high school teachers, this program is not limited to teachers, but will also provide students with a better background and understanding of biological sciences.</p>
 

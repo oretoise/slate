@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 13 - Subject: Meet your coordinator!</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>As your coordinator for the online Master of Science in Forestry, I'm here to help you with all your non-academic needs! Here’s a little bit about me:</p>
 

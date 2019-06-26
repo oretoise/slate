@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for checking out MSU's online Meteorology program!</h3>
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>Thank you for checking out MSU's online Broadcast & Operational Meteorology program (BOMP).</p>
 

@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 10 - Subject: Meet your BBA program team!</h3>
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 <p>At Mississippi State University, you have a team of staff who will support you in your pursuit of your degree.</p>
 <p style="text-align: center;">Meet Your Team!</p>
 

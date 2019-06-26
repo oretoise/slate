@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 24 - Subject: Hear from our online MBA Students</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>
     What do our program students have to say about the online MBA program?

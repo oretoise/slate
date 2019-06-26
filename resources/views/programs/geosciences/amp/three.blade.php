@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 3 - Subject: What can you do with an Applied Meteorology degree?</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/geosciences/amp/amp_1.png" />
 

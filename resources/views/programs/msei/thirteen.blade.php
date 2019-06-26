@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 13 - Subject: Meet your team!</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <p>Here at Mississippi State University, you have faculty and staff that are here to support you in your pursuit of your degree.</p>
 

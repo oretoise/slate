@@ -3,7 +3,7 @@
 @section('content')
 <h3>Day 17 - Subject: Meet your coordinator!</h3>
 
-<p>Dear *|FNAME|*,</p>
+<p>Dear @{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/staff/joy_bailey.png" />
 
