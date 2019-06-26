@@ -3,4 +3,4 @@
 Center for Distance Education<br/>
 Mississippi State University<br/>
 662.325.9684<br/>
-<a href="mailto:joy.bailey@msstate.edu">joy.bailey@msstate.edu</a>
+<a href="mailto:joy.bailey@msstate.edu"><span id="coordinator">joy.bailey@msstate.edu</span></a>
