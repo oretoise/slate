@@ -335,8 +335,8 @@ def main(acronym):
     for email in files:
         upload(acronym, numbers_dict[email], email, population)
         # TODO: Remove this when complete.
-        print('quitting early for debug')
-        raise SystemExit
+        #print('quitting early for debug')
+        #raise SystemExit
 
 
 if __name__ == "__main__":
