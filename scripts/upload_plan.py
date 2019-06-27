@@ -129,7 +129,7 @@ def upload(acronym, day_int, email, population):
 
     # tab, tw # of days
     pyautogui.press('tab')
-    pyautogui.typewrite(day_int)
+    pyautogui.typewrite(str(day_int))
 
     # Click Save
     pyautogui.click(953, 1096)
@@ -144,13 +144,13 @@ def upload(acronym, day_int, email, population):
         pyautogui.click(1035, 407)
 
         # Ctrl-A
-        pyautogui.hotkey('ctr', 'a')
+        pyautogui.hotkey('ctrl', 'a')
 
         # Type it in the searchbox.
         pyautogui.typewrite(export)
 
         # Click it.
-        pyautogui.click(850, 970)
+        pyautogui.click(850, 570)
     
     # Click Continue
     pyautogui.click(840, 1130)
@@ -172,12 +172,10 @@ def upload(acronym, day_int, email, population):
     r = requests.get(url)
     raw_html = r.text
 
-    print(raw_html)
-
     # Pass it through BeautifulSoup
 
     # TODO: track links (mostly just add the email export...)
-    # track_links(soup)
+    # tracked_body = track_links(soup)
     # click "edit message"
 
     # CONTEXT CHANGE: Edit Message
@@ -270,6 +268,10 @@ if __name__ == "__main__":
 
     # Load environment variables from .env file
     load_dotenv()
+
+    # Environmental file check.
+    if os.getenv("HOST") is None:
+        exit_with_error("Environmental file not found or HOST env entry not defined!")
 
     # Call main function with argument data.
     main(ARGS.Acronym)
