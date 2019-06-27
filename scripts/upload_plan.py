@@ -30,9 +30,33 @@ def exit_with_error(message):
     raise SystemExit
 
 
-def track_links():
+def get_coordinator(soup):
+    """ Find coordinator text and return it. """
+    return soup.find('span', {'id' :'coordinator'}).text
+
+
+def get_subject(soup):
+    """ Find subject text and return it. """
+    subject_h3 = soup.findAll('h3')[0]
+
+    h3_list = str(subject_h3).split(":")
+
+    return h3_list[1][1:]
+
+
+def track_links(soup):
     """ Replace links with tracking links. """
-    return 0
+    for link in soup.findAll('a'):
+
+        if link.has_attr('href'):
+
+            if 'http://distance.msstate.edu/' in link['href']:
+
+                new_href = link['href'] + "?cbe_email={{Email}}"
+
+                link['href'] = new_href
+
+    return soup
 
 
 def upload(acronym, day_int, email, population):
@@ -173,26 +197,57 @@ def upload(acronym, day_int, email, population):
     raw_html = r.text
 
     # Pass it through BeautifulSoup
+    soup = BeautifulSoup(raw_html, 'html5lib')
 
     # TODO: track links (mostly just add the email export...)
-    # tracked_body = track_links(soup)
+    tracked_body = track_links(soup)
+
     # click "edit message"
+    pyautogui.click(1760, 367)
 
     # CONTEXT CHANGE: Edit Message
 
     # drag email to recipient
-    # set reply to coordinator
+    pyautogui.moveTo(1671, 414)
+    pyautogui.dragTo(1200, 480, 1)
+
+    # Grab coordinator's email address from the email.
+    coordinator_email = get_coordinator(tracked_body)
+
     # set sender to coordinator
+    pyautogui.click(1209, 447)
+    pyautogui.hotkey('ctrl', 'a')
+    pyautogui.typewrite(coordinator_email)
+
+    # Grab subject line from email.
+    subject = get_subject(tracked_body)
+
     # click subject line
+    pyautogui.click(900, 554)
+    pyautogui.typewrite(subject)
     # tw email's subject line
 
     # remove h3 tag from email html
+    h3_tag = tracked_body.findAll('h3')[0]
+    h3_tag.replaceWith('')
+
     # copy edited html to clipboard
+    pyperclip.copy(str(tracked_body))
+
     # click view source
+    pyautogui.click(1500, 615)
+
     # ctrl a
+    pyautogui.hotkey('ctrl', 'a')
+
     # ctrl v
+    pyautogui.hotkey('ctrl', 'v')
+
     # click ok
+    pyautogui.click(1615, 1100)
+
     # click save
+    pyautogui.click(745, 1132)
 
     # May need to click "Send Mailing" here and review what it says
 
