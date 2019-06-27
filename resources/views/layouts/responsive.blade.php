@@ -6,6 +6,7 @@
 		<meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
         <title>@yield('title')</title>
         <style>
+            @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 			a {color: #007FA3;}
 			.apply {padding-top: 10px;}
 		    .info {padding-bottom: 10px;}
@@ -23,17 +24,10 @@
 			}
 
         	body {
-        		font-family: "Helvetica", "Arial", "Lucida Grande", sans-serif;
+                font-family: 'Roboto', sans-serif;
         		margin: 0;
         		background-color: #CCCCCC;
         	}
-
-		    .small_message {
-		    	text-align: center;
-		    	color:#777777;
-		    	font-size:11px;
-				padding: 10px 10px 10px 10px;
-		    }
 
 		    .header {
 		    	min-height: 58px;
@@ -99,12 +93,8 @@
         	}
         </style>
     </head>
-	<body style='background-color:#CCCCCC'>
+	<body style='background-color:#CCCCCC; padding-top: 20px;'>
 		<div class="wrapper">
-			<div class="small_message">
-				Having trouble viewing this email? <a href="*|ARCHIVE|*">View it in your browser.</a>
-			</div>
-
 			<div class="header">
                 <div style="background-color:#660000;">
 					<img alt="Mississippi State University" src="https://goto.msstate.edu/www/images/Distance/headers/{{$program}}_header.png" style="height:auto; width:100%; min-height: 58px; min-width:320px;" />
@@ -130,7 +120,7 @@
 				<table>
 					<tr>
 						<td class="divider_footer info">
-							<b>*|USER:COMPANY|*</b><br/>*|USER:ADDRESS|*
+							<b>Center for Distance Education</b><br/>P.O Box 5247<br/>365 Barr Avenue<br/>Mississippi State, MS 39762
 						</td>
 						<td class="divider_footer social">
 							<a href="https://www.facebook.com/Distance.Education.MSU" target="_blank">
@@ -151,11 +141,6 @@
 					</tr>
 				</table>
 			</div>
-
-            <div class="small_message">
-                Not interested anymore? <a href="*|UNSUB|*">Unsubscribe</a>.<br/>
-                You are receiving this because you signed up at <a href="https://msstate.edu/">msstate.edu</a> or with one of our education partners.
-            </div>
 		</div>
     </body>
 </html>
