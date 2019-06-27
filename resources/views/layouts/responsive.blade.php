@@ -17,6 +17,7 @@
 		    .social > a > img {padding: 0px 5px 0px 5px;}
 			.divider > img {padding: 0px 5px 10px 5px;}
 			.wrapper {margin: auto;}
+            div {font-family: 'Roboto', sans-serif;}
 
 			table, tbody, tr, td {
 				padding:0; margin:0; border-collapse: collapse;
@@ -24,7 +25,6 @@
 			}
 
         	body {
-                font-family: 'Roboto', sans-serif;
         		margin: 0;
         		background-color: #CCCCCC;
         	}
