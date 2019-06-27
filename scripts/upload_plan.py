@@ -32,35 +32,56 @@ def exit_with_error(message):
 
 def get_coordinator(soup):
     """ Find coordinator text and return it. """
-    return soup.find('span', {'id' :'coordinator'}).text
+
+    # Grab the coordinator name and address from the email.
+    name = soup.find('span', {'id' : 'coordinator_name'}).text
+    email = soup.find('span', {'id' : 'coordinator_email'}).text
+
+    # Put it in the following format:
+    # '"Sender" <address@domain.suffix>'
+    sender = "\"" + name + "\" <" + email + ">"
+    
+    # Return it.
+    return sender
 
 
 def get_subject(soup):
     """ Find subject text and return it. """
+    # Grab the h3 tag.
     subject_h3 = soup.findAll('h3')[0]
 
+    # Split it on colon.
     h3_list = str(subject_h3).split(":")
 
-    return h3_list[1][1:]
+    # Return just the subject line, minus the ending tag.
+    return h3_list[1][1:-5]
 
 
 def track_links(soup):
     """ Replace links with tracking links. """
+    # For each link in the email
     for link in soup.findAll('a'):
 
+        # Check to ensure it has an href attribute.
         if link.has_attr('href'):
 
-            if 'http://distance.msstate.edu/' in link['href']:
+            # Only track online.msstate.edu links
+            if 'http://online.msstate.edu/' in link['href']:
 
+                # Add the capture email tracker.
                 new_href = link['href'] + "?cbe_email={{Email}}"
 
+                # Replace the existing link with the new one.
                 link['href'] = new_href
 
+    # Return the modified soup.
     return soup
 
 
 def upload(acronym, day_int, email, population):
     """ Assuming Slate is open on left-most monitor """
+
+    # TODO: Split this into collapsible functions for readability.
 
     # Move mouse to Deliver
     pyautogui.moveTo(1013, 161)
@@ -179,14 +200,7 @@ def upload(acronym, day_int, email, population):
     # Click Continue
     pyautogui.click(840, 1130)
 
-    # do same for coordinator?
-    # no, will have to pull the address from the email
-    # TODO: Grab coordinator email address from ID 'coordinator'
-
-    # query editor
-    # move back to email editor
-
-    # click 2nd breadcrumb
+    # Go back to Email View.
     pyautogui.click(704, 213)
 
     # CONTEXT CHANGE: Email View
@@ -199,7 +213,7 @@ def upload(acronym, day_int, email, population):
     # Pass it through BeautifulSoup
     soup = BeautifulSoup(raw_html, 'html5lib')
 
-    # TODO: track links (mostly just add the email export...)
+    # Add Capture CBE tracking
     tracked_body = track_links(soup)
 
     # click "edit message"
@@ -224,8 +238,9 @@ def upload(acronym, day_int, email, population):
 
     # click subject line
     pyautogui.click(900, 554)
+
+    # Typewrite subject line.
     pyautogui.typewrite(subject)
-    # tw email's subject line
 
     # remove h3 tag from email html
     h3_tag = tracked_body.findAll('h3')[0]
@@ -249,23 +264,32 @@ def upload(acronym, day_int, email, population):
     # click save
     pyautogui.click(745, 1132)
 
-    # May need to click "Send Mailing" here and review what it says
-
-    return 0
-
 
 def main(acronym):
     """ Upload a communication plan to Slate. """
 
-    # Navigate to program directory and check for existence.
+    # Navigate to the local views folder.
     views = pathlib.Path(os.getcwd()) / ".." / "resources" / "views"
-    program = views / "programs" / acronym.lower()
 
-    # TODO: For geoscience, split it, then navigate to it.
+    # For geoscience, split it, then navigate to it.
+    if "geosciences" in acronym.lower():
+
+        # Split the path.
+        path_parts = acronym.lower().split('/')
+
+        # Navigate to the programs folder first.
+        program = views / "programs"
+
+        # For each folder in the given path, navigate to it.
+        for folder in path_parts:
+            program = program / folder
+    else:
+        # Otherwise, go directly there.
+        program = views / "programs" / acronym.lower()
 
     if not program.exists():
-        print("Program", acronym, "not found! Check spelling.")
-        raise SystemExit
+        message = "Program " + acronym + " not found! Check spelling."
+        exit_with_error(message)
     else:
         print("Program found. Finding files...")
     
@@ -281,19 +305,16 @@ def main(acronym):
         populations = pd.read_csv('populations.csv', encoding="UTF-8")
         populations_dict = dict(zip(populations.Acronym, populations.Population))
     except FileNotFoundError:
-        print("Unable to locate populations.csv. Is it in the same directory as this script?")
-        raise SystemExit
+        exit_with_error("Unable to locate populations.csv. Is it in the same directory as this script?")
 
     print("Pulling Slate population...")
 
     try:
         population = populations_dict[acronym.lower()]
     except KeyError:
-        print("Program acronym not in populations.csv. Did you add the population?")
-        raise SystemExit
+        exit_with_error("Program acronym not in populations.csv. Did you add the population?")
     except ValueError:
-        print("Population not found. Does the population exist in Slate? Did you add it to populations.csv?")
-        raise SystemExit
+        exit_with_error("Population not found. Does the population exist in Slate? Did you add it to populations.csv?")
     
     print("Population found:", population)
 
@@ -313,6 +334,7 @@ def main(acronym):
     # Upload each file to Slate.
     for email in files:
         upload(acronym, numbers_dict[email], email, population)
+        # TODO: Remove this when complete.
         print('quitting early for debug')
         raise SystemExit
 
