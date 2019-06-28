@@ -23,5 +23,6 @@
 	<li><a href=" {{ url('mba') }}">Masters in Business Admin</a></li>
 	<li><a href=" {{ url('mbapm') }}">MBA - Project Management</a></li>
 	<li><a href=" {{ url('msis') }}">MS Information Systems</a></li>
+	<li><a href=" {{ url('edld') }}">MS Educational Leadership</a></li>
 </ul>
 @endsection
