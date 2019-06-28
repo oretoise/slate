@@ -84,7 +84,6 @@ function setProgram(level, program) {
 function setCoordinator(netID) {
     var $coordinator_field = $("[data-export='coordinator_email']").find(".form_responses").find("select");
 
-
     $coordinator_field.children('[data-text="' + netID + '"]').prop("selected", true);
     console.log("Set coordinator to " + $coordinator_field.find(":selected").attr("data-text"));
 }
@@ -119,42 +118,34 @@ if (utm_params != null) {
 $("[data-export='sys:field:distance_certificate']").find(".form_responses").find("select").change(function() {
 
     var $select_value = $("[data-export='sys:field:distance_certificate']").find(".form_responses").find("select").find(":selected").attr("data-text");
-    //console.log($select_value);
 
     switch ($select_value) {
         case "Aeronautical Meteorology Forecaster":
             // Set UG
             setMasterStudentType("Undergraduate");
             // Set BS Geoscience
-            setProgram("Undergrad", "Geoscience / Broadcast & Operational Met (BS)")
-            // TODO: CHANGE THIS WHEN PROGRAM NAMES ARE FINALIZED.
+            setProgram("Undergrad", "Geoscience / Broadcast & Operational Met (BS)");
             $("#level").parent().parent().parent().hide();
-
-            // Set coordinator
             setCoordinator("mwb6");
             break;
         case "Broadcast & Operational Meteorology":
             // Set UG
             setMasterStudentType("Undergraduate");
             // Set BS Geoscience
-            setProgram("Undergrad", "Geoscience / Broadcast & Operational Met (BS)")
-            // TODO: CHANGE THIS WHEN PROGRAM NAMES ARE FINALIZED.
+            setProgram("Undergrad", "Geoscience / Broadcast & Operational Met (BS)");
             $("#level").parent().parent().parent().hide();
             setCoordinator("mwb6");
             break;
-        
         case "Veterans' Certificate":
             // Show "What level?"
             $("#level").parent().parent().parent().show();
-            // ^ Handles setting level and program.
             setCoordinator("vdt1");
             break;
         case "Vision Specialist":
             // Set GR
             setMasterStudentType("Graduate");
             // Set program to Unclassified
-            setProgram("Graduate", "No Degree / Unclassified-Grad")
-            // TODO: CHANGE THIS WHEN PROGRAM NAMES ARE FINALIZED.
+            setProgram("Graduate", "No Degree / Unclassified-Grad");
             $("#level").parent().parent().parent().hide();
             setCoordinator("vdt1");
             break;
@@ -162,14 +153,14 @@ $("[data-export='sys:field:distance_certificate']").find(".form_responses").find
             // Set GR
             setMasterStudentType("Graduate");
             // Set program to FNH-HP
-            setProgram("Graduate", "Master of Science / Food Sc Nutr. Health Prom (GR) / Health Promotion")
+            setProgram("Graduate", "Master of Science / Food Sc Nutr. Health Prom (GR) / Health Promotion");
             // Hide "What Level?"
             $("#level").parent().parent().parent().hide();
             setCoordinator("dc716");
     }
 });
 
-// Undergrad program logic handler.
+// Grad program logic handler.
 $("[data-export='sys:field:gr_aca_int']").find(".form_responses").find("select").change(function() {
 
     // Grab value.
@@ -299,10 +290,46 @@ $("[data-export='sys:field:gr_aca_int']").find(".form_responses").find("select")
     }
 });
 
+// Undergrad program logic handler.
+$("[data-export='sys:field:ug_aca_int']").find(".form_responses").find("select").change(function() {
+
+    // Grab value.
+    var $select_value = $("[data-export='sys:field:ug_aca_int']").find(".form_responses").find("select").find(":selected").attr("data-text");
+
+    switch ($select_value) {
+        case "Geoscience / Broadcast & Operational Met (BS)":
+            setCoordinator("mwb6");
+            break;
+        case "Business Administration (BBA)":
+            setCoordinator("mj359");
+            break;
+        case "Elementary Education / Early Childhood (BS)":
+            setCoordinator("vdt1");
+            break;
+        case "Elementary Education / Middle School (BS)":
+            setCoordinator("vdt1");
+            break;
+        case "Industrial Technology (BS)":
+            setCoordinator("vdt1");
+            break;
+        case "Interdisciplinary Studies (BS)":
+            setCoordinator("jnh102");
+            break;
+        case "Psychology (BS)":
+            setCoordinator("jnh102");
+            break;
+        case "Undeclared":
+            setCoordinator("jdm273");
+            break;
+        case "Special Non-Degree (No Degree)":
+            setCoordinator("jdm273");
+            break;
+    }
+});
+
 // Logic for "What are you interested in?"
 $("#interest").parent().parent().find(".form_responses").find("select").change(function() {
     var $select_value = $("#interest").parent().parent().find(".form_responses").find("select").val();
-    //console.log($select_value);
 	
 	switch ($select_value) {
         case "Certificate":
@@ -315,7 +342,6 @@ $("#interest").parent().parent().find(".form_responses").find("select").change(f
             $(".program_option").parent().parent().parent().hide();
             // Show "Grad" program list.
             $("#grad_prog").parent().parent().parent().show();
-
             break;
         case "Undergraduate Program":
             setMasterStudentType("Undergraduate");
@@ -366,7 +392,7 @@ $("#level").parent().parent().find(".form_responses").find("select").change(func
             if ($certificate == "Veterans' Certificate") {
                 setProgram("Undergraduate", "Special Non-Degree (No Degree)");
             }
-            break;    
+            break;
     }
 });
 
