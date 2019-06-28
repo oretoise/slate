@@ -7,7 +7,7 @@
 <p>The sooner you complete your application, the closer you are to reaching your educational goals!</p>
 <p>As the Environmental Geosciences program coordinator, I am here to answer any questions you have about the program.</p>
 
-<img class="img-center" src="" />
+<img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/geosciences/tig/tig_banner.png" />
 
 <p>Are you ready to <a href="http://distance.msstate.edu/geosciences/engs/admissions">apply</a> today?  If so, I'm here to help you!</p>
 

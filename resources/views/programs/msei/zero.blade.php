@@ -21,7 +21,7 @@
     <li>Clinics</li>
 </ul>
 
-<p>I will follow up with any questions you had in your request for information query shortly.  In the meantime, please view our <a href="">(FIXME)program brochure</a> detailing admission requirements, prerequisites, and program curriculum.</p>
+<p>I will follow up with any questions you had in your request for information query shortly.  In the meantime, please view our <a href="http://online.msstate.edu/pdf/slate/Master-of-Science-Early-Intervention.pdf">program brochure</a> detailing admission requirements, prerequisites, and program curriculum.</p>
 <p>Let me know if you have any questions. I'm happy to help!</p>
 <p>Thank you,</p> 
 @endsection
