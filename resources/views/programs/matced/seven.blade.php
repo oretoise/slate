@@ -1,22 +1,22 @@
 @extends('layouts.responsive')
 
 @section('content')
-<h3>Day 17 - Subject: Meet Your Team</h3>
+<h3>Day 7 - Subject: Meet your MATCED team!</h3>
 <p>Dear @{{First}},</p>
 
-<p>Here at Mississippi State University, you have a team of staff to support you in the pursuit of your Master of Science in Educational Leadership with a concentration in School Administration (EDLD-EDLS).</p>
+<p>Here at Mississippi State University, you have a team of staff to support you in the pursuit of your degree.</p>
 
 <table>
     <tbody>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/edld/mcmullan.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/matced/stephanie_king.png">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Dr. Leigh Ann McMullan</b><br/>
+                <b>Dr. Stephanie King</b><br/>
                 <i>Grad Coordinator/Advisor</i><br/>
-                <a href="mailto:lmcmullan@colled.msstate.edu">lmcmullan@colled.msstate.edu </a><br/>
-                (P): 662.325.7110<br/>
+                <a href="mailto:sking@colled.msstate.edu">sking@colled.msstate.edu </a><br/>
+                (P): 662.325.7066<br/>
             </td>
         </tr>
         <tr>
@@ -33,7 +33,7 @@
     </tbody>
 </table>
 
-<p>We'd love to hear from you.  Contact us with any question you may have about the program. We look forward to working with you!</p>
+<p>Dr. King and I are here to help you throughout your career.  Contact us with any questions. We look forward to getting to know you!</p>
 <p>Thank you,</p>
 @endsection
 
