@@ -25,5 +25,6 @@
 	<li><a href=" {{ url('msis') }}">MS Information Systems</a></li>
 	<li><a href=" {{ url('edld') }}">MS Educational Leadership</a></li>
 	<li><a href=" {{ url('matced') }}">Master of Arts Teaching - Comm College Ed</a></li>
+	<li><a href=" {{ url('mats') }}">Master of Arts Teaching - Secondary</a></li>
 </ul>
 @endsection
