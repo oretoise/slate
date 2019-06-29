@@ -24,7 +24,7 @@
 </p>
 
 <p>
-    Additional information about <a href="http://distance.msstate.edu/{{ $program }}/financial">financial aid</a>, <a href="http://distance.msstate.edu/{{ $program }}/military">military/veteran educational benefits</a> can be found on our <a href="http://distance.msstate.edu/{{ $program}}">website</a>.
+    Additional information about <a href="http://online.msstate.edu/{{ $program }}/financial">financial aid</a>, <a href="http://online.msstate.edu/{{ $program }}/military">military/veteran educational benefits</a> can be found on our <a href="http://online.msstate.edu/{{ $program}}">website</a>.
 </p>
 
 <p>

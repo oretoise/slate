@@ -22,7 +22,7 @@
     </li>
     <li>
         <b>With the on-campus requirements, am I responsible for securing my own accommodations?</b><br/>
-        Yes. If you live outside the Starkville, MS, area, you are responsible for securing your lodging and transportation during these times. <a href="https://offcampushousing.msstate.edu/">MSU's Office of Off-Campus Student Services</a> is a great resource for finding rental properties near the Starkville campus. However, if you need additional assistance, please do not hesitate to contact our program <a href="http://distance.msstate.edu/wellness/staff">staff</a>.
+        Yes. If you live outside the Starkville, MS, area, you are responsible for securing your lodging and transportation during these times. <a href="https://offcampushousing.msstate.edu/">MSU's Office of Off-Campus Student Services</a> is a great resource for finding rental properties near the Starkville campus. However, if you need additional assistance, please do not hesitate to contact our program <a href="http://online.msstate.edu/wellness/staff">staff</a>.
     </li>
 </ol>
 

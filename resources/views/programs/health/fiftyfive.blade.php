@@ -10,7 +10,7 @@
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/fnh/fnh_banner.png" />
 
-<p>It is not too late to <a href="http://distance.msstate.edu/health/admissions">apply</a> for admission.  I look forward to working with you!</p>
+<p>It is not too late to <a href="http://online.msstate.edu/health/admissions">apply</a> for admission.  I look forward to working with you!</p>
 <p>Thank you,</p>
 @endsection
 

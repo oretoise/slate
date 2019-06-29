@@ -7,7 +7,7 @@
 <p>Dear @{{First}},</p>
 <p>The sooner you get your application completed, the closer you are to reaching your educational goals.</p>
 <p>As the online Broadcast and Operational Meteorology program coordinator, I am here to help you with any questions you have about the program.</p>
-<p>Are you ready to <a href="http://distance.msstate.edu/geosciences/bomp/admissions">apply</a> today?  The fall deadline is August 1.  Let me know what I can do to assist you.</p>
+<p>Are you ready to <a href="http://online.msstate.edu/geosciences/bomp/admissions">apply</a> today?  The fall deadline is August 1.  Let me know what I can do to assist you.</p>
 <p>Sincerely,</p>
 
 @endsection

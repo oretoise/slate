@@ -124,16 +124,16 @@
 						</td>
 						<td class="divider_footer social">
 							<a href="https://www.facebook.com/Distance.Education.MSU" target="_blank">
-							<img src="http://distance.msstate.edu/images/global/social/facebook.png" /></a>
+							<img src="http://online.msstate.edu/images/global/social/facebook.png" /></a>
 
 							<a href="https://twitter.com/MSStateDistance" target="_blank">
-							<img src="http://distance.msstate.edu/images/global/social/twitter.png" /></a>
+							<img src="http://online.msstate.edu/images/global/social/twitter.png" /></a>
 
 							<a href="https://instagram.com/msstatedistance/" target="_blank">
-							<img src="http://distance.msstate.edu/images/global/social/instagram.png" /></a>
+							<img src="http://online.msstate.edu/images/global/social/instagram.png" /></a>
 
 							<a href="http://www.linkedin.com/company/mississippi-state-university-center-for-distance-education?trk=company_name" target="_blank">
-							<img src="http://distance.msstate.edu/images/global/social/linkedIn.png" /></a>
+							<img src="http://online.msstate.edu/images/global/social/linkedIn.png" /></a>
 						</td>
 						<td class="divider_footer logo">
 							<img src="http://devel.distance.msstate.edu/images/msstate_flipped.png" style="width: 170px;"/>

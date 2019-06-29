@@ -25,7 +25,7 @@
     <li>The GRE is <b><u>not</u></b> required for admission into this program</li>
 </ul>
 
-<p>If you are interested in enrolling or would like more information, please visit our Environmental Geosciences <a href="http://distance.msstate.edu/geosciences/engs">website</a>.</p>
+<p>If you are interested in enrolling or would like more information, please visit our Environmental Geosciences <a href="http://online.msstate.edu/geosciences/engs">website</a>.</p>
 <p>If you have any questions or concerns, please contact me, and I will be glad to assist you!</p>
 @endsection
 

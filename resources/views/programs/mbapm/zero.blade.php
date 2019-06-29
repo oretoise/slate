@@ -18,7 +18,7 @@
 </ul>
 
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) and the Association to Advance Collegiate Schools of Business, your courses will meet the same standards as on-campus courses.  Also, your online degree will not be differentiated from an on-campus degree.</p>
-<p>Please view our program <a href="http://distance.msstate.edu/pdf/recruiter/mbapm.pdf">fast-fact flyer</a>, detailing program admission requirements, prerequisite information, and program curriculum. I'm happy to answer any questions you may have.</p>
+<p>Please view our program <a href="http://online.msstate.edu/pdf/recruiter/mbapm.pdf">fast-fact flyer</a>, detailing program admission requirements, prerequisite information, and program curriculum. I'm happy to answer any questions you may have.</p>
 
 <p>I look forward to working with you!</p>
 @endsection

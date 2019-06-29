@@ -15,7 +15,7 @@
     <li>Teach earth science classes at the community college level.</li>
 </ul>
 
-<p><a href="http://distance.msstate.edu/geosciences/engs/admissions">Apply</a> for the Environmental Geosciences program today!</p>
+<p><a href="http://online.msstate.edu/geosciences/engs/admissions">Apply</a> for the Environmental Geosciences program today!</p>
 <p>Sincerely,</p>
 @endsection
 

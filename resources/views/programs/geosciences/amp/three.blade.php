@@ -11,7 +11,7 @@
 <p>Do you want to take your meteorology career to the next level or get into a weather-related field?</p>
 <p>Applied Meteorology graduates can make forecasts for military operations, as well as employ geospatial technology to study weather patterns.</p>
 <p>Check out the <a href="http://www.distance.msstate.edu/geosciences/amp/">Applied Meteorology website</a> for more information.</p>
-<p><a href="http://distance.msstate.edu/geosciences/amp/admissions">Apply</a> for the Applied Meteorology program today! The admission deadline is <b>August 1</b>.</p>
+<p><a href="http://online.msstate.edu/geosciences/amp/admissions">Apply</a> for the Applied Meteorology program today! The admission deadline is <b>August 1</b>.</p>
 <p>If you need assistance or have additional questions about the program, I'll be happy to assist you.</p>
 <p>Sincerely,</p>
 @endsection

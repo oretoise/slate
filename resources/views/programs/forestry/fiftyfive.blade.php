@@ -10,7 +10,7 @@
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/forestry/forestry_banner.png" />
 
-<p>It is not too late to <a herf="http://distance.msstate.edu/forestry/admissions">apply</a> for admission.</p>
+<p>It is not too late to <a herf="http://online.msstate.edu/forestry/admissions">apply</a> for admission.</p>
 <p>I look forward to working with you!</p>
 <p>Thank you,</p>
 @endsection

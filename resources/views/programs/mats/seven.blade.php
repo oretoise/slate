@@ -20,7 +20,7 @@
 
 <p>As you fill out your application, remember to select Master of Art in Teaching Secondary Education (MATS) as your major and Center for Distance Education as your campus.</p>
 
-<p>Please note that your application will not be considered until all forms have been submitted and your application fee has been paid. For additional MATS admission requirements, please see the <a href="http://distance.msstate.edu/pdf/mats/admissionsChecklist.pdf">Admission Checklist</a>.</p>
+<p>Please note that your application will not be considered until all forms have been submitted and your application fee has been paid. For additional MATS admission requirements, please see the <a href="http://online.msstate.edu/pdf/mats/admissionsChecklist.pdf">Admission Checklist</a>.</p>
 
 <p>If you have any questions, don’t hesitate to ask me. I'm happy to help!</p>
 <p>Thank you,</p>

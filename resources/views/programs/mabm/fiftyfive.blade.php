@@ -11,7 +11,7 @@
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/mabm/mabm_banner.png" />
 
-<p>It is not too late to <a href="http://distance.msstate.edu/mabm/admissions">apply</a> for admission.</p>
+<p>It is not too late to <a href="http://online.msstate.edu/mabm/admissions">apply</a> for admission.</p>
 <p>I look forward to working with you!</p>
 <p>Thank you,</p>
 @endsection

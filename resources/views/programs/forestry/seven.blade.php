@@ -28,7 +28,7 @@
     </li><br/>
     <li>
         <b>What courses are required for this program?</b><br/>
-        Please see our list of the <a href="http://distance.msstate.edu/forestry/course_rotation">course rotation</a> and <a href="http://distance.msstate.edu/forestry/course_descriptions">course descriptions</a>.
+        Please see our list of the <a href="http://online.msstate.edu/forestry/course_rotation">course rotation</a> and <a href="http://online.msstate.edu/forestry/course_descriptions">course descriptions</a>.
     </li>
 </ul>
 

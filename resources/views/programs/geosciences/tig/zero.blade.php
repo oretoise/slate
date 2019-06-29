@@ -24,7 +24,7 @@
     <li>The GRE is <b>not</b> required for admission into this program</li>
 </ul>
 
-<p>If you are interested in enrolling or would like more information, check out the <a href="http://distance.msstate.edu/geosciences/tig/admissions">admissions requirements</a>.</p>
+<p>If you are interested in enrolling or would like more information, check out the <a href="http://online.msstate.edu/geosciences/tig/admissions">admissions requirements</a>.</p>
 <p>If you have any questions or concerns, contact me, and I will be glad to assist you!</p>
 @endsection
 
