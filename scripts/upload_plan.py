@@ -267,6 +267,7 @@ def upload(acronym, day_int, email, population):
 
 def main(acronym):
     """ Upload a communication plan to Slate. """
+    print("Uploading", acronym)
 
     # Navigate to the local views folder.
     views = pathlib.Path(os.getcwd()) / ".." / "resources" / "views"

@@ -23,6 +23,7 @@ def main(list_file):
     
     # Loop through values.
     for plan in list_df.Plans:
+        print("Uploading", plan)
         upload_plan.main(plan)
 
 
