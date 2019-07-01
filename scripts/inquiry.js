@@ -490,3 +490,10 @@ $("#gr_entry_term").parent().parent().parent().hide();
 $("#placeholder").parent().parent().parent().show();
 
 $(".hideme").parent().parent().parent().hide();
+
+// Add necessary stuff to submit button.
+var $ad_list = ['/da/undergraduate', '/da/graduate', '/da/mabm', '/da/bba', '/da/bsis', '/da/psychology']
+if ($ad_list.indexOf(window.location.pathname) != -1) {
+    var $onclick = "fbq('track', 'SubmitApplication'); " + $("div.action").find("button").attr("onclick");
+    $("div.action").find("button").attr("onclick", $onclick);
+}
