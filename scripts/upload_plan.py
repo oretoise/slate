@@ -264,6 +264,31 @@ def upload(acronym, day_int, email, population):
     # click save
     pyautogui.click(745, 1132)
 
+    # Set email schedule, run indefinitely, delivery windows, and mark it as ready to send.
+    pyautogui.click(1750, 400)
+    pyautogui.click(1123, 868)
+    pyautogui.press('pagedown')
+    pyautogui.click(1123, 696)
+    pyautogui.click(1123, 715)
+    pyautogui.click(1123, 732)
+    pyautogui.click(1123, 751)
+    pyautogui.click(1123, 769)
+    pyautogui.click(1123, 789)
+    pyautogui.click(1123, 808)
+
+    # delivery windows
+    pyautogui.click(1123, 877)
+    if email == "zero":
+        pyautogui.click(1123, 836)
+        pyautogui.click(1123, 857)
+        pyautogui.click(1123, 897)
+        pyautogui.click(1123, 913)
+    
+    # click "Send Mailing"
+    pyautogui.click(980, 1030)
+    pyautogui.typewrite("SEND")
+    pyautogui.press("enter")
+
 
 def main(acronym):
     """ Upload a communication plan to Slate. """
