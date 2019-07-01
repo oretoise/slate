@@ -12,6 +12,7 @@
 		    .info {padding-bottom: 10px;}
 			.img-center {display: none;}
 			.img-right {display: none;}
+            .icon {width: 24px; height: 24px;}
 			.small_message > a {color: #660000;}
 		    .social {padding-bottom: 10px;}
 		    .social > a > img {padding: 0px 5px 0px 5px;}
@@ -123,17 +124,17 @@
 							<b>Center for Distance Education</b><br/>P.O Box 5247<br/>365 Barr Avenue<br/>Mississippi State, MS 39762
 						</td>
 						<td class="divider_footer social">
-							<a href="https://www.facebook.com/Distance.Education.MSU" target="_blank">
-							<img src="http://online.msstate.edu/images/global/social/facebook.png" /></a>
+							<a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
+							<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
 
-							<a href="https://twitter.com/MSStateDistance" target="_blank">
-							<img src="http://online.msstate.edu/images/global/social/twitter.png" /></a>
+							<a href="https://twitter.com/msstateonline" target="_blank">
+							<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/twitter.svg" /></a>
 
-							<a href="https://instagram.com/msstatedistance/" target="_blank">
-							<img src="http://online.msstate.edu/images/global/social/instagram.png" /></a>
+							<a href="https://www.instagram.com/mississippistateonline/" target="_blank">
+							<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/instagram.svg" /></a>
 
-							<a href="http://www.linkedin.com/company/mississippi-state-university-center-for-distance-education?trk=company_name" target="_blank">
-							<img src="http://online.msstate.edu/images/global/social/linkedIn.png" /></a>
+							<a href="https://www.linkedin.com/company/mississippi-state-university-center-for-distance-education/" target="_blank">
+							<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/linkedin.svg" /></a>
 						</td>
 						<td class="divider_footer logo">
 							<img src="http://devel.distance.msstate.edu/images/msstate_flipped.png" style="width: 170px;"/>
