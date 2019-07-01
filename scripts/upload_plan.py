@@ -268,6 +268,12 @@ def upload(acronym, day_int, email, population):
 def main(acronym):
     """ Upload a communication plan to Slate. """
     print("Uploading", acronym)
+    # Load environment variables from .env file
+    load_dotenv()
+
+    # Environmental file check.
+    if os.getenv("HOST") is None:
+        exit_with_error("Environmental file not found or HOST env entry not defined!")
 
     # Navigate to the local views folder.
     views = pathlib.Path(os.getcwd()) / ".." / "resources" / "views"
@@ -335,21 +341,13 @@ def main(acronym):
     # Upload each file to Slate.
     for email in files:
         upload(acronym, numbers_dict[email], email, population)
-        # TODO: Remove this when complete.
-        #print('quitting early for debug')
-        #raise SystemExit
 
 
 if __name__ == "__main__":
     # Parse CLI arguments
     ARGS = arguments()
 
-    # Load environment variables from .env file
-    load_dotenv()
-
-    # Environmental file check.
-    if os.getenv("HOST") is None:
-        exit_with_error("Environmental file not found or HOST env entry not defined!")
+    
 
     # Call main function with argument data.
     main(ARGS.Acronym)
