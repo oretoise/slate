@@ -265,24 +265,35 @@ def upload(acronym, day_int, email, population):
     pyautogui.click(745, 1132)
 
     # Set email schedule, run indefinitely, delivery windows, and mark it as ready to send.
+    # Click "Send Message"
     pyautogui.click(1750, 400)
-    pyautogui.click(1123, 868)
-    pyautogui.press('pagedown')
-    pyautogui.click(1123, 696)
-    pyautogui.click(1123, 715)
-    pyautogui.click(1123, 732)
-    pyautogui.click(1123, 751)
-    pyautogui.click(1123, 769)
-    pyautogui.click(1123, 789)
-    pyautogui.click(1123, 808)
 
-    # delivery windows
-    pyautogui.click(1123, 877)
+    # Hit tab 3 times.
+    for _ in range(3):
+        pyautogui.press('tab')
+    
+    # Press space to check "Continue sending indefinitely"
+    pyautogui.press('space')
+
+    # Hit tab 5 times. Gets us to email schedule.
+    for _ in range(5):
+        pyautogui.press('tab')
+    
+    # Check all days of the week.
+    for _ in range(7):
+        pyautogui.press('space')
+        pyautogui.press('tab')
+    
     if email == "zero":
-        pyautogui.click(1123, 836)
-        pyautogui.click(1123, 857)
-        pyautogui.click(1123, 897)
-        pyautogui.click(1123, 913)
+        # Select all delivery windows.
+        for _ in range(5):
+            pyautogui.press('space')
+            pyautogui.press('tab')
+    else:
+        # Select only Midday
+        for _ in range(2):
+            pyautogui.press('tab')
+        pyautogui.press('space')
     
     # click "Send Mailing"
     pyautogui.click(980, 1030)
