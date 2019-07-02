@@ -25,16 +25,10 @@
 		<a href="{{ url('msis/thirtyone') }}">Day 31</a>
 	</li>
 	<li>
-		<a href="{{ url('msis/thirtyseven') }}">Day 37</a>
+		<a href="{{ url('msis/thirtyeight') }}">Day 38</a>
 	</li>
 	<li>
-		<a href="{{ url('msis/fourtyfour') }}">Day 44</a>
-	</li>
-	<li>
-		<a href="{{ url('msis/fiftyfive') }}">Day 55</a>
-	</li>
-	<li>
-		<a href="{{ url('msis/sixtyfive') }}">Day 65</a>
+		<a href="{{ url('msis/fourtyfive') }}">Day 45</a>
 	</li>
 </ul>
 @endsection
