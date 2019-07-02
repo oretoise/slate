@@ -1,2 +1,2 @@
-<a href="http://online.msstate.edu/{{ $program }}/admissions-process">
+<a href="https://online.msstate.edu/{{ $program }}/admissions-process">
 <img alt="Apply now!" src="https://gallery.mailchimp.com/08645bc06c5353fea3c46c46c/images/4a0dd851-7f19-4b3a-98d5-68fa501de50d.png" title="Apply now!"/></a>
