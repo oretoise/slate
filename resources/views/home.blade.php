@@ -30,5 +30,6 @@
 	<li><a href=" {{ url('msit') }}">MS Instructional Tech</a></li>
 	<li><a href=" {{ url('phcl') }}">PhD. Community College Leadership</a></li>
 	<li><a href=" {{ url('seed') }}">MS Secondary Education</a></li>
+	<li><a href=" {{ url('wel') }}">MS Workforce Education Leadership</a></li>
 </ul>
 @endsection
