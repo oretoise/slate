@@ -1,7 +1,8 @@
 @extends('layouts.responsive')
 
 @section('content')
-<h3>Day 24 - Subject: </h3>
+<h3>Day 24 - Subject: Take our online learning assessment!</h3>
+@include('common.smartermeasure')
 @endsection
 
 @section('signature')
