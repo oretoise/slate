@@ -28,5 +28,6 @@
 	<li><a href=" {{ url('mats') }}">Master of Arts Teaching - Secondary</a></li>
 	<li><a href=" {{ url('matx') }}">Master of Arts Teaching - Special</a></li>
 	<li><a href=" {{ url('msit') }}">MS Instructional Tech</a></li>
+	<li><a href=" {{ url('phcl') }}">PhD. Community College Leadership</a></li>
 </ul>
 @endsection
