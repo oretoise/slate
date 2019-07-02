@@ -1,7 +1,8 @@
 @extends('layouts.responsive')
 
 @section('content')
-<h3>Day 38 - Subject: </h3>
+<h3>Day 38 - Subject: Orientation for Online Students</h3>
+@include('common.orientation')
 @endsection
 
 @section('signature')

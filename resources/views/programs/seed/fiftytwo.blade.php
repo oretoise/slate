@@ -1,7 +1,8 @@
 @extends('layouts.responsive')
 
 @section('content')
-<h3>Day 52 - Subject: </h3>
+<h3>Day 52 - Subject: Let's get social!</h3>
+@include('common.social')
 @endsection
 
 @section('signature')
