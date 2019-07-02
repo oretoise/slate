@@ -17,8 +17,8 @@
         The academic department requires that you take either the GMAT or the GRE.  This requirement cannot be waived.  There is no preference for which test you take, so choose the one you feel most suits your abilities.
     </li><br/>
     <li>
-        <b>Are there any prerequisites?  Do I have to have the prerequisites completed prior to being admitted into the program?</b><br/>
-        Yes, there are required prerequisite courses for the MABM program.  These courses can be completed online through Mississippi State University. The prerequisites do not have to be completed prior to being admitted; however, they must be taken prior to enrolling in the core program courses.
+        <b>Are there any prerequisites?  Do I have to have the prerequisites completed prior to admission?</b><br/>
+        Yes, there are required prerequisite courses for the MABM program.  These courses can be completed online through Mississippi State University. The prerequisites do not have to be completed prior to admission; however, they must be taken prior to enrolling in the core program courses.
     </li><br/>
     <li>
         <b>What is the cost of this program?</b><br/>

@@ -69,8 +69,8 @@
         <br/>* Tuition and fees are subject to change.<br/><br/>
     </li><br/>
     <li>
-        <b><span style="color: #660000;">Are there any prerequisites? Do I have to have the prerequisites completed prior to being admitted into the program?</span></b><br/>
-        Yes, there are prerequisite courses for the online MBA-PM program, which can be completed online through Mississippi State University. These courses do not have to be completed prior to being admitted.<br/>
+        <b><span style="color: #660000;">Are there any prerequisites? Do I have to have the prerequisites completed prior to admission?</span></b><br/>
+        Yes, there are prerequisite courses for the online MBA-PM program, which can be completed online through Mississippi State University. These courses do not have to be completed prior to admission.<br/>
         However, prerequisites must be taken before enrolling in the core program courses.
 
         <p>Special Note:  To determine if you lack any of the prerequisite courses, please email me an unofficial copy of your transcript(s) for evaluation.</p>

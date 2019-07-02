@@ -44,8 +44,8 @@
     </li>
 
     <li>
-        <b><span style="color: #660000;">Are there any prerequisites?  Do I have to have the prerequisites completed prior to being admitted into the program?</span></b><br/>
-        Yes, there are prerequisite courses for the online MBA program, which can be completed online through Mississippi State University. These courses do not have to be completed prior to being admitted.
+        <b><span style="color: #660000;">Are there any prerequisites?  Do I have to have the prerequisites completed prior to admission?</span></b><br/>
+        Yes, there are prerequisite courses for the online MBA program, which can be completed online through Mississippi State University. These courses do not have to be completed prior to admission.
 
         <br/><br/>
 

@@ -13,8 +13,8 @@
         Yes, you may transfer up to 62 hours from an accredited community college. When you apply, the Registrar's Office will review your transcript(s) to confirm which classes will transfer.<br/><br/>
     </li>
     <li>
-        <b><span style="color: #800000;">Are there additional admission requirements to be admitted to the online BBA program?</span></b><br/>
-        Yes, in addition to university admission requirements, all students must meet the following minimum GPA requirements to be admitted into the BBA program:
+        <b><span style="color: #800000;">Are there additional admission requirements for the online BBA program?</span></b><br/>
+        Yes, in addition to university admission requirements, all students must meet the following minimum GPA requirements for admission into the BBA program:
 
         <br/><br/>
         <ul>
@@ -24,7 +24,7 @@
         </ul>
         <br/><br/>
 
-        Students who do not meet the above minimum GPA requirement may be admitted into the university as an <span style="color: #800000;"><b>undeclared</b></span> major until the requirement is met.<br/><br/>
+        Students who do not meet the above minimum GPA requirement may enter into the university as an <span style="color: #800000;"><b>undeclared</b></span> major until the requirement is met.<br/><br/>
     </li>
     <li>
         <b><span style="color: #800000;">Can the entire program be completed online?</span></b><br/>

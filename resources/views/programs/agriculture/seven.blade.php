@@ -17,7 +17,7 @@
         The academic department requires that you take the GRE.  This requirement cannot be waived.<br/><br/>
     </li>
     <li>
-        <span style="color: #660000;"><b>Are there any prerequisites?  Do I have to have the prerequisites completed prior to being admitted into the program?</b></span><br/>
+        <span style="color: #660000;"><b>Are there any prerequisites?  Do I have to have the prerequisites completed prior to admission?</b></span><br/>
         There are no required prerequisite courses. The program is designed to take students from an initial orientation to current concepts in the profession through program development, implementation, and evaluation.<br/><br/>
     </li>
     <li>
