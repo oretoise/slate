@@ -13,14 +13,14 @@
 <p>
     See how you can get started by
     <ul>
-        <li>Reviewing our <a href="http://online.msstate.edu/bba/structure">program curriculum information</a></li>
+        <li>Reviewing our <a href="https://online.msstate.edu/bba/program-structure/">program curriculum information</a></li>
         <li>Requesting a free transcript evaluation</li>
     </ul>
 </p>
 
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) and the Association to Advance Collegiate Schools of Business, your courses will meet the same standards as on-campus courses.  Also, your online degree will not be differentiated from an on-campus degree.</p>
 
-<p>Are you <a href="http://online.msstate.edu/bba/admissions">ready to apply</a>? If you have any questions or concerns, contact me any time.</p>
+<p>Are you <a href="https://online.msstate.edu/bba/admissions-process">ready to apply</a>? If you have any questions or concerns, contact me any time.</p>
 
 <p>All the best,</p>
 @endsection
