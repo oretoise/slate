@@ -32,7 +32,7 @@
 
 <p>Many of our graduates have started their careers within school districts across Mississippi.  If you are interested in working outside the state of Mississippi, please contact your state's Department of Education to see if this program meets your state's criteria for licensure.</p>
 
-<p>Ready to <a href="http://online.msstate.edu/edld/admissions">apply</a>? I'll be happy to assist you or answer any questions.</p>
+<p>Ready to <a href="https://online.msstate.edu/edld/admissions-process">apply</a>? I'll be happy to assist you or answer any questions.</p>
 <p>All the best,</p>
 
 @endsection
