@@ -26,7 +26,7 @@
     </li>
 </ol>
 
-<p>For more frequently asked questions about the program, admissions, or student services, visit the <a href="http://online.msstate.edu/geosciences/amp/faq">Applied Meteorology website</a>.</p>
+<p>For more frequently asked questions about the program, admissions, or student services, visit the <a href="https://online.msstate.edu/geosciences/amp/">Applied Meteorology website</a>.</p>
 <p>If I can assist you in any way, please contact me.  I'm ready to help.</p>
 <p>All the best,</p>
 @endsection
