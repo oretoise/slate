@@ -9,7 +9,7 @@
 
 <p>The Master of Science in General Biology is also known as the Teachers in Biology program and can be completed in as little as two years (taking two courses per semester).</p>
 
-<p>For information pertaining to finances, admissions, course framework, and course information, see the <a href="http://online.msstate.edu/pdf/recruiter/tib.pdf">fast facts flyer</a>.</p>
+<p>For information pertaining to finances, admissions, course framework, and course information, see the <a href="https://online.msstate.edu/pdf/slate/Master-of-Science-Teachers-Geosciences.pdf">fast facts flyer</a>.</p>
 
 <p>The general biology degree is designed for high school teachers and for those who combine biology with subjects such as ecology, microbiology, evolutionary biology, and biotechnology.</p>
 
@@ -23,7 +23,7 @@
 
 <p>Students must also attend the final 10-day capstone course, which is held on the MSU campus in Starkville, MS. During the capstone course, all students will take a proctored, written, comprehensive exam.</p>
 
-<p>Visit our <a href="http://www.distance.msstate.edu/tib/course_descriptions">website</a> to see the types of courses that are available through the MSGB program.</p>
+<p>Visit our <a href="https://online.msstate.edu/msgb/course-descriptions/">website</a> to see the types of courses that are available through the MSGB program.</p>
 
 <p>Please let me know if I can answer any questions you may have. I'm happy to help!</p>
 
