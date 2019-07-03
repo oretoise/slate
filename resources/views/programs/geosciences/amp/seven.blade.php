@@ -10,7 +10,7 @@
 <p>The Applied Meteorology master's degree requires 12 three-credit-hour courses for a total of 36 semester hours and can be earned in as little as two years (taking two courses per semester).</p>
 <p>Fall admission is preferred, but applications are accepted at any time.  All the courses are taught online with exception of the capstone course.</p>
 <p>The capstone course is designed around a week-long workshop that is hosted at Mississippi State University in Starkville, MS, during your final summer semester.</p>
-<p>Check out the <a href="http://online.msstate.edu/pdf/recruiter/amp.pdf">flyer</a> for the Applied Meteorology master's degree; it provides detailed information about admissions, required courses, and finances.</p>
+<p>Check out the <a href="https://online.msstate.edu/pdf/slate/Applied-Meteorology-Program.pdf">flyer</a> for the Applied Meteorology master's degree; it provides detailed information about admissions, required courses, and finances.</p>
 <p>Please let me know if you have any questions. I'm happy to help!</p>
 <p>Sincerely,</p>
 @endsection
