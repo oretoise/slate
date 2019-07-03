@@ -44,8 +44,13 @@ def main():
         emails = os.listdir(directory)
 
         for email in emails:
+            if email == 'home':
+                continue
+            
             email = email.split('.')[0]
             url = os.getenv("HOST") + "/slate/" + program + "/" + email
+
+            print(program, "-", email)
             
             # get
             r = requests.get(url)
@@ -58,7 +63,28 @@ def main():
                     if "mailto" in link['href']:
                         continue
                     else:
-                        print(link['href'])
+
+                        if 'online.msstate.edu' in link['href'] or 'distance.msstate.edu' in link['href']:
+                            problem = False
+
+                            if 'http://' in link['href']:
+                                print("INSECURE")
+                                problem = True
+                            
+                            if 'distance.msstate.edu' in link['href']:
+                                print("OUTDATED")
+                                problem = True
+                            
+                            if problem:
+                                print(link['href'])
+                            
+                            # req
+                            #check = requests.get(link['href'])
+                            #print(check.status_code)
+                            #if str(check.status_code) == '404':
+                                #print("404:", link['href'])
+                            
+
             
 
 if __name__ == "__main__":
