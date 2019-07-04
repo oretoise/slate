@@ -1,7 +1,7 @@
 @extends('layouts.responsive')
 
 @section('content')
-<h3>Day 17 - Subject: </h3>
+<h3>Day 17 - Subject: Meet your team!</h3>
 <p>Dear @{{First}},</p>
 
 <table style="width: 450px; margin: auto;">
