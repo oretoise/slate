@@ -12,7 +12,7 @@
 
 <p>I am here to help you in each step of the application process and to answer any questions you have.</p>
 
-<p>Are you ready to <a href="http://online.msstate.edu/matx/admissions">apply</a> today?</p>
+<p>Are you ready to <a href="https://online.msstate.edu/matx/admissions-process">apply</a> today?</p>
 <p>I look forward to hearing from you soon!</p>
 <p>Thank you,</p>
 @endsection

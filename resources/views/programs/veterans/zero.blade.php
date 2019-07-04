@@ -16,7 +16,7 @@
 
 <p>All courses are taught by faculty and staff from MSU.  Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), your courses will meet the same standards as on-campus courses, and your certificate will not differentiate between online or on-campus.</p>
 
-<p>To see the types of courses that are affiliated with the program, view the <a href="http://distance.msstate.edu/veterans/curriculum">curriculum</a>.</p>
+<p>To see the types of courses that are affiliated with the program, view the <a href="https://online.msstate.edu/veterans/curriculum">curriculum</a>.</p>
 <p>Are you ready to apply?  If you have any questions or concerns, please contact me, and I will be glad to assist you.</p>
 <p>With warm regards,</p>
 @endsection

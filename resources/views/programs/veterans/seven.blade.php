@@ -21,7 +21,7 @@
     </li>
 </ol>
 
-<p>For more frequently asked questions about distance education at MSU, admissions, or student services, visit our <a href="http://distance.msstate.edu/faq">website</a>.</p>
+<p>For more frequently asked questions about distance education at MSU, admissions, or student services, visit our <a href="https://online.msstate.edu/veterans/faq/">website</a>.</p>
 <p>Thanks,</p>
 @endsection
 

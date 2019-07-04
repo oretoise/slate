@@ -6,7 +6,7 @@
 </p>
 
 <p>
-    Upon admission, Mississippi State University offers a non-credit <a href="http://online.msstate.edu/{{$program}}/orientation"><i>Online@State Orientation</i></a> course to new distance students at no charge?  This course allows students to become familiar with the online learning process at MSU before their courses actually begin.
+    Upon admission, Mississippi State University offers a non-credit <a href="https://online.msstate.edu/{{$program}}/orientation"><i>Online@State Orientation</i></a> course to new distance students at no charge?  This course allows students to become familiar with the online learning process at MSU before their courses actually begin.
 </p>
 
 <p>

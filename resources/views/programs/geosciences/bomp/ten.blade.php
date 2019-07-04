@@ -9,7 +9,7 @@
 </p>
 
 <p>Many of our graduates of the online Broadcast/Operational Meteorology Program (BOMP) are employed as weathercasters at television stations and forecasters for private companies and the military.</p>
-<p>Visit the <a href="http://online.msstate.edu/geosciences/bomp">website</a> for more information.</p>
+<p>Visit the <a href="https://online.msstate.edu/geosciences/bomp">website</a> for more information.</p>
 <p>If this interests you, please contact me today!</p>
 <p>All the best,</p>
 @endsection

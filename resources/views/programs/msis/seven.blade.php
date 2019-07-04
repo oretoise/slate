@@ -15,9 +15,9 @@
     Summer semester: <b>May 15th</b>
 </p>
 
-<p>Remember to choose Master of Business Administration as your major and Center for Distance Education as your campus when applying for <a href="http://online.msstate.edu/mba/admissions">admission</a>.</p>
+<p>Remember to choose Master of Business Administration as your major and Center for Distance Education as your campus when applying for <a href="https://online.msstate.edu/msis/admissions-process">admission</a>.</p>
 
-<p>You can download the <a href="http://www.distance.msstate.edu/pdf/msis/MSISapplicationChecklist.pdf">application checklist</a> to ensure that you have submitted the required documents for full admission into the MBA program.</p>
+<p>You can download the <a href="https://online.msstate.edu/pdf/msis/MSIS-Application-Checklist.pdf">application checklist</a> to ensure that you have submitted the required documents for full admission into the MBA program.</p>
 
 <p>Thank you for choosing Mississippi State for your online degree.</p>
 <p>All the best,</p>

@@ -14,7 +14,7 @@
 
 <p>Within the capstone course, students work closely with biologist and their fellow classmates in intensive laboratory and field exercises. While on campus for this course, students will also take a proctored, written comprehensive exam.</p>
 
-<p>If you are interested in enrolling or would like more information regarding admissions, see our <a href="http://online.msstate.edu/msgb/admissions">admissions guide</a>.</p>
+<p>If you are interested in enrolling or would like more information regarding admissions, see our <a href="https://online.msstate.edu/msgb/admissions-process">admissions guide</a>.</p>
 
 <p>I hope you will find that the MSGB program meets your needs and you start the online application for admission.  The admission deadline for the fall is <b>1 August</b>.</p>
 

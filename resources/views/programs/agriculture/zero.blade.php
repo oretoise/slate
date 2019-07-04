@@ -17,7 +17,7 @@
 
 <p>This program prepares students for careers in the animal industries by enhancing technical skills, communication skills, and scientific literacy.</p>
 
-<p>I will follow up with any questions you had in your request for information query shortly.  In the meantime, please view our <a href="http://online.msstate.edu/pdf/slate/Master-of-Agriculture-ADS.pdf">program brochure</a> detailing admission requirements, prerequisites, and program curriculum.
+<p>I will follow up with any questions you had in your request for information query shortly.  In the meantime, please view our <a href="https://online.msstate.edu/pdf/slate/Master-of-Agriculture-ADS.pdf">program brochure</a> detailing admission requirements, prerequisites, and program curriculum.
 
 <p>Let me know if you have any questions. I'm happy to help!</p>
 

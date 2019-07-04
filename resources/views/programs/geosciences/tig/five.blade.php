@@ -26,7 +26,7 @@
     </li>
 </ol>
 
-<p>For more frequently asked questions about the program, admissions, or student services, check out our <a href="http://online.msstate.edu/geosciences/tig/faq">FAQ page</a>.</p>
+<p>For more frequently asked questions about the program, admissions, or student services, check out our <a href="https://online.msstate.edu/geosciences/tig/faq">FAQ page</a>.</p>
 
 <p>Also, you can contact me if you have any questions. I'm happy to help!</p>
 <p>Sincerely,</p>

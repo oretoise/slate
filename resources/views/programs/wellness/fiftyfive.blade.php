@@ -9,7 +9,7 @@
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/wellness/wellness_banner.png" />
 
-<p>It is not too late to <a href="http://online.msstate.edu/wellness/admissions">apply</a> for admission.</p>
+<p>It is not too late to <a href="https://online.msstate.edu/wellness/admissions-process">apply</a> for admission.</p>
 <p>I look forward to working with you!</p>
 <p>Thank you,</p>
 @endsection

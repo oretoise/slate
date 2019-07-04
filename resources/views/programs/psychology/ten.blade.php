@@ -10,7 +10,7 @@
 </p>
 
 <p>
-	Remember to choose <span style="color: #800000;"><b>Psychology (BS)</b></span> as your major and <span style="color: #800000;"><b>Center for Distance Education</b></span> as your campus when applying for <a href="http://online.msstate.edu/psychology/admissions">admission or readmission</a>.
+	Remember to choose <span style="color: #800000;"><b>Psychology (BS)</b></span> as your major and <span style="color: #800000;"><b>Center for Distance Education</b></span> as your campus when applying for <a href="https://online.msstate.edu/psychology/admissions-process">admission or readmission</a>.
 </p>
 
 <p>If you have any questions, ask. We are happy to help.</p>

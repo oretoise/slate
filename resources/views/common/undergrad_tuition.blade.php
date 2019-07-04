@@ -16,7 +16,7 @@
     You can also follow these steps to find online tuition and distance fees:
 
     <ol>
-        <li>Visit the <a href="http://www.controller.msstate.edu/accountservices/tuition/">Tuition/Fees</a> page.</li>
+        <li>Visit the <a href="https://controller.msstate.edu/accountservices/tuition/">Tuition/Fees</a> page.</li>
         <li>Select the <b>Distance Education</b> tab.</li>
         <li>Refer to the <b>UNDERGRAD</b> table for the semester that you are interested in.</li>
         <li>Click <b>See Here for Distance Fees</b>.  Please review the current semester fee table to view any additional fees that might be associated with the courses you may take.*</li>
@@ -24,7 +24,7 @@
 </p>
 
 <p>
-    Additional information about <a href="http://online.msstate.edu/{{ $program }}/financial">financial aid</a>, <a href="http://online.msstate.edu/{{ $program }}/military">military/veteran educational benefits</a> can be found on our <a href="http://online.msstate.edu/{{ $program}}">website</a>.
+    Additional information about <a href="https://online.msstate.edu/{{ $program }}/financial-aid/">financial aid</a>, <a href="https://online.msstate.edu/military-assistance/">military/veteran educational benefits</a> can be found on our <a href="https://online.msstate.edu/{{ $program}}">website</a>.
 </p>
 
 <p>

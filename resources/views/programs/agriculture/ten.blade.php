@@ -18,7 +18,7 @@ deadline in which you plan to enroll:</p>
     Summer semester: <b>May 15th</b>
 </p>
 
-<p>For full admission to this program, students must complete the process for <a href="http://online.msstate.edu/health/admissions">Classified Admission</a> online.</p>
+<p>For full admission to this program, students must complete the process for <a href="https://online.msstate.edu/agriculture/admissions-process">Classified Admission</a> online.</p>
 <p>Thank you for considering Mississippi State for your online degree. Please let me know if you have any specific questions.</p>
 <p>Thank you,</p>
 @endsection

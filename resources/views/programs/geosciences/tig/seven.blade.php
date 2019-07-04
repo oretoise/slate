@@ -25,7 +25,7 @@
 
 <p>For the other nine courses in the Environmental Geosciences program, all coursework, including exams, are completed online. Lectures, chat rooms, and bulletin boards are available for each course.  Upon completion of the program, a written, comprehensive exam is required.</p>
 
-<p>For information pertaining to finances, admissions, and course framework, see our <a href="http://online.msstate.edu/pdf/recruiter/engs.pdf">flyer</a>.</p>
+<p>For information pertaining to finances, admissions, and course framework, see our <a href="https://online.msstate.edu/pdf/slate/Master-of-Science-Teachers-Geosciences.pdf">flyer</a>.</p>
 
 <p>Please let me know if you have any questions. I'm happy to help!</p>
 <p>Thanks,</p>
