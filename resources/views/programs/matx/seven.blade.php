@@ -1,7 +1,7 @@
 @extends('layouts.responsive')
 
 @section('content')
-<h3>Day 7 - Subject: </h3>
+<h3>Day 7 - Subject: Start your application today!</h3>
 <p>Dear @{{First}},</p>
 
 <p>Start your application for the online MATX program today!  Keep in mind the application deadlines listed below, and remember, the earlier you submit your admission or readmission application, the better chance you have of getting into the classes that you need.</p>
