@@ -3,4 +3,4 @@
 Center for Distance Education<br/>
 Mississippi State University<br/>
 662.325.9092<br/>
-<a href="mailto:mark.jimerson@mstate.edu"><span id="coordinator_email">mark.jimerson@mstate.edu</span></a>
+<a href="mailto:mark.jimerson@msstate.edu"><span id="coordinator_email">mark.jimerson@msstate.edu</span></a>
