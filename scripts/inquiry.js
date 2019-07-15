@@ -88,6 +88,25 @@ function setCoordinator(netID) {
     console.log("Set coordinator to " + $coordinator_field.find(":selected").attr("data-text"));
 }
 
+function clearInterest(level) {
+    $interest = "";
+    $entry_term = "";
+    if (level == "Graduate") {
+        $interest = "gr_aca_interest";
+        $entry_term = "gr_entry_term";
+    } else {
+        $interest = "ug_aca_interest";
+        $entry_term = "ug_entry_term";
+    }
+
+    // Clear both.
+    var $interest_select = $("[data-export='sys:field:" + $interest + "']").find(".form_responses").find("select");
+    $interest_select.find(":selected").prop("selected", false);
+
+    var $entry_term_select = $("[data-export='sys:field:" + $entry_term + "']").find(".form_responses").find("select");
+    $entry_term_select.find(":selected").prop("selected", false);
+}
+
 // Check if UTM parameters exist.
 var utm_params = grabUTM();
 if (utm_params != null) {
@@ -127,6 +146,7 @@ $("[data-export='sys:field:distance_certificate']").find(".form_responses").find
             setProgram("Undergrad", "Geoscience / Broadcast & Operational Met (BS)");
             $("#level").parent().parent().parent().hide();
             setCoordinator("mwb6");
+            clearInterest("Graduate");
             break;
         case "Broadcast & Operational Meteorology":
             // Set UG
@@ -135,6 +155,7 @@ $("[data-export='sys:field:distance_certificate']").find(".form_responses").find
             setProgram("Undergrad", "Geoscience / Broadcast & Operational Met (BS)");
             $("#level").parent().parent().parent().hide();
             setCoordinator("mwb6");
+            clearInterest("Graduate");
             break;
         case "Veterans' Certificate":
             // Show "What level?"
@@ -148,6 +169,7 @@ $("[data-export='sys:field:distance_certificate']").find(".form_responses").find
             setProgram("Graduate", "No Degree / Unclassified-Grad");
             $("#level").parent().parent().parent().hide();
             setCoordinator("vdt1");
+            clearInterest("Undergrad");
             break;
         case "Wellness Coaching Certificate":
             // Set GR
@@ -157,11 +179,14 @@ $("[data-export='sys:field:distance_certificate']").find(".form_responses").find
             // Hide "What Level?"
             $("#level").parent().parent().parent().hide();
             setCoordinator("dc716");
+            clearInterest("Undergrad");
     }
 });
 
 // Grad program logic handler.
 $("[data-export='sys:field:gr_aca_int']").find(".form_responses").find("select").change(function() {
+
+    clearInterest("Undergrad");
 
     // Grab value.
     var $select_value = $("[data-export='sys:field:gr_aca_int']").find(".form_responses").find("select").find(":selected").attr("data-text");
@@ -285,13 +310,15 @@ $("[data-export='sys:field:gr_aca_int']").find(".form_responses").find("select")
             setCoordinator("vdt1");
             break;
         case "No Degree / Unclassified-Grad":
-            setCoordinator("jdm273");
+            setCoordinator("dc716");
             break;
     }
 });
 
 // Undergrad program logic handler.
 $("[data-export='sys:field:ug_aca_int']").find(".form_responses").find("select").change(function() {
+
+    clearInterest("Graduate");
 
     // Grab value.
     var $select_value = $("[data-export='sys:field:ug_aca_int']").find(".form_responses").find("select").find(":selected").attr("data-text");
@@ -319,10 +346,10 @@ $("[data-export='sys:field:ug_aca_int']").find(".form_responses").find("select")
             setCoordinator("jnh102");
             break;
         case "Undeclared":
-            setCoordinator("jdm273");
+            setCoordinator("mwb6");
             break;
         case "Special Non-Degree (No Degree)":
-            setCoordinator("jdm273");
+            setCoordinator("mwb6");
             break;
     }
 });
@@ -377,6 +404,8 @@ $("#level").parent().parent().find(".form_responses").find("select").change(func
             if ($certificate == "Veterans' Certificate") {
                 setProgram("Graduate", "No Degree / Unclassified-Grad");
             }
+
+            clearInterest("Undergrad");
             break;
         case "Undergraduate":
             // Set ST
@@ -392,6 +421,8 @@ $("#level").parent().parent().find(".form_responses").find("select").change(func
             if ($certificate == "Veterans' Certificate") {
                 setProgram("Undergraduate", "Special Non-Degree (No Degree)");
             }
+
+            clearInterest("Graduate");
             break;
     }
 });
