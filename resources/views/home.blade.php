@@ -32,5 +32,6 @@
 	<li><a href=" {{ url('seed') }}">MS Secondary Education</a></li>
 	<li><a href=" {{ url('wel') }}">MS Workforce Education Leadership</a></li>
 	<li><a href=" {{ url('veterans') }}">Veterans Certificate Program</a></li>
+	<li><a href=" {{ url('history') }}">BA History</a></li>
 </ul>
 @endsection
