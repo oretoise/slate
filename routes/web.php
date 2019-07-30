@@ -38,3 +38,6 @@ Route::get('/geosciences/{program}/{day}', function($program, $day) {
 
 // MJML Development Routing
 Route::get('/dev/{program}/{day}', 'MJML@dev_view');
+
+Route::get('/comp/{program}/{day}', 'MJML@compiled');
+Route::get('/compile/{program}/{day}', 'MJML@compile_view');
