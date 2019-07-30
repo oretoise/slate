@@ -35,3 +35,6 @@ Route::get('/geosciences/{program}/{day}', function($program, $day) {
     $program = 'geosciences/' . $program;
     return view($view)->with('program', $program);
 });
+
+// MJML Development Routing
+Route::get('/dev/{program}/{day}', 'MJML@dev_view');
