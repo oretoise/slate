@@ -14,7 +14,7 @@
 		    .info {padding-bottom: 10px;}
 			.img-center {display: none;}
 			.img-right {display: none;}
-            .icon {width: 24px; height: 24px;}
+            .icon {padding: 0px 5px 0px 5px;width: 24px; height: 24px;}
 			.small_message > a {color: #660000;}
 		    .social {padding-bottom: 10px;}
 		    .social > a > img {padding: 0px 5px 0px 5px;}
@@ -140,7 +140,7 @@
             <mj-column>
                 <mj-section>
                     <mj-column>
-                        <mj-text align="center">
+                        <mj-text align="center" padding-top="30px">
                             <a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
                             <img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
                             <a href="https://twitter.com/msstateonline" target="_blank">
