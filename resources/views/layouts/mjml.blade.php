@@ -43,16 +43,10 @@
         <mj-title>@yield('title')</mj-title>
     </mj-head>
     <mj-body background-color="#CCCCCC" width="750px">
-        <mj-section>
-            <mj-column>
-                <mj-text align="center" color="#777777" font-size="11px" padding="10px 10px 10px 10px" font-family="Helvetica">
-                </mj-text>
-            </mj-column>
-        </mj-section>
 
-        <mj-section background-url="https://cdn01.its.msstate.edu/i/basedrupal/1.0.5/img/background/bg_header.jpg">
+        <mj-section background-color="#660000">
             <mj-column>
-                <mj-image src="https://gallery.mailchimp.com/08645bc06c5353fea3c46c46c/images/ff0d6375-2b7e-462c-908d-a77f62d6cb0b.png"/>
+                <mj-image alt="Mississippi State University"src="https://goto.msstate.edu/www/images/Distance/headers/{{$program}}_header.png"/>
             </mj-column>
         </mj-section>
 
