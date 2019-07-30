@@ -1,14 +1,14 @@
 <mjml>
     <mj-head>
+        <mj-font href="https://fonts.googleapis.com/css?family=Roboto&display=swap" name="Roboto" />
         <mj-attributes>
             <mj-all padding="0" />
-	    <mj-all font-family="'Roboto', Arial, sans-serif" />
-	    <mj-all line-height="16px" />
-	    <mj-all font-size="13.3333px" />
+	        <mj-all font-family="'Roboto', Arial, sans-serif" />
+	        <mj-all line-height="16px" />
+	        <mj-all font-size="13.3333px" />
         </mj-attributes>
 
         <mj-style>
-            @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
             a {color: #007FA3;}
 			.apply {padding-top: 10px;}
 		    .info {padding-bottom: 10px;}
