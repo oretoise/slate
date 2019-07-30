@@ -107,7 +107,7 @@
 
         <mj-section background-color="#FFFFFF">
             <mj-column>
-                <mj-text padding="5px 20px 20px 20px">
+                <mj-text padding="5px 20px 0px 20px">
                     @yield('content')
                 </mj-text>
             </mj-column>
@@ -132,32 +132,20 @@
 
         <mj-section background-color="#000000" padding="20px 20px 20px 20px">
             <mj-column>
-                <mj-text color="#FFFFFF" font-size="16px">
+                <mj-text color="#FFFFFF" font-size="16px" line-height="19px" padding-bottom="10px">
                     <b>Center for Distance Education</b><br/>P.O Box 5247<br/>365 Barr Avenue<br/>Mississippi State, MS 39762
                 </mj-text>
             </mj-column>
 
             <mj-column>
-                <mj-table>
-                  <tr align="center">
-                    <td width="25%">
-                        <a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
-			<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
-                    </td>
-                    <td width="25%">
-                        <a href="https://twitter.com/msstateonline" target="_blank">
-			<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/twitter.svg" /></a>
-                    </td>
-                    <td width="25%">
-                        <a href="https://www.instagram.com/mississippistateonline/" target="_blank">
-			<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/instagram.svg" /></a>
-                    </td>
-                    <td width="25%">
-                        <a href="https://www.linkedin.com/company/mississippi-state-university-center-for-distance-education/" target="_blank">
-			<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/linkedin.svg" /></a>
-                    </td>
-                  </tr>
-                </mj-table>
+                <mj-section>
+			<mj-column>
+				<mj-text>
+				<a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
+				<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
+				</mj-text>
+			</mj-column>
+		</mj-section>
             </mj-column>
 
             <mj-column>
