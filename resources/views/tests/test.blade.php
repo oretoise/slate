@@ -1,4 +1,4 @@
-@extends('layouts.mjml_single')
+@extends('layouts.mjml')
 @section('content')
 <h3>Day 40 - Subject: Apply Now!</h3>
 <p>Dear *|FNAME|*,</p>
@@ -18,14 +18,9 @@
 @endsection
 
 @section('signature')
-    <b>Daphne Knox</b><br/>
-    <i>Program Coordinator</i><br/>
-    Mississippi State University<br/>
-    662.325.0658<br/>
-    <a href="mailto:dknox@distance.msstate.edu">dknox@distance.msstate.edu</a>
+    @include('signatures.dknox')
 @endsection
 
 @section('apply')
-    <a alias="apply_button" conversion="false" href="https://goo.gl/ky1CrT">
-    <img alt="Apply now!" border="0" mdid="9038c91d-e82d-4e03-a203-dd83f4a7ca62" src="https://gallery.mailchimp.com/08645bc06c5353fea3c46c46c/images/ffa56c4c-2485-42a1-b64c-0117a7873a74.png" st="M" style="border-color: #000000; margin: 0px; border-radius: 10px;" title="Apply now!"/></a>
+    @include('common.apply')
 @endsection

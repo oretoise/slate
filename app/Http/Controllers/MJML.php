@@ -11,6 +11,7 @@ class mjml extends Controller
 
         # Determine whether requesting list or specific email.
         if ($day) {
+            # TODO: Eventually this will be '/programs/' . $program . '/' . $day | '/home'
             $view = $program . "/" . $day;
         } else {
             $view = $program . "/home";
@@ -33,5 +34,17 @@ class mjml extends Controller
 
         # Return HTML output.
         return $mjml_output;
+    }
+
+    public function compiled($program, $day = Null) {
+        # Return compiled view of requested program and day.
+
+        if ($day) {
+            $view = '_compiled/' . $program . '/' . $day;
+        } else {
+            $view = '_compiled/' . $program . '/home';
+        }
+
+        return view($view)->with('program', $program);
     }
 }
