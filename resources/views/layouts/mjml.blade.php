@@ -139,13 +139,31 @@
 
             <mj-column>
                 <mj-section>
-			<mj-column>
-				<mj-text>
-				<a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
-				<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
-				</mj-text>
-			</mj-column>
-		</mj-section>
+                    <mj-column>
+                        <mj-text>
+                            <a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
+                            <img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text>
+                            <a href="https://twitter.com/msstateonline" target="_blank">
+			                <img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/twitter.svg" /></a>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text>
+                            <a href="https://www.instagram.com/mississippistateonline/" target="_blank">
+			                <img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/instagram.svg" /></a>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text>
+                            <a href="https://www.linkedin.com/company/mississippi-state-university-center-for-distance-education/" target="_blank">
+			                <img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/linkedin.svg" /></a>
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
             </mj-column>
 
             <mj-column>
