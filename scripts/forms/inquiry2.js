@@ -78,6 +78,7 @@ $("#interest").parent().parent().find(".form_responses").find("select").change(f
     $(".concentration").parent().parent().parent().hide();
     $("#undergrad_prog").parent().parent().find(".form_responses").find("select").prop("selectedIndex", 0);
     $("#grad_prog").parent().parent().find(".form_responses").find("select").prop("selectedIndex", 0);
+    $("#certificate").parent().parent().find(".form_responses").find("select").prop("selectedIndex", 0);
     
     var $select_value = $("#interest").parent().parent().find(".form_responses").find("select").val();
 
@@ -101,6 +102,7 @@ $("#interest").parent().parent().find(".form_responses").find("select").change(f
 $("#grad_prog").parent().parent().find(".form_responses").find("select").change(function() {
     $(".concentration").parent().parent().parent().hide();
     $("#undergrad_prog").parent().parent().find(".form_responses").find("select").prop("selectedIndex", 0);
+    $("#certificate").parent().parent().find(".form_responses").find("select").prop("selectedIndex", 0);
 
     // Grab value.
     var $select_value = $("#grad_prog").parent().parent().find(".form_responses").find("select").find(":selected").attr("data-text");
@@ -160,6 +162,7 @@ $("#grad_prog").parent().parent().find(".form_responses").find("select").change(
 $("#undergrad_prog").parent().parent().find(".form_responses").find("select").change(function() {
     $(".concentration").parent().parent().parent().hide();
     $("#grad_prog").parent().parent().find(".form_responses").find("select").prop("selectedIndex", 0);
+    $("#certificate").parent().parent().find(".form_responses").find("select").prop("selectedIndex", 0);
 
     // Grab value.
     var $select_value = $("#undergrad_prog").parent().parent().find(".form_responses").find("select").find(":selected").attr("data-text");
@@ -168,6 +171,7 @@ $("#undergrad_prog").parent().parent().find(".form_responses").find("select").ch
         "Business Administration (BBA)": "mj359",
         "Elementary Education (BS)": "vdt1",
         "Geoscience / Broadcast & Operational Met (BS)": "mwb6",
+        "History": "mwb6",
         "Industrial Technology (BS)": "vdt1",
         "Interdisciplinary Studies (BS)": "jnh102",
         "Psychology (BS)": "jnh102",
@@ -279,3 +283,6 @@ $(".how_option").parent().parent().parent().hide();
 $("#placeholder").parent().parent().parent().show();
 
 $(".hideme").parent().parent().parent().hide();
+
+// Fix font size.
+$("legend").css("font-size", "1rem");
