@@ -18,7 +18,7 @@ class mjml extends Controller
         }
 
         # Call Blade to render the requested view.
-        $blade = view($view)->render();
+        $blade = view($view)->with('program', $program)->render();
 
         # Create an MJML instance.
         $process = new Process("../node_modules/.bin/mjml --stdin --stdout");
