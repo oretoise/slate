@@ -2,6 +2,9 @@
     <mj-head>
         <mj-attributes>
             <mj-all padding="0" />
+	    <mj-all font-family="'Roboto', Arial, sans-serif" />
+	    <mj-all line-height="16px" />
+	    <mj-all font-size="13.3333px" />
         </mj-attributes>
 
         <mj-style>
@@ -98,13 +101,13 @@
         <mj-spacer height="20px" />
         <mj-section background-color="#660000">
             <mj-column>
-                <mj-image alt="Mississippi State University"src="https://goto.msstate.edu/www/images/Distance/headers/{{$program}}_header.png"/>
+                <mj-image padding-bottom="4px" alt="Mississippi State University"src="https://goto.msstate.edu/www/images/Distance/headers/{{$program}}_header.png"/>
             </mj-column>
         </mj-section>
 
         <mj-section background-color="#FFFFFF">
             <mj-column>
-                <mj-text padding="0px 10px 10px 20px" font-family="Helvetica" line-height="17px">
+                <mj-text padding="5px 20px 20px 20px">
                     @yield('content')
                 </mj-text>
             </mj-column>
@@ -112,7 +115,7 @@
 
         <mj-section background-color="#FFFFFF">
             <mj-column>
-                <mj-text padding="0px 20px 20px 20px" font-family="Helvetica">
+                <mj-text padding="0px 20px 20px 20px">
                     <div class="signature">
                         @yield('signature')
                     </div>
@@ -127,38 +130,38 @@
             </mj-column>
         </mj-section>
 
-        <mj-section background-color="#000000">
+        <mj-section background-color="#000000" padding="20px 20px 20px 20px">
             <mj-column>
-                <mj-text color="#FFFFFF" padding="10px 10px 10px 10px" font-family="Helvetica">
+                <mj-text color="#FFFFFF" font-size="16px">
                     <b>Center for Distance Education</b><br/>P.O Box 5247<br/>365 Barr Avenue<br/>Mississippi State, MS 39762
                 </mj-text>
             </mj-column>
 
             <mj-column>
-                <mj-table padding="10px 10px 10px 10px">
+                <mj-table>
                   <tr align="center">
                     <td width="25%">
                         <a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
-						<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
+			<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
                     </td>
                     <td width="25%">
                         <a href="https://twitter.com/msstateonline" target="_blank">
-						<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/twitter.svg" /></a>
+			<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/twitter.svg" /></a>
                     </td>
                     <td width="25%">
                         <a href="https://www.instagram.com/mississippistateonline/" target="_blank">
-						<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/instagram.svg" /></a>
+			<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/instagram.svg" /></a>
                     </td>
                     <td width="25%">
                         <a href="https://www.linkedin.com/company/mississippi-state-university-center-for-distance-education/" target="_blank">
-						<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/linkedin.svg" /></a>
+			<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/linkedin.svg" /></a>
                     </td>
                   </tr>
                 </mj-table>
             </mj-column>
 
             <mj-column>
-                <mj-image src="http://devel.distance.msstate.edu/images/msstate_flipped.png" width="170" align="right" padding="10px 10px 10px 0" />
+                <mj-text align="right" css-class="divider_footer logo"><img src="http://devel.distance.msstate.edu/images/msstate_flipped.png" width="170px" /></mj-text>
             </mj-column>
         </mj-section>
     </mj-body>
