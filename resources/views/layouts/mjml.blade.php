@@ -46,7 +46,7 @@
 
         <mj-section background-color="#660000">
             <mj-column>
-                <mj-image alt="Mississippi State University"src="https://goto.msstate.edu/www/images/Distance/headers/{{$program}}_header.png"/>
+                <mj-image padding-top="20px" alt="Mississippi State University"src="https://goto.msstate.edu/www/images/Distance/headers/{{$program}}_header.png"/>
             </mj-column>
         </mj-section>
 
@@ -78,49 +78,35 @@
         <mj-section background-color="#000000">
             <mj-column>
                 <mj-text color="#FFFFFF" padding="10px 10px 10px 10px" font-family="Helvetica">
-                    <b>*|USER:COMPANY|*</b><br>
-                    *|USER:ADDRESS|*
+                    <b>Center for Distance Education</b><br/>P.O Box 5247<br/>365 Barr Avenue<br/>Mississippi State, MS 39762
                 </mj-text>
             </mj-column>
 
             <mj-column>
                 <mj-table padding="10px 10px 10px 10px">
                   <tr align="center">
-                    <td width="20%">
-                        <a href="https://www.facebook.com/Distance.Education.MSU" target="_blank" style="color:#fff;">
-                            <img src="http://distance.msstate.edu/images/global/social/facebook.png" /></a>
+                    <td width="25%">
+                        <a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
+						<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
                     </td>
-                    <td width="20%">
-                        <a href="https://twitter.com/MSStateDistance" target="_blank" style="color:#fff;">
-                            <img src="http://distance.msstate.edu/images/global/social/twitter.png" /></a>
+                    <td width="25%">
+                        <a href="https://twitter.com/msstateonline" target="_blank">
+						<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/twitter.svg" /></a>
                     </td>
-                    <td width="20%">
-                        <a href="https://instagram.com/msstatedistance/" target="_blank" style="color:#fff;">
-                            <img src="http://distance.msstate.edu/images/global/social/instagram.png" /></a>
+                    <td width="25%">
+                        <a href="https://www.instagram.com/mississippistateonline/" target="_blank">
+						<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/instagram.svg" /></a>
                     </td>
-                    <td width="20%">
-                        <a href="http://www.linkedin.com/company/mississippi-state-university-center-for-distance-education?trk=company_name" target="_blank" style="color:#fff;">
-                            <img src="http://distance.msstate.edu/images/global/social/linkedIn.png" /></a>
-                    </td>
-                    <td width="20%">
-                        <a href="https://www.pinterest.com/msstatedistance/" target="_blank" style="color:#fff;">
-                            <img src="http://distance.msstate.edu/images/global/social/pinterest.png" /></a>
+                    <td width="25%">
+                        <a href="https://www.linkedin.com/company/mississippi-state-university-center-for-distance-education/" target="_blank">
+						<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/linkedin.svg" /></a>
                     </td>
                   </tr>
                 </mj-table>
             </mj-column>
 
             <mj-column>
-                <mj-image src="http://distance.msstate.edu/images/distance/distance@StateStacked.png" width="125" align="right" padding="10px 10px 10px 0" />
-            </mj-column>
-        </mj-section>
-
-        <mj-section>
-            <mj-column>
-                <mj-text align="center" color="#777777" font-size="11px" padding="10px 10px 10px 10px" font-family="Helvetica">
-                    You are receiving this because you signed up at <a href="http://msstate.edu/" style="color: #660000">msstate.edu</a> or with one of our education partners.<br/><br/>
-                    Not interested anymore? <a href="*|UNSUB|*" target="_blank" style="color: #660000">Unsubscribe</a>.
-                </mj-text>
+                <mj-image src="http://devel.distance.msstate.edu/images/msstate_flipped.png" width="170" align="right" padding="10px 10px 10px 0" />
             </mj-column>
         </mj-section>
     </mj-body>
