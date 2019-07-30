@@ -10,4 +10,4 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 /scripts/__pycache__
-/resources/views/_compiled
+/resources/views/_compiled/*.php
