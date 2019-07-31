@@ -141,13 +141,13 @@
                     <mj-column>
                         <mj-text css-class="social" align="center">
                             <a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
-                            <img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
+                            <img class="icon" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/fb_icon.png" /></a>
                             <a href="https://twitter.com/msstateonline" target="_blank">
-			                <img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/twitter.svg" /></a>
+			                <img class="icon" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/tw_icon.png" /></a>
                             <a href="https://www.instagram.com/mississippistateonline/" target="_blank">
-			                <img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/instagram.svg" /></a>
+			                <img class="icon" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/ig_icon.png" /></a>
                             <a href="https://www.linkedin.com/company/mississippi-state-university-center-for-distance-education/" target="_blank">
-			                <img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/linkedin.svg" /></a>
+			                <img class="icon" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/li_icon.png" /></a>
                         </mj-text>
                     </mj-column>
                 </mj-section>
