@@ -1,4 +1,4 @@
-<mjml>
+<mjml owa="desktop">
     <mj-head>
         <mj-font href="https://fonts.googleapis.com/css?family=Roboto&display=swap" name="Roboto" />
         <mj-attributes>
