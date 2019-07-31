@@ -10,21 +10,21 @@
 
         <mj-style>
             a {color: #007FA3;}
-			.apply {padding-top: 10px;}
+			.apply {display:block;padding-left:20px;}
 		    .info {padding-bottom: 10px;}
 			.img-center {display: none;}
 			.img-right {display: none;}
             .icon {padding: 0px 5px 0px 5px;width: 24px; height: 24px;}
+			#logo {padding-top: 10px; margin-left:auto;margin-right:auto; display:block;}
 			.small_message > a {color: #660000;}
 		    .social {padding-bottom: 10px;}
-		    .social > a > img {padding: 0px 5px 0px 5px;}
+		    .social > div > a > img {padding: 10px 5px 10px 5px;}
 			.divider > img {padding: 0px 5px 10px 5px;}
 			.wrapper {margin: auto;}
             div {font-family: 'Roboto', Arial, sans-serif;}
 
 			table, tbody, tr, td {
 				padding:0; margin:0; border-collapse: collapse;
-				width: 100%;
 			}
 
         	body {
@@ -52,14 +52,11 @@
 		    }
 
 			.divider {
-				width: 100%;
-				display: block;
 				padding-bottom: 5px;
 			}
 
 			.divider_footer {
 				display: block;
-				width: 100%;
 			}
 
 			@media only screen and (min-width: 610px) {
@@ -68,6 +65,8 @@
 					display: block;
 		    		padding: 0px 0px 10px 10px;
                 }
+				.apply {
+					float: right;}
 			}
 
 			@media only screen and (min-width: 730px) {
@@ -83,13 +82,13 @@
 
         	@media only screen and (min-width: 500px) {
 				.divider {display:table-cell;}
-				.divider_footer {display:table-cell;width:33.3%;}
+				.divider_footer {display:table-cell;}
 				.info {text-align: left;}
-				.logo {text-align:right;}
+				.logo {text-align:right;float:right;display:block;}
                 .staff {width: auto; padding: 5px 5px 5px 5px;}
 				.wrapper {max-width: 750px;}
 
-			    .social {
+			    .social > div > a > img {
 			    	margin-top:auto;
 			    	margin-bottom:auto;
 			    }
@@ -122,11 +121,11 @@
                 </mj-text>
             </mj-column>
             <mj-column>
-                <mj-raw>
-                    <div class="apply">
+                <mj-text align="right" padding="0px 20px 10px 0px">
+                    <div>
                         @yield('apply')
                     </div>
-                </mj-raw>
+                </mj-text>
             </mj-column>
         </mj-section>
 
@@ -140,7 +139,7 @@
             <mj-column>
                 <mj-section>
                     <mj-column>
-                        <mj-text align="center" padding-top="30px">
+                        <mj-text css-class="social" align="center">
                             <a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
                             <img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
                             <a href="https://twitter.com/msstateonline" target="_blank">
@@ -155,7 +154,7 @@
             </mj-column>
 
             <mj-column>
-                <mj-text align="right" css-class="divider_footer logo"><img src="http://devel.distance.msstate.edu/images/msstate_flipped.png" width="170px" /></mj-text>
+                <mj-text css-class="divider_footer logo"><img id="logo" src="http://devel.distance.msstate.edu/images/msstate_flipped.png" width="170px" /></mj-text>
             </mj-column>
         </mj-section>
     </mj-body>
