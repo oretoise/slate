@@ -1,11 +1,11 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for checking out MSU’s online History program!</h3>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/history/history_1.png" />
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you for checking out MSU’s online Bachelor of Arts (BA) in History degree program.</p>
 <p>The BA in History degree program is designed both for students who want to complete or start their degree completely online.</p>

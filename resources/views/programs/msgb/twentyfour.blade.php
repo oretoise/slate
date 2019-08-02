@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 24 - Subject: Need an endorsement? Want to teach?</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/msgb/msgb_2.png" />
 

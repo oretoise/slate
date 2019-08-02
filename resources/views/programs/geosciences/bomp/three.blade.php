@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 3 - Subject: Broadcast/Operational Meteorology Flyer</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>
 	<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/bomp/bomp_1.png" />

@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 3 - Subject: What can you teach with a MATS degree from MSU?</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>You can earn your initial licensure and then teach full time in the state of MS while completing the MATS degree online!  Our <a href="https://online.msstate.edu/mats/licensure-endorsements/">licensure and endorsements</a> page provides detailed information regarding that process.</p>
 

@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 62 - Subject: The Bulldog Family wants you!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>I wanted to touch-base with you to see if you had any questions about the Master of Arts in Teaching in Community College Education (MATCED) online program.</p>
 

@@ -1,4 +1,4 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 42 - Subject: Be a Bulldog -- MSU Traditions</h3>

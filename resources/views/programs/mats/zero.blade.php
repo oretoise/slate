@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for your interest in the MATS at MSU!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you for your interest in the online Master of Arts in Teaching-Secondary Teacher Alternate Route (MATS) degree program at Mississippi State University (MSU)!</p>
 

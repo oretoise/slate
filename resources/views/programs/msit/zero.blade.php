@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thanks for your interest in the Online MS in Instructional Technology!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you for your interest in the online Master of Science in Instructional Technology (MSIT) degree program at Mississippi State University (MSU)!</p>
 

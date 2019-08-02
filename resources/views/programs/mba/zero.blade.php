@@ -1,9 +1,9 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for your interest in our online MBA program!</h3>
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/bba/Student_Computer_B4W5425.jpg"/>
 
 <p>Thank you for your interest in our distance Master of Business Administration program at Mississippi State University.</p>

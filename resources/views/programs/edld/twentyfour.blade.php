@@ -1,4 +1,4 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 24 - Subject: How Much Will Your Online Degree Cost?</h3>

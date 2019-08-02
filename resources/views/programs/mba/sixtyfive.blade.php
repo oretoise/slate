@@ -1,9 +1,9 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 65 - Subject: The Bulldog family wants you!</h3>
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>As your distance coordinator, I am here to assist you with any questions you have regarding the <a href="https://online.msstate.edu/mba">Online MBA program</a>.   Remember, the sooner you complete your application, the closer you are to reaching your educational goals.</p>
 

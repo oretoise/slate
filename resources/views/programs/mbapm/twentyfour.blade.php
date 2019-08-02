@@ -1,4 +1,4 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 24 - Subject: Hear from our Online MBA-PM Students</h3>

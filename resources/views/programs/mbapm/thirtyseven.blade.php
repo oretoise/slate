@@ -1,10 +1,10 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 37 - Subject: Hear from our online MBA-PM Faculty</h3>
 
 <p>
-    Dear @{{First}},
+    Dear @@{{First}},
 </p>
 
 <p>

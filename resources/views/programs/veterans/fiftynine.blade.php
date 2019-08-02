@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 59 - Subject: The Bulldog family wants you!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>The VCP was designed to train individuals who currently work or want to work in the VA benefits arena to help veterans and their dependents successfully transition to civilian life.</p>
 

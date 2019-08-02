@@ -1,9 +1,9 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thanks for your interest in the Wellness Coaching Certificate!</h3>
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you for your interest in our online Clinical Health Promotion and Wellness Coaching graduate certificate at Mississippi State University.</p>
 

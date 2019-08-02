@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 55 - Subject: The Bulldog family wants you!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you again for your interest in the <a href="https://online.msstate.edu/bba">Online BBA program</a> at Mississippi State University. I just wanted to touch base with you again to see if you had any follow up questions.</p>
 

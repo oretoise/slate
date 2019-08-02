@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 5 - Subject: What will I be able to teach?</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>You can earn your initial licensure and then teach full time in the state of MS while completing the SEED degree online!</p>
 

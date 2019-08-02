@@ -1,9 +1,9 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 17 - Subject: Meet the AMP Program Coordinator</h3>
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/staff/joy_bailey.png" />
 

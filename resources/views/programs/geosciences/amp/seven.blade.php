@@ -1,9 +1,9 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 7 - Subject: What is required for AMP?</h3>
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/geosciences/amp/amp_2.png" />
 

@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for checking out MSU’s online BSIS program!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 <p>Thank you for checking out the MSU’s 100% online Bachelor of Science in Interdisciplinary Studies (BSIS) degree program.</p>
 
 <p>

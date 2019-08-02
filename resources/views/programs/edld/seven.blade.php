@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 7 - Subject: Career Paths with the EDLD-EDLS Degree</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/edld/edld_2.png" />
 

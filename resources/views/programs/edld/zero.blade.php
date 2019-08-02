@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for your interest in MSU's online EDLD-EDLS degree</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 <p>Thank you for your interest in the online Master of Science in Educational Leadership with a concentration in School Administration (EDLD-EDLS) at Mississippi State University (MSU)!  This program is designed to prepare educators for careers as school administrators.</p>
 <p>EDLD-EDLS online program highlights:</p>
 <ul>

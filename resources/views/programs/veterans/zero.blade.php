@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for checking out the VCP!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you for checking out the Veterans’ Certificate Program (VCP) at Mississippi State University (MSU)! The purpose of this online program is to provide the needed knowledge, competencies, and skills for individuals to work with veterans in various venues.</p>
 <p><b>Program highlights:</b></p>

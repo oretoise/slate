@@ -1,9 +1,9 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 5 - Subject: If you have questions, we have answers!</h3>
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Wondering is the time to start is now?  Here are some answers to frequently asked question to help you confidently take the next step.</p>
 

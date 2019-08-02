@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 10 - Subject: Meet your MATX Team!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>We'd love to get to know you. Contact us with any question you may have about the MATX program.</p>
 

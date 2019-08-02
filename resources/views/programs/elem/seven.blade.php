@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 7 - Subject: Meet your team!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 <p>At Mississippi State University, you have a team of staff who will support you in your pursuit of an Elementary Education degree.</p>
 
 <table style="width: 450px; margin: auto;">

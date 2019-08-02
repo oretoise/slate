@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for checking out MSU’s online Elementary Education program!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>
 	<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/elem/elem1.png" />

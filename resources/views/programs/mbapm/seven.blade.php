@@ -1,9 +1,9 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 7 - Subject: Have You Applied for the MBA-PM Program?</h3>
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 <p>Start your application for the online MBA today! Keep in mind the application deadlines and remember, the earlier you submit your application, the better chance you have of getting into the classes you need.</p>
 
 <p>Your application must be submitted by the semester deadline in which you plan to enroll:</p>

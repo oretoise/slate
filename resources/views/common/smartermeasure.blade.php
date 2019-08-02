@@ -1,4 +1,4 @@
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>
     <img class="img-right" src="https://gallery.mailchimp.com/08645bc06c5353fea3c46c46c/images/a85dcde8-ed1c-4236-aea7-815745dca6c5.png"/>

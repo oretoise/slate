@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for your interest in our Community College Leadership degree!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you for your interest in the online PhD in Community College Leadership (PHCL) program at Mississippi State University (MSU)!  This doctoral program is designed to prepare professionals for leadership positions in community colleges.</p>
 

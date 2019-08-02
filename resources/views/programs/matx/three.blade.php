@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 3 - Subject: Important Info about Licensure and MATX</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you again for your interest in our distance Master of Arts in Teaching—Special Education (MATX) at Mississippi State University (MSU).</p>
 

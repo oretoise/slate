@@ -2,7 +2,7 @@
 @section('content')
 <h3>Day 10 - Subject: Apply Now!</h3>
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/agriculture/agri_2.png" />
 

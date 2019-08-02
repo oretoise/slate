@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 17 - Subject: Meet your History program team!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 <p>Here at Mississippi State University, you have a team of staff who are here to support you in 
 your pursuit of your degree. Meet your team!</p>
 

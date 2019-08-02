@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 3 - Subject: Check out the MATCED courses!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>The MATCED is a 30 credit-hour degree program.  You can visit the <a href="https://online.msstate.edu/matced/course-descriptions">Course Descriptions</a> for an overview of these hours.</p>
 

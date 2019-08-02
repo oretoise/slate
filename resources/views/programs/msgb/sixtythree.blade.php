@@ -1,11 +1,11 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 63 - Subject: The Bulldog family wants you!</h3>
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/msgb/msgb_banner.png" />
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>The sooner you get your application completed, the closer you are to reaching your educational goals.</p>
 

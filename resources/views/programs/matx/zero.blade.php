@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for your interest in the MATX at MSU!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you for your interest in the online Master of Arts in Teaching-Special Education (MATX) degree program at Mississippi State University (MSU)! The MATX prepares individuals to teach mild to moderate special education classes in grades K-12.</p>
 

@@ -1,9 +1,9 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thanks for your interest in the AGRI program!</h3>
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you for your interest in the online Master of Agriculture with a concentration in Animal and Dairy Sciences (AGRI) program at Mississippi State University.</p>
 

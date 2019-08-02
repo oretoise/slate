@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 10 - Subject: What Can You do with this Degree?</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 <p>
 	<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/bomp/bomp_3.png" />
 	Did you know that one in three current broadcast meteorologists were trained through Mississippi State University?

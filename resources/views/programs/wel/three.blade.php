@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 3 - Subject: If you have questions, we have answers!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Wondering if the time to start the Master of Science in Workforce Education Leadership is now? Here are answers to frequently asked questions to help you confidently take the next step.</p>
 

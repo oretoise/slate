@@ -1,9 +1,9 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for checking out MSU’s Online Health Promotion program!</h3>
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you for your interest in the online <b>Master of Science in Food Science, Nutrition, and Health Promotion with a concentration in Health Promotion</b> at Mississippi State University.</p>
 

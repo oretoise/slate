@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 5 - Subject: Common Questions about the MSIT Degree</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Wondering if the time to start the MS in Instructional Technology is now? Here are some answers to frequently asked questions to help you confidently take the next step.</p>
 

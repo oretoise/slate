@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 5 - Subject: If you have questions, we have answers!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Wondering if the time to start the PhD in Community College Leadership (PHCL) is now? Here are some answers to frequently asked questions to help you confidently take the next step.</p>
 

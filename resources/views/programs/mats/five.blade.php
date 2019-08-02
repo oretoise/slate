@@ -1,8 +1,8 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 5 - Subject: Important info about licensure and MATS at MSU!</h3>
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you again for your interest in our distance Master of Arts in Teaching—Secondary Teacher Alternative Route (MATS) at Mississippi State University (MSU).</p>
 

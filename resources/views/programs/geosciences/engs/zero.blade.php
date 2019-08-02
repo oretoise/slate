@@ -1,9 +1,9 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for checking out MSU's online Environmental Geosciences program!</h3>
 
-<p>Dear @{{First}},</p>
+<p>Dear @@{{First}},</p>
 
 <p>Thank you for your interest in the online Master of Science in Geosciences with a concentration in Environmental Geosciences. The program is designed for students interested in graduate study of a broad cross-section of the geosciences.  Program highlights include:</p>
 
