@@ -52,9 +52,9 @@ class mjml extends Controller
         # TODO: Update this to /programs/...
         # Use for /tests/test right now
         if ($day) {
-            $view = $program . "/" . $day;
+            $view = "/programs/" . $program . "/" . $day;
         } else {
-            $view = $program . "/home";
+            $view = "/programs/" . $program . "/home";
         }
 
         # Call Blade to render the requested view.
@@ -71,8 +71,11 @@ class mjml extends Controller
 
         # Store its output in a variable.
         $mjml_output = $process->getOutput();
-
-	    $filename = "../resources/views/_compiled/" . $program . "/" . $day . ".blade.php";
+	$directory = "../resources/views/_compiled/" . $program;
+	if (!file_exists($directory)) {
+		mkdir($directory, 0755, true);
+	}
+	$filename = "../resources/views/_compiled/" . $program . "/" . $day . ".blade.php";
         $myfile = fopen($filename, "w") or die("Unable to open file!");
         fwrite($myfile, $mjml_output);
         fclose($myfile);
@@ -89,10 +92,12 @@ class mjml extends Controller
         for($x = 0; $x < count($files); $x++) {
             $file_stems[$x] = explode(".", $files[$x])[0];
         }
+	array_splice($file_stems, 0, 2);
+	print_r($file_stems);
 
         # Run each through the compiler.
         for($y = 0; $y < count($file_stems); $y++) {
-            compile_view($program, $file_stems[$y]);
+            $this->compile_view($program, $file_stems[$y]);
         }
 
         echo "Compiled plan. Visit at /comp/" . $program . "/ .";
