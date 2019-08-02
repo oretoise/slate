@@ -11,10 +11,9 @@ class mjml extends Controller
 
         # Determine whether requesting list or specific email.
         if ($day) {
-            # TODO: Eventually this will be '/programs/' . $program . '/' . $day | '/home'
-            $view = $program . "/" . $day;
+            $view = "/programs/" . $program . "/" . $day;
         } else {
-            $view = $program . "/home";
+            $view = "/programs/" . $program . "/home";
         }
 
         # Call Blade to render the requested view.
