@@ -15,6 +15,9 @@ Route::get('/', function () {
     return view('home')->with('program', 'home');
 });
 
+Route::get('/dev/{program}', 'MJML@dev_view');
+Route::get('/dev/{program}/{day}', 'MJML@dev_view');
+
 Route::get('/{program}', function($program) {
     $view = '/programs/' . $program . '/home';
     return view($view)->with('program', $program);
@@ -39,6 +42,6 @@ Route::get('/geosciences/{program}/{day}', function($program, $day) {
 });
 
 // MJML Development Routing
-Route::get('/dev/{program}/{day}', 'MJML@dev_view');
+
 
 Route::get('/compile/{program}/{day}', 'MJML@compile_view');
