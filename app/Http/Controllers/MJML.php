@@ -109,6 +109,7 @@ class mjml extends Controller
 
     public function listing() {
         $plans = scandir("../resources/views/programs");
+        array_splice($plans, 0, 2);
 
         return view('listing', compact('plans'));
     }

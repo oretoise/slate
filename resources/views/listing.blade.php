@@ -24,7 +24,7 @@
                                 <tr>
                                     <td><b>{{ $plan }}</b></td>
                                     <td>
-                                        <button type="submit" onclick="" class="btn btn-info">Compile</button>
+                                        <button type="submit" onclick="compile({{$plan}})" class="btn btn-info">Compile</button>
                                     </td>
                                 </tr>
                             @endforeach
