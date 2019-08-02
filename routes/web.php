@@ -13,6 +13,7 @@
 
 // Homepage. Currently on dev view. TODO: Switch to compiled.
 Route::get('/', 'MJML@dev_view');
+Route::get('/listing', 'MJML@listing');
 
 // Compiled program view.
 Route::get('/comp/{program}', 'MJML@compiled');

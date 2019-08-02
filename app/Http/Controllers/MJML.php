@@ -106,4 +106,10 @@ class mjml extends Controller
         # TODO: Return JSON for AJAX.
         echo "Compiled plan. Visit at /comp/" . $program . "/ .";
     }
+
+    public function listing() {
+        $plans = scandir("../resources/views/programs");
+
+        return view('listing', compact('plans'));
+    }
 }
