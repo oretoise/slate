@@ -49,13 +49,9 @@ class mjml extends Controller
     }
 
     public function compile_view($program, $day = Null) {
-        # TODO: Update this to /programs/...
-        # Use for /tests/test right now
-        if ($day) {
-            $view = "/programs/" . $program . "/" . $day;
-        } else {
-            $view = "/programs/" . $program . "/home";
-        }
+
+        # Determine view file. (Homepages are included, so no need to exclude).
+        $view = "/programs/" . $program . "/" . $day;
 
         # Call Blade to render the requested view.
         $blade = view($view)->with('program', $program)->render();
@@ -71,16 +67,18 @@ class mjml extends Controller
 
         # Store its output in a variable.
         $mjml_output = $process->getOutput();
-	$directory = "../resources/views/_compiled/" . $program;
-	if (!file_exists($directory)) {
-		mkdir($directory, 0755, true);
-	}
-	$filename = "../resources/views/_compiled/" . $program . "/" . $day . ".blade.php";
+
+        # Make output directory if it doesn't exist.
+	    $directory = "../resources/views/_compiled/" . $program;
+	    if (!file_exists($directory)) {
+		    mkdir($directory, 0755, true);
+        }
+        
+        # Write MJML's output to the new blade file.
+	    $filename = "../resources/views/_compiled/" . $program . "/" . $day . ".blade.php";
         $myfile = fopen($filename, "w") or die("Unable to open file!");
         fwrite($myfile, $mjml_output);
         fclose($myfile);
-
-        #echo "done";
     }
 
     public function compile_plan($program) {
@@ -92,14 +90,16 @@ class mjml extends Controller
         for($x = 0; $x < count($files); $x++) {
             $file_stems[$x] = explode(".", $files[$x])[0];
         }
-	array_splice($file_stems, 0, 2);
-	print_r($file_stems);
-
+        
+        # Remove . and .. from scandir() output array.
+        array_splice($file_stems, 0, 2);
+        
         # Run each through the compiler.
         for($y = 0; $y < count($file_stems); $y++) {
             $this->compile_view($program, $file_stems[$y]);
         }
 
+        # TODO: Return JSON for AJAX.
         echo "Compiled plan. Visit at /comp/" . $program . "/ .";
     }
 }
