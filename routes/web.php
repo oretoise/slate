@@ -20,6 +20,8 @@ Route::get('/{program}', function($program) {
     return view($view)->with('program', $program);
 });
 
+Route::get('/compile_plan/{program}', 'MJML@compile_plan');
+
 Route::get('/{program}/{day}', function($program, $day) {
     if ($program == 'geosciences') {
         $view = '/programs/geosciences/' . $day . '/home';

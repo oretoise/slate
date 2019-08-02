@@ -72,11 +72,17 @@ class mjml extends Controller
         # Store its output in a variable.
         $mjml_output = $process->getOutput();
 
-	$filename = "../resources/views/_compiled/" . $program . "/" . $day . ".blade.php";
+	    $filename = "../resources/views/_compiled/" . $program . "/" . $day . ".blade.php";
         $myfile = fopen($filename, "w") or die("Unable to open file!");
         fwrite($myfile, $mjml_output);
         fclose($myfile);
 
         echo "done";
+    }
+
+    public function compile_plan($program) {
+        $files = scandir("../resources/views/programs" . $program);
+
+        print_r($files);
     }
 }
