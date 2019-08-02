@@ -15,6 +15,11 @@ class mjml extends Controller
         } else {
             $view = "/programs/" . $program . "/home";
         }
+		
+		if ($program == Null) {
+			$view = "home";
+			$program = "home";
+		}
 
         # Call Blade to render the requested view.
         $blade = view($view)->with('program', $program)->render();

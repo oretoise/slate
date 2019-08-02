@@ -11,13 +11,20 @@
 |
 */
 
-Route::get('/', function () {
-    return view('home')->with('program', 'home');
-});
+// Homepage. Currently on dev view. TODO: Switch to compiled.
+Route::get('/', 'MJML@dev_view');
 
+// Compiled program view.
+Route::get('/comp/{program}', 'MJML@compiled');
+
+// Compiled program/day view.
+Route::get('/comp/{program}/{day}', 'MJML@compiled');
+
+// Dev views.
 Route::get('/dev/{program}', 'MJML@dev_view');
 Route::get('/dev/{program}/{day}', 'MJML@dev_view');
 
+// TODO: Remove this, but for now it catches anything else.
 Route::get('/{program}', function($program) {
     $view = '/programs/' . $program . '/home';
     return view($view)->with('program', $program);
