@@ -77,12 +77,24 @@ class mjml extends Controller
         fwrite($myfile, $mjml_output);
         fclose($myfile);
 
-        echo "done";
+        #echo "done";
     }
 
     public function compile_plan($program) {
-        $files = scandir("../resources/views/programs" . $program);
+        # Array of filenames.
+        $files = scandir("../resources/views/programs/" . $program);
+        $file_stems = array();
 
-        print_r($files);
+        # Get just the first part.
+        for($x = 0; $x < count($files); $x++) {
+            $file_stems[$x] = explode(".", $files[$x])[0];
+        }
+
+        # Run each through the compiler.
+        for($y = 0; $y < count($file_stems); $y++) {
+            compile_view($program, $file_stems[$y]);
+        }
+
+        echo "Compiled plan. Visit at /comp/" . $program . "/ .";
     }
 }
