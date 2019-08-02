@@ -32,6 +32,10 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <link href="https://cdn.jsdelivr.net/npm/timepicker@1.11.12/jquery.timepicker.min.css" rel="stylesheet">
+
+    <style>
+        .alert {display: none;}
+    </style>
 </head>
 <body>
     <div id="app">

@@ -10,11 +10,7 @@
                 <div class="card-header">Communication Plans</div>
 
                 <div class="card-body">
-                    @if (\Session::has('success'))
-                        <div class="alert alert-success">
-                            {{ \Session::get('success') }}
-                        </div>
-                    @endif
+                    <div class="alert alert-success"></div>
 
                     <table class="table table-striped">
                         <thead>
@@ -28,11 +24,7 @@
                                 <tr>
                                     <td><b>{{ $plan }}</b></td>
                                     <td>
-                                        <form method="post" action="{{ action('MJML@compile_plan') }}">
-                                            @csrf
-                                            <input type="hidden" value="{{ $plan }}" name="program">
-                                            <button type="submit" class="btn btn-info">Compile</button>
-                                        </form>
+                                        <button type="submit" onclick="" class="btn btn-info">Compile</button>
                                     </td>
                                 </tr>
                             @endforeach
@@ -43,4 +35,19 @@
         </div>
     </div>
 </div>
+
+<script>
+    function compile(plan) {
+        xhttp.onreadystatechange = function() {
+            if (this.readyState = 4 && this.status == 200) {
+                // Set success message.
+                $(".alert .alert-success").html(this.responseText);
+                $(".alert .alert-success").show();
+            }
+        }
+
+        xhttp.open("GET", "{{ route('comp_plan', ['program' => " + plan + "]) }}", true);
+        xhttp.send();
+    }
+</script>
 @endsection
