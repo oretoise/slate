@@ -24,7 +24,7 @@
                                 <tr>
                                     <td><b>{{ $plan }}</b></td>
                                     <td>
-                                        <button type="submit" onclick="compile({{$plan}})" class="btn btn-info">Compile</button>
+                                        <button type="submit" onclick="compile('{{$plan}}')" class="btn btn-info">Compile</button>
                                     </td>
                                 </tr>
                             @endforeach
@@ -42,12 +42,13 @@
         xhttp.onreadystatechange = function() {
             if (this.readyState = 4 && this.status == 200) {
                 // Set success message.
-                $(".alert .alert-success").html(this.responseText);
-                $(".alert .alert-success").show();
+                $("div .alert").html(this.responseText);
+				console.log(this.responseText);
+                $("div .alert").show();
             }
         }
 
-        xhttp.open("GET", "{{ route('comp_plan', ['program' => " + plan + "]) }}", true);
+        xhttp.open("GET", "/slate/compile_plan/" + plan, true);
         xhttp.send();
     }
 </script>
