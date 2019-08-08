@@ -7,17 +7,17 @@
 <table style="width: 550px; margin: auto;">
     <tr>
         <td class="divider social">
-            <a href="https://www.facebook.com/Distance.Education.MSU">
+            <a href="https://www.facebook.com/MississippiStateUniversityOnline">
                 <img src="https://goto.msstate.edu/www/images/Distance/social/facebook_100.png"/>
             </a>
         </td>
         <td class="divider social">
-            <a href="https://twitter.com/MSStateDistance">
+            <a href="https://twitter.com/msstateonline">
                 <img src="https://goto.msstate.edu/www/images/Distance/social/twitter_100.png" />
             </a>
         </td>
         <td class="divider social">
-            <a href="https://www.instagram.com/msstatedistance/">
+            <a href="https://www.instagram.com/mississippistateonline/">
                 <img src="https://goto.msstate.edu/www/images/Distance/social/instagram_100.png" />
             </a>
         </td>

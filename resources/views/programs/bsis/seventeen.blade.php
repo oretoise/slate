@@ -4,6 +4,8 @@
 <h3>Day 17 - Subject: Meet your team!</h3>
 <p>Dear @@{{First}},</p>
 
+<p>Here at Mississippi State University, you have a team of staff who are here to support you in your pursuit of your degree. Meet your team!</p>
+
 <table style="width: 450px; margin: auto;">
     <tbody>
         <tr>
@@ -35,6 +37,8 @@
         </tr>
     </tbody>
 </table>
+
+<p>Kali and I are here to help. We look forward to working with you!</p>
 @endsection
 
 @section('signature')

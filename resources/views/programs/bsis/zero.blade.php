@@ -9,14 +9,13 @@
 	Our BSIS degree allows students maximum flexibility to customize a curriculum that aligns with their personal and career goals. Students may choose from the following emphasis areas within the BSIS degree:
 
 	<ul>
-		<li>Business Technology</li>
 		<li>Communication</li>
 		<li>Criminology</li>
 		<li>General Business</li>
+		<li>General Technology</li>
 		<li>Geosciences</li>
 		<li>Health Promotion</li>
 		<li>History</li>
-		<li>Instructional Technology</li>
 		<li>Kinesiology</li>
 		<li>Manufacturing Management</li>
 		<li>Psychology</li>
