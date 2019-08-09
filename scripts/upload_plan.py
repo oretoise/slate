@@ -383,7 +383,5 @@ if __name__ == "__main__":
     # Parse CLI arguments
     ARGS = arguments()
 
-    
-
     # Call main function with argument data.
     main(ARGS.Acronym)
