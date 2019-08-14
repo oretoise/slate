@@ -18,13 +18,16 @@ Route::get('/', 'MJML@dev_view');
 Route::get('/listing', 'MJML@listing');
 
 // Compiled program views.
-Route::get('/{program}', 'MJML@compiled');
+Route::get('/{program}', function($program) {
+    $view = '/_compiled/' . $program . '/home';
+    return view($view)->with('program', $program);
+});
 Route::get('/{program}/{day}', function($program, $day) {
     if ($program == 'geosciences') {
         $view = '/_compiled/geosciences/' . $day . '/home';
         $program = 'geosciences/' . $day;
     } else {
-        $view = '/programs/' . $program . '/' . $day;
+        $view = '/_compiled/' . $program . '/' . $day;
     }
     return view($view)->with('program', $program);
 });
