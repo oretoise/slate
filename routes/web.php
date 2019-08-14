@@ -13,17 +13,28 @@
 
 // Homepage. Currently on dev view. TODO: Switch to compiled.
 Route::get('/', 'MJML@dev_view');
+
+// Listing (needs revisions)
 Route::get('/listing', 'MJML@listing');
 
+// Dev program view.
+Route::get('/dev/geosciences/{program}', 'MJML@dev_view');
+Route::get('/dev/{program}', 'MJML@dev_view');
+Route::get('/dev/geosciences/{program}/{day}', 'MJML@dev_view');
+Route::get('/dev/{program}/{day}', 'MJML@dev_view');
+
 // Compiled program view.
-Route::get('/comp/{program}', 'MJML@compiled');
+Route::get('/geosciences/{program}', 'MJML@compiled');
+Route::get('/{program}', 'MJML@compiled');
 
 // Compiled program/day view.
-Route::get('/comp/{program}/{day}', 'MJML@compiled');
+Route::get('/geosciences/{program}/{day}', 'MJML@compiled');
+Route::get('/{program}/{day}', 'MJML@compiled');
 
-// Dev views.
-Route::get('/dev/{program}', 'MJML@dev_view');
-Route::get('/dev/{program}/{day}', 'MJML@dev_view');
+
+
+
+
 
 // TODO: Remove this, but for now it catches anything else.
 Route::get('/{program}', function($program) {
