@@ -17,6 +17,24 @@ Route::get('/', 'MJML@dev_view');
 // Listing (needs revisions)
 Route::get('/listing', 'MJML@listing');
 
+// Compiled program views.
+Route::get('/{program}/{day}', function($program, $day) {
+    if ($program == 'geosciences') {
+        $view = '/_compiled/geosciences/' . $day . '/home';
+        $program = 'geosciences/' . $day;
+    } else {
+        $view = '/programs/' . $program . '/' . $day;
+    }
+    return view($view)->with('program', $program);
+});
+
+Route::get('/geosciences/{program}/{day}', function($program, $day) {
+    $view = '/_compiled/geosciences/' . $program . '/' . $day;
+    $program = 'geosciences/' . $program;
+    return view($view)->with('program', $program);
+});
+
+
 // Dev program view.
 Route::get('/dev/geosciences/{program}', 'MJML@dev_view');
 Route::get('/dev/{program}', 'MJML@dev_view');
@@ -44,21 +62,7 @@ Route::get('/{program}', function($program) {
 
 Route::get('/compile_plan/{program}', 'MJML@compile_plan')->name("comp_plan");
 Route::get('/comp/{program}/{day}', 'MJML@compiled');
-Route::get('/{program}/{day}', function($program, $day) {
-    if ($program == 'geosciences') {
-        $view = '/programs/geosciences/' . $day . '/home';
-        $program = 'geosciences/' . $day;
-    } else {
-        $view = '/programs/' . $program . '/' . $day;
-    }
-    return view($view)->with('program', $program);
-});
 
-Route::get('/geosciences/{program}/{day}', function($program, $day) {
-    $view = '/programs/geosciences/' . $program . '/' . $day;
-    $program = 'geosciences/' . $program;
-    return view($view)->with('program', $program);
-});
 
 // MJML Development Routing
 
