@@ -40,23 +40,13 @@ class mjml extends Controller
         return $mjml_output;
     }
 
-    public function compiled($program, $day = Null, $geo = Null) {
+    public function compiled($program, $day = Null) {
         # Return compiled view of requested program and day.
 
-        if ($geo) {
-            if ($day) {
-                $view = '_compiled/geosciences/' . $program . '/' . $day;
-            } else {
-                $view = '_compiled/geosciences/' . $program . '/home';
-            }
-            
-            $program = 'geosciences/' . $program;
+        if ($day) {
+            $view = '_compiled/' . $program . '/' . $day;
         } else {
-            if ($day) {
-                $view = '_compiled/' . $program . '/' . $day;
-            } else {
-                $view = '_compiled/' . $program . '/home';
-            }
+            $view = '_compiled/' . $program . '/home';
         }
 
         return view($view)->with('program', $program);
