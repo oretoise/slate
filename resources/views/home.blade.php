@@ -33,5 +33,6 @@
 	<li><a href=" {{ url('dev/wel') }}">MS Workforce Education Leadership</a></li>
 	<li><a href=" {{ url('dev/veterans') }}">Veterans Certificate Program</a></li>
 	<li><a href=" {{ url('dev/history') }}">BA History</a></li>
+	<li><a href=" {{ url('geosciences/amf') }}">Aeronautical Meteorological Forecaster Certficiate</a></li>
 </ul>
 @endsection
