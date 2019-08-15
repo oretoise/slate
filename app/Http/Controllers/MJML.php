@@ -76,7 +76,6 @@ class mjml extends Controller
         } else {
             $view = '/compiled/' . $program . '/home';
         }
-		echo $view;
         return view($view)->with('program', $program);
     }
 
