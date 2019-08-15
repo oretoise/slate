@@ -135,6 +135,11 @@ class mjml extends Controller
         echo "Compiled plan. Visit at /" . $program . "/ .";
     }
 
+    public function geo_compile_plan($program) {
+        $program = "/geosciences//" . $program;
+        $this->compile_plan($program);
+    }
+
     public function listing() {
         $plans = scandir("../resources/views/programs");
         array_splice($plans, 0, 2);

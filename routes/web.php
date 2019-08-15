@@ -16,6 +16,7 @@ Route::get('/', 'MJML@dev_view');
 
 // Compile Route
 Route::get('/compile/{program}', 'MJML@compile_plan');
+Route::get('/compile/geosciences/{program}', 'MJML@geo_compile_plan');
 
 // Dev && Geosciences
 Route::get('/dev/geosciences/{program}', 'MJML@geo_dev_view');
