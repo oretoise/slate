@@ -1,4 +1,4 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 55 - Subject: The Bulldog family wants you!</h3>

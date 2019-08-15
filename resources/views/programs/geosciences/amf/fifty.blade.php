@@ -1,4 +1,4 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 50 - Subject: Let's get social!</h3>

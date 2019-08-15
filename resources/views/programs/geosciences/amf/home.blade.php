@@ -1,4 +1,4 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>GEOSCIENCES/AMF Communication Plan</h3>

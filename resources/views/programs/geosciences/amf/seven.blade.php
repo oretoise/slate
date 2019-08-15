@@ -1,4 +1,4 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 7 - Subject: If you have questions, we have answers at MSU!</h3>

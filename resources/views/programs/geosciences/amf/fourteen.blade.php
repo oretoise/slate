@@ -1,4 +1,4 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 14 - Subject: Meet your AMF program coordinator!</h3>

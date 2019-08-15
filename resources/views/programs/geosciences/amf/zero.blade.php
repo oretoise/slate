@@ -1,4 +1,4 @@
-@extends('layouts.responsive')
+@extends('layouts.mjml')
 
 @section('content')
 <h3>Day 0 - Subject: Thank you for checking out MSU's online Aeronautical Meteorology Forecaster program!</h3>
