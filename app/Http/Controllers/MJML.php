@@ -11,9 +11,9 @@ class mjml extends Controller
 
         # Determine whether requesting list or specific email.
         if ($day) {
-            $view = "/programs/" . $program . "/" . $day;
+            $view = "/programs//" . $program . "/" . $day;
         } else {
-            $view = "/programs/" . $program . "/home";
+            $view = "/programs//" . $program . "/home";
         }
 		
 		if ($program == Null) {
@@ -40,13 +40,41 @@ class mjml extends Controller
         return $mjml_output;
     }
 
+    public function geo_dev_view($program, $day = Null) {
+
+        # Determine whether requesting list or specific email.
+        if ($day) {
+            $view = "/programs/geosciences/" . $program . "/" . $day;
+        } else {
+            $view = "/programs/geosciences/" . $program . "/home";
+        }
+
+        # Call Blade to render the requested view.
+        $blade = view($view)->with('program', $program)->render();
+
+        # Create an MJML instance.
+        $process = new Process("../node_modules/.bin/mjml --stdin --stdout");
+
+        # Set its STDIN to the result from Blade.
+        $process->setInput($blade);
+
+        # Run MJML.
+        $process->mustRun();
+
+        # Store its output in a variable.
+        $mjml_output = $process->getOutput();
+
+        # Return HTML output.
+        return $mjml_output;
+    }
+
     public function compiled($program, $day = Null) {
         # Return compiled view of requested program and day.
 
         if ($day) {
-            $view = '_compiled/' . $program . '/' . $day;
+            $view = 'compiled/' . $program . '/' . $day;
         } else {
-            $view = '_compiled/' . $program . '/home';
+            $view = 'compiled/' . $program . '/home';
         }
 
         return view($view)->with('program', $program);
@@ -104,7 +132,7 @@ class mjml extends Controller
         }
 
         # TODO: Return JSON for AJAX.
-        echo "Compiled plan. Visit at /comp/" . $program . "/ .";
+        echo "Compiled plan. Visit at /" . $program . "/ .";
     }
 
     public function listing() {

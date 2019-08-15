@@ -15,10 +15,11 @@
 Route::get('/', 'MJML@dev_view');
 
 // Compile Route
+Route::get('/compile/{program}', 'MJML@compile_plan');
 
 // Dev && Geosciences
-Route::get('/dev/geosciences/{program}', 'MJML@dev_view');
-Route::get('/dev/geosciences/{program}/{day}', 'MJML@dev_view');
+Route::get('/dev/geosciences/{program}', 'MJML@geo_dev_view');
+Route::get('/dev/geosciences/{program}/{day}', 'MJML@geo_dev_view');
 
 // Dev
 Route::get('/dev/{program}', 'MJML@dev_view');
