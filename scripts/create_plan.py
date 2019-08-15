@@ -62,7 +62,7 @@ def skeleton(acronym, day_string, content, path, signature, home=False):
     """ Generate skeleton file. """
 
     # Default file content.
-    default = "@extends('layouts.responsive')\n\n@section('content')\n"
+    default = "@extends('layouts.mjml')\n\n@section('content')\n"
     default += content + "\n@endsection"
     
     if not home:
