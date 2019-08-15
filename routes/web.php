@@ -27,8 +27,8 @@ Route::get('/dev/{program}', 'MJML@dev_view');
 Route::get('/dev/{program}/{day}', 'MJML@dev_view');
 
 // Compiled && Geosciences
-Route::get('/geosciences/{program}', 'MJML@compiled');
-Route::get('/geosciences/{program}/{day}', 'MJML@compiled');
+Route::get('/geosciences/{program}', 'MJML@geo_compiled');
+Route::get('/geosciences/{program}/{day}', 'MJML@geo_compiled');
 
 // Compiled
 Route::get('/{program}', 'MJML@compiled');

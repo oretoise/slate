@@ -80,6 +80,11 @@ class mjml extends Controller
         return view($view)->with('program', $program);
     }
 
+    public function geo_compiled($program, $day = Null) {
+        $program = "geosciences/" . $program;
+        $this->compiled($program, $day);
+    }
+
     public function compile_view($program, $day = Null) {
 
         # Determine view file. (Homepages are included, so no need to exclude).
