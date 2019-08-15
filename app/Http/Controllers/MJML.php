@@ -72,17 +72,18 @@ class mjml extends Controller
         # Return compiled view of requested program and day.
 
         if ($day) {
-            $view = 'compiled/' . $program . '/' . $day;
+            $view = '/compiled/' . $program . '/' . $day;
         } else {
-            $view = 'compiled/' . $program . '/home';
+            $view = '/compiled/' . $program . '/home';
         }
-
+		echo $view;
         return view($view)->with('program', $program);
     }
 
     public function geo_compiled($program, $day = Null) {
         $program = "geosciences/" . $program;
-        $this->compiled($program, $day);
+		$output = $this->compiled($program, $day);
+		echo $output;
     }
 
     public function compile_view($program, $day = Null) {
@@ -106,13 +107,13 @@ class mjml extends Controller
         $mjml_output = $process->getOutput();
 
         # Make output directory if it doesn't exist.
-	    $directory = "../resources/views/_compiled/" . $program;
+	    $directory = "../resources/views/compiled/" . $program;
 	    if (!file_exists($directory)) {
 		    mkdir($directory, 0755, true);
         }
         
         # Write MJML's output to the new blade file.
-	    $filename = "../resources/views/_compiled/" . $program . "/" . $day . ".blade.php";
+	    $filename = "../resources/views/compiled/" . $program . "/" . $day . ".blade.php";
         $myfile = fopen($filename, "w") or die("Unable to open file!");
         fwrite($myfile, $mjml_output);
         fclose($myfile);
@@ -141,7 +142,7 @@ class mjml extends Controller
     }
 
     public function geo_compile_plan($program) {
-        $program = "/geosciences//" . $program;
+        $program = "/geosciences/" . $program;
         $this->compile_plan($program);
     }
 
