@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 3 - Subject: </h3>
+<h3>Day 3 - Subject: Aeronautical Meteorology Forecaster Certificate at MSU</h3>
 
 <p>Dear @@{{First}},</p>
 
