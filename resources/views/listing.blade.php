@@ -48,7 +48,7 @@
             }
         }
 
-        xhttp.open("GET", "/slate/compile_plan/" + plan, true);
+        xhttp.open("GET", "/slate/compile/" + plan, true);
         xhttp.send();
     }
 </script>
