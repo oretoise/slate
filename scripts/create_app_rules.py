@@ -29,10 +29,10 @@ def main(list_file):
     pyautogui.hotkey('win', '1')
 
     # Set starting rule priority.
-    rule_priority = 9
+    rule_priority = 10
     
     # Loop through values.
-    for row in list_df.iterrows():
+    for index, row in list_df.iterrows():
         print("Updating", row['distance_value'])
 
         # Go to proper folder in Slate.
@@ -43,8 +43,10 @@ def main(list_file):
         pyautogui.press('enter')
 
         # Open our example rule.
+        pyautogui.click(1394, 628)
 
         # Click Copy Rule
+        pyautogui.click(2351, 317)
 
         # Determine the name.
         rule_name = "Distance - " + row['short_name'] + " - Set Program for Campus 5 Apps"
@@ -53,20 +55,31 @@ def main(list_file):
         pyautogui.typewrite(rule_name)
 
         # Set rule priority to last priority + 1
+        for _ in range(5):
+            pyautogui.press('tab')
+        
+        pyautogui.typewrite(str(rule_priority))
 
         # Click Save
+        pyautogui.click(1665, 940)
 
         # Edit the GR Academic Interest (App) filter.
+        pyautogui.click(2486, 676)
 
         # Hit tab
+        pyautogui.press('tab')
 
         # Typewrite row['app_value']
+        pyautogui.typewrite(row['app_value'])
 
         # Click result.
+        pyautogui.click(1796, 572)
 
         # Click save.
+        pyautogui.click(1607, 1075)
 
         # Click save (on rule).
+        pyautogui.click(1349, 986)
 
         # Increment rule priority variable.
         rule_priority = rule_priority + 1
