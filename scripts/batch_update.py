@@ -7,14 +7,14 @@ import update_plan
 def arguments():
     """ Process CLI arguments """
 
-    description = 'Upload multiple communication plans to Slate.'
+    description = 'Update multiple communication plans to Slate.'
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument("-l", "--List", action="store", help="CSV of Plans", required=True)
     return parser.parse_args()
 
 
 def main(list_file):
-    """ Batch upload plans to Slate. """
+    """ Batch update plans to Slate. """
 
     # Attempt to open the provided list file.
     try:
