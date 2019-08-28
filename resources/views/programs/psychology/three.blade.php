@@ -22,7 +22,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.ehawkins')
+	@include('signatures.psychology')
 @endsection
 
 @section('apply')
