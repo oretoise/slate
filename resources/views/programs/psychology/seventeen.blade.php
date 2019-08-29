@@ -39,7 +39,7 @@
     </tbody>
 </table>
 
-<p>Dr. Eakin and Evan are here to help.  We look forward to working with you!</p>
+<p>Dr. Eakin and I are here to help.  We look forward to working with you!</p>
 @endsection
 
 @section('signature')
