@@ -10,18 +10,18 @@
     <tbody>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/programs/msit/chien_yu.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/bsindt/wyatt.jpg" />
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Dr. Chien Yu</b><br/>
-                <i>MSIT - Grad Coordinator/Advisor</i><br/>
-                <a href="mailto:cyu@colled.msstate.edu">cyu@colled.msstate.edu </a><br/>
-                (P): 662.325.7260
+                <b>Dr. Sang Joon Lee</b><br/>
+                <i>Graduate Coordinator - Master of Science Instructional Technology</i><br/>
+                <a href="mailto:slee@colled.msstate.edu">slee@colled.msstate.edu </a><br/>
+                (P): 662.325.7599
             </td>
         </tr>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/valerie_tate.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/valerie_tate.png" />
             </td>
             <td class="divider staff" style="text-align: center;">
                 <b>Ms. Valerie Tate</b><br/>
