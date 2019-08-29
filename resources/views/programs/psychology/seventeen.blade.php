@@ -18,7 +18,7 @@
                 <b>Deborah K. Eakin, Ph.D.</b><br/>
                 <i>Online Coordinator/Advisor</i><br/>
                 Department of Psychology<br/>
-                <a href="mailto:deakin@psychology.msstate.edu">deakin@psychology.msstate.edu</a><br/>
+                <a href="mailto:psyonline@psychology.msstate.edu">psyonline@psychology.msstate.edu</a><br/>
                 (P): 662-325-7949<br/>
                 (F): 622-325-7212
             </td>
