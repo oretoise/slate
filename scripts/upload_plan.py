@@ -66,7 +66,7 @@ def track_links(soup):
         if link.has_attr('href'):
 
             # Only track online.msstate.edu links
-            if 'http://online.msstate.edu/' in link['href']:
+            if 'https://online.msstate.edu/' in link['href']:
 
                 # Add the capture email tracker.
                 new_href = link['href'] + "?cbe_email={{Email}}"
