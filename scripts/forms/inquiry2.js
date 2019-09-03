@@ -86,15 +86,24 @@ $("#interest").parent().parent().find(".form_responses").find("select").change(f
         "Certificate": "#certificate",
         "Graduate Program": "#grad_prog",
         "Undergraduate Program": "#undergrad_prog",
-        "Unsure": "#level"
+        "General Education Question": ""
     };
 
-    // Hide Others
-    $(".program_option").parent().parent().parent().hide();
-    $(dict[$select_value]).parent().parent().parent().show();
+    // If they select general question, set the coordinator to dc716 and hide program fields.
+    if ($select_value == "General Education Question") {
+        setCoordinator('dc716');
 
-    if (dict[$select_value] == "#undergrad_prog") {
-        $("#undergrad_prog").parent().parent().find(".form_responses").find("select").prop("disabled", false);
+        // Hide program fields.
+        $(".program_option").parent().parent().parent().hide();
+    } else {
+        // Hide Others
+        $(".program_option").parent().parent().parent().hide();
+        $(dict[$select_value]).parent().parent().parent().show();
+
+        // Enable undergraduate field if that's what they picked.
+        if (dict[$select_value] == "#undergrad_prog") {
+            $("#undergrad_prog").parent().parent().find(".form_responses").find("select").prop("disabled", false);
+        }
     }
 });
 
@@ -237,30 +246,6 @@ $("#how").parent().parent().find(".form_responses").find("select").change(functi
     // Hide Others
     $(".how_option").parent().parent().parent().hide();
     $(dict[$select_value]).parent().parent().parent().show();
-});
-
-// Logic for "What level?"
-$("#level").parent().parent().find(".form_responses").find("select").change(function() {
-    var $select_value = $("#level").parent().parent().find(".form_responses").find("select").val();
-
-    switch ($select_value) {
-        case "Graduate":
-            // Check for Unsure, if so, set to "Unclassified-Grad"
-            var $interest_prompt = $("#interest").parent().parent().find(".form_responses").find("select").val();
-            if ($interest_prompt == "Unsure") {
-                setProgram("Graduate", "No Degree / Unclassified-Grad");
-                setCoordinator("dc716");
-            }
-            break;
-        case "Undergraduate":
-            // Check for Unsure, if so, set to "Special Non-Degree?"
-            var $interest_prompt = $("#interest").parent().parent().find(".form_responses").find("select").val();
-            if ($interest_prompt == "Unsure") {
-                setProgram("Undergraduate", "Special Non-Degree (No Degree)");
-                setCoordinator("mwb6");
-            }
-            break;
-    }
 });
 
 // Remove embedded CSS.
