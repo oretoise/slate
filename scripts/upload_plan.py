@@ -154,17 +154,28 @@ def upload(acronym, day_int, email, population):
     # Click Filter
     pyautogui.click(1862, 876)
 
-    # tw "population"
-    pyautogui.typewrite("population timestamp days")
+    # Do in-population filter for day 0.
+    if day_int == 0:
 
-    # Click "Popuation Timestamp Days"
-    pyautogui.click(824, 542)
+        # Typewrite "Population"
+        pyautogui.typewrite("Population")
+
+        # Click "Population"
+        pyautogui.click(1157, 547)
+
+    else:
+
+        # tw "population"
+        pyautogui.typewrite("population timestamp days")
+
+        # Click "Popuation Timestamp Days"
+        pyautogui.click(824, 542)
 
     # Click Continue
-    pyautogui.click(845, 1130)
+    pyautogui.click(845, 1115)
 
     # Click Search
-    pyautogui.click(964, 625)
+    pyautogui.click(964, 600)
 
     # Typewrite population name
     pyautogui.typewrite(population)
@@ -172,18 +183,20 @@ def upload(acronym, day_int, email, population):
     # Click first result
     pyautogui.click(1149, 625)
 
-    # tab, tw # of days
-    pyautogui.press('tab')
-    pyautogui.typewrite(str(day_int))
+    if day_int != 0:
+        # tab, tw # of days
+        pyautogui.press('tab')
+
+        pyautogui.typewrite(str(day_int))
 
     # Click Save
-    pyautogui.click(953, 1096)
+    pyautogui.click(953, 1080)
 
     # Click Export
-    pyautogui.click(1861, 625)
+    pyautogui.click(1861, 600)
 
     # Grab query exports
-    exports = ["First", "Email", "Slate"]
+    exports = ["First", "Email"]
     for export in exports:
         # Click searchbox.
         pyautogui.click(1035, 407)
