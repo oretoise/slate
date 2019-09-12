@@ -21,7 +21,7 @@
 	<li><a href=" {{ url('msgb') }}">MS General Biology</a></li>
 	<li><a href=" {{ url('geosciences/tig') }}">MS Geosciences - ENGS / TIG</a></li>
 	<li><a href=" {{ url('mba') }}">Masters in Business Admin</a></li>
-	<li><a href=" {{ url('mbapm') }}">MBA - Project Management</a></li>
+	<li><a href=" {{ url('mba-pm') }}">MBA - Project Management</a></li>
 	<li><a href=" {{ url('msis') }}">MS Information Systems</a></li>
 	<li><a href=" {{ url('edld') }}">MS Educational Leadership</a></li>
 	<li><a href=" {{ url('matced') }}">Master of Arts Teaching - Comm College Ed</a></li>
