@@ -52,7 +52,7 @@ def main():
             email = email.split('.')[0]
             url = os.getenv("HOST") + "/slate/" + program + "/" + email
 
-            print(program, "-", email)
+            #print(program, "-", email)
             
             # get
             r = requests.get(url)
