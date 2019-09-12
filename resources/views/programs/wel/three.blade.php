@@ -13,7 +13,7 @@
     </li><br/>
     <li>
         <b>Do you accept transfer credit?</b><br/>
-        Yes, a total of 9 hours can be transferred to a student’s program of study from an accredited four-year university.  Your advisor, <a href="mailto:mailto:SKing@colled.msstate.edu">Dr. Stephanie King</a>, will review those courses to see if they meet the program's criteria.
+        Yes, a total of 9 hours can be transferred to a student’s program of study from an accredited four-year university.  Your advisor, <a href="mailto:cdleadership@colled.msstate.edu">Dr. Stephanie King</a>, will review those courses to see if they meet the program's criteria.
     </li><br/>
     <li>
         <b>What are the application deadlines?</b><br/>

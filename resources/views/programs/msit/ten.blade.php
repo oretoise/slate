@@ -25,7 +25,7 @@
             </td>
             <td class="divider staff" style="text-align: center;">
                 <b>Ms. Valerie Tate</b><br/>
-                <i>Distance Coordinator </i><br/>
+                <i>Distance Coordinator</i><br/>
                 <a href="mailto:v.tate@msstate.edu">v.tate@msstate.edu</a><br/>
                 (P): 662.325.8876
             </td>

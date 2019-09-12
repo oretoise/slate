@@ -36,20 +36,6 @@
         </tr>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/programs/fnh/b_oliver.png">
-            </td>
-            <td class="divider staff" style="text-align: center; width: 30%;">
-                <b>Dr. Brittney Oliver</b><br/>
-                <i>Assistant Professor of Health Promotion</i><br/>
-                Health Promotion<br/>
-                <a href="mailto:boliver@fsnhp.msstate.edu">boliver@fsnhp.msstate.edu</a>
-            </td>
-            <td class="divider staff" style="text-align: left;">
-                Dr. Hunt has a B.S. in school health education from Troy State University, and master's and doctoral degrees in health studies from the University of Alabama. Previously an evaluation consultant for Alabama Power Company's "Good Health Makes Sense" program, Dr. Hunt directs the health program at MSU.
-            </td>
-        </tr>
-        <tr>
-            <td class="divider staff">
                 <img src="https://goto.msstate.edu/www/images/Distance/staff/daphne_knox.png">
             </td>
             <td class="divider staff" style="text-align: center; width: 30%;">

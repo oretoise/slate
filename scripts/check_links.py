@@ -1,6 +1,8 @@
 import os
 import pathlib
 import requests
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
@@ -79,10 +81,10 @@ def main():
                                 print(link['href'])
                             
                             # req
-                            #check = requests.get(link['href'])
+                            check = requests.get(link['href'], verify=False)
                             #print(check.status_code)
-                            #if str(check.status_code) == '404':
-                                #print("404:", link['href'])
+                            if str(check.status_code) == '404':
+                                print("404:", link['href'])
                             
 
             

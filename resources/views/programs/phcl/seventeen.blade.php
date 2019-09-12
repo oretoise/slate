@@ -15,7 +15,7 @@
             <td class="divider staff" style="text-align: center;">
                 <b>Dr. Stephanie King</b><br/>
                 <i>Grad Coordinator/Advisor</i><br/>
-                <a href="mailto:sking@colled.msstate.edu">sking@colled.msstate.edu </a><br/>
+                <a href="mailto:cdleadership@colled.msstate.edu">cdleadership@colled.msstate.edu</a><br/>
                 (P): 662.325.7066
             </td>
         </tr>
