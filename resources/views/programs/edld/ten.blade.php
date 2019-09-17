@@ -20,7 +20,7 @@
 
 <p>I've provided a short video to help you get started on your application.</p>
 
-<p>As you fill out your application, remember to select Educational Leadership (EDLD) as your major and select School Administration (EDLS) as your concentration and Center for Distance Education as your campus.</p>
+<p>As you fill out your application, remember to select <b><span style="color: #800000;">Educational Leadership (EDLD)</span></b> as your major and select School Administration (EDLS) as your concentration and <b><span style="color: #800000;">Online Education</span></b> as your campus.</p>
 
 <p>If you have any questions, please reach out to me. I'm happy to help.</p>
 <p>All the best,</p>

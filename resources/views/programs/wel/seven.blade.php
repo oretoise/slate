@@ -16,7 +16,7 @@ Spring semester:	<b>December 1</b>
 Summer semester:	<b>May 15</b>
 </p>
 
-<p>Remember to select <b>Workforce Education Leadership (MS)</b> as your major and <b>Center for Distance Education</b> as your campus when applying for admission.</p>
+<p>Remember to select <b>Workforce Education Leadership (MS)</b> as your major and <b>Online Education</b> as your campus when applying for admission.</p>
 
 <p>We've provided a short video to help you get started on your application.</p>
 

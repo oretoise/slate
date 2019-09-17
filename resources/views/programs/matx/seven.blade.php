@@ -15,7 +15,7 @@
 </p>
 
 <p>We've provided a short video to help you navigate the application process.
-As you fill out your application, remember to select <b>Master of Art in Teaching - Special Education (MATX)</b> as your major and <b>Center for Distance Education</b> as your campus.</p>
+As you fill out your application, remember to select <b>Master of Art in Teaching - Special Education (MATX)</b> as your major and <b>Online Education</b> as your campus.</p>
 
 <p>Please note that your application will not be considered until all forms have been submitted and your application fee has been paid.</p>
 

@@ -15,7 +15,7 @@
     Summer semester:  <b>May 15</b>
 </p>
 
-<p>Remember to select Master of Arts in Teaching in Community College Education (MATCED) as your major and Center for Distance Education as your campus when applying for <a href="https://online.msstate.edu/matced/admissions-process">admission</a>.</p>
+<p>Remember to select Master of Arts in Teaching in Community College Education (MATCED) as your major and Online Education as your campus when applying for <a href="https://online.msstate.edu/matced/admissions-process">admission</a>.</p>
 
 <p>If you have any questions, don’t hesitate to ask me. I'd be happy to help.</p>
 <p>Thank you,</p>

@@ -14,7 +14,7 @@
 </p>
 
 <p>
-	Remember to select <span style="color: #800000;"><b>Industrial Technology (BS)</b></span> as your major and <span style="color: #800000;"><b>Center for Distance Education</b></span> as your campus.
+	Remember to select <span style="color: #800000;"><b>Industrial Technology (BS)</b></span> as your major and <span style="color: #800000;"><b>Online Education</b></span> as your campus.
 </p>
 
 <p>

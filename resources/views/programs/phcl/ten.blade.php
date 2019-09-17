@@ -17,7 +17,7 @@
 
 <P>We've provided a short video to help you get started on your application.</p>
 
-<p>Remember to select <b>Community College Leadership (PHCL)</b> as your major and <b>Center for Distance Education</b> as your campus when applying for admission.</p>
+<p>Remember to select <b>Community College Leadership (PHCL)</b> as your major and <b>Online Education</b> as your campus when applying for admission.</p>
 
 <p>If you have any questions, don't hesitate to ask. I'm happy to help.</p>
 

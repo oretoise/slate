@@ -18,7 +18,7 @@
     <li><b>Pre-Interdisciplinary Studies (BS)</b>, if you are interested in completing an undergraduate degree with a VCP emphasis area.</li>
 </ul>
 
-<p>You'll select <b>Center for Distance Education</b> as your campus.</p>
+<p>You'll select <b>Online Education</b> as your campus.</p>
 
 <p>We have provided a short video to help you navigate the application process.
 Have you attended MSU before but never completed your degree? Students can apply for Readmission and have the application fee waived.</p>

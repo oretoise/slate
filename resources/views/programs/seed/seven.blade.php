@@ -16,7 +16,7 @@
     Summer semester:	<b>May 15</b>
 </p>
 
-<p>As you fill out your application, remember to select Master of Science in Secondary Education (SEED) as your major and Center for Distance Education as your campus.</p>
+<p>As you fill out your application, remember to select Master of Science in Secondary Education (SEED) as your major and Online Education as your campus.</p>
 
 <p>Please note that your application will not be considered until all forms have been submitted and your application fee has been paid.  Review the admissions process to determine what materials you need to apply for the SEED program.</p>
 

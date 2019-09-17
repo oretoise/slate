@@ -15,7 +15,7 @@
     Summer semester:	April 1
 </p>
 
-<p>As you fill out your application, remember to select <b>Instructional Technology (MS)</b> as your major and <b>Center for Distance Education</b> as your campus.</p>
+<p>As you fill out your application, remember to select <b>Instructional Technology (MS)</b> as your major and <b>Online Education</b> as your campus.</p>
 
 <p>We've provided a short video to help you start your application.</p>
 

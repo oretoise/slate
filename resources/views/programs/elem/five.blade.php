@@ -13,7 +13,7 @@
 
 <p>The semester start dates can be found on the <a href="http://www.registrar.msstate.edu/calendars/academic-calendar/">academic calendar</a>.</p>
 
-<p>As you fill out your application, remember to select <b>Elementary Education (BS)</b> as your major and <b>Center for Distance Education</b> as your campus.</p>
+<p>As you fill out your application, remember to select <b>Elementary Education (BS)</b> as your major and <b>Online Education</b> as your campus.</p>
 
 <p>
 	Be sure to review the following admission requirements before applying:<br/>
