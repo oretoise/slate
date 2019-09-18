@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 3 - Subject: What can the Environmental Geosciences degree do for you?</h3>
+<h3>Day 3 - Subject: What can the Teachers in Geosciences degree do for you?</h3>
 
 <p>Dear @@{{First}},</p>
 

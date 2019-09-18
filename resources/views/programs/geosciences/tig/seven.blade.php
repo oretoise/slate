@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 7 - Subject: Environmental Geosciences Program Information</h3>
+<h3>Day 7 - Subject: Teachers in Geosciences Program Information</h3>
 
 <p>Dear @@{{First}},</p>
 
@@ -23,7 +23,7 @@
     <li>Research in Applied Meteorology: a 4-5 day seminar course hosted on the MSU campus in Starkville, MS.</li>
 </ul>
 
-<p>For the other nine courses in the Environmental Geosciences program, all coursework, including exams, are completed online. Lectures, chat rooms, and bulletin boards are available for each course.  Upon completion of the program, a written, comprehensive exam is required.</p>
+<p>For the other nine courses in the Teachers in Geosciences program, all coursework, including exams, are completed online. Lectures, chat rooms, and bulletin boards are available for each course.  Upon completion of the program, a written, comprehensive exam is required.</p>
 
 <p>For information pertaining to finances, admissions, and course framework, see our <a href="https://online.msstate.edu/pdf/slate/Master-of-Science-Teachers-Geosciences.pdf">flyer</a>.</p>
 
