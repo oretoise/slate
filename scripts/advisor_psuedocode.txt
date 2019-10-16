@@ -1,0 +1,56 @@
+Click deliver
+Click "new mailing"
+typewrite "CDE - Advisor Notification - {{program}}"
+tab
+typewrite "dist"
+tab, select other, typewrite "Advisor_Notifications"
+tab twice
+change opt out to "no unsub"
+click save
+
+email view:
+    click "edit recipient lists"
+    click "new query"
+    typewrite name - "CDE Advisor Notification - {{program}}"
+    tab x 4
+    typewrite "App"
+    click save
+
+edit query:
+    clck "filter"
+    typewrite "has application by decision, decision status"
+    click it
+    click "continue"
+    tab x 2
+    typewrite "admit"
+
+    if app_field is undergrad:
+        click and drag ug admit decisions
+    else:
+        click and drag gr admit decisions
+
+    click "released/queued"
+    click "save"
+
+    click "filter"
+    typewrite "campus (app)"
+    click it
+    click continue
+    click "online education"
+
+    click "filter"
+    if app_field is undergrad:
+        typewrite "ug academic interest (app)"
+    else:
+        typewrite "gr academic interest (app)"
+    
+    click it
+    click continue
+    tab
+    typewrite app_program
+    click program name in list
+    click save
+
+    # exports
+    click export
+    for each in [name, email, netid, phone, program (ug or gr), entry term (ug or gr)]
