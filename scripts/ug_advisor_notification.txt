@@ -1,0 +1,41 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <table border="1" cellpadding="1" cellspacing="1" class="padding-top: 10px;" style="width:500px;">
+      <tbody>
+        <tr>
+          <td>Name</td>
+          <td>{{Name}}</td>
+        </tr>
+        <tr>
+          <td>Application Email</td>
+          <td>{{Email}}</td>
+        </tr>
+        <tr>
+          <td>MSU 9-digit ID</td>
+          <td>{{ERP-ID}}</td>
+        </tr>
+        <tr>
+          <td>MSU NetID</td>
+          <td>{{NetID}}</td>
+        </tr>
+        <tr>
+          <td>MSU Email</td>
+          <td>{{NetID}}@msstate.edu</td>
+        </tr>
+        <tr>
+          <td>Program</td>
+          <td>{{UG-Academic-Interest-App}}</td>
+        </tr>
+        <tr>
+          <td>Entry Term</td>
+          <td>{{UG-Entry-Term-App}}</td>
+        </tr>
+      </tbody>
+    </table>
+    <br />
+    <span style="font-size:12px;">You are receiving this email because you are listed as the academic advisor for this program at the Center for Distance Education (CDE). If this is incorrect, please contact us.</span>
+  </body>
+</html>

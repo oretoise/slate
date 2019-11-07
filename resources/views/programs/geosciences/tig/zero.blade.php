@@ -1,7 +1,8 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 0 - Subject: Thanks for your interest in the TIG program!</h3>
+<h3>Day 0 - Subject: Thanks for your interest in the ENGS - TIG program!</h3>
+
 <p>Dear @@{{First}},</p>
 
 <p>Thank you for your interest in the online <b><span style="color: #660000;">Master of Science in Geosciences with a concentration in Environmental Geosciences with a Teachers in Geosciences Emphasis</span></b>. The program is designed for students interested in graduate study of a broad cross-section of the geosciences.  Program highlights include:</p>

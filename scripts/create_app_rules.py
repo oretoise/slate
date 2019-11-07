@@ -33,7 +33,7 @@ def main(list_file):
     
     # Loop through values.
     for index, row in list_df.iterrows():
-        print("Updating", row['distance_value'])
+        print("Index:", index, "| Updating", row['distance_value'])
 
         # Go to proper folder in Slate.
         url = "https://goto.msstate.edu/manage/database/rules/?folder=Defaults%20%2F%20Distance"
