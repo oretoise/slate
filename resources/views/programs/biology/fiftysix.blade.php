@@ -1,7 +1,8 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 56 - Subject: </h3>
+<h3>Day 56 - Subject: Orientation for Distance Students!</h3>
+@include('common.orientation')
 @endsection
 
 @section('signature')

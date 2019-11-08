@@ -1,7 +1,8 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 35 - Subject: </h3>
+<h3>Day 35 - Subject: Ready for Distance?</h3>
+@include('common.smartermeasure')
 @endsection
 
 @section('signature')

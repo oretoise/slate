@@ -1,7 +1,8 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 42 - Subject: </h3>
+<h3>Day 42 - Subject: Get social with MSU!</h3>
+@include('common.social')
 @endsection
 
 @section('signature')

@@ -5,7 +5,7 @@
 
 <p>Dear @@{{First}},</p>
 
-<img class="img-right" src="" />
+<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/msgb/msgb_1.png" />
 
 <p>The General Biology Certificate program can be completed in as little as one year (taking two courses per semester). For information pertaining to finances, admissions, course framework, and course information, see the <a href="https://online.msstate.edu/biology/">website</a>.</p>
 
