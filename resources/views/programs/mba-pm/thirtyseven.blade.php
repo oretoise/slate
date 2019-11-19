@@ -17,7 +17,7 @@
     </i>
 </p>
 
-<p style="text-align: right; color: #660000;">
+<p style="text-align: right; color: #5D1725;">
     <b>Dr. Daniel Holt<br/>
     Associate Professor of Management</b>
 </p>
@@ -28,7 +28,7 @@
     </i>
 </p>
 
-<p style="text-align: right; color: #660000;">
+<p style="text-align: right; color: #5D1725;">
     <b>Dr. Joel Collier<br/>
     Professor of Marketing/Quantitative Analysis/Business Law</b>
 </p>

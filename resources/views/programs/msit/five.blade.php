@@ -8,11 +8,11 @@
 
 <ol>
     <li>
-        <b><span style="color: #660000;">How many hours are required to complete the program?</span></b><br/>
+        <b><span style="color: #5D1725;">How many hours are required to complete the program?</span></b><br/>
         A student must have acquired a minimum of 33 hours in order to graduate in both thesis and non-thesis options.
     </li><br/>
     <li>
-        <b><span style="color: #660000;">What is the structure of the program?</span></b>
+        <b><span style="color: #5D1725;">What is the structure of the program?</span></b>
         <ul>
             <li>There are 15 hours of required courses.</li>
             <li>You'll take 12 hours in your preference from the three concentrations we offer:  Instructional Design, Distance Education, or Multimedia.</li>
@@ -22,7 +22,7 @@
         </ul>
     </li><br/>
     <li>
-        <b><span style="color: #660000;">When can I get started with the application process?</span></b><br/>
+        <b><span style="color: #5D1725;">When can I get started with the application process?</span></b><br/>
         You can start any semester.  Application deadlines for admission:
         <ul>
             <li>Fall:  July 1</li>

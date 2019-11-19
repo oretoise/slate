@@ -9,12 +9,12 @@
 
 <ul>
     <li>
-        <b><span style="color: #660000;">Is the GMAT or GRE required?  Can it be waived?</span></b><br/>
+        <b><span style="color: #5D1725;">Is the GMAT or GRE required?  Can it be waived?</span></b><br/>
         The academic department requires that you take either the GMAT or the GRE.  This requirement cannot be waived.  There is no preference for which test you take, so choose the one you feel most suits your abilities.<br/><br/>
     </li>
 
     <li>
-        <b><span style="color: #660000;">Are there additional fees outside of the graduate tuition rate?</span></b><br/>
+        <b><span style="color: #5D1725;">Are there additional fees outside of the graduate tuition rate?</span></b><br/>
         In addition to the graduate tuition, program students will be charged a $25 per credit hour instructional support fee along with a $249 per credit hour distance fee. *
 
         <br/><br/>
@@ -44,7 +44,7 @@
     </li>
 
     <li>
-        <b><span style="color: #660000;">Are there any prerequisites?  Do I have to have the prerequisites completed prior to admission?</span></b><br/>
+        <b><span style="color: #5D1725;">Are there any prerequisites?  Do I have to have the prerequisites completed prior to admission?</span></b><br/>
         Yes, there are prerequisite courses for the online MSIS program, which can be completed online through Mississippi State University. These courses do not have to be completed prior to admission.
 
         <br/><br/>

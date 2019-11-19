@@ -16,7 +16,7 @@
 			.img-right {display: none;}
             .icon {padding: 0px 5px 0px 5px;width: 24px; height: 24px;}
 			#logo {padding-top: 10px; margin-left:auto;margin-right:auto; display:block;}
-			.small_message > a {color: #660000;}
+			.small_message > a {color: #5D1725;}
 		    .social {padding-bottom: 10px;}
 		    .social > div > a > img {padding: 10px 5px 10px 5px;}
 			.divider > img {padding: 0px 5px 10px 5px;}
@@ -29,7 +29,7 @@
 
         	body {
         		margin: 0;
-        		background-color: #CCCCCC;
+        		background-color: #C1C6C8;
         	}
 
 		    .header {
@@ -96,9 +96,9 @@
         </mj-style>
         <mj-title>@yield('title')</mj-title>
     </mj-head>
-    <mj-body background-color="#CCCCCC" width="750px">
+    <mj-body background-color="#C1C6C8" width="750px">
         <mj-spacer height="20px" />
-        <mj-section background-color="#660000">
+        <mj-section background-color="#5D1725">
             <mj-column>
                 <mj-image padding-bottom="4px" alt="Mississippi State University"src="https://goto.msstate.edu/www/images/Distance/headers/{{$program}}_header.png"/>
             </mj-column>

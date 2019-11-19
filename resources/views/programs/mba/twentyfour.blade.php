@@ -15,7 +15,7 @@
     </i>
 </p>
 
-<p style="text-align: right; color: #660000;">
+<p style="text-align: right; color: #5D1725;">
     <b>-Nolan, Harker Heights, TX</b>
 </p>
 
@@ -25,7 +25,7 @@
     </i>
 </p>
 
-<p style="text-align: right; color: #660000;">
+<p style="text-align: right; color: #5D1725;">
     <b>-Kristen, Starkville, MS</b>
 </p>
 
@@ -35,7 +35,7 @@
     </i>
 </p>
 
-<p style="text-align: right; color: #660000;">
+<p style="text-align: right; color: #5D1725;">
     <b>-Tarek, Spring, TX</b>
 </p>
 

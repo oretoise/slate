@@ -9,19 +9,19 @@
 
 <ol>
     <li>
-        <b><span style="color: #660000;">Is this program offered completely online?</span></b><br/>
+        <b><span style="color: #5D1725;">Is this program offered completely online?</span></b><br/>
         All the courses are taught online with exception of the final capstone course workshop. The capstone course is designed around a five-day workshop that is hosted at Mississippi State University in Starkville, MS, during the summer semester.<br/><br/>
     </li>
     <li>
-        <b><span style="color: #660000;">How long does it take to complete the program?</span></b><br/>
+        <b><span style="color: #5D1725;">How long does it take to complete the program?</span></b><br/>
         Students take two courses per semester to complete the program in two years.<br/><br/>
     </li>
     <li>
-        <b><span style="color: #660000;">Are there prerequisites to be considered for admission?</span></b><br/>
+        <b><span style="color: #5D1725;">Are there prerequisites to be considered for admission?</span></b><br/>
         A bachelor’s degree in a natural science from a four-year educational institution that has unconditional accreditation from a regional accrediting agency and an upper level course in Synoptic Meteorology (or equivalent) is a prerequisite for beginning the program of study.  If you're not certain about the accreditation of your former university, I will be glad to help.<br/><br/>
     </li>
     <li>
-        <b><span style="color: #660000;">Do you accept transfer credit?</span></b><br/>
+        <b><span style="color: #5D1725;">Do you accept transfer credit?</span></b><br/>
         Due to the nature of this program, course work taken from other schools cannot be transferred into this program. However, course substitution is allowed using MSU Geosciences courses when an individual is already proficient in a specific discipline.<br/><br/>
     </li>
 </ol>

@@ -5,7 +5,7 @@
 
 <p>Dear @@{{First}},</p>
 
-<p>Thank you for your interest in the online <b><span style="color: #660000;">Master of Science in Geosciences with a concentration in Environmental Geosciences with a Teachers in Geosciences Emphasis</span></b>. The program is designed for students interested in graduate study of a broad cross-section of the geosciences.  Program highlights include:</p>
+<p>Thank you for your interest in the online <b><span style="color: #5D1725;">Master of Science in Geosciences with a concentration in Environmental Geosciences with a Teachers in Geosciences Emphasis</span></b>. The program is designed for students interested in graduate study of a broad cross-section of the geosciences.  Program highlights include:</p>
 
 <ul>
     <li>30-credit hour, non-thesis program, including courses in ocean science, climatology, GIS, and hazards</li>
@@ -16,7 +16,7 @@
     <li>Taught online by faculty and staff from the Department of Geosciences at MSU, which is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC)</li>
 </ul>
 
-<p>Interested in enrolling? Fall admission is preferred, but spring and summer applicants will be considered.  The fall admission deadline is <b><span style="color: #660000;">August 1</span></b>.  Students who wish to apply should meet the following requirements:</p>
+<p>Interested in enrolling? Fall admission is preferred, but spring and summer applicants will be considered.  The fall admission deadline is <b><span style="color: #5D1725;">August 1</span></b>.  Students who wish to apply should meet the following requirements:</p>
 
 <ul>
     <li>A bachelor’s degree from a fully recognized four-year educational institution that has unconditional accreditation with appropriate regional accrediting agencies</li>

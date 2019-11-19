@@ -8,7 +8,7 @@
 
 <ol>
     <li>
-        <b><span style="color: #660000;">Is this program offered completely online?</span></b><br/>
+        <b><span style="color: #5D1725;">Is this program offered completely online?</span></b><br/>
         All Environmental Geosciences program courses are taught online with the exception of the final capstone course. Students choose between two capstone courses:
 
         <ul>
@@ -17,11 +17,11 @@
         </ul>
     </li><br/>
     <li>
-        <b><span style="color: #660000;">How long does it take to complete the program?</span></b><br/>
+        <b><span style="color: #5D1725;">How long does it take to complete the program?</span></b><br/>
         The program can be completed in as little as two years by taking two courses per semester.  Fall admission is preferred, but spring and summer applicants will be considered. The fall deadline is <b>August 1st</b>.
     </li><br/>
     <li>
-        <b><span style="color: #660000;">Are there prerequisites to be considered for admission?</span></b><br/>
+        <b><span style="color: #5D1725;">Are there prerequisites to be considered for admission?</span></b><br/>
         To be considered for admission, students should have completed an Earth Science and Weather Climate course or equivalents.
     </li>
 </ol>

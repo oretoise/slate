@@ -13,7 +13,7 @@
 			.img-center {display: none;}
 			.img-right {display: none;}
             .icon {width: 24px; height: 24px;}
-			.small_message > a {color: #660000;}
+			.small_message > a {color: #5D1725;}
 		    .social {padding-bottom: 10px;}
 		    .social > a > img {padding: 0px 5px 0px 5px;}
 			.divider > img {padding: 0px 5px 10px 5px;}
@@ -97,7 +97,7 @@
 	<body style='background-color:#CCCCCC; padding-top: 20px;'>
 		<div class="wrapper">
 			<div class="header">
-                <div style="background-color:#660000;">
+                <div style="background-color:#5D1725;">
 					<img alt="Mississippi State University" src="https://goto.msstate.edu/www/images/Distance/headers/{{$program}}_header.png" style="height:auto; width:100%; min-height: 58px; min-width:320px;" />
                 </div>
 			</div>
