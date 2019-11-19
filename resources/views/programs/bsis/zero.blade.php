@@ -17,7 +17,7 @@
 		<li>Health Promotion</li>
 		<li>History</li>
 		<li>Kinesiology</li>
-		<li>Manufacturing Management</li>
+		<li>Manufacturing Fundamentals</li>
 		<li>Psychology</li>
 		<li>Social Work</li>
 		<li>Sociology</li>
