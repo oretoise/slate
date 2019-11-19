@@ -87,7 +87,5 @@ def main():
                                 print("404:", link['href'])
                             
 
-            
-
 if __name__ == "__main__":
     main()
