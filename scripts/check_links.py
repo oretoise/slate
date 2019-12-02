@@ -1,63 +1,34 @@
-import os
-import pathlib
 import requests
 import urllib3
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+import utilities
 
 from bs4 import BeautifulSoup
-from dotenv import load_dotenv
+
+# Disable Insecure Request Warning
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def main():
-    load_dotenv()
-
-    if os.getenv("HOST") is None:
-        print("host missing")
-        raise SystemExit
+    # Load host information.
+    host = utilities.get_host_from_env()
     
-    programs = pathlib.Path(os.getcwd()) / ".." / "resources" / "views" / "programs"
-    programs_list = os.listdir(programs)
+    # Load program list.
+    programs_list = utilities.get_program_list()
 
-    geosciences = programs / "geosciences"
-    geo_list = os.listdir(geosciences)
-    new_list = []
-
-    for item in geo_list:
-        new_list.append("geosciences/" + str(item))
-
-    programs_list = programs_list + new_list
-    programs_list.remove("geosciences")
-
-    print(programs_list)
-
+    # Request email list for each program.
     for program in programs_list:
-        if "geosciences" in program:
-            # Split the path.
-            path_parts = program.lower().split('/')
-            #print(path_parts)
+        emails = utilities.get_program_email_list(program)
 
-            directory = programs
-
-            # For each folder in the given path, navigate to it.
-            for folder in path_parts:
-                directory = directory / folder
-        else:
-            directory = programs / program
-        
-        emails = os.listdir(directory)
-
+        # For each email, check the links.
         for email in emails:
-            if email == 'home':
-                continue
             
+            # Split the filename into just the day number and generate URL.
             email = email.split('.')[0]
-            url = os.getenv("HOST") + "/slate/" + program + "/" + email
-
-            #print(program, "-", email)
+            url = host + "/slate/" + program + "/" + email
             
-            # get
+            # Make the request.
             r = requests.get(url)
 
-            # bs
+            # Soupify the result text.
             soup = BeautifulSoup(r.text, 'html5lib')
 
             for link in soup.findAll('a'):
@@ -82,10 +53,9 @@ def main():
                             
                             # req
                             check = requests.get(link['href'], verify=False)
-                            #print(check.status_code)
                             if str(check.status_code) == '404':
                                 print("404:", link['href'])
-                            
+
 
 if __name__ == "__main__":
     main()

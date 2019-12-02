@@ -4,14 +4,14 @@ import pathlib
 import pyautogui
 import pyperclip
 import requests
+import utilities
 
 from bs4 import BeautifulSoup
-from dotenv import load_dotenv
-from upload_plan import exit_with_error, track_links
 
 # PyAutoGUI settings
 pyautogui.PAUSE = 5
 pyautogui.FAILSAFE = True
+
 
 def arguments():
     """ Process CLI arguments """
@@ -22,7 +22,7 @@ def arguments():
     return parser.parse_args()
 
 
-def update(acronym, offset):
+def update(acronym, host, offset):
     """ Update an email in Slate. """
 
     # Open the email.
@@ -54,7 +54,7 @@ def update(acronym, offset):
     pyautogui.click(1760, 350)
 
     # pull email from server
-    url = os.getenv("HOST") + "/slate/" + acronym.lower() + "/" + email
+    url = host + "/slate/" + acronym.lower() + "/" + email
     r = requests.get(url)
     raw_html = r.text
 
@@ -62,7 +62,7 @@ def update(acronym, offset):
     soup = BeautifulSoup(raw_html, 'html5lib')
 
     # Add Capture CBE tracking
-    tracked_body = track_links(soup)
+    tracked_body = utilities.track_links(soup)
 
     # remove h3 tag from email html
     h3_tag = tracked_body.findAll('h3')[0]
@@ -117,65 +117,21 @@ def update(acronym, offset):
     pyautogui.click(638, 199)
 
 
-    
-    return
-
-
 def main(acronym):
     """ Update a communication plan in Slate, email by email. """
-    # Load environmental variables.
-    load_dotenv()
+    # Load host information.
+    host = utilities.get_host_from_env()
 
-    # Determine number of emails.
-    print("Determining number of emails...")
-
-    # TODO: Move this to general function for use in other scripts.
-
-    # Environmental file check.
-    if os.getenv("HOST") is None:
-        exit_with_error("Environmental file not found or HOST env entry not defined!")
-
-    # Navigate to the local views folder.
-    views = pathlib.Path(os.getcwd()) / ".." / "resources" / "views"
-
-    # For geoscience, split it, then navigate to it.
-    if "geosciences" in acronym.lower():
-
-        # Split the path.
-        path_parts = acronym.lower().split('/')
-
-        # Navigate to the programs folder first.
-        program = views / "programs"
-
-        # For each folder in the given path, navigate to it.
-        for folder in path_parts:
-            program = program / folder
-    else:
-        # Otherwise, go directly there.
-        program = views / "programs" / acronym.lower()
-
-    if not program.exists():
-        message = "Program " + acronym + " not found! Check spelling."
-        exit_with_error(message)
-    else:
-        print("Program found. Finding files...")
+    # Request email list for the program.
+    emails = utilities.get_program_email_list(acronym)
     
-    # Get list of files and sort on numbers dictionary.
-    files = os.listdir(program)
+    print("File list:", emails)
 
-    # Remove program homepage.
-    if 'home.blade.php' in files:
-        print("Removing program homepage from list")
-        files.remove('home.blade.php')
-    
-    #print("File list:", files)
-    print("Number of files:", len(files))
-
-    for i in range(len(files)):
+    # Update each email.
+    for i in range(len(emails)):
         print("Updating email", i + 1)
-        update(acronym, i)
+        update(acronym, host, i)
 
-    return
 
 if __name__ == "__main__":
     # Parse CLI arguments

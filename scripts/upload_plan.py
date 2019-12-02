@@ -9,6 +9,7 @@ import requests
 
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
+from utilities import exit_with_error, track_links
 
 # PyAutoGUI settings
 pyautogui.PAUSE = 5
@@ -22,12 +23,6 @@ def arguments():
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument("-a", "--Acronym", action="store", help="Program Acronym", required=True)
     return parser.parse_args()
-
-
-def exit_with_error(message):
-    """ Display error message and exit. """
-    print(message)
-    raise SystemExit
 
 
 def get_coordinator(soup):
@@ -55,27 +50,6 @@ def get_subject(soup):
 
     # Return just the subject line, minus the ending tag.
     return h3_list[1][1:-5]
-
-
-def track_links(soup):
-    """ Replace links with tracking links. """
-    # For each link in the email
-    for link in soup.findAll('a'):
-
-        # Check to ensure it has an href attribute.
-        if link.has_attr('href'):
-
-            # Only track online.msstate.edu links
-            if 'https://online.msstate.edu/' in link['href']:
-
-                # Add the capture email tracker.
-                new_href = link['href'] + "?cbe_email={{Email}}"
-
-                # Replace the existing link with the new one.
-                link['href'] = new_href
-
-    # Return the modified soup.
-    return soup
 
 
 def upload(acronym, day_int, email, population):
