@@ -16,6 +16,8 @@
     <li>Taught online by faculty and staff from the Department of Geosciences at MSU, which is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC)</li>
 </ul>
 
+<p>The course schedule for the ENGS program can be accessed <a href="https://online.msstate.edu/geosciences/engs/program-structure">here</a>.</p>
+
 <p>Interested in enrolling? Fall admission is preferred, but spring and summer applicants will be considered.  The fall admission deadline is <b>August 1</b>.  Students who wish to apply should have met the following requirements:</p>
 
 <ul>
