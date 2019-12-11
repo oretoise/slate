@@ -35,5 +35,6 @@
 	<li><a href=" {{ url('history') }}">BA History</a></li>
 	<li><a href=" {{ url('geosciences/amf') }}">Aeronautical Meteorological Forecaster Certficiate</a></li>
 	<li><a href=" {{ url('biology') }}">General Biology Certificate</a></li>
+	<li><a href=" {{ url('bas') }}">Bachelor of Applied Science</a></li>
 </ul>
 @endsection
