@@ -5,7 +5,7 @@
 <p>Dear @@{{First}},</p>
 <p>I wanted to send you two quick reminders:</p>
 <ol>
-    <li>You may only start the Vision Specialist Certificate program during the start of the <b>spring</b> semester.</li>
+    <li>You may only start the Vision Specialist Certificate program during the start of the <b>spring</b> semester.</li><br/><br/>
     <li>If you haven't already applied, the sooner you get your application completed, the closer you are to reaching your educational goals.</li>
 </ol>
 
