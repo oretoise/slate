@@ -1,7 +1,8 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 17 - Subject: </h3>
+<h3>Day 17 - Subject: How much will the Vision Specialist Certificate cost?</h3>
+@include('common.grad_tuition')
 @endsection
 
 @section('signature')
