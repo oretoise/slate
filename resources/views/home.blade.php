@@ -36,5 +36,6 @@
 	<li><a href=" {{ url('geosciences/amf') }}">Aeronautical Meteorological Forecaster Certficiate</a></li>
 	<li><a href=" {{ url('biology') }}">General Biology Certificate</a></li>
 	<li><a href=" {{ url('bas') }}">Bachelor of Applied Science</a></li>
+	<li><a href=" {{ url('vision') }}">Vision Specialist Certificate</a></li>
 </ul>
 @endsection
