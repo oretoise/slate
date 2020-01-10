@@ -10,10 +10,7 @@
 
 <p>Your application must be submitted by the semester deadline in which you plan to enroll:</p>
 
-<p>
-    Summer and Fall semesters:   <b>March 1</b><br/>
-    Spring semester:    <b>October 1</b>
-</p>
+<p>Summer only:   <b>March 1</b></p>
 
 <P>We've provided a short video to help you get started on your application.</p>
 

@@ -7,12 +7,6 @@
 <p>We'd love to get to know you. Contact us with any question you may have about the MATX program.</p>
 
 <p>
-    <b>Dr. Bethany McKissick</b><br/>
-    <i>MATX Grad Coordinator</i><br/>
-    <a href="mailto:brs266@msstate.edu">brs266@msstate.edu</a>
-</p>
-
-<p>
     <b>Ms. Susan Steward</b><br/>
     <i>MAT Coordinator</i><br/>
     662.325.0527<br/>

@@ -23,9 +23,9 @@
             <td class="divider"></td>
             <td class="divider" style="text-align: center; width: 50%;">
                 <br/>
-                <b>Susan Steward</b><br/>
+                <b>Michele Gaither</b><br/>
                 ELEM Coordinator / Advisor<br/>
-                (P): 662-325-0527
+                (P): 662-325-7128
                 <a href="mailto:elemonline@colled.msstate.edu">elemonline@colled.msstate.edu</a>
             </td>
         </tr>
