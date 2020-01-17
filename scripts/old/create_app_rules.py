@@ -1,7 +1,6 @@
 import argparse
 import pandas as pd
 import pyautogui
-import utilities
 
 
 def arguments():
@@ -23,7 +22,8 @@ def main(list_file):
         list_df = pd.read_csv(list_file, encoding="UTF-8")
 
     except FileNotFoundError:
-        utilities.exit_with_error("Unable to locate provided file. Check path and try again.")
+        print("Unable to locate provided file. Check path and try again.")
+        raise SystemExit
     
     # Go to browser.
     pyautogui.hotkey('win', '1')
