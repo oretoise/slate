@@ -130,7 +130,7 @@ def upload(acronym, day_int, email, population):
     # CONTEXT CHANGE: Query Editor
 
     # Click Filter
-    pyautogui.click(1862, 876)
+    pyautogui.click(1862, 802)
 
     # Do in-population filter for day 0.
     if day_int == 0:

@@ -2,6 +2,7 @@ import argparse
 import pandas as pd
 import pyautogui
 import update_plan
+import utilities
 
 
 def arguments():
@@ -20,7 +21,7 @@ def main(list_file):
     try:
         list_df = pd.read_csv(list_file, encoding="UTF-8")
     except FileNotFoundError:
-        update_plan.exit_with_error("Unable to locate provided file. Check path and try again.")
+        utilities.exit_with_error("Unable to locate provided file. Check path and try again.")
     
     # Go to browser.
     pyautogui.hotkey('win', '1')
