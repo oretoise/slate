@@ -17,7 +17,7 @@
             </a>
         </td>
         <td class="divider social">
-            <a href="https://www.instagram.com/mississippistateonline/">
+            <a href="https://www.instagram.com/msstateonline/">
                 <img src="https://goto.msstate.edu/www/images/Distance/social/instagram_100.png" />
             </a>
         </td>
