@@ -144,7 +144,7 @@
                             <img class="icon" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/fb_icon.png" /></a>
                             <a href="https://twitter.com/msstateonline" target="_blank">
 			                <img class="icon" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/tw_icon.png" /></a>
-                            <a href="https://www.instagram.com/mississippistateonline/" target="_blank">
+                            <a href="https://www.instagram.com/msstateonline/" target="_blank">
 			                <img class="icon" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/ig_icon.png" /></a>
                             <a href="https://www.linkedin.com/company/mississippi-state-university-center-for-distance-education/" target="_blank">
 			                <img class="icon" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/li_icon.png" /></a>
