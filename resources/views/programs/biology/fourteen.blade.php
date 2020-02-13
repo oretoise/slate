@@ -10,15 +10,15 @@
 <ol>
 	<li>
 		<b>Is this program offered completely online?</b><br/>
-		All of the General Biology certificate courses are taught completely online.
+		All of the General Biology certificate courses are taught completely online.<br/><br/>
 	</li>
 	<li>
 		<b>How long does it take to complete the program?</b><br/>
-		The certificate can be completed in as little as one year by taking two courses per semester.
+		The certificate can be completed in as little as one year by taking two courses per semester.<br/><br/>
 	</li>
 	<li>
 		<b>Are there prerequisites to be considered for admission?</b><br/>
-		A minimum of 15 hours in Biology from an accredited university is preferred, with at least a "B" grade and an overall GPA of at least 2.75.
+		A minimum of 15 hours in Biology from an accredited university is preferred, with at least a "B" grade and an overall GPA of at least 2.75.<br/><br/>
 	</li>
 </ol>
 
