@@ -14,8 +14,9 @@ def main():
     # Go to browser.
     pyautogui.hotkey('win', '1')
 
-    skip = ['agriculture', 'bba', 'biology', 'bsindt', 'bsis', 'edld', 'elem', 'forestry', 'health', 'history', 'mabm', 'matced', 'mats']
-    
+    # Skip anything?
+    skip = []
+
     # Loop through values.
     for plan in plans:
         if plan in skip:
