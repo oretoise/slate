@@ -37,5 +37,6 @@
 	<li><a href=" {{ url('biology') }}">General Biology Certificate</a></li>
 	<li><a href=" {{ url('bas') }}">Bachelor of Applied Science</a></li>
 	<li><a href=" {{ url('vision') }}">Vision Specialist Certificate</a></li>
+	<li><a href=" {{ url('engineering') }}">Master of Engineering</a></li>
 </ul>
 @endsection
