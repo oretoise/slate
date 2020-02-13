@@ -29,7 +29,7 @@ Summer Admission Deadline:  <b>May 15</b></p>
 @endsection
 
 @section('signature')
-	@include('signatures.dknox_swann.blade.php')
+	@include('signatures.dknox_swann')
 @endsection
 
 @section('apply')

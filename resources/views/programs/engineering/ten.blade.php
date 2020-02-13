@@ -34,7 +34,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.dknox_swann.blade.php')
+	@include('signatures.dknox_swann')
 @endsection
 
 @section('apply')
