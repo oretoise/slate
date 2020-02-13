@@ -9,7 +9,7 @@ import utilities
 from bs4 import BeautifulSoup
 
 # PyAutoGUI settings
-pyautogui.PAUSE = 5
+pyautogui.PAUSE = 15
 pyautogui.FAILSAFE = True
 
 
@@ -26,10 +26,10 @@ def update(acronym, host, offset):
     """ Update an email in Slate. """
 
     # Open the email.
-    y_coord = 330 + (offset * 28)
+    y_coord = 332 + (offset * 25)
     pyautogui.click(630, y_coord)
 
-    # Double-click the email name.
+    # Triple-click the email name.
     pyautogui.click(700, 240, clicks=3)
 
     # Hit Ctrl-C to copy the now-selected email name.
@@ -127,10 +127,26 @@ def main(acronym):
     
     print("File list:", emails)
 
+    skip = 0
+
+    # Get the static number of emails.
+    num_emails = len(emails)
+
+    # Only go through the needed ones.
+    needed = num_emails - skip
+
+
+
     # Update each email.
-    for i in range(len(emails)):
+    for i in range(needed):
+
+        # Skip _ number of emails if necessary. Disable this after finishing the current plan.
+        i = i + skip
+
         print("Updating email", i + 1)
         update(acronym, host, i)
+
+        #break
 
 
 if __name__ == "__main__":
