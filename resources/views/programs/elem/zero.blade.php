@@ -6,7 +6,7 @@
 
 <p>
 	<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/elem/elem1.png" />
-	Thank you for checking om the online Bachelor of Science in Elementary Education (ELEM) degree program at Mississippi State University (MSU)!  This program is designed to prepare you to have the essential foundations for instructing children in preK-6th grade.
+	Thank you for checking out the online Bachelor of Science in Elementary Education (ELEM) degree program at Mississippi State University (MSU)!  This program is designed to prepare you to have the essential foundations for instructing children in preK-6th grade.
 </p>
 
 <p><b>How does the distance ELEM degree program work?</b></p>
