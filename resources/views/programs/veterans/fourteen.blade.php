@@ -8,13 +8,13 @@
     <tbody>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/programs/veterans/l_cornelious.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/programs/veterans/adams.png">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Dr. Linda Cornelious</b><br/>
-                <i>Professor, Program Coordinator, & Advisor</i><br/>
-                <a href="mailto:lcornelious@colled.msstate.edu">lcornelious@colled.msstate.edu</a><br/>
-                (P): 662.325.8944
+                <b>Dr. James Adams</b><br/>
+                <i>Veterans' Certificate Program Coordinator</i><br/>
+                <a href="mailto:jadams@colled.msstate.edu">jadams@colled.msstate.edu</a><br/>
+                (P): 662.325.7563
             </td>
         </tr>
         <tr>
