@@ -130,7 +130,7 @@ def upload(acronym, day_int, email, population):
     # CONTEXT CHANGE: Query Editor
 
     # Click Filter
-    pyautogui.click(1862, 802)
+    pyautogui.click(1862, 870)
 
     # Do in-population filter for day 0.
     if day_int == 0:
@@ -153,13 +153,13 @@ def upload(acronym, day_int, email, population):
     pyautogui.click(845, 1115)
 
     # Click Search
-    pyautogui.click(964, 600)
+    pyautogui.click(964, 628)
 
     # Typewrite population name
     pyautogui.typewrite(population)
 
     # Click first result
-    pyautogui.click(1149, 605)
+    pyautogui.click(1149, 620)
 
     if day_int != 0:
         # tab, tw # of days
@@ -366,7 +366,10 @@ def main(acronym):
     print("File list:", files)
 
     # Upload each file to Slate.
+    skip = []
     for email in files:
+        if email in skip:
+            continue
         upload(acronym, numbers_dict[email], email, population)
 
 
