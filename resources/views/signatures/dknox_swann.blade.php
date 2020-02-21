@@ -7,7 +7,7 @@
         </td>
         <td>
             <b>Tamra Swann</b><br/>
-            <i>Master of Engineering Advisor</i>
+            <i>Master of Engineering Advisor</i><br/>
             <a href="mailto:tswann@bagley.msstate.edu">tswann@bagley.msstate.edu</a>
         </td>
     </tr>

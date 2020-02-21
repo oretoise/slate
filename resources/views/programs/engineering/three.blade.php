@@ -20,7 +20,7 @@
         Yes, you may transfer up to 9 hours from an accredited university. A formal transfer approval form must be submitted to receive credit.<br/><br/>
     </li>
     <li>
-        <span style="color: #5D1725;"><b>Are there additional requirements to be admitted to the online MENG program?</b></span><br/>
+        <span style="color: #5D1725;"><b>Are there additional admission requirements to the online MENG program?</b></span><br/>
         Yes, in addition to university requirements, all students must have completed the following standard engineering undergraduate courses:
         <ul>
             <li>Calculus I – IV and Differential Equations</li>
