@@ -11,6 +11,7 @@
 	<ul>
 		<li>Communication</li>
 		<li>Criminology</li>
+        <li>Educational Psychology</li>
 		<li>General Business</li>
 		<li>General Technology</li>
 		<li>Geosciences</li>
