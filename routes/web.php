@@ -30,10 +30,6 @@ Route::get('/dev/{program}/{day}', 'MJML@dev_view');
 Route::get('/geosciences/{program}', 'MJML@geo_compiled');
 Route::get('/geosciences/{program}/{day}', 'MJML@geo_compiled');
 
-// ISE
-Route::get('/ise_phd', 'MJML@dev_view', ['program' => 'ise']);
-Route::get('/ise_ms', 'MJML@dev_view', ['program' => 'ise']);
-
 // Compiled
 Route::get('/{program}', 'MJML@compiled');
 Route::get('/{program}/{day}', 'MJML@compiled');
