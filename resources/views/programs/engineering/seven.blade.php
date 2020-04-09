@@ -3,6 +3,8 @@
 @section('content')
 <h3>Day 7 - Subject: Start your application today!</h3>
 
+<a href="https://youtu.be/-gzq528lad0"><img class="img-right" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/grad_admissions_video.png" /></a>
+
 <p>Dear @@{{First}},</p>
 <p>Start your application for the online Master of Engineering program today!</p>
 

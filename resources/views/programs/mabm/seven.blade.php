@@ -14,7 +14,7 @@
     </li><br/>
     <li>
         <b>Is the GMAT or GRE required?  Can it be waived?</b><br/>
-        The academic department requires that you take either the GMAT or the GRE.  This requirement cannot be waived.  There is no preference for which test you take, so choose the one you feel most suits your abilities.
+        The GRE/GMAT Requirement is waived for the Summer and Fall 2020 terms due to testing cancellations related to COVID-19.
     </li><br/>
     <li>
         <b>Are there any prerequisites?  Do I have to have the prerequisites completed prior to admission?</b><br/>
