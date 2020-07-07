@@ -5,7 +5,7 @@
 
 <p>Dear @@{{First}},</p>
 
-<img class="right" src="https://goto.msstate.edu/www/images/Distance/programs/ise/ise_1.jpg" />
+<img class="img-right" width="350px" src="https://goto.msstate.edu/www/images/Distance/programs/ise/ise_1.jpg" />
 
 {% if @@{{program}} == 'PhD Industrial & Systems Engineering' %}
 <p>Thank you for checking out MSU's online Doctor of Philosophy in Industrial & Systems Engineering degree.</p>
