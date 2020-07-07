@@ -5,12 +5,12 @@
 
 <p>Dear @@{{First}},</p>
 
-{% if {{program}} == 'PhD Industrial & Systems Engineering' %}
+{% if @@{{program}} == 'PhD Industrial & Systems Engineering' %}
 <p>Thank you for checking out MSU's online Doctor of Philosophy in Industrial & Systems Engineering degree.</p>
 <p>This 68-hour degree program offers 48 hours of coursework with an additional 20 hours of research.  This program requires a preliminary exam, a dissertation, and an oral exam in defense of the dissertation.</p>
 {% endif %}
 
-{% if {{program}} == 'MS in Industrial & Systems Engineering' %}
+{% if @@{{program}} == 'MS in Industrial & Systems Engineering' %}
 <p>Thank you for checking out MSU’s online Master of Science in Industrial Engineering degree.</p>
 <p>This 30-hour degree program has both thesis and non-thesis options.  Students can choose from five concentration track options with their program of study.  These concentrations are:</p>
 <ul>
@@ -19,7 +19,7 @@
 	<li>Management Systems Engineering</li>
 	<li>Manufacturing Systems</li>
 	<li>Operations Research</li>
-</ul>
+</ul>{% endif %}
 
 <p>See how you can get started by:</p>
 <ul>
