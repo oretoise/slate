@@ -21,7 +21,7 @@
 			<li>Industrial Systems</li>
 			<li>Management Systems Engineering</li>
 			<li>Operations Research</li>
-		</ul><br/><br/>
+		</ul><br/>
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>Does this program have a non-thesis and thesis option?</b></span><br/>
