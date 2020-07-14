@@ -153,13 +153,19 @@ def upload(acronym, day_int, email, population):
     pyautogui.click(845, 1115)
 
     # Click Search
-    pyautogui.click(964, 628)
-
+    if day_int != 0:
+        pyautogui.click(964, 630)
+    else:
+        pyautogui.click(964, 604)
+    
     # Typewrite population name
     pyautogui.typewrite(population)
 
     # Click first result
-    pyautogui.click(1149, 620)
+    if day_int != 0:
+        pyautogui.click(1149, 604)
+    else:
+        pyautogui.click(1149, 608)
 
     if day_int != 0:
         # tab, tw # of days
@@ -191,6 +197,26 @@ def upload(acronym, day_int, email, population):
     # Click Continue
     pyautogui.click(840, 1115)
 
+    # add program of interest
+    # Click Export
+    pyautogui.click(1861, 600)
+    # Click searchbox
+    pyautogui.click(1035, 415)
+    # Type "distance - academic"
+    pyautogui.typewrite("Distance - Academic")
+    # Click it
+    pyautogui.click(850, 570)
+    # Click "Continue"
+    pyautogui.click(840, 1115)
+    # Double click the export
+    pyautogui.click(834, 677, clicks=2)
+    # hit tab
+    pyautogui.press('tab')
+    # typerwrite "program"
+    pyautogui.typewrite("program")
+    # Click save
+    pyautogui.click(964, 1074)
+
     # Go back to Email View.
     pyautogui.click(704, 205)
 
@@ -214,13 +240,13 @@ def upload(acronym, day_int, email, population):
 
     # drag email to recipient
     pyautogui.moveTo(1671, 414)
-    pyautogui.dragTo(1200, 490, 1)
+    pyautogui.dragTo(1200, 454, 1)
 
     # Grab coordinator's email address from the email.
     coordinator_email = get_coordinator(tracked_body)
 
     # set sender to coordinator
-    pyautogui.click(1209, 457)
+    pyautogui.click(1209, 426)
     pyautogui.hotkey('ctrl', 'a')
     pyautogui.typewrite(coordinator_email)
 
@@ -228,7 +254,7 @@ def upload(acronym, day_int, email, population):
     subject = get_subject(tracked_body)
 
     # click subject line
-    pyautogui.click(900, 554)
+    pyautogui.click(900, 525)
 
     # Typewrite subject line.
     pyautogui.typewrite(subject)
@@ -250,7 +276,7 @@ def upload(acronym, day_int, email, population):
     pyautogui.hotkey('ctrl', 'v')
 
     # click ok
-    pyautogui.click(1615, 1090)
+    pyautogui.click(1724, 1060)
 
     # click save
     pyautogui.click(745, 1115)
