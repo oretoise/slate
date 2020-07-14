@@ -113,14 +113,14 @@
         </mj-section>
 
         <mj-section background-color="#FFFFFF">
-            <mj-column width="75%">
+            <mj-column width="60%">
                 <mj-text padding="0px 20px 20px 20px">
                     <div class="signature">
                         @yield('signature')
                     </div>
                 </mj-text>
             </mj-column>
-            <mj-column width="25%">
+            <mj-column width="40%">
                 <mj-text align="right" padding="0px 20px 10px 0px">
                     <div>
                         @yield('apply')

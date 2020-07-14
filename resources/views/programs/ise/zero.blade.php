@@ -5,6 +5,8 @@
 
 <p>Dear @@{{First}},</p>
 
+<img class="img-right" width="350px" src="https://goto.msstate.edu/www/images/Distance/programs/ise/ise_1.jpg" />
+
 {% if @@{{program}} == 'PhD Industrial & Systems Engineering' %}
 <p>Thank you for checking out MSU's online Doctor of Philosophy in Industrial & Systems Engineering degree.</p>
 <p>This 68-hour degree program offers 48 hours of coursework with an additional 20 hours of research.  This program requires a preliminary exam, a dissertation, and an oral exam in defense of the dissertation.</p>
