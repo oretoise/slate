@@ -23,7 +23,7 @@
             <td class="divider"></td>
             <td class="divider" style="text-align: center; width: 50%;">
                 <br/>
-                <b>Michele Gaither</b><br/>
+                <b>Michelle Gaither</b><br/>
                 ELEM Coordinator / Advisor<br/>
                 (P): 662-325-7128
                 <a href="mailto:elemonline@colled.msstate.edu">elemonline@colled.msstate.edu</a>
@@ -32,7 +32,7 @@
     </tbody>
 </table>
 
-<p>Susan and I are here to help.  We look forward to working with you!</p>
+<p>Michelle and I are here to help.  We look forward to working with you!</p>
 <p>Sincerely,</p>
 @endsection
 
