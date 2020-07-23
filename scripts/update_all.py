@@ -15,7 +15,7 @@ def main():
     pyautogui.hotkey('win', '1')
 
     # Skip anything?
-    skip = []
+    skip = ['ise']
 
     # Loop through values.
     for plan in plans:

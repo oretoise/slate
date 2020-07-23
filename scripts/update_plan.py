@@ -26,7 +26,8 @@ def update(acronym, host, offset):
     """ Update an email in Slate. """
 
     # Open the email.
-    y_coord = 332 + (offset * 25)
+    y_coord = 332 + (offset * 28)
+    print("Moving to", y_coord)
     pyautogui.click(630, y_coord)
 
     # Triple-click the email name.
@@ -81,7 +82,7 @@ def update(acronym, host, offset):
     pyautogui.hotkey('ctrl', 'v')
 
     # click ok
-    pyautogui.click(1615, 1085)
+    pyautogui.click(1730, 1065)
 
     # click save
     pyautogui.click(745, 1111)
@@ -133,20 +134,17 @@ def main(acronym):
     num_emails = len(emails)
 
     # Only go through the needed ones.
-    needed = num_emails - skip
-
-
+    needed = num_emails
 
     # Update each email.
     for i in range(needed):
 
         # Skip _ number of emails if necessary. Disable this after finishing the current plan.
-        i = i + skip
+        if i == 0:
+            i = i + skip
 
-        print("Updating email", i + 1)
+        print("Updating email", i)
         update(acronym, host, i)
-
-        #break
 
 
 if __name__ == "__main__":
