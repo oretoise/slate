@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <script>
+        function getCookie(cname) {
+            var name = cname + "=";
+            var decodedCookie = decodeURIComponent(document.cookie);
+            var ca = decodedCookie.split(';');
+            for(var i = 0; i <ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
+        }
+
+        // Function to grab our UTM cookie.
+        function grabUTM() {
+            var utmSet = getCookie("utmSet");
+            var redirect_url = "https://www.msstate.edu/bas/requestinfo-thankyou";
+
+            // Add UTM parameters if they exist.
+            if (utmSet != "") {
+                if (utmSet == 'True') {
+
+                    // Grab UTM parameters.
+                    var utmString = getCookie("utmContent");
+
+                    redirect_url = redirect_url + utmString;
+                    
+                }
+            }
+
+            // Redirect to OPA's thank-you page.
+            window.location.href = redirect_url;
+        }
+
+        grabUTM()
+    </script>
+  </body>
+</html>
