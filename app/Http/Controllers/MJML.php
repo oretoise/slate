@@ -137,7 +137,7 @@ class mjml extends Controller
         }
 
         # TODO: Return JSON for AJAX.
-        echo "Compiled plan. Visit at /" . $program . "/ .";
+        echo "Compiled plan. Visit at /" . $program . "/ .\n";
     }
 
     public function geo_compile_plan($program) {
