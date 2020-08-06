@@ -21,7 +21,7 @@
 			<li>Opportunities to pursue further education and degrees</li>
 			<li>Personalized advising for career goals</li>
 			<li>No set class hours, complete course work on your schedule.</li>
-		</ul><br/><br/>
+		</ul><br/>
 	</li>
 	<li>
 		<b><span style="color: #5D1725;">Can the entire program be completed online?</span></b><br/>
