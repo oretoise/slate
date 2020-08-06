@@ -7,7 +7,7 @@
 
 <p>Thank you for checking out MSU's online, non-thesis Companion Animal Management Certificate.</p>
 
-<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/animal/kitten.jpg" alt="Kitten with red collar" />
+<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/animal/kitten.png" alt="Kitten with red collar" />
 
 <p>If you are applying as a <b>GRADUATE</b> student, your application must be submitted by the semester deadline in which you plan to enroll:</p>
 
