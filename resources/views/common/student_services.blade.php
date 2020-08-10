@@ -41,3 +41,6 @@
     <span style="color: #5D1725; text-decoration: underline;"><b>TECHNICAL SUPPORT</b></span><br/>
     If you have a technical issue, the Center for Distance Education Help Desk can assist you!
 </p>
+
+<p>Please let me know if you have any questions. I am happy to help.</p>
+<p>All the best,</p>

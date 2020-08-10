@@ -19,3 +19,6 @@
     <span style="color: #5D1725; text-decoration: underline;"><b>MAROON & WHITE</b></span><br/>
     Maroon and white are MSU’s colors dating back to November 16, 1895. <span style="color: #5D1725; text-decoration: underline;"><b>MAROON FRIDAY</b></span> became a tradition as Bulldogs around the world began expressing their pride and passion for MSU by wearing at least one piece of maroon clothing each Friday.
 </p>
+
+<p>I look forward to you becoming an MSU Bulldog, and I am always here to help!</p>
+<p>All the best,</p>
