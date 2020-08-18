@@ -11,6 +11,7 @@
 <ul>
     <li>Communication</li>
     <li>Criminology</li>
+    <li>Cybersecurity</li>
     <li>General Business</li>
     <li>General Technology</li>
     <li>Geosciences</li>
@@ -18,6 +19,7 @@
     <li>History</li>
     <li>Kinesiology</li>
     <li>Manufacturing Fundamentals</li>
+    <li>Operations Management Engineering</li>
     <li>Psychology</li>
     <li>Social Work</li>
     <li>Sociology</li>
