@@ -13,8 +13,8 @@
 deadline in which you plan to enroll:</p>
 
 <p>
-    Fall semester: <b>August 1st</b>
-    Spring semester: <b>December 1st</b>
+    Fall semester: <b>August 1st</b><br/>
+    Spring semester: <b>December 1st</b><br/>
     Summer semester: <b>May 15th</b>
 </p>
 

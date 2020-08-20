@@ -2,7 +2,7 @@
     <tr>
         <td>
             <b>Tamra Swann</b><br/>
-            <i>BCoE Distance Education Coordinator</i><br/>
+            <i>Bagley College of Engineering Distance Coordinator</i><br/>
             <a href="mailto:tswann@bagley.msstate.edu">tswann@bagley.msstate.edu</a>
         </td>
         <td style="padding-right: 10px; width: 50%;">

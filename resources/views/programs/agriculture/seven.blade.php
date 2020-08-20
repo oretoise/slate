@@ -14,7 +14,7 @@
     </li>
     <li>
         <span style="color: #5D1725;"><b>Is the GRE required?  Can it be waived?</b></span><br/>
-        The GRE/GMAT Requirement is waived for the Summer and Fall 2020 terms due to testing cancellations related to COVID-19.<br/><br/>
+        The academic department requires that you take the GRE. This requirement cannot be waived.<br/><br/>
     </li>
     <li>
         <span style="color: #5D1725;"><b>Are there any prerequisites?  Do I have to have the prerequisites completed prior to admission?</b></span><br/>
@@ -22,7 +22,7 @@
     </li>
     <li>
         <span style="color: #5D1725;"><b>What is the cost of this program?</b></span><br/>
-        All online students are charged the in-state graduate tuition rate plus fees.  Tuition typically increases each fall semester.  Please refer to the <a href="https://www.controller.msstate.edu/accountservices/tuition/">"Tuition and Required Fees"</a> on the Distance Education tab for current tuition rates.
+        All online students are charged the in-state graduate tuition rate plus fees.  Tuition typically increases each fall semester.  Please refer to the <a href="https://www.controller.msstate.edu/accountservices/tuition/">"Tuition and Required Fees"</a> on the Online Education tab for current tuition rates.
     </li>
 </ol>
 

@@ -11,12 +11,11 @@
 <p>Your application must be submitted by the semester deadline in which you plan to enroll:</p>
 
 <p>
-    Fall semester: <b>August 1st</b><br/>
-    Spring semester: <b>December 1st</b><br/>
-    Summer semester: <b>May 15th</b>
+    Fall semester: <b>July 1st</b><br/>
+    Spring semester: <b>November 1st</b>
 </p>
 
-<p>For full admission to this program, students must complete the process for <a href="https://online.msstate.edu/health/admissions-process">Classified Admission</a> online.</p>
+<p>For full admission to this program, students must complete the process for <a href="https://online.msstate.edu/wellness/admissions-process/">Unclassified Admission</a> online.</p>
 
 <p>Thank you for considering Mississippi State for your online degree. Please let me know if you have any specific questions.</p>
 <p>Thank you,</p>

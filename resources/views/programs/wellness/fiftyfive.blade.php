@@ -5,12 +5,11 @@
 
 <p>Dear @@{{First}},</p>
 
-<p>As your coordinator, I am here to help answer any questions that you have about the program.</p>
+<p>Thank you again for your interest in the Clinical Health Promotion and Wellness Coaching Certificate at Mississippi State Online. I just wanted to touch base with you again to see if you had any follow up questions. </p>
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/wellness/wellness_banner.png" />
 
-<p>It is not too late to <a href="https://online.msstate.edu/wellness/admissions-process">apply</a> for admission.</p>
-<p>I look forward to working with you!</p>
+<p>You may start the Clinical Health Promotion and Wellness Coaching Certificate at the beginning start of fall or spring semesters. The sooner you get your <a href="https://online.msstate.edu/wellness/admissions-process">application</a> completed, the closer you are to reaching your educational goals.</p>
 <p>Thank you,</p>
 @endsection
 

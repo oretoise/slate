@@ -25,7 +25,7 @@
     </li><br/>
     <li>
         <b>What is the cost of this program?</b><br/>
-        All online students are charged the in-state graduate tuition rate plus fees.  Tuition typically increases each fall semester.  Please refer to the <a href="https://www.controller.msstate.edu/accountservices/tuition/">"Tuition and Required Fees"</a> on the Distance Education tab for current tuition rates.
+        All online students are charged the in-state graduate tuition rate plus fees.  Tuition typically increases each fall semester.  Please refer to the <a href="https://www.controller.msstate.edu/accountservices/tuition/">"Tuition and Required Fees"</a> on the Online Education tab for current tuition rates.
     </li>
 </ol>
 
