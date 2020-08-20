@@ -9,7 +9,7 @@ import utilities
 from bs4 import BeautifulSoup
 
 # PyAutoGUI settings
-pyautogui.PAUSE = 15
+pyautogui.PAUSE = 10
 pyautogui.FAILSAFE = True
 
 
@@ -19,6 +19,7 @@ def arguments():
     description = 'Update communication plan in Slate.'
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument("-a", "--Acronym", action="store", help="Program Acronym", required=True)
+    parser.add_argument("-s", "--Skip", action="store", help="Skip first _ emails", nargs='?', const=0, default=0, type=int)
     return parser.parse_args()
 
 
@@ -118,7 +119,7 @@ def update(acronym, host, offset):
     pyautogui.click(638, 199)
 
 
-def main(acronym):
+def main(acronym, skip):
     """ Update a communication plan in Slate, email by email. """
     # Load host information.
     host = utilities.get_host_from_env()
@@ -128,20 +129,18 @@ def main(acronym):
     
     print("File list:", emails)
 
-    skip = 0
-
     # Get the static number of emails.
     num_emails = len(emails)
 
     # Only go through the needed ones.
-    needed = num_emails
+    needed = num_emails - skip
 
     # Update each email.
     for i in range(needed):
 
         # Skip _ number of emails if necessary. Disable this after finishing the current plan.
-        if i == 0:
-            i = i + skip
+        #if i == 0:
+        i = i + skip
 
         print("Updating email", i)
         update(acronym, host, i)
@@ -152,4 +151,4 @@ if __name__ == "__main__":
     ARGS = arguments()
 
     # Call main function with argument data.
-    main(ARGS.Acronym)
+    main(ARGS.Acronym, ARGS.Skip)
