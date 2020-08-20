@@ -42,5 +42,5 @@
     If you have a technical issue, the Center for Distance Education Help Desk can assist you!
 </p>
 
-<p>Please let me know if you have any questions. I am happy to help.</p>
+<p>Please let us know if you have any questions. We are happy to help.</p>
 <p>All the best,</p>
