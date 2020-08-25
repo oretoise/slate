@@ -15,7 +15,7 @@ def main():
     pyautogui.hotkey('win', '1')
 
     # Skip anything?
-    skip = ['ise']
+    skip = ['camc', 'cme', 'ise']
 
     # Loop through values.
     for plan in plans:
@@ -33,7 +33,7 @@ def main():
         pyautogui.press('enter')
 
         # Update the plan.
-        update_plan.main(plan)
+        update_plan.main(plan, 0)
 
 
 if __name__ == "__main__":
