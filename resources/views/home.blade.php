@@ -39,7 +39,7 @@
 	<li><a href=" {{ url('vision') }}">Vision Specialist Certificate</a></li>
 	<li><a href=" {{ url('engineering') }}">Master of Engineering</a></li>
 	<li><a href=" {{ url('ise') }}">Industrial Engineering - MS & PhD</a></li>
-	<li><a href=" {{ url('animal') }}">Companion Animal Management Certificate</a></li>
+	<li><a href=" {{ url('camc') }}">Companion Animal Management Certificate</a></li>
 	<li><a href=" {{ url('cme') }}">Computation Engineering - MS & PhD</a></li>
 </ul>
 @endsection
