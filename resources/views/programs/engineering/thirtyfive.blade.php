@@ -2,7 +2,7 @@
 
 @section('content')
 <h3>Day 35 - Subject: Be a Bulldog --- MSU Traditions</h3>
-@include('common.traditions')
+@include('common.traditions_plural')
 @endsection
 
 @section('signature')

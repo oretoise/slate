@@ -129,6 +129,7 @@ $("#grad_prog").parent().parent().find(".form_responses").find("select").change(
         "MS Aerospace Engineering:": "dc716",
         "MS Civil Engineering": "dc716",
         "MS Computational Engineering": "dc716",
+        "MS Conservation Education": "dc716",
         "MS Early Intervention": "dc716",
         "MS Electrical & Computer Engineering": "dc716",
         "MS Food Science, Nutrition, Health Promotion": "dc716",
@@ -212,6 +213,10 @@ $("#certificate").parent().parent().find(".form_responses").find("select").chang
             setProgram("Undergrad", "Geoscience / Broadcast & Operational Met (BS)");
             setCoordinator("mwb6");
             $("#bomp_concentration").parent().parent().parent().show();
+            break;
+        case "Companion Animal Management Certificate":
+            $("#level").parent().parent().parent().show();
+            setCoordinator("dc716");
             break;
         case "Veterans' Certificate":
             $("#level").parent().parent().parent().show();
