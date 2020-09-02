@@ -1,0 +1,111 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+    <style type="text/css">/*<![CDATA[*/@media only screen and (max-width: 480px) { table, img { width: 100% !important; height: auto !important; } }/*]]>*/
+    </style>
+  </head>
+  <body>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:650px;">
+      <tbody>
+        <tr>
+          <td>
+          <p>
+            <img alt="" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/HORIZONTAL_WEB_white.jpg" style="width: 750px;" />
+          </p>
+
+          <div>
+            {{first}} {{last}}<br />
+            {{address_street1}} {{address_street2}}<br />
+            {{address_city}}, {{address_region}} {{address_postal}}<br />
+            {% if {{address_country}} != 'United States' %}{{address_country}}{% endif %}<br />
+            <br />
+            <br />
+            Dear {{First}}:<br />
+            <br />
+            Congratulations! You have been admitted {% if {{decision_name}} == 'GR Admit Contingent' %}contingent {% endif %}{% if {{decision_name}} == 'GR Admit Provisional' %}provisionally {% endif %}into the online {{gr_aca_int_app}} program for the <strong>{{gr_entry_term_app}}</strong> term. On behalf of the students, faculty and staff, welcome to Mississippi State!<br />
+            {% if {{gr_aca_int_app}} == 'Master of Agribusiness Mgt / Agribusiness Mgt' %}<br />
+            Matt Janzen (<a href="mailto:mgj50@msstate.edu">mgj50@msstate.edu</a>, 662.325.0848) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting him to allow time for all records to be updated.<br />
+            <br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Agriculture / Agriculture / Animal and Dairy Science' %}<br />
+            Dr. Jamie Larson (<a href="mailto:j.larson@msstate.edu">j.larson@msstate.edu</a>, 662.325.0040) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting her to allow time for all records to be updated.<br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Science / Early Intervention' %}<br />
+            Dr. Julie Parker (<a href="mailto:jparker@humansci.msstate.edu">jparker@humansci.msstate.edu</a>, 662.325.2950) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting her to allow time for all records to be updated.<br />
+            <br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Science / Food Sc Nutr. Health Prom (GR) / Health Promotion' %}<br />
+            Dr. Antonio Gardner (last names A-M) (<a href="mailto:ajg130@msstate.edu">ajg130@msstate.edu</a>), or Dr. Barry Hunt (last names N-Z) (<a href="mailto:bhunt@fsnhp.msstate.edu">bhunt@fsnhp.msstate.edu</a>) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting your advisor to allow time for all records to be updated.<br />
+            <br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Science / General Biology' %}<br />
+            Dr. Donna Gordon (<a href="mailto:gordon@biology.msstate.edu">gordon@biology.msstate.edu</a>) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting her to allow time for all records to be updated.<br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Business Adm / Business Admin.' or {{gr_aca_int_app}} == 'Master of Business Adm / MBA - Project Management' or {{gr_aca_int_app}} == 'Master of Science Info Sys / Information Systems' %}<br />
+            Angelia Knight (<a href="mailto:aknight@business.msstate.edu">aknight@business.msstate.edu</a>) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting her to allow time for all records to be updated.<br />
+            <br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Arts Teach Secondary / Secondary Teacher Alt Route' %}<br />
+            Katrina Miller (<a href="mailto:kmiller@colled.msstate.edu">kmiller@colled.msstate.edu</a>) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting her to allow time for all records to be updated.<br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Science / Secondary Education' %}<br />
+            Dr. Missy Hopper (<a href="mailto:pfh7@colled.msstate.edu">pfh7@colled.msstate.edu</a>) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting her to allow time for all records to be updated.<br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Science / Educational Leadership / School Administration' %}<br />
+            <span style="display: none;">&nbsp;</span>Dr. Paula Tharp (<a href="http://ptharp@colled.msstate.edu">ptharp@colled.msstate.edu</a>) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting your advisor to allow time for all records to be updated.<br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Doctor of Philosophy / PhD in Community Co Leadership' %}<br />
+            Dr. Stephanie King (<a href="mailto:sking@colled.msstate.edu">sking@colled.msstate.edu</a>) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting your advisor to allow time for all records to be updated.<br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Sci Instr Tech / Instructional Technology / IT Distance Education' or {{gr_aca_int_app}} == 'Master of Sci Instr Tech / Instructional Technology / IT Instructional Design' or {{gr_aca_int_app}} == 'Master of Sci Instr Tech / Instructional Technology / IT Multimedia' %}<br />
+            Dr. Stephen Lee, <a href="mailto:slee@colled.msstate.edu">slee@colled.msstate.edu</a> is the program coordinator. You will be notified the name of your advisor, who will assist you throughout your course of study. Please wait 24-48 hours before contacting the coordinator to allow time for all records to be updated.<br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Arts Teach Special / Special Ed Alternate Route' %}<br />
+            Susan Steward (<a href="mailto:ssteward@colled.msstate.edu">ssteward@colled.msstate.edu</a>) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting her to allow time for all records to be updated.<br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Arts in Teaching / Community College Education' or {{gr_aca_int_app}} == 'Master of Science / Workforce Education Leadership' %}<br />
+            Dr. Stephanie King (<a href="mailto:sking@colled.msstate.edu">sking@colled.msstate.edu</a>) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting your advisor to allow time for all records to be updated.<br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Science / Forestry' %}<br />
+            Susan Blanton (<a href="mailto:scb552@msstate.edu">scb552@msstate.edu</a>) will be your program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting her to allow time for all records to be updated.<br />
+            {% endif %} Please record the following information, which will be very important throughout your time as an MSU student.
+            <ul>
+              <li>
+                Your MSU ID is&nbsp;<strong>{{erpid}}</strong>.
+              </li>
+              <li>
+                Your NetID is {{netid}}.
+              </li>
+              <li>
+                Your MSU Email is {{netid}}@msstate.edu.
+              </li>
+            </ul>
+            Please follow these <u>three important steps</u> as soon as possible. Instructions for these steps can be found in <a href="https://online.msstate.edu/pdf/slate/MSU-Registration-Information-2019.pdf">this PDF document</a>.
+
+            <ol>
+              <li>
+                Set up your myState account.
+              </li>
+              <li>
+                Access your Office365 (MSU email) account.
+              </li>
+              <li>
+                Register for Online@State Orientation at <a href="https://online.msstate.edu/orientation/">https://online.msstate.edu/orientation/</a>
+              </li>
+            </ol>
+            <strong>The Online@State Orientation is strongly recommended, but not currently required for graduate students.</strong><br />
+            {% if {{gr_aca_int_app}} == 'Master of Science / Geoscience / Applied Meteorology' %}<br />
+            Please contact Joy Bailey (<a href="mailto:joy.bailey@msstate.edu">joy.bailey@msstate.edu</a>) if you need further assistance.<br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Science / Geoscience / Teachers in Geoscience' %}<br />
+            Please contact Joy Bailey (<a href="mailto:joy.bailey@msstate.edu">joy.bailey@msstate.edu</a>) if you need further assistance.<br />
+            {% endif %}{% if {{gr_aca_int_app}} == 'Master of Science / Geoscience / Environmental Geoscience' %}<br />
+            Please contact Joy Bailey (<a href="mailto:joy.bailey@msstate.edu">joy.bailey@msstate.edu</a>) if you need further assistance.<br />
+            {% endif %}<br />
+            We are so pleased that you chose MSU as your new academic home. Remember <a href="https://online.msstate.edu">Mississippi State University Online</a> is here to assist you. Please do not hesitate to contact us.<br />
+            <br />
+            Hail State!
+            <p>
+              Sincerely,<br />
+              <br />
+              Susan D. Seal, PhD<br />
+              <img alt="Signature of Dr. Susan Seal" src="https://goto.msstate.edu/www/images/Distance/susan_seal_signature.png" style="width: 128px; height: 42px;" /><br />
+              Executive Director, Center for Distance Education<br />
+              Mississippi State University<br />
+              365 Barr Avenue | P.O. Box 5247<br />
+              Mississippi State, MS 39762<br />
+              Office:&nbsp; 662-325-0007
+            </p>
+          </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
