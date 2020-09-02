@@ -144,6 +144,7 @@ $("#grad_prog").parent().parent().find(".form_responses").find("select").change(
         "MS Instructional Technology": "vdt1",
         "MS Mechanical Engineering": "dc716",
         "MS Secondary Education": "vdt1",
+        "MS Sustainable Bioproducts": "dc716",
         "MS Workforce Education Leadership": "vdt1",
         "No Degree / Unclassified-Grad": "dc716",
         "PhD Aerospace Engineering": "dc716",
