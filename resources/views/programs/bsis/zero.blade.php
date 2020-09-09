@@ -9,6 +9,7 @@
 	Our BSIS degree allows students maximum flexibility to customize a curriculum that aligns with their personal and career goals. Students may choose from the following emphasis areas within the BSIS degree:
 
 	<ul>
+		<li>Animal and Dairy Sciences</li>
 		<li>Communication</li>
 		<li>Criminology</li>
         <li>Educational Psychology</li>
