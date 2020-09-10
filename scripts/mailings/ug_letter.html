@@ -1,0 +1,75 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <img alt="" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/HORIZONTAL_WEB_white.jpg" style="width: 650px; height: 122px;" /><br />
+    {{first}} {{last}}<br />
+    {{address_street1}} {{address_street2}}<br />
+    {{address_city}}, {{address_region}} {{address_postal}}<br />
+    {% if {{address_country}} != 'United States' %}{{address_country}}{% endif %}<br />
+    <br />
+    <br />
+    Dear {{First}},<br />
+    <br />
+    Congratulations! You have been admitted into the online {{ug_aca_int_app}} degree program for the <strong>{{ug_term}}</strong> term. On behalf of the students, faculty and staff, welcome to Mississippi State!<br />
+    {% if {{ug_aca_int_app}} == 'Business Administration (BBA)' %}<br />
+    Chris Pilgrim (<a href="mailto:clp23@business.msstate.edu">clp23@business.msstate.edu</a>) will be your program advisor and will assist you with course registration.&nbsp; If you have any questions or concerns, please contact Mark Jimerson (<a href="mailto:mark.jimerson@msstate.edu">mark.jimerson@msstate.edu</a>), coordinator for Mississippi State University Online in Business in Administration.<br />
+    {% endif %}{% if {{ug_aca_int_app}} == 'Psychology (BS)' %}<br />
+    Dr. Deborah Eakin (<a href="mailto:psyonline@psychology.msstate.edu">psyonline@psychology.msstate.edu</a>) in the Department of Psychology will be your advisor and will assist you throughout your course of study. Dr. Eakin will email you within a few days with more information regarding advising and course registration.&nbsp; In the meantime, please pay attention to the information and follow the steps below.<br />
+    {% endif %}{% if {{ug_aca_int_app}} == 'Pre-Interdisciplinary Studies (BS)' %}<br />
+    Kali Dunlap (<a href="mailto:k.dunlap@msstate.edu">k.dunlap@msstate.edu</a>) and Evan Hawkins (<a href="mailto:e.hawkins@msstate.edu">e.hawkins@msstate.edu</a>) will be your program advisors and will assist you throughout your course of study.&nbsp; Kali or Evan will email you within 24-48 hours with more information regarding advising and course registration.<br />
+    {% endif %}{% if {{ug_aca_int_app}} == 'Elementary Education / Early Childhood (BS)' or {{ug_aca_int_app}} == 'Elementary Education / Middle School (BS)' %}<br />
+    Michelle Gaither, <a href="mailto:mgaither@colled.msstate.edu">mgaither@colled.msstate.edu</a>, is the Elementary Education program advisor and will assist you throughout your course of study.&nbsp; Please wait 24-48 hours before contacting her to allow time for all records to be updated.<br />
+    {% endif %}{% if {{ug_aca_int_app}} == 'Industrial Tech / Industrial Automation (BS)' or {{ug_aca_int_app}} == 'Industrial Tech / Manufacturing & Maintenance (BS)' %}<br />
+    Dr. Swapnil Patole, <a href="mailto:spatole@colled.msstate.edu">spatole@colled.msstate.edu</a>, is the program advisor and will assist you throughout your course of study. Please wait 24-48 hours before contacting him to allow time for all records to be updated.<br />
+    {% endif %}{% if {{ug_aca_int_app}} == 'History (BA)' %}<br />
+    Please contact Joy Bailey (<a href="mailto:joy.bailey@msstate.edu" href-="">joy.bailey@msstate.edu</a>) if you need further assistance.<br />
+    {% endif %}{% if {{ug_aca_int_app}} == 'Applied Science (BAS)' %}<br />
+    Kali Dunlap (<a href="mailto:k.dunlap@msstate.edu">k.dunlap@msstate.edu</a>) will be your program advisor and will assist you throughout your course of study.&nbsp; Kali will email you within 24-48 hours with more information regarding advising and course registration.<br />
+    {% endif %}{% if {{ug_aca_int_app}} == 'Educational Psychol (BS)' %}<br />
+    Donna Gainer (<a href="mailto:browning@colled.msstate.edu">browning@colled.msstate.edu</a>) will be your program advisor and will assist you throughout your course of study.&nbsp; Donna will email you within 24-48 hours with more information regarding advising and course registration.<br />
+    {% endif %}<br />
+    Please record the following information, which will be very important throughout your time as an MSU student.
+    <ul>
+      <li>
+        Your MSU ID is&nbsp;<strong>{{erpid}}</strong>.
+      </li>
+      <li>
+        Your NetID is {{netid}}.
+      </li>
+      <li>
+        Your MSU Email is {{netid}}@msstate.edu.
+      </li>
+    </ul>
+    Please follow these <u>three important steps</u> as soon as possible. Instructions for these steps can be found in <a href="https://online.msstate.edu/pdf/slate/MSU-Registration-Information-2019.pdf">this PDF document</a>.
+
+    <ol>
+      <li>
+        Set up your myState account.
+      </li>
+      <li>
+        Access your Microsoft Office365 (MSU email) account.
+      </li>
+      <li>
+        Register for Online@State Orientation at <a href="https://online.msstate.edu/orientation/">https://online.msstate.edu/orientation/</a>.
+      </li>
+    </ol>
+    <font size="3"><font face="Times New Roman, Times, serif"><strong>The Online@State Orientation is *required* for undergraduate students.</strong></font></font><br />
+    <br />
+    We are so pleased that you chose MSU as your new academic home. Remember <a href="https://online.msstate.edu">Mississippi State University Online</a> is here to assist you. Please do not hesitate to contact us.<br />
+    <br />
+    Hail State!
+    <p>
+      Sincerely,<br />
+      <br />
+      Susan D. Seal, PhD<br />
+      <img alt="signature small" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAqAIADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiiobucW1tJMRnYpIHqewoAhur9YQ/lxPO0XMgTHyjr39u1WlYMAR0Iql5TW+niPd+9fhm9WY8mrwAAGKZKvcWiiikUFJS1T1WZ4NOlaI4kbCIfRmIUfqaEribshRqdm03lCYFt23ODjd6Z6Z9qtVWFjCNP+xKuIgmwD09/r3qS1cyW0bN94qM59aenQSvfUmprsqIWYgKoySewp1UNXJazFuCQbiRYsj0J5/QGhK7G3ZEEc95cy29wshiilk+SHaPmjwfmYnkE8HA6VqjpVWHbPcGUdIgY19M9/8Pwq1QxRAnFZ8l/NI6m0iR4vMCNI5xu552+uOeenFO1F2keGxjJBuCd5HVUH3vzyB+NSRBGnCRqBFbjaAOmcdPwH86AfZFuqWp8wxLjh54wfpuFW2dUGWIA9TWVr1zi1aKAbp4ys3AyIwpB3H8jx3px1kgk7IuK/2i8KAZSH7x9XPb8B/OrdZtxcRaNphkCtKQcIgOWmdjwB7kmobPV/9GZJmE91EwifylwjykZKIe+OhPbvS5W1dBdJ6mxRXLt4lvDZq6rbiUXHkE4ZhI5fARB1J28k9v5ak+v2KbkglFzMJREIozyzHHH65J6VTpyXQSnFmpWR4luvsuk+YgVpRPEY1bozBwfywCfoKu2t6l55jRfNGjbBIOjEdcfQ8Vjaw0/9swTXgEekorQu3XLOp+c/3QMBc/7Rp017+oTfum+0gijZ3OFUEk+1Q6cSbGEkYLIG/Pn+tZUVxJqlrFYxESRgBbqdTlSB/Cp7lu/oCe9bC3MJtvtCtmIAnIUngeg/CoasrAnfUmzWRq05fULC0gcCdpGbn+EbGG4/nx6057u+1BdthG1sh5+0XEeM/wC6h5P1OPxqulneR3MDQ2aAws8jSyT7vNYoVGTjPf04xVRVndilK+iLZv7awkgsI0klcssZ2DOzPQsffk+verEOp2dxdyWsM6vNGMsq845weenWskaHei0uiLtDezFjHLtIEe4/NgeuON3XAHSnWWlanYvNDFdQLbyFSjbSTEAoBVU6AZBOST15zTtG2+ouaS6aEtzO5194YRmf7MgQkZCAs2WP5D68Vq28C28KxrkgdycknuTVG20z7HqQniJdZYiszu2WZgcgk9+pHtWlUya6FRT6mUIdVeS4hbyljkkJWZm3YTsAmOv17+tSHRYPsrWySzpHIMSYfJfjBySM81pUUrvoPlRlzaDZ3UvmXPmzFWBjDSECLAxhcYx/XNNt/D9raQPFbSTxbicMr/MgJyVX+6Mk9Oa1qKfPK1rhyRvexhJ4TsEliYvO0cLu8UXmYVNw+YccnPufbpV2TQ9Nm8wyWUTeays/HUqML+QrQooc5PqJQiugyKNIY1jjRURRhVUYAFOIBBBAIPWloqSxoUKMAAAdABS4paKAEwKMUtFACUUtFABRRRQB/9k=" style="height:42px; width:128px" /><br />
+      Executive Director, Center for Distance Education<br />
+      Mississippi State University<br />
+      365 Barr Avenue | P.O. Box 5247<br />
+      Mississippi State, MS 39762<br />
+      Office:&nbsp; 662-325-0007
+    </p>
+  </body>
+</html>
