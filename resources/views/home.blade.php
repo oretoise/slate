@@ -42,5 +42,6 @@
 	<li><a href=" {{ url('camc') }}">Companion Animal Management Certificate</a></li>
 	<li><a href=" {{ url('cme') }}">Computation Engineering - MS & PhD</a></li>
 	<li><a href=" {{ url('engineeringed') }}">PhD Engineering Education</a></li>
+	<li><a href=" {{ url('cee') }}">Civil Engineering - MS & PhD</a></li>
 </ul>
 @endsection
