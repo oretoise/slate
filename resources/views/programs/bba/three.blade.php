@@ -28,7 +28,7 @@
     </li>
     <li>
         <b><span style="color: #800000;">Can the entire program be completed online?</span></b><br/>
-        With the exception of BL 2413 – Legal Environment of Business and BQA 2113 – Business Statistical Methods I, all other online BBA coursework can be completed 100% online. These courses may be completed at an accredited community college or four-year university before you become a Mississippi State Bulldog!
+        Yes, the program can be completed 100% online and does not require any on-campus components.
     </li>
 </ul>
 

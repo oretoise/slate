@@ -11,15 +11,14 @@
     <tbody>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/programs/mba/cindy_smith.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/bba/Angelia Knight2019.jpg">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Cindy Smith</b><br/>
-                <i>Director of Distance Learning</i><br/>
-                College of Business<br/>
-                <a href="mailto:csmith@business.msstate.edu">csmith@business.msstate.edu</a><br/>
-                (P): 662.325.7281<br/>
-                (F): 662.325.8161
+                <b>Angelia Knight, PHR, SHRM-CP</b><br/>
+                <i>Director, MBA Programs</i><br/>
+                Mississippi State University<br/>
+                <a href="mailto:aknight@business.msstate.edu">aknight@business.msstate.edu</a><br/>
+                (P) 662.325.7281
             </td>
         </tr>
         <tr>

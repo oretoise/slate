@@ -15,10 +15,6 @@
     <li>
         <b><span style="color: #5D1725;">Are there additional fees outside of the graduate tuition rate?</span></b><br/>
         In addition to the graduate tuition, program students will be charged a $25 per credit hour instructional support fee along with a $249 per credit hour distance fee.
-
-        <br/><br/>
-        The breakdown below is for College of Business courses only.
-        <br/><br/>
         
         <table>
             <tbody>

@@ -22,8 +22,10 @@
             </td>
         </tr>
         <tr>
-            <td class="divider"></td>
-            <td class="divider">
+            <td class="divider" style="width: 50%">
+                <img src="https://goto.msstate.edu/www/images/Distance/bba/Pilgrim_Christopher_20190426_M4B9948~dp23.jpg">
+            </td>
+            <td class="divider" style="text-align: center; width: 50%;">
                 <br/>
                 Chris Pilgram<br/>
                 Assistant Director, Distance Learning<br/>
