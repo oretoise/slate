@@ -10,6 +10,12 @@
 {% if @@{{program}} == 'MS Civil Engineering' %}
 <p>Thank you for checking out MSU’s online Master of Science in Civil Engineering degree.</p>
 <p>This degree has both thesis (30 hours) and non-thesis (33 hours) options. Programs of study are personalized to the individual student.  This program allows students to specialize their program of study in the following areas:</p>
+{% endif %}
+
+{% if @@{{program}} == 'PhD Civil Engineering' %}
+<p>Thank you for checking out MSU’s online Doctor of Philosophy in Engineering with a concentration in Civil Engineering degree.</p>
+<p>This degree requires 18 hours of coursework and a minimum of 20 hours of research. This program allows students to specialize their program of study in the following areas:</p>
+{% endif %}
 <ul>
 	<li>Construction Engineering and Management</li>
 	<li>Construction Materials Engineering</li>
@@ -38,7 +44,7 @@ Summer Admission Deadline:  <b>January 15</b>
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) and the Accreditation Board for Engineering and Technology, Inc. (ABET), your courses will meet the same standards as on-campus courses.  Also, your online degree will not be differentiated from an on-campus degree.</p>
 <p>Are you <a href="https://online.msstate.edu/cee/admissions-process/">ready to apply</a>? If you have any questions or concerns, please contact us. We are ready to help.
 <p>All the best,</p>
-{% endif %}
+
 
 
 @endsection
