@@ -43,5 +43,6 @@
 	<li><a href=" {{ url('cme') }}">Computation Engineering - MS & PhD</a></li>
 	<li><a href=" {{ url('engineeringed') }}">PhD Engineering Education</a></li>
 	<li><a href=" {{ url('cee') }}">Civil Engineering - MS & PhD</a></li>
+	<li><a href=" {{ url('conservation') }}">MS Conservation Education</a></li>
 </ul>
 @endsection
