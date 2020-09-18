@@ -13,20 +13,19 @@
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>My bachelor’s degree is not in sustainable bioproducts.  Can I still apply?</b></span><br/>
-		Yes! Our students come from a variety of backgrounds including science, engineering, business, forestry, and agriculture.
-		<br/><br/>
+		Yes! Our students come from a variety of backgrounds including science, engineering, business, forestry, and agriculture.<br/><br/>
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>Can the entire program be completed online?</b></span><br/>
-		Yes, the Master of Science in Sustainable Bioproducts coursework can be completed 100% online. 
+		Yes, the Master of Science in Sustainable Bioproducts coursework can be completed 100% online.<br/><br/>
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>How long does it take to earn a master’s degree?</b></span><br/>
-		Full-time students take 1.5 to 2 years on average to complete the program requirements. The program length may vary depending on several factors including transferred credit and course load.
+		Full-time students take 1.5 to 2 years on average to complete the program requirements. The program length may vary depending on several factors including transferred credit and course load.<br/><br/>
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>Do you accept transfer credit?</b></span><br/>
-		Yes, you may transfer up to 12 hours from an accredited university. A formal <a href="https://www.grad.msstate.edu/files/transfer_approval_form.pdf">transfer approval form</a> must be submitted to receive credit.  
+		Yes, you may transfer up to 12 hours from an accredited university. A formal <a href="https://www.grad.msstate.edu/files/transfer_approval_form.pdf">transfer approval form</a> must be submitted to receive credit.<br/><br/>
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>Do I have to write a thesis?</b></span><br/>
