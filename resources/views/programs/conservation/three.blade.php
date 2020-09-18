@@ -19,7 +19,7 @@
 			<li>This program was designed by our faculty to meet accreditation and industry standards.  The conservation education faculty are scientific researchers with experience in both non-formal and formal educational settings.</li>
 			<li>Work and take classes. Designed for the working professional, our classes are fully online with weekly tasks assigned for you to complete on your schedule.</li>
 		</ul>
-		<br/><br/>
+		<br/>
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>Can the entire program be completed online?</b></span><br/>
