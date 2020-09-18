@@ -13,3 +13,4 @@ yarn-error.log
 /resources/views/compiled
 /scripts/plans.csv
 /.vscode/settings.json
+.vscode/settings.json
