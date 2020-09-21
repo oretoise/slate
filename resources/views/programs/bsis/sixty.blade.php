@@ -9,6 +9,7 @@
 </p>
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/bsis/bsis_web_banner.png" />
+<p>We hope to hear from you soon!</p>
 @endsection
 
 @section('signature')
