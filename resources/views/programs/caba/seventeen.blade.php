@@ -13,7 +13,8 @@ your pursuit of your degree. Meet your team!</p>
 <table>
     <tbody>
         <tr>
-            <td class="divider staff" style="text-align: center; width: 30%;">
+            <td></td>
+            <td class="divider staff" style="text-align: center; width: 50%;">
                 <b>Hallie Smith, PhD, BCBA-D</b><br/>
                 <i>Assistant Professor, Program Coordinator, Online Coordinator/Advisor</i><br/>
                 Counseling, Ed Psych, & Foundations<br/>
@@ -24,7 +25,7 @@ your pursuit of your degree. Meet your team!</p>
             <td class="divider staff">
                 <img src="https://goto.msstate.edu/www/images/Distance/staff/valerie_tate.png">
             </td>
-            <td class="divider staff" style="text-align: center; width: 30%;">
+            <td class="divider staff" style="text-align: center; width: 50%;">
                 <b>Valerie Tate</b><br/>
                 <i>Program Coordinator</i><br/>
                 Center for Distance Education<br/>
