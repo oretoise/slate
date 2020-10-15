@@ -21,6 +21,7 @@ $("#program").parent().parent().find(".form_responses").find("select").change(fu
     // Dict to store program:coordinator relationships
     var dict = {
         "Aeronautical Meteorology Forecaster Certificate": "mwb6",
+        "Applied Behavior Analysis Certificate": "vdt1",
         "Applied Science (BAS)": "kmd160",
         "Broadcast & Operational Meteorology Certificate": "mwb6",
         "BS Educational Psychology": "jnh102",

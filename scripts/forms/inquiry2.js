@@ -210,6 +210,11 @@ $("#certificate").parent().parent().find(".form_responses").find("select").chang
             setProgram("Undergrad", "Geoscience / Broadcast & Operational Met (BS)");
             setCoordinator("mwb6");
             break;
+        
+        case "Applied Behavior Analysis Certificate":
+            setCoordinator("vdt1");
+            break;
+        
         case "Broadcast & Operational Meteorology Certificate":
             setProgram("Undergrad", "Geoscience / Broadcast & Operational Met (BS)");
             setCoordinator("mwb6");
