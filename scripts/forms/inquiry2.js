@@ -118,6 +118,7 @@ $("#grad_prog").parent().parent().find(".form_responses").find("select").change(
 
     // Dict to store program:coordinator relationships
     var dict = {
+        "MA Foreign Languages": "mwb6",
         "MA Teaching - Community College Education": "vdt1",
         "MA Teaching - Secondary Education": "vdt1",
         "MA Teaching - Special Education": "vdt1",
@@ -129,6 +130,7 @@ $("#grad_prog").parent().parent().find(".form_responses").find("select").change(
         "MS Aerospace Engineering:": "dc716",
         "MS Civil Engineering": "dc716",
         "MS Computational Engineering": "dc716",
+        "MS Computer Science": "dc716",
         "MS Conservation Education": "dc716",
         "MS Early Intervention": "dc716",
         "MS Electrical & Computer Engineering": "dc716",
@@ -139,7 +141,7 @@ $("#grad_prog").parent().parent().find(".form_responses").find("select").change(
         "MS Geosciences - Environmental Geoscience": "mwb6",
         "MS Geosciences - Teachers in Geoscience": "mwb6",
         "MS in Educational Leadership - School Administration": "vdt1",
-        "MS Industrial Engineering": "dc716",
+        "MS in Industrial & Systems Engineering": "dc716",
         "MS Information Systems": "mj359",
         "MS Instructional Technology": "vdt1",
         "MS Mechanical Engineering": "dc716",
@@ -152,7 +154,9 @@ $("#grad_prog").parent().parent().find(".form_responses").find("select").change(
         "PhD Community College Leadership": "vdt1",
         "PhD Computational Engineering": "dc716",
         "PhD Electrical & Computer Engineering": "dc716",
+        "PhD Engineering / Engineering Education": "dc716",
         "PhD Industrial and Systems Engineering": "dc716",
+        "PhD Instructional Systems & Workforce Development": "vdt1",
         "PhD Mechanical Engineering": "dc716"
     }
 
@@ -179,14 +183,17 @@ $("#undergrad_prog").parent().parent().find(".form_responses").find("select").ch
     var $select_value = $("#undergrad_prog").parent().parent().find(".form_responses").find("select").find(":selected").attr("data-text");
 
     var dict = {
+        "Applied Science (BAS)": "kmd160",
+        "BS Educational Psychology": "vdt1",
         "Business Administration (BBA)": "mj359",
         "Elementary Education (BS)": "vdt1",
         "Geoscience / Broadcast & Operational Met (BS)": "mwb6",
-        "History": "mwb6",
+        "History (BA)": "mwb6",
         "Industrial Technology (BS)": "vdt1",
         "Interdisciplinary Studies (BS)": "jnh102",
         "Psychology (BS)": "jnh102",
-        "Special Non-Degree (No Degree)": "mwb6"
+        "Special Non-Degree (No Degree)": "mwb6",
+        "Undeclared": "mwb6"
     }
 
     setCoordinator(dict[$select_value]);
@@ -224,6 +231,15 @@ $("#certificate").parent().parent().find(".form_responses").find("select").chang
             $("#level").parent().parent().parent().show();
             setCoordinator("dc716");
             break;
+        
+        case "General Biology Certificate":
+            setCoordinator("mwb6");
+            break;
+        
+        case "GIS Certificate":
+            setCoordinator("mwb6");
+            break;
+        
         case "Veterans' Certificate":
             $("#level").parent().parent().parent().show();
             setCoordinator("vdt1");
