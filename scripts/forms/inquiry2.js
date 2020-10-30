@@ -298,3 +298,4 @@ $(".hideme").parent().parent().parent().hide();
 
 // Fix font size.
 $("legend").css("font-size", "1rem");
+$(".action").addClass("form_action");

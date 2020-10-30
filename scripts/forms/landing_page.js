@@ -93,3 +93,4 @@ $(".form_question").wrap("<div class='col-md'></div>");
 
 // Fix font size.
 $("legend").css("font-size", "1rem");
+$(".action").addClass("form_action");
