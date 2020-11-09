@@ -190,10 +190,10 @@ $("[data-export='sys:field:gr_aca_int']").find(".form_responses").find("select")
             setCoordinator("vdt1");
             break;
         case "Master of Business Adm / Business Admin.":
-            setCoordinator("mj359");
+            setCoordinator("mhm49");
             break;
         case "Master of Business Adm / MBA - Project Management":
-            setCoordinator("mj359");
+            setCoordinator("mhm49");
             break;
         case "Master of Engineering / Engineering / General Engineering":
             setCoordinator("dc716");
@@ -250,7 +250,7 @@ $("[data-export='sys:field:gr_aca_int']").find(".form_responses").find("select")
             setCoordinator("dc716");
             break;
         case "Master of Science Info Sys / Information Systems":
-            setCoordinator("mj359");
+            setCoordinator("mhm49");
             break;
         case "Master of Sci Instr Tech / Instructional Technology / IT Distance Education":
             setCoordinator("vdt1");
@@ -287,7 +287,7 @@ $("[data-export='sys:field:ug_aca_int']").find(".form_responses").find("select")
             setCoordinator("mwb6");
             break;
         case "Business Administration (BBA)":
-            setCoordinator("mj359");
+            setCoordinator("mhm49");
             break;
         case "Elementary Education / Early Childhood (BS)":
             setCoordinator("vdt1");
