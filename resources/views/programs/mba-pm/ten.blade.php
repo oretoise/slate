@@ -42,7 +42,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.mjimerson')
+	@include('signatures.vanderson')
 @endsection
 
 @section('apply')
