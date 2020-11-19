@@ -128,6 +128,7 @@ $("#grad_prog").parent().parent().find(".form_responses").find("select").change(
         "Master of Engineering": "dc716",
         "MBA - Project Management": "mhm49",
         "MS Aerospace Engineering:": "dc716",
+        "MS Chemical Engineering": "dc716",
         "MS Civil Engineering": "dc716",
         "MS Computational Engineering": "dc716",
         "MS Computer Science": "dc716",
