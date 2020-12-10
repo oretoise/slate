@@ -126,6 +126,8 @@ $("#grad_prog").parent().parent().find(".form_responses").find("select").change(
         "Master of Agriculture": "dc716",
         "Master of Business Administration (MBA)": "mhm49",
         "Master of Engineering": "dc716",
+        "Master of Professional Accountancy": "mhm49",
+        "Master of Taxation": "mhm49",
         "MBA - Project Management": "mhm49",
         "MS Aerospace Engineering:": "dc716",
         "MS Chemical Engineering": "dc716",
