@@ -13,7 +13,7 @@
 
 <p>See how you can get started by:</p>
 <ul>
-	<li>Reviewing the <a href="https://online.msstate.edu/cme/phd/">program structure</a>.</li>
+	<li>Reviewing the <a href="https://online.msstate.edu/cme/phd-program/">program structure</a>.</li>
 	<li>Requesting information about your desired area of study.</li>
 </ul>{% endif %}
 
