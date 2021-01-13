@@ -301,4 +301,6 @@ $(".hideme").parent().parent().parent().hide();
 
 // Fix font size.
 $("legend").css("font-size", "1rem");
+
+// Fix submit button CSS.
 $(".action").addClass("form_action");
