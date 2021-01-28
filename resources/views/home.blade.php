@@ -48,5 +48,6 @@
 	<li><a href=" {{ url('caba') }}">Certificate Applied Behavior Analysis</a></li>
 	<li><a href=" {{ url('epy') }}">BS Educational Psychology</a></li>
 	<li><a href=" {{ url('me') }}">Mechanical Engineering MS/PhD</a></li>
+	<li><a href=" {{ url('cse') }}">MS / PhD Computer Science</a></li>
 </ul>
 @endsection
