@@ -15,10 +15,29 @@
 
 <p>See how you can get started by:</p>
 
-<li>
-	<ul>Reviewing the <a href="https://online.msstate.edu/me/phd-program/">program structure</a>.</ul>
-	<ul>Requesting information about your desired area of study</ul>
-</li>
+<ul>
+	<li>Reviewing the <a href="https://online.msstate.edu/me/phd-program/">program structure</a>.</li>
+	<li>Requesting information about your desired area of study</li>
+</ul>
+
+// MS
+
+<p>This 31-credit hour degree has both thesis and non-thesis options. The major areas of study include the following:</p>
+<ul>
+	<li>Fluid Mechanics</li>
+	<li>Solid Mechanics</li>
+	<li>Energy Systems</li>
+	<li>Thermal Sciences</li>
+	<li>Materials and Manufacturing</li>
+	<li>Mechanical Design</li>
+	<li>System Dynamics</li>
+</ul>
+
+<p>See how you can get started by:</p>
+<ul>
+	<li>Reviewing the <a href="https://online.msstate.edu/me/masters-program/">program structure</a>.</li>
+	<li>Requesting information about your desired area of study</li>
+</ul>
 
 <p>Application deadlines for online students at Mississippi State are as follows:</p>
 
