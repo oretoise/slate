@@ -50,5 +50,6 @@
 	<li><a href=" {{ url('me') }}">Mechanical Engineering MS/PhD</a></li>
 	<li><a href=" {{ url('cse') }}">MS / PhD Computer Science</a></li>
 	<li><a href=" {{ url('ece') }}">MS / PhD Electrical Engineering</a></li>
+	<li><a href=" {{ url('chemeng') }}">MS / PhD Chemical Engineering</a></li>
 </ul>
 @endsection
