@@ -31,6 +31,7 @@
 	<li>
 		<span style="color: #5D1725;"><b>Can the entire program be completed online?</b></span><br/>
 		Yes, the coursework can be completed 100% online.<br/><br/>
+	</li>
 </ul>
 
 <p>If you have other questions or if we can assist you in any way, please contact us.  We are ready to help.</p>
