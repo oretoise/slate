@@ -8,8 +8,11 @@ bsis,Distance - BS Interdisciplinary Studies
 caba,Distance - Applied Behavior Analysis Certificate
 camc,Distance - Companion Animal Management Certificate
 cee,Distance - MS Civil Engineering
+chemeng,Distance - MS Chemical Engineering
 cme,Distance - MS Computational Engineering
+cse,Distance - MS Computer Science
 conservation,Distance - MS Conservation Education
+ece,Distance - MS Electrical & Computer Engineering
 edld,Distance - MS Educational Leadership / School Admin
 elem,Distance - Elementary Education
 engineering,Distance - Master of Engineering
@@ -31,6 +34,7 @@ mats,Distance - MA Teaching Secondary
 matx,Distance - MA Teaching Special
 mba,Distance - MBA
 mbapm,Distance - MBA Project Management
+me,Distance - MS Mechanical Engineering
 msei,Distance - MS Early Intervention
 msgb,Distance - MS General Biology
 msis,Distance - MS Information Systems
