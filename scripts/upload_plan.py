@@ -80,7 +80,8 @@ def upload(acronym, day_int, email, population):
 
     # tab, select "Other", typewrite plan acronym
     pyautogui.press('tab')
-    pyautogui.typewrite("O")
+    for _ in range(2):
+        pyautogui.typewrite("O")
     pyautogui.typewrite(acronym.upper())
 
     # tab over to UTM, typewrite "E"
@@ -125,7 +126,7 @@ def upload(acronym, day_int, email, population):
     pyautogui.press('down')
 
     # Click Save
-    pyautogui.click(953, 1014)
+    pyautogui.click(953, 1050)
 
     # CONTEXT CHANGE: Query Editor
 
