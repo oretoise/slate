@@ -53,5 +53,6 @@
 	<li><a href=" {{ url('chemeng') }}">MS / PhD Chemical Engineering</a></li>
 	<li><a href=" {{ url('gis') }}">GIS Certificate</a></li>
 	<li><a href=" {{ url('cmll') }}">MA Foreign Languages</a></li>
+	<li><a href=" {{ url('snd') }}">Special Non-Degree / Undeclared</a></li>
 </ul>
 @endsection
