@@ -268,7 +268,7 @@ def upload(acronym, day_int, email, population):
     pyperclip.copy(str(tracked_body))
 
     # click view source
-    pyautogui.click(1500, 615)
+    pyautogui.click(1425, 615)
 
     # ctrl a
     pyautogui.hotkey('ctrl', 'a')
