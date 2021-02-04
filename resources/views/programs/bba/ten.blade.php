@@ -13,10 +13,10 @@
                 <img src="https://goto.msstate.edu/www/images/Distance/bba/Jimerson_Mark_20170322_R3H1186~mj359.jpg">
             </td>
             <td class="divider" style="text-align: center; width: 50%;">
-                <b>Mark Jimerson</b><br/>
-                <i>Program Coordinator</i><br/>
+                <b>Samantha Clardy</b><br/>
+                <i>Online Program Coordinator</i><br/>
                 Center for Distance Education<br/>
-                <a href="mailto:mark.jimerson@msstate.edu">mark.jimerson@msstate.edu</a><br/>
+                <a href="mailto:sam103@msstate.edu">sam103@msstate.edu</a><br/>
                 (P): 662-325-9092<br/>
                 (F): 622-325-2657
             </td>
@@ -42,7 +42,7 @@
 @endsection
 
 @section('signature')
-    @include('signatures.cpilgrim')
+    @include('signatures.sclardy')
 @endsection
 
 @section('apply')

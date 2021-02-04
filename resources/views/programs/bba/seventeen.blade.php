@@ -6,7 +6,7 @@
 @endsection
 
 @section('signature')
-    @include('signatures.cpilgrim')
+    @include('signatures.sclardy')
 @endsection
 
 @section('apply')
