@@ -23,26 +23,26 @@
         </tr>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/mark_jimerson.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Mark Jimerson</b><br/>
-                <i>Distance Program Coordinator</i><br/>
+                <b>Samantha Clardy</b><br/>
+                <i>Online Program Coordinator</i><br/>
                 Center for Distance Education<br/>
-                <a href="mailto:mark.jimerson@msstate.edu">mark.jimerson@msstate.edu</a>
-                (P): 662.325.0848<br/>
+                <a href="mailto:sam103@msstate.edu">sam103@msstate.edu</a>
+                (P): 662.325.9092<br/>
                 (F): 662.325.2657                
             </td>
         </tr>
     </tbody>
 </table>
 
-<p>Cindy and I are here to help.  We look forward to working with you!</p>
+<p>Angelia and I are here to help.  We look forward to working with you!</p>
 <p>Sincerely,</p>
 @endsection
 
 @section('signature')
-	@include('signatures.vanderson')
+	@include('signatures.sclardy')
 @endsection
 
 @section('apply')

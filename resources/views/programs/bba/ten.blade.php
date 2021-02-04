@@ -10,7 +10,7 @@
     <tbody>
         <tr>
             <td class="divider" style="width: 50%;">
-                <img src="https://goto.msstate.edu/www/images/Distance/bba/Jimerson_Mark_20170322_R3H1186~mj359.jpg">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
             </td>
             <td class="divider" style="text-align: center; width: 50%;">
                 <b>Samantha Clardy</b><br/>

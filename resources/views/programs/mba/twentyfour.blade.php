@@ -49,7 +49,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.vanderson')
+	@include('signatures.sclardy')
 @endsection
 
 @section('apply')
