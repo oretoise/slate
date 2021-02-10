@@ -1,4 +1,4 @@
-<b><span id="coordinator_name">Daphne Knox</span></b><br/>
+<b><span id="coordinator_name">Kelli Anthony</span></b><br/>
 <i>Online Communication Instructor</i><br/>
 Department of Communication<br/>
 Mississippi State University<br/>
