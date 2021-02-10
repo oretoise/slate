@@ -54,5 +54,6 @@
 	<li><a href=" {{ url('gis') }}">GIS Certificate</a></li>
 	<li><a href=" {{ url('cmll') }}">MA Foreign Languages</a></li>
 	<li><a href=" {{ url('snd') }}">Special Non-Degree / Undeclared</a></li>
+	<li><a href=" {{ url('comm') }}">BA Communication, PR</a></li>
 </ul>
 @endsection
