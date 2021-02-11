@@ -27,7 +27,7 @@
             </td>
             <td class="divider" style="text-align: center; width: 50%;">
                 <br/>
-                Chris Pilgram<br/>
+                <b>Chris Pilgram</b><br/>
                 Assistant Director, Distance Learning<br/>
                 College of Business<br/>
                 <a href="mailto:clp23@business.msstate.edu">clp23@business.msstate.edu</a><br/>
