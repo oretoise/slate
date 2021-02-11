@@ -23,6 +23,33 @@ def arguments():
     return parser.parse_args()
 
 
+def get_coordinator(soup):
+    """ Find coordinator text and return it. """
+
+    # Grab the coordinator name and address from the email.
+    name = soup.find('span', {'id' : 'coordinator_name'}).text
+    email = soup.find('span', {'id' : 'coordinator_email'}).text
+
+    # Put it in the following format:
+    # '"Sender" <address@domain.suffix>'
+    sender = "\"" + name + "\" <" + email + ">"
+    
+    # Return it.
+    return sender
+
+
+def get_subject(soup):
+    """ Find subject text and return it. """
+    # Grab the h3 tag.
+    subject_h3 = soup.findAll('h3')[0]
+
+    # Split it on colon.
+    h3_list = str(subject_h3).split(":")
+
+    # Return just the subject line, minus the ending tag.
+    return h3_list[1][1:-5]
+
+
 def update(acronym, host, offset):
     """ Update an email in Slate. """
 
@@ -66,6 +93,26 @@ def update(acronym, host, offset):
     # Add Capture CBE tracking
     tracked_body = utilities.track_links(soup)
 
+    # Grab coordinator's email address from the email.
+    coordinator_email = get_coordinator(tracked_body)
+
+    # set sender to coordinator
+    pyautogui.click(1209, 426)
+    pyautogui.hotkey('ctrl', 'a')
+    pyautogui.typewrite(coordinator_email)
+
+    # Grab subject line from email.
+    subject = get_subject(tracked_body)
+
+    # click subject line
+    pyautogui.click(900, 525)
+
+    # ctrl a
+    pyautogui.hotkey('ctrl', 'a')
+
+    # Typewrite subject line.
+    pyautogui.typewrite(subject)
+
     # remove h3 tag from email html
     h3_tag = tracked_body.findAll('h3')[0]
     h3_tag.replaceWith('')
@@ -74,7 +121,7 @@ def update(acronym, host, offset):
     pyperclip.copy(str(tracked_body))
 
     # click view source
-    pyautogui.click(1500, 615)
+    pyautogui.click(1425, 615)
 
     # ctrl a
     pyautogui.hotkey('ctrl', 'a')
