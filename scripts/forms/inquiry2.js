@@ -91,7 +91,7 @@ $("#interest").parent().parent().find(".form_responses").find("select").change(f
 
     // If they select general question, set the coordinator to dc716 and hide program fields.
     if ($select_value == "General Education Question") {
-        setCoordinator('dc716');
+        setCoordinator('acw338');
 
         // Hide program fields.
         $(".program_option").parent().parent().parent().hide();
