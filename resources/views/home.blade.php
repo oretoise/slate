@@ -55,5 +55,6 @@
 	<li><a href=" {{ url('cmll') }}">MA Foreign Languages</a></li>
 	<li><a href=" {{ url('snd') }}">Special Non-Degree / Undeclared</a></li>
 	<li><a href=" {{ url('comm') }}">BA Communication, PR</a></li>
+	<li><a href=" {{ url('cyber') }}">MS Cybersecurity Operations</a></li>
 </ul>
 @endsection
