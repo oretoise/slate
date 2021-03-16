@@ -5,7 +5,7 @@
 
 <p>Dear @@{{First}},</p>
 
-<p>Thank you for your interest in the online Master of Science in Geosciences with a concentration in Environmental Geosciences. The program is designed for students interested in graduate study of a broad cross-section of the geosciences.  Program highlights include:</p>
+<p>Thank you for your interest in the online Master of Science in Geosciences with a concentration in Environmental Geosciences. The program is designed for students interested in graduate study of a broad cross-section of the geosciences. It can also help current teachers maximize their knowledge of the earth sciences to help teach these concepts to K-12 students in a more dynamic way. Or, earn the credits needed to teach at the community college level. Program highlights include:</p>
 
 <ul>
     <li>30-credit hour, non-thesis program, including courses in ocean science, climatology, GIS, and hazards</li>
