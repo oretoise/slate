@@ -18,7 +18,7 @@
     </li>
     <li>
         <b><span style="color: #5D1725;">Are there prerequisites to be considered for admission?</span></b><br/>
-        A bachelor’s degree in a natural science from a four-year educational institution that has unconditional accreditation from a regional accrediting agency and an upper level course in Synoptic Meteorology (or equivalent) is a prerequisite for beginning the program of study.  If you're not certain about the accreditation of your former university, I will be glad to help.<br/><br/>
+        A bachelor’s degree in science from a four-year educational institution that has unconditional accreditation from a regional accrediting agency, an upper level course in Synoptic Meteorology (or equivalent), and at least Calculus I are prerequisites for beginning the program of study. If you're not certain about the accreditation of your former university, I will be glad to help.<br/><br/>
     </li>
     <li>
         <b><span style="color: #5D1725;">Do you accept transfer credit?</span></b><br/>

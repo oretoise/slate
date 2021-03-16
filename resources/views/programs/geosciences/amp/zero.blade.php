@@ -11,7 +11,7 @@
 
 <p>To enter the Applied Meteorology program, you must hold a bachelor's degree in a science field from a four-year educational institution that has unconditional accreditation from a regional accrediting agency.</p>
 
-<p>An upper level course in Synoptic Meteorology (or equivalent) is a prerequisite for beginning the program of study. This class can be taken online through MSU. Students who do not have science degrees may take additional meteorology classes at the undergraduate level in order to become eligible for enrollment.</p>
+<p>An upper level course in Synoptic Meteorology (or equivalent) and at least Calculus I are prerequisites for beginning the program of study. The Synoptic Meteorology class can be taken online through MSU.</p>
 
 <p>We prefer that new students begin in the fall semester, but applications are accepted at any time.  The deadline for fall admission is <b>August 1</b>.</p>
 
