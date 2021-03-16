@@ -56,5 +56,6 @@
 	<li><a href=" {{ url('snd') }}">Special Non-Degree / Undeclared</a></li>
 	<li><a href=" {{ url('comm') }}">BA Communication, PR</a></li>
 	<li><a href=" {{ url('mscyso') }}">MS Cybersecurity Operations</a></li>
+	<li><a href=" {{ url('ase') }}">MS / PhD Aerospace Engineering</a></li>
 </ul>
 @endsection
