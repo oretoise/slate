@@ -19,10 +19,6 @@
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>Does this program require comprehensive examinations?</b></span><br/>
-		Yes, this program offers an oral comprehensive examination. The oral exam is given near the time of graduation and students must pass the comprehensive examinations to be able to graduate from the program.<br/><br/>
-	</li>
-	<li>
-		<span style="color: #5D1725;"><b>Does this program require comprehensive examinations?</b></span><br/>
 		Yes, this program offers a written comprehensive examination once during the Fall and Spring Semesters. There is no oral component to the examination. Students must pass the comprehensive examinations to be able to graduate from the program.<br/><br/>
 	</li>
 	// end MS
