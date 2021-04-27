@@ -240,14 +240,14 @@ def upload(acronym, day_int, email, population):
     # CONTEXT CHANGE: Edit Message
 
     # drag email to recipient
-    pyautogui.moveTo(1671, 414)
+    pyautogui.moveTo(1671, 420)
     pyautogui.dragTo(1200, 454, 1)
 
     # Grab coordinator's email address from the email.
     coordinator_email = get_coordinator(tracked_body)
 
     # set sender to coordinator
-    pyautogui.click(1209, 426)
+    pyautogui.click(1209, 424)
     pyautogui.hotkey('ctrl', 'a')
     pyautogui.typewrite(coordinator_email)
 
@@ -277,7 +277,7 @@ def upload(acronym, day_int, email, population):
     pyautogui.hotkey('ctrl', 'v')
 
     # click ok
-    pyautogui.click(1724, 1060)
+    pyautogui.click(1724, 1105)
 
     # click save
     pyautogui.click(745, 1115)
