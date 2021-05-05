@@ -16,7 +16,7 @@
 
 <p>Application deadlines for online students at Mississippi State are as follows:</p>
 <p>Fall Admission Deadline:  <b>July 1</b><br/>
-Spring Admission Deadline:  <b>December 1</b></p>
+Spring Admission Deadline:  <b>November 1</b></p>
 
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) and the Accreditation Board for Engineering and Technology, Inc. (ABET), your courses will meet the same standards as on-campus courses.  Also, your online degree will not be differentiated from an on-campus degree.</p>
 
