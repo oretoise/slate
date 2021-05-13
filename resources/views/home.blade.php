@@ -58,5 +58,6 @@
 	<li><a href=" {{ url('mscyso') }}">MS Cybersecurity Operations</a></li>
 	<li><a href=" {{ url('ase') }}">MS / PhD Aerospace Engineering</a></li>
 	<li><a href=" {{ url('mtpa') }}">Master of Taxation / Professional Accountancy</a></li>
+	<li><a href=" {{ url('hdfs') }}">BS Human Development & Family Systems</a></li>
 </ul>
 @endsection
