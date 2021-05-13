@@ -1,7 +1,11 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 60 - Subject: </h3>
+<h3>Day 60 - Subject: The Bulldog family wants you!</h3>
+<p>Dear @@{{First}},</p>
+<p>Thank you again for your interest in the online Bachelor of Science in Human Development and Family Science with a concentration in Child Development degree program at Mississippi State University (MSU). I just wanted to touch base with you again to see if you had any questions for us.</p>
+<img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/hdfs/hdfs_3.jpg" />
+<p>I hope to hear from you soon!</p>
 @endsection
 
 @section('signature')
