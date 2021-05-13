@@ -23,8 +23,8 @@
 
 <p>Check out how you can get started by:
 <ul>
-	<li>Reviewing our program curriculum information</li>
-	<li>Request more information</li>
+	<li>Reviewing our <a href="https://online.msstate.edu/hdfs">program curriculum information</li>
+	<li>Requesting more information</li>
 </ul></p>
 
 <p>Students can transfer applicable and approved coursework from accredited community colleges and/or four-year institutions into the program as well.</p>
