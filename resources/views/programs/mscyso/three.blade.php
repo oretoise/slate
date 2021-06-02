@@ -9,7 +9,7 @@
 <ul>
 	<li>
 		<span style="color: #5D1725;"><b>Do you accept transfer credit?</b></span><br/>
-		Yes, you may transfer up to 12 hours from an accredited university. A formal <a href="https://www.grad.msstate.edu/files/transfer_approval_form.pdf">transfer approval</a> form must be submitted to receive credit.<br/><br/>
+		Yes, you may transfer up to 12 hours from an accredited university. A formal <a href="https://www.grad.msstate.edu/students/forms">transfer approval</a> form must be submitted to receive credit.<br/><br/>
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>Does this program have a non-thesis and thesis option?</b></span><br/>
