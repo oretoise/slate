@@ -189,6 +189,7 @@ $("#undergrad_prog").parent().parent().find(".form_responses").find("select").ch
         "Applied Science (BAS)": "kmd160",
         "BA in Communication - Public Relations": "mhm49",
         "BS Educational Psychology": "vdt1",
+        "BS Human Development and Family Science": "dc716",
         "Business Administration (BBA)": "sam103",
         "Elementary Education (BS)": "vdt1",
         "Geoscience / Broadcast & Operational Met (BS)": "mwb6",

@@ -26,6 +26,7 @@ $("#program").parent().parent().find(".form_responses").find("select").change(fu
         "BA in Communication - Public Relations": "mhm49",
         "Broadcast & Operational Meteorology Certificate": "mwb6",
         "BS Educational Psychology": "jnh102",
+        "BS Human Development and Family Science": "dc716",
         "Business Administration (BBA)": "sam103",
         "Companion Animal Management Certificate": "dc716",
         "Elementary Education (BS)": "vdt1",
