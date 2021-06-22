@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Info Session Mailings</h3>
+<h3>BullyBundle Mailings</h3>
 <ul>
 	<li>
 		<a href="{{ url('bullybundles/one') }}">First Email (per semester)</a>
