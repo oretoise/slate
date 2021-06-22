@@ -60,4 +60,14 @@
 	<li><a href=" {{ url('mtpa') }}">Master of Taxation / Professional Accountancy</a></li>
 	<li><a href=" {{ url('hdfs') }}">BS Human Development & Family Systems</a></li>
 </ul>
+
+<h3>Other Mailings</h3>
+
+<ul>
+	<li><a href=" {{ url('gmat_purchase') }}">GMAT Purchase</a></li>
+	<li><a href=" {{ url('info_sessions') }}">Info Sessions</a></li>
+	<li><a href=" {{ url('incomplete_apps') }}">Incomplete Apps</a></li>
+	<li><a href=" {{ url('internal') }}">Internal Mailings</a></li>
+	<li><a href=" {{ url('bullybundles') }}">BullyBundles</a></li>
+</ul>
 @endsection
