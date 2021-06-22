@@ -1,0 +1,45 @@
+version: "3.7"
+
+networks:
+  traefik_net:
+    external: true
+  slate:
+    driver: bridge
+
+services:
+  app:
+    build:
+      args:
+        user: jordan
+        uid: 1000
+      context: ./
+      dockerfile: Dockerfile
+    image: slate
+    container_name: slate-app
+    restart: unless-stopped
+    working_dir: /var/www/
+    volumes:
+      - ./:/var/www
+    networks:
+      - slate
+
+  nginx:
+    image: nginx:alpine
+    container_name: slate-nginx
+    restart: unless-stopped
+    ports:
+      - 80
+    volumes:
+      - ./:/var/www
+      - ./docker-compose/nginx:/etc/nginx/conf.d/
+    networks:
+      - traefik_net
+      - slate
+    labels:
+      - traefik.enable=true
+      - traefik.docker.network=traefik_net
+      - traefik.http.routers.slate.rule=Host(`slate.scruggs.dev`)
+      - traefik.http.routers.slate.tls=true
+      - traefik.http.routers.slate.tls.certresolver=le
+      - traefik.http.middlewares.slate-ip-whitelist.ipwhitelist.sourcerange=127.0.0.1/32, 130.18.12.1/24, 130.18.104.102
+      - traefik.http.routers.slate.middlewares=slate-ip-whitelist@docker

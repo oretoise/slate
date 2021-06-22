@@ -1,5 +1,5 @@
 @extends('layouts.mjml')
-
+@section('title', 'CDE Communication Plans')
 @section('content')
 <h2>List of Communication Plans:</h2>
 

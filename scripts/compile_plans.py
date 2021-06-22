@@ -16,7 +16,7 @@ def main():
 
     for program in programs_list:
         # Generate URL to request
-        url = host + "/slate/compile/" + program
+        url = host + "/compile/" + program
 
         print("Requesting", program)
 

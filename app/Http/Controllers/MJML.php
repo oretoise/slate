@@ -15,17 +15,18 @@ class mjml extends Controller
         } else {
             $view = "/programs//" . $program . "/home";
         }
-		
-		if ($program == Null) {
-			$view = "home";
-			$program = "home";
-		}
+
+				if ($program == Null) {
+						$view = "home";
+						$program = "home";
+				}
 
         # Call Blade to render the requested view.
         $blade = view($view)->with('program', $program)->render();
 
         # Create an MJML instance.
-        $process = new Process("../node_modules/.bin/mjml --stdin --stdout");
+        chdir("../node_modules/mjml/bin/");
+        $process = new Process("./mjml --stdin --stdout");
 
         # Set its STDIN to the result from Blade.
         $process->setInput($blade);
@@ -87,6 +88,12 @@ class mjml extends Controller
 
     public function compile_view($program, $day = Null) {
 
+				# If program is null, set $view and $program to 'home'.
+				if ($program == NULL) {
+					$view = 'home';
+					$program = 'home';
+				}
+
         # Determine view file. (Homepages are included, so no need to exclude).
         $view = "/programs/" . $program . "/" . $day;
 
@@ -106,13 +113,14 @@ class mjml extends Controller
         $mjml_output = $process->getOutput();
 
         # Make output directory if it doesn't exist.
-	    $directory = "../resources/views/compiled/" . $program;
-	    if (!file_exists($directory)) {
-		    mkdir($directory, 0755, true);
+		    $directory = "../resources/views/compiled/" . $program;
+
+		    if (!file_exists($directory)) {
+			    mkdir($directory, 0755, true);
         }
-        
+
         # Write MJML's output to the new blade file.
-	    $filename = "../resources/views/compiled/" . $program . "/" . $day . ".blade.php";
+		    $filename = "../resources/views/compiled/" . $program . "/" . $day . ".blade.php";
         $myfile = fopen($filename, "w") or die("Unable to open file!");
         fwrite($myfile, $mjml_output);
         fclose($myfile);
