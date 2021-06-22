@@ -63,7 +63,7 @@ Please view our program <a href="https://online.msstate.edu/pdf/slate/MBAFlyer.p
 @endsection
 
 @section('signature')
-	@include('signatures.jbailey')
+	@include('signatures.mjimerson')
 @endsection
 
 @section('apply')
