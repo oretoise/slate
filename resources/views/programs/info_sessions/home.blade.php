@@ -5,6 +5,7 @@
 <ul>
 	<li>
 		<a href="{{ url('info_sessions/two') }}">Day 2 Email (All Communication Plans)</a>
+		<a href="{{ url('info_sessions/example') }}">Example Announcement/Invitation Email</a>
 	</li>
 </ul>
 @endsection
