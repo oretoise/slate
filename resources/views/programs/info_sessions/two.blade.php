@@ -14,14 +14,14 @@
           </p>
 
           <div>
-            <span style="font-family:Times New Roman,Times,serif;"><span style="font-size:16px;">Hi {{Preferred}}!</span></span>
+            <span style="font-family:Times New Roman,Times,serif;"><span style="font-size:16px;">Hi @@{{Preferred}}!</span></span>
 
             <p style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
               MSU Online offers virtual information sessions to all prospective students!<br />
               <br />
               The information sessions will provide you with information about admissions requirements, details about online orientation, and insights into our services and resources. I will also be there to answer any questions you may have. You don’t want to miss it!<br />
               <br />
-              Are you interested in registering?&nbsp; If so, please view the session options at the <a href="https://goto.msstate.edu/register/cde_info_sessions?person={{person-id}}">MSU Online registration page</a>.<br />
+              Are you interested in registering?&nbsp; If so, please view the session options at the <a href="https://goto.msstate.edu/register/cde_info_sessions?person=@@{{person-id}}">MSU Online registration page</a>.<br />
               &nbsp;<br />
               <strong>If you have any questions about the information sessions or would like specific degree information, please reach out to me.</strong><br />
               <br />
