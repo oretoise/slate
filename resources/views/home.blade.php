@@ -67,7 +67,6 @@
 	<li><a href=" {{ url('gmat_purchase') }}">GMAT Purchase</a></li>
 	<li><a href=" {{ url('info_sessions') }}">Info Sessions</a></li>
 	<li><a href=" {{ url('incomplete_apps') }}">Incomplete Apps</a></li>
-	<li><a href=" {{ url('internal') }}">Internal Mailings</a></li>
 	<li><a href=" {{ url('bullybundles') }}">BullyBundles</a></li>
 </ul>
 @endsection
