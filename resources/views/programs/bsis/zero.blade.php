@@ -11,6 +11,7 @@
 	<ul>
 		<li>Animal and Dairy Sciences</li>
 		<li>Communication</li>
+		<li>Counseling Education</li>
 		<li>Criminology</li>
         <li>Educational Psychology</li>
 		<li>General Business</li>
