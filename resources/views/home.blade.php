@@ -68,5 +68,6 @@
 	<li><a href=" {{ url('info_sessions') }}">Info Sessions</a></li>
 	<li><a href=" {{ url('incomplete_apps') }}">Incomplete Apps</a></li>
 	<li><a href=" {{ url('bullybundles') }}">BullyBundles</a></li>
+	<li><a href=" {{ url('iswd') }}">PhD Industrial Systems & Workforce Development</a></li>
 </ul>
 @endsection
