@@ -58,15 +58,15 @@ def upload(acronym, day_int, email, population):
     # TODO: Split this into collapsible functions for readability.
 
     # Move mouse to Deliver
-    pyautogui.moveTo(1013, 161)
+    pyautogui.moveTo(950, 161)
 
     # Click on the pinned "Distance" folder
-    pyautogui.click(1013, 317)
+    pyautogui.click(950, 335)
 
     # CONTEXT CHANGE: Email Listing
 
     # Click "New Mailing"
-    pyautogui.click(652, 260)
+    pyautogui.click(652, 275)
 
     # Generate internal email name.
     email_name = "CDE_" + acronym.upper() + "_" + email.upper()
@@ -86,7 +86,7 @@ def upload(acronym, day_int, email, population):
 
     # tab over to UTM, typewrite "E"
     # This enables UTM tracking for the email.
-    for _ in range(4):
+    for _ in range(5):
         pyautogui.press('tab')
     pyautogui.typewrite("E")
 
@@ -107,15 +107,15 @@ def upload(acronym, day_int, email, population):
     pyautogui.typewrite(campaign)
 
     # Click save (or tab and enter)
-    pyautogui.click(986, 950)
+    pyautogui.click(986, 965)
 
     # CONTEXT CHANGE: Email View
 
     # click "Edit Recipient Lists"
-    pyautogui.click(1794, 313)
+    pyautogui.click(1794, 330)
 
     # click "new query"
-    pyautogui.click(649, 288)
+    pyautogui.click(649, 300)
 
     # typewrite a name
     query_name = acronym.upper() + " Day " + email
@@ -131,7 +131,7 @@ def upload(acronym, day_int, email, population):
     # CONTEXT CHANGE: Query Editor
 
     # Click Filter
-    pyautogui.click(1862, 870)
+    pyautogui.click(1862, 887)
 
     # Do in-population filter for day 0.
     if day_int == 0:
@@ -219,7 +219,7 @@ def upload(acronym, day_int, email, population):
     pyautogui.click(964, 1074)
 
     # Go back to Email View.
-    pyautogui.click(704, 205)
+    pyautogui.click(704, 215)
 
     # CONTEXT CHANGE: Email View
 
@@ -235,13 +235,13 @@ def upload(acronym, day_int, email, population):
     tracked_body = track_links(soup)
 
     # click "edit message"
-    pyautogui.click(1760, 347)
+    pyautogui.click(1760, 360)
 
     # CONTEXT CHANGE: Edit Message
 
     # drag email to recipient
-    pyautogui.moveTo(1671, 420)
-    pyautogui.dragTo(1200, 454, 1)
+    pyautogui.moveTo(1671, 430)
+    pyautogui.dragTo(1200, 460, 1)
 
     # Grab coordinator's email address from the email.
     coordinator_email = get_coordinator(tracked_body)
@@ -284,7 +284,7 @@ def upload(acronym, day_int, email, population):
 
     # Set email schedule, run indefinitely, delivery windows, and mark it as ready to send.
     # Click "Send Message"
-    pyautogui.click(1750, 385)
+    pyautogui.click(1850, 395)
 
     # Hit tab 3 times.
     for _ in range(3):
