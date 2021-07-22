@@ -11,6 +11,7 @@
 <ul>
     <li>Communication</li>
     <li>Criminology</li>
+    <li>Counselor Education</li>
     <li>Cybersecurity</li>
     <li>General Business</li>
     <li>General Technology</li>
