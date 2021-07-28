@@ -30,5 +30,8 @@
 	<li>
 		<a href="{{ url('ensc/fiftyfive') }}">Day 55</a>
 	</li>
+	<li>
+		<a href="{{ url('ensc/sixty') }}">Day 60</a>
+	</li>
 </ul>
 @endsection
