@@ -69,5 +69,6 @@
 	<li><a href=" {{ url('incomplete_apps') }}">Incomplete Apps</a></li>
 	<li><a href=" {{ url('bullybundles') }}">BullyBundles</a></li>
 	<li><a href=" {{ url('iswd') }}">PhD Industrial Systems & Workforce Development</a></li>
+	<li><a href=" {{ url('ensc') }}">Environmental & Sustainability Certificate</a></li>
 </ul>
 @endsection
