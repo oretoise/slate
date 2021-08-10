@@ -124,7 +124,7 @@
 							<b>Center for Distance Education</b><br/>P.O Box 5247<br/>365 Barr Avenue<br/>Mississippi State, MS 39762
 						</td>
 						<td class="divider_footer social">
-							<a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
+							<a href="https://www.facebook.com/msstateonline/" target="_blank">
 							<img class="icon" src="https://cdn01.its.msstate.edu/i/social-icons/icons/facebook.svg" /></a>
 
 							<a href="https://twitter.com/msstateonline" target="_blank">

@@ -7,7 +7,7 @@
 <table style="width: 550px; margin: auto;">
     <tr>
         <td class="divider social">
-            <a href="https://www.facebook.com/MississippiStateUniversityOnline">
+            <a href="https://www.facebook.com/msstateonline">
                 <img src="https://goto.msstate.edu/www/images/Distance/social/facebook_100.png"/>
             </a>
         </td>

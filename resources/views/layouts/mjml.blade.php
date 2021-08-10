@@ -140,7 +140,7 @@
                 <mj-section>
                     <mj-column>
                         <mj-text css-class="social" align="center">
-                            <a href="https://www.facebook.com/MississippiStateUniversityOnline/" target="_blank">
+                            <a href="https://www.facebook.com/msstateonline/" target="_blank">
                             <img class="icon" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/fb_icon.png" /></a>
                             <a href="https://twitter.com/msstateonline" target="_blank">
 			                <img class="icon" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/tw_icon.png" /></a>
