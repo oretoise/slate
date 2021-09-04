@@ -41,5 +41,5 @@ services:
       - traefik.http.routers.slate.rule=Host(`slate.scruggs.dev`)
       - traefik.http.routers.slate.tls=true
       - traefik.http.routers.slate.tls.certresolver=le
-      - traefik.http.middlewares.slate-ip-whitelist.ipwhitelist.sourcerange=127.0.0.1/32, 130.18.12.1/24, 130.18.104.102
+      - traefik.http.middlewares.slate-ip-whitelist.ipwhitelist.sourcerange=127.0.0.1/32, 130.18.12.1/24, 130.18.104.102, 130.18.26.0/24
       - traefik.http.routers.slate.middlewares=slate-ip-whitelist@docker
