@@ -54,12 +54,12 @@ def update(acronym, host, offset):
     """ Update an email in Slate. """
 
     # Open the email.
-    y_coord = 332 + (offset * 28)
+    y_coord = 344 + (offset * 28)
     print("Moving to", y_coord)
     pyautogui.click(630, y_coord)
 
     # Triple-click the email name.
-    pyautogui.click(700, 240, clicks=3)
+    pyautogui.click(700, 260, clicks=3)
 
     # Hit Ctrl-C to copy the now-selected email name.
     pyautogui.hotkey('ctrl', 'c')
@@ -74,17 +74,18 @@ def update(acronym, host, offset):
     email = email_name_parts[2].lower()
 
     # Stop the mailing.
-    pyautogui.click(1720, 410)
+    pyautogui.click(1840, 425)
     pyautogui.click(980, 1020)
     pyautogui.typewrite("STOP")
     pyautogui.press('enter')
 
     # click "edit message"
-    pyautogui.click(1760, 350)
+    pyautogui.click(1800, 350)
 
     # pull email from server
-    url = host + "/slate/" + acronym.lower() + "/" + email
+    url = host + acronym.lower() + "/" + email
     r = requests.get(url)
+    print(r)
     raw_html = r.text
 
     # Pass it through BeautifulSoup
@@ -130,31 +131,31 @@ def update(acronym, host, offset):
     pyautogui.hotkey('ctrl', 'v')
 
     # click ok
-    pyautogui.click(1730, 1065)
+    pyautogui.click(1760, 1110)
 
     # click save
     pyautogui.click(745, 1111)
 
     # Click "Send Mailing"
-    pyautogui.click(1730, 380)
+    pyautogui.click(1820, 400)
 
-    # Click "Stop Date/Time"
-    pyautogui.click(1223, 817)
+    # # Click "Stop Date/Time"
+    # pyautogui.click(1223, 817)
 
-    # Hit Ctrl-A
-    pyautogui.hotkey('ctrl', 'a')
+    # # Hit Ctrl-A
+    # pyautogui.hotkey('ctrl', 'a')
 
-    # Delete the value.
-    pyautogui.press('delete')
+    # # Delete the value.
+    # pyautogui.press('delete')
 
-    # Tab to next field.
-    pyautogui.press('tab')
+    # # Tab to next field.
+    # pyautogui.press('tab')
 
-    # Delete the value.
-    pyautogui.press('delete')
+    # # Delete the value.
+    # pyautogui.press('delete')
 
     # Click "Save settings"
-    pyautogui.click(1000, 1015)
+    # pyautogui.click(1000, 1015)
 
     # Click "Send Mailing"
     pyautogui.click(1730, 380)
@@ -163,7 +164,7 @@ def update(acronym, host, offset):
     pyautogui.press("enter")
 
     # Click "All Mailings" in top left
-    pyautogui.click(638, 199)
+    pyautogui.click(580, 210)
 
 
 def main(acronym, skip):
