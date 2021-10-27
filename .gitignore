@@ -14,3 +14,6 @@ yarn-error.log
 /scripts/plans.csv
 /.vscode/settings.json
 .vscode/settings.json
+composer.lock
+package-lock.json
+package.json

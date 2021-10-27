@@ -11,16 +11,13 @@ RUN apt-get update && apt-get install -y \
 	libpng-dev \
 	libonig-dev \
 	libxml2-dev \
-  nodejs \
-  npm \
+    nodejs \
+    npm \
 	zip \
 	unzip
 
 # Init NPM
 RUN npm init -y
-
-# Install MJML
-RUN npm install mjml
 
 # Clear cache.
 RUN apt-get clean && rm -rf /var/lib/apt/lists/*
@@ -38,5 +35,4 @@ RUN mkdir -p /home/$user/.composer && \
 
 # Set working directory.
 WORKDIR /var/www
-
 USER $user
