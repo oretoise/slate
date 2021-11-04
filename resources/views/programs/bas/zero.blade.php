@@ -22,6 +22,7 @@
     <li>Manufacturing Fundamentals</li>
     <li>Operations Management Engineering</li>
     <li>Psychology</li>
+    <li>Public Management</li>
     <li>Social Work</li>
     <li>Sociology</li>
     <li>Veterans' Certificate</li>
