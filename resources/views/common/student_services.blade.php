@@ -23,8 +23,8 @@
 </p>
 
 <p>
-    <span style="color: #5D1725; text-decoration: underline;"><b>DISABILITY SUPPORT SERVICES (DSS)</b></span><br/>
-    If you have a disability, DSS helps you with academic accommodations and resources.  Check out more information at the <a href="https://www.drc.msstate.edu/">Disability Resource Center</a>.
+    <span style="color: #5D1725; text-decoration: underline;"><b>DISABILITY RESOURCE CENTER (DRC)</b></span><br/>
+    If you have a disability, the Disability Resource Center (DRC) helps you with academic accommodations and resources.  Check out more information at the <a href="https://www.drc.msstate.edu/">Disability Resource Center</a>.
 </p>
 
 <p>
