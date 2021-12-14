@@ -36,3 +36,9 @@ RUN mkdir -p /home/$user/.composer && \
 # Set working directory.
 WORKDIR /var/www
 USER $user
+
+# Attach shell, then
+# composer update
+# npm install
+# cp .env.example .env
+# php artisan key:generate
