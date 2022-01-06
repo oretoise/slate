@@ -21,14 +21,14 @@ your pursuit of your degree. Meet your team!</p>
         </tr>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/valerie_tate.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Ms. Valerie Tate</b><br/>
+                <b>Ms. Samantha Clardy</b><br/>
                 <i>Online Program Coordinator</i><br/>
 				Center for Distance Education
-                <a href="mailto:v.tate@msstate.edu">v.tate@msstate.edu</a><br/>
-                (P): 662.325.8876<br/>
+                <a href="mailto:s.clardy@msstate.edu">s.clardy@msstate.edu</a><br/>
+                (P): 662.325.9092<br/>
             </td>
         </tr>
     </tbody>
@@ -38,7 +38,7 @@ your pursuit of your degree. Meet your team!</p>
 @endsection
 
 @section('signature')
-	@include('signatures.vtate')
+	@include('signatures.sclardy')
 @endsection
 
 @section('apply')

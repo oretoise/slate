@@ -28,7 +28,7 @@ Have you attended MSU before but never completed your degree? Students can apply
 @endsection
 
 @section('signature')
-	@include('signatures.vtate')
+	@include('signatures.sclardy')
 @endsection
 
 @section('apply')

@@ -9,14 +9,14 @@
     <tbody>
         <tr>
             <td class="divider" style="width: 50%;">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/valerie_tate.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
             </td>
             <td class="divider" style="text-align: center; width: 50%;">
-                <b>Valerie Tate</b><br/>
+                <b>Samantha Clardy</b><br/>
                 <i>Online Program Coordinator</i><br/>
                 Center for Distance Education<br/>
-				(P): 662-325-8876
-                <a href="mailto:v.tate@msstate.edu">v.tate@msstate.edu</a>
+				(P): 662-325-9092
+                <a href="mailto:s.clardy@msstate.edu">s.clardy@msstate.edu</a>
             </td>
         </tr>
         <tr>
@@ -37,7 +37,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.vtate')
+	@include('signatures.sclardy')
 @endsection
 
 @section('apply')

@@ -14,10 +14,10 @@
 </p>
 
 <p>
-    <b>Ms. Valerie Tate</b><br/>
+    <b>Ms. Samantha Clardy</b><br/>
     <i>Distance Coordinator</i><br/>
-    662.325.8876<br/>
-    <a href="mailto:v.tate@msstate.edu">v.tate@msstate.edu</a>
+    662.325.9092<br/>
+    <a href="mailto:s.clardy@msstate.edu">s.clardy@msstate.edu</a>
 </p>
 
 <p>We are here to help throughout your academic career!</p>
@@ -25,7 +25,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.vtate')
+	@include('signatures.sclardy')
 @endsection
 
 @section('apply')

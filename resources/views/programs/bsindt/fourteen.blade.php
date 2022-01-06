@@ -58,12 +58,12 @@
 		</tr>
 		<tr>
 			<td class="divider" style="width: 50%;">
-				<img src="https://goto.msstate.edu/www/images/Distance/staff/valerie_tate.png"/>
+				<img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png"/>
 			</td>
             <td class="divider" style="text-align: center; width: 50%;">
-				<b>Valerie Tate</b><br/>
+				<b>Samantha Clardy</b><br/>
 				Distance Coordinator<br/>
-				662.325.8876
+				662.325.9092
 			</td>
 		</tr>
 	</tbody>
@@ -74,7 +74,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.vtate')
+	@include('signatures.sclardy')
 @endsection
 
 @section('apply')
