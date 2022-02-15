@@ -44,7 +44,7 @@
 	<li><a href=" {{ url('engineeringed') }}">PhD Engineering Education</a></li>
 	<li><a href=" {{ url('cee') }}">Civil Engineering - MS & PhD</a></li>
 	<li><a href=" {{ url('conservation') }}">MS Conservation Education</a></li>
-	<li><a href=" {{ url('susbio') }}">MS Sustainable Bioproducts</a></li>
+	<li><a href=" {{ url('sbp') }}">MS Sustainable Bioproducts</a></li>
 	<li><a href=" {{ url('caba') }}">Certificate Applied Behavior Analysis</a></li>
 	<li><a href=" {{ url('epy') }}">BS Educational Psychology</a></li>
 	<li><a href=" {{ url('me') }}">Mechanical Engineering MS/PhD</a></li>
