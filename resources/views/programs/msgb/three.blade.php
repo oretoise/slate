@@ -9,7 +9,7 @@
 
 <p>The Master of Science in General Biology is also known as the Teachers in Biology program and can be completed in as little as two years (taking two courses per semester).</p>
 
-<p>For information pertaining to finances, admissions, course framework, and course information, see the <a href="https://online.msstate.edu/pdf/slate/Master-of-Science-General-Biologypdf.pdf">fast facts flyer</a>.</p>
+<p>For information pertaining to finances, admissions, course framework, and course information, see the <a href="https://online.msstate.edu/files/pdf/Master-of-Science-General-Biologypdf.pdf">fast facts flyer</a>.</p>
 
 <p>The general biology degree is designed for high school teachers and for those who combine biology with subjects such as ecology, microbiology, evolutionary biology, and biotechnology.</p>
 

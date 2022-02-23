@@ -18,7 +18,7 @@
 </p>
 
 <p>
-	Check out the latest Broadcast & Operational Meteorology Program (BOMP) <a href="https://online.msstate.edu/pdf/slate/Broadcast-Operational-Meteorology-Program.pdf">flyer</a>. It provides detailed information about the online program that can assist you in furthering your career.
+	Check out the latest Broadcast & Operational Meteorology Program (BOMP) <a href="https://online.msstate.edu/files/pdf/Broadcast-Operational-Meteorology-Program.pdf">flyer</a>. It provides detailed information about the online program that can assist you in furthering your career.
 </p>
 
 <p>All the best,</p>

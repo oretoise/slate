@@ -16,7 +16,7 @@
 
 <p>Remember to choose Master of Business Administration-Project Management as your major and Online Education as your campus when applying for <a href="https://online.msstate.edu/mba-pm/admissions-process">admission</a>.</p>
 
-<p>You can download the <a href="https://online.msstate.edu/pdf/mba-pm/MBA-PM-Application-Checklist.pdf">application checklist</a> to ensure that you have submitted the required documents for full admission into the MBA program.</p>
+<p>You can download the <a href="https://online.msstate.edu/files/pdf/MBA-PM-Application-Checklist.pdf">application checklist</a> to ensure that you have submitted the required documents for full admission into the MBA program.</p>
 
 <p>Thank you for choosing Mississippi State for your online degree.</p>
 <p>All the best,</p>
