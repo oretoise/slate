@@ -4,7 +4,7 @@
 <h3>Day 3 - Subject: What can you teach with a MATS degree from MSU?</h3>
 <p>Dear @@{{First}},</p>
 
-<p>You can earn your initial licensure and then teach full time in the state of MS while completing the MATS degree online!  Our <a href="https://online.msstate.edu/mats/licensure-endorsements/">licensure and endorsements</a> page provides detailed information regarding that process.</p>
+<p>You can earn your initial licensure and then teach full time in the state of MS while completing the MATS degree online!  Our <a href="https://online.msstate.edu/mats#licensure-and-endorsements">licensure and endorsements</a> section provides detailed information regarding that process.</p>
 
 <p>Choose one of the following content areas as your initial licensure area. You may add additional endorsements to your license later, if you wish.</p>
 
