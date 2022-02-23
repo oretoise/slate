@@ -24,7 +24,7 @@
 	</li>
 </ol>
 
-<p>For more frequently asked questions, visit our website, or contact me directly. I'm happy to help.</p>
+<p>For more frequently asked questions, visit <a href="https://online.msstate.edu/bomp">our website</a>, or contact me directly. I'm happy to help.</p>
 <p>Sincerely,</p>
 @endsection
 
