@@ -4,22 +4,22 @@
 
 <p>
     <span style="color: #5D1725; text-decoration: underline;"><b>ORIENTATION</b></span><br/>
-    You can familiarize yourself with online learning in this short, non-credit course.
+    You can familiarize yourself with online learning in this short, non-credit <a href="https://online.msstate.edu/orientation/">course</a>.
 </p>
 
 <p>
     <span style="color: #5D1725; text-decoration: underline;"><b>UNIVERSITY LIBRARIES</b></span><br/>
-    An MSU librarian is dedicated specifically to you as an online student. Tap into the “Ask a Librarian” service to work with your reference specialist through an online chat system.
+    An MSU librarian is dedicated specifically to you as an online student. Tap into the “Ask a Librarian” service to work with your reference specialist through an online chat system on the <a href="https://www.library.msstate.edu/">MSU Library</a>.
 </p>
 
 <p>
     <span style="color: #5D1725; text-decoration: underline;"><b>THE WRITING CENTER</b></span><br/>
-    MSU is committed to helping you thrive as writers and critical thinkers.
+    MSU is committed to helping you thrive as writers and critical thinkers via the <a href="https://www.writingcenter.msstate.edu/">MSU Writing Center</a>.
 </p>
 
 <p>
     <span style="color: #5D1725; text-decoration: underline;"><b>FINANCIAL AID</b></span><br/>
-    You pay in-state tuition no matter where you live.  Check to see if you qualify for federal aid – fill out the free application for <a href="https://studentaid.ed.gov/sa/fafsa">Federal Student Aid.</a>
+    You pay in-state tuition no matter where you live.  Check to see if you qualify for federal aid by filling out the free application for <a href="https://studentaid.ed.gov/sa/fafsa">Federal Student Aid.</a>
 </p>
 
 <p>
@@ -34,12 +34,12 @@
 
 <p>
     <span style="color: #5D1725; text-decoration: underline;"><b>CAREER CENTER</b></span><br/>
-    You can take advantage of mock interviews, mentoring and virtual career fairs – all online.
+    You can take advantage of mock interviews, mentoring and virtual career fairs – all online at the <a href="https://www.career.msstate.edu/">MSU Career Center</a>.
 </p>
 
 <p>
     <span style="color: #5D1725; text-decoration: underline;"><b>TECHNICAL SUPPORT</b></span><br/>
-    If you have a technical issue, the Center for Distance Education Help Desk can assist you!
+    If you have a technical issue, the <a href="https://online.msstate.edu/technical-assistance/">Center for Distance Education Help Desk</a> can assist you!
 </p>
 
 <p>Please let us know if you have any questions. We are happy to help.</p>
