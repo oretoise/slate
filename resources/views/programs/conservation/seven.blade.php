@@ -8,7 +8,7 @@
 
 <p>Start your application for the online Master of Science in Conservation Education program today! Here is a short <a href="https://youtu.be/-gzq528lad0">video</a> to help you navigate the application process.</p>
 
-<p>Remember to choose <span style="color: #5D1725;"><b>Master of Science in Conservation Education</b></span> as your Major and <span style="color: #5D1725;"><b>Online Education</b></span> as your campus when applying for <a href="https://apply.grad.msstate.edu/">admission</a> or <a href="https://apply.grad.msstate.edu/">readmission</a>.
+<p>Remember to choose <span style="color: #5D1725;"><b>Master of Science in Conservation Education</b></span> as your Major and <span style="color: #5D1725;"><b>Online Education</b></span> as your campus when applying for <a href="https://apply.grad.msstate.edu/">admission or readmission</a>.
 
 <p>Your application must be submitted by the semester deadline in which you plan to enroll:
 
