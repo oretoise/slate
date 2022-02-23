@@ -7,7 +7,7 @@
 
 <p>
     <span style="color: #5D1725; text-decoration: underline;"><b>BULLDOG</b></span><br/>
-    MSU athletic teams are called Bulldogs, a name earned and maintained over the decades by the tough, tenacious play by student-athletes wearing the maroon and white. The official school mascot is an American Kennel Club-registered English bulldog given the inherited title of "Bully."  The current mascot is named "Jak" or Bully XXI and is the son of "Champ," Bully XX.
+    MSU students and athletes are called Bulldogs, a name earned and maintained over the decades by their tough, tenacious play while wearing the maroon and white. The official school mascot is an American Kennel Club-registered English bulldog given the inherited title of "Bully."  The current mascot is named "Jak" or Bully XXI and is the son of "Champ," Bully XX.
 </p>
 
 <p>
