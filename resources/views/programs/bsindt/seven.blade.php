@@ -17,7 +17,7 @@
 	</li>
 	<li>
 		<span style="color: #800000;"><b>What are some of the possible job titles one may receive with this degree?</b></span><br/>
-		Possible job titles range from Production Supervisor to Engineer Specialist.  For more options and potential employers, visit the <a href="https://online.msstate.edu/bsindt/career-outlook/">Career Outlook</a>.
+		Possible job titles range from Production Supervisor to Engineer Specialist.  For more options and potential employers, visit the <a href="https://online.msstate.edu/bsindt#career-outlook">Career Outlook</a>.
 	</li>
 </ul>
 
