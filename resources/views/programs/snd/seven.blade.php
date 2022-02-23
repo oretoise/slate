@@ -32,7 +32,7 @@
 </p>
 
 <p>
-    If you have any questions after reviewing this information, don’t hesitate to contact me.
+    If you have any questions after reviewing this information, don't hesitate to contact me.
 </p>
 
 <p>

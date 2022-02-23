@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 0 - Subject: Thank you for checking out MSU’s online degree in Communication with a concentration in Public Relations!</h3>
+<h3>Day 0 - Subject: Thank you for checking out MSU's online degree in Communication with a concentration in Public Relations!</h3>
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/comm/comm_1.png"/>
 <p>Dear @@{{First}},</p>
 

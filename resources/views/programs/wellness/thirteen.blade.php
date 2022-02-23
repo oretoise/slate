@@ -21,7 +21,7 @@
                 (F): 662.325.8728
             </td>
             <td class="divider staff" style="text-align: left;">
-                Dr. Evans is a master certified health education specialist and a certified wellness practitioner. He earned his bachelor's degree from Indiana University and his master’s and doctoral degrees from the University of Alabama. He received a Doctor of Chiropractic degree from Logan University.
+                Dr. Evans is a master certified health education specialist and a certified wellness practitioner. He earned his bachelor's degree from Indiana University and his master's and doctoral degrees from the University of Alabama. He received a Doctor of Chiropractic degree from Logan University.
             </td>
         </tr>
         <tr>

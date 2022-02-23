@@ -14,7 +14,7 @@
 	<li>presenting new ideas to others</li>
 	<li>exploring emerging technologies</li>
 </ul>
-<p>Ready to apply? I’m happy to assist you or answer any questions.</p>
+<p>Ready to apply? I'm happy to assist you or answer any questions.</p>
 @endsection
 
 @section('signature')

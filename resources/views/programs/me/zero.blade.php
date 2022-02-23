@@ -9,7 +9,7 @@
 
 // PhD
 
-<p>Thank you for checking out MSU’s online Doctor of Philosophy in Engineering with a concentration in Mechanical Engineering degree.</p>
+<p>Thank you for checking out MSU's online Doctor of Philosophy in Engineering with a concentration in Mechanical Engineering degree.</p>
 
 <p>This 64-credit hour degree includes 42 hours of coursework, 2 hours of graduate seminar and 20 hours of Dissertation and Research. This program allows for flexibility towards tailoring the degree program to the program of study, consistent with the goals of the topic under study and the unique interests and capabilities of each student.</p>
 

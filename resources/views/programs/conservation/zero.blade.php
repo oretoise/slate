@@ -1,12 +1,12 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 0 - Subject: Thank you for checking out MSU’s online Master of Science in Conservation Education program!</h3>
+<h3>Day 0 - Subject: Thank you for checking out MSU's online Master of Science in Conservation Education program!</h3>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/conservation/conservation-1.jpg" alt="Elephant and schoolchildren." />
 <p>Dear @@{{First}},</p>
 
-<p>Thank you for checking out MSU’s online, non-thesis Master of Science in Conservation Education degree.</p>
+<p>Thank you for checking out MSU's online, non-thesis Master of Science in Conservation Education degree.</p>
 <p>This innovative and comprehensive program is designed to meet accreditation and industry standards.  Conservation educators work in a variety of non-formal and formal settings to promote environmental stewardship and help create environmentally responsible citizens.</p>
 <p>The conservation education program is designed to prepare students for career opportunities in some of the following areas:</p>
 <ul>

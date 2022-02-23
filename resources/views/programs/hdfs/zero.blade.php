@@ -7,7 +7,7 @@
 
 <p>Dear @@{{First}},</p>
 
-<p>Thank you for checking out MSU’s online Bachelor of Science (BS) in Human Development and Family Science with a concentration in Child Development degree program.</p>
+<p>Thank you for checking out MSU's online Bachelor of Science (BS) in Human Development and Family Science with a concentration in Child Development degree program.</p>
 
 <p>The BS in Human Development and Family Science with a concentration in Child Development degree program is designed both for students who want to complete or start their degree completely online. The child development concentration explores the growth and development of children (conception until adolescence) within the family system and sociocultural milieu.</p>
 

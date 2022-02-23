@@ -1,13 +1,13 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 0 - Subject: Thank you for checking out MSU’s online Doctor of Philosophy in Engineering with a concentration in Engineering Education program!</h3>
+<h3>Day 0 - Subject: Thank you for checking out MSU's online Doctor of Philosophy in Engineering with a concentration in Engineering Education program!</h3>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/engineeringed/engineeringed1.jpg" width="350px" alt="Teacher instructing students in classroom."/>
 
 <p>Dear @@{{First}},</p>
 
-<p>Thank you for checking out MSU’s online Doctor of Philosophy in Engineering with a concentration in Engineering Education degree.</p>
+<p>Thank you for checking out MSU's online Doctor of Philosophy in Engineering with a concentration in Engineering Education degree.</p>
 <p>This degree requires 68-69 credit hours to complete. Programs of study are personalized to the individual student and include coursework in Engineering Education as well as other Engineering graduate areas of study.</p>
 
 <p>See how you can get started by:

@@ -7,7 +7,7 @@
 
 <img class="img-right" src="" />
 
-<p>Want hands-on geosciences experience? Earn your master’s degree online from MSU.</p>
+<p>Want hands-on geosciences experience? Earn your master's degree online from MSU.</p>
 
 <ul>
     <li>Complete in as little as two years.</li>

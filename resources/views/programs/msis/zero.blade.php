@@ -10,7 +10,7 @@
 
 <p>The MSIS program focuses on developing critical technical skills, strengthening communication skills, broadening the knowledge of business functions and operations, and enhancing students' understanding of the link between organizations and information technology.</p>
 
-<p>The program's innovative combination of coursework, practical exercises and projects, and interactive learning approaches has distinguished it as a leader in the education of tomorrow’s IT professionals.</p>
+<p>The program's innovative combination of coursework, practical exercises and projects, and interactive learning approaches has distinguished it as a leader in the education of tomorrow's IT professionals.</p>
 <p>Program Highlights:</p>
 <ul>
     <li>Nationally Ranked by <i>U.S. News & World Report</i><li>

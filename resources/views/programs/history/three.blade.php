@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 3 - Subject: Why should you complete a bachelor’s degree?</h3>
+<h3>Day 3 - Subject: Why should you complete a bachelor's degree?</h3>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/history/history_2.png" />
 

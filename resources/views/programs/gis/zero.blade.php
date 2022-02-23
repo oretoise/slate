@@ -6,7 +6,7 @@
 
 <p>Thank you for your interest in online education at Mississippi State University (MSU). The Geospatial and Remote Sensing Technologies(GIS) certificate program crosses departmental and college boundaries to offer a program in spatial technologies. This certificate program can serve the needs of undergraduate and graduate students with diverse backgrounds from a variety of disciplines.</p>
 
-<p>The certificate should represent a student’s mastery of basic GIS and Remote Sensing coursework. The program requires 15 semester hours.  A minimum of 3 semester hours of coursework is required in each of these three areas:</p>
+<p>The certificate should represent a student's mastery of basic GIS and Remote Sensing coursework. The program requires 15 semester hours.  A minimum of 3 semester hours of coursework is required in each of these three areas:</p>
 <ul>
 	<li>Geographic Information Systems</li>
 	<li>Remote Sensing</li>

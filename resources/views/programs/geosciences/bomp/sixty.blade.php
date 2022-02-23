@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 60 - Subject: There’s Still Time to Apply!</h3>
+<h3>Day 60 - Subject: There's Still Time to Apply!</h3>
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/bomp/BOMP_GscncsWbstBnnrAp17MR3073.png" />
 
 <p>Dear @@{{First}},</p>

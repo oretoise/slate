@@ -23,7 +23,7 @@
         We require you to have an undergraduate degree in Business, Economics, Management, or Forestry in order to be considered for the program.
     </li><br/>
     <li>
-        <b>What if my undergraduate degree is not in one of these fields, but I’d like to discuss my eligibility for admission?</b><br/>
+        <b>What if my undergraduate degree is not in one of these fields, but I'd like to discuss my eligibility for admission?</b><br/>
         We are happy to discuss the program with you.  Please be prepared to send transcripts of your academic coursework for review.
     </li><br/>
     <li>

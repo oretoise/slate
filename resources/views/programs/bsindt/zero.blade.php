@@ -1,11 +1,11 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 0 - Subject: Thank you for checking out MSU’s online Industrial Tech program!</h3>
+<h3>Day 0 - Subject: Thank you for checking out MSU's online Industrial Tech program!</h3>
 <p>Dear @@{{First}},</p>
 <p>
 	<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/bsindt/bsindt_1.png" />
-	Thank you for checking out MSU’s online Bachelor of Science in Industrial Technology (INDT) degree.
+	Thank you for checking out MSU's online Bachelor of Science in Industrial Technology (INDT) degree.
 </p>
 
 <p>This program is designed for you -- the student who is preparing for employment leading to supervisory and management positions in the production, automation, or maintenance areas of industry.</p>

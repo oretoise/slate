@@ -8,7 +8,7 @@
 <p>Dear @@{{First}},</p>
 
 // MS
-<p>Thank you for checking out MSU’s online Master of Science in Aerospace Engineering degree.  
+<p>Thank you for checking out MSU's online Master of Science in Aerospace Engineering degree.  
 This 30-credit hour degree has both thesis and non-thesis options.</p>
 <p>The major areas of study include the following:</p>
 <ul>
@@ -31,8 +31,8 @@ This 30-credit hour degree has both thesis and non-thesis options.</p>
 </ul>
 // end MS // PhD
 
-<p>Thank you for checking out MSU’s online Doctor of Philosophy in Engineering with a concentration in Aerospace Engineering degree.</p>
-<p>This degree prepares students to enter academia as a faculty member or for a rewarding career as a researcher in industry or government. The degree structure is comprised of a minimum of 50 hours of course work beyond the master’s degree, of which 20 hours is devoted toward dissertation research.</p>
+<p>Thank you for checking out MSU's online Doctor of Philosophy in Engineering with a concentration in Aerospace Engineering degree.</p>
+<p>This degree prepares students to enter academia as a faculty member or for a rewarding career as a researcher in industry or government. The degree structure is comprised of a minimum of 50 hours of course work beyond the master's degree, of which 20 hours is devoted toward dissertation research.</p>
 <p>See how you can get started by:</p>
 <ul>
 	<li>Reviewing the <a href="https://online.msstate.edu/ase/phd-program/">program structure</a>.</li>

@@ -9,7 +9,7 @@
 
 <p>Are you a teacher in need of an endorsement or wanting to teach dual credit course?  Do you want to teach at the community college level? If so, the online General Biology Certificate program may help you reach your goals.</p>
 
-<p>Since each state has its own criteria for advancement and certification, please contact your state’s Department of Education to see how this program relates to their requirements.</p>
+<p>Since each state has its own criteria for advancement and certification, please contact your state's Department of Education to see how this program relates to their requirements.</p>
 
 <p>New students typically begin the program in the fall semester. The admission deadline is <b>August 1st</b>.  For information about the application process, please visit our <a href="https://online.msstate.edu/biology/">website</a>.</p>
 

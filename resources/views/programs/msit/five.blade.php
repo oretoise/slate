@@ -18,7 +18,7 @@
             <li>You'll take 12 hours in your preference from the three concentrations we offer:  Instructional Design, Distance Education, or Multimedia.</li>
             <li>You will get the opportunity to develop a professional portfolio that documents your mastery of key skills from your courses.</li>
             <li>If you choose the non-thesis route, you'll take 6 hours of electives.  The thesis route requires 6 hours.</li>
-            <li>You’ll wrap up your degree with a comprehensive exam to show off what you’ve learned.</li>
+            <li>You'll wrap up your degree with a comprehensive exam to show off what you've learned.</li>
         </ul>
     </li><br/>
     <li>

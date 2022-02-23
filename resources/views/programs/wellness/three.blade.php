@@ -16,7 +16,7 @@
     <li>Wellness Coaching Internship:  Field-based clinical internship (6 credit hours) in a specified health care facility within the state of Mississippi during the summer semester. All other components must be completed before beginning the Internship.</li>
 </ol>
 
-<p>The certificate program may be completed as part of the master’s degree in <a href="https://online.msstate.edu/health">Food Science, Nutrition, and Health Promotion with a concentration in Health Promotion</a> or as a stand-alone certificate.</p>
+<p>The certificate program may be completed as part of the master's degree in <a href="https://online.msstate.edu/health">Food Science, Nutrition, and Health Promotion with a concentration in Health Promotion</a> or as a stand-alone certificate.</p>
 
 <p>If you're interested in learning techniques to assist patients in Mississippi with their health goals to improve their lifestyle and function, then you could benefit from this program.</p>
 

@@ -8,7 +8,7 @@
 <p>Dear @@{{First}},</p>
 
 // PhD
-<p>Thank you for checking out MSU’s online Doctor of Philosophy in Engineering with a concentration in Chemical Engineering degree.</p>
+<p>Thank you for checking out MSU's online Doctor of Philosophy in Engineering with a concentration in Chemical Engineering degree.</p>
 <p>This degree requires 56 credit hours beyond the Bachelor of Science. Programs of study are personalized to the individual student.</p>
 
 <p>See how you can get started by:</p>
@@ -18,7 +18,7 @@
 </ul>
 // end PhD // MS
 
-<p>Thank you for checking out MSU’s online Master of Science in Chemical Engineering degree.</p>
+<p>Thank you for checking out MSU's online Master of Science in Chemical Engineering degree.</p>
 <p>This degree requires 31 credit hours to complete. This program if offered in a thesis and non-thesis format.</p>
 
 <p>See how you can get started by:</p>

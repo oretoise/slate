@@ -5,7 +5,7 @@
     Do you know if you are ready for online learning? If not, you can complete the  <a href="https://online.msstate.edu/{{ $program }}/ready-for-online/"><i>eLearnReady Online Education Readiness</i></a> assessment. This is a free assessment that can help you determine your strengths and weaknesses related to those of successful distance students based on personality and habits.
 </p>
 
-<p>eLearnReady is designed to analyze students’ degree of readiness for participating in online courses. Based upon research and statistical analysis, a total of nine salient and measurable factors were identified that include:</p>
+<p>eLearnReady is designed to analyze students' degree of readiness for participating in online courses. Based upon research and statistical analysis, a total of nine salient and measurable factors were identified that include:</p>
 
 <ol>
     <li>Self-Motivation</li>

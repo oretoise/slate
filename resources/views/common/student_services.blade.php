@@ -28,7 +28,7 @@
 </p>
 
 <p>
-    <span style="color: #5D1725; text-decoration: underline;"><b>G.V. “SONNY” MONTGOMERY CENTER FOR AMERICA’S VETERANS</b></span><br/>
+    <span style="color: #5D1725; text-decoration: underline;"><b>G.V. “SONNY” MONTGOMERY CENTER FOR AMERICA'S VETERANS</b></span><br/>
     The <a href="https://www.veterans.msstate.edu/">Center for America's Veterans</a> provides services to Veterans, Service-members, Dependents and Survivors (VSDS). Services provided to VSDS include outreach; advising of opportunities and available benefits and options; assisting in all initial paperwork for the GI Bill, Federal Tuition Assistance and Vocational Rehabilitation; and providing liaison services between VSDS students and departments.
 </p>
 

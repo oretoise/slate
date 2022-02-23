@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 24 - Subject: How Much Will Your Online Bachelor’s Degree Cost?</h3>
+<h3>Day 24 - Subject: How Much Will Your Online Bachelor's Degree Cost?</h3>
 @include('common.undergrad_tuition')
 @endsection
 

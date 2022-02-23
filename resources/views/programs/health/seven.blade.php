@@ -10,7 +10,7 @@
 <ol>
     <li>
         <b>Is this program offered completely online?</b><br/>
-        Yes, this program is offered completely online and does not require any face-to-face time at MSU’s main campus in Starkville, MS.<br/><br/>
+        Yes, this program is offered completely online and does not require any face-to-face time at MSU's main campus in Starkville, MS.<br/><br/>
     </li>
     <li>
         <b>Is the GRE required?  Can it be waived?</b><br/>

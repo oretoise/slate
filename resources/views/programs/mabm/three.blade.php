@@ -6,7 +6,7 @@
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/mabm/mabm_1.png" />
 
-<p>As Mississippi State University’s premier, land-grant, research institution, we are excited to offer this agriculture-related degree fully online!</p>
+<p>As Mississippi State University's premier, land-grant, research institution, we are excited to offer this agriculture-related degree fully online!</p>
 <p><b>Program Highlights:</b></p>
 <ul>
     <li>31 hours to complete</li>

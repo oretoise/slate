@@ -8,7 +8,7 @@
 </p>
 
 <p>
-    At MSU, it’s about you! Read what faculty have to say about the online MBA experience.
+    At MSU, it's about you! Read what faculty have to say about the online MBA experience.
 </p>
 
 <p>

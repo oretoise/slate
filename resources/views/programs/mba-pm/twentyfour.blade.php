@@ -11,7 +11,7 @@
     <b>-Fadi, Issaquah, WA</b>
 </p>
 
-<p><i>"MSU’s distance program was the only online degree program that made me feel like an actual student, rather than someone who was just trying to earn a degree. The entire staff made me feel like a welcome member of the Bulldog family way before I even completed my application. I loved the school and curriculum so much that MSU was the only school I applied to pursue my MBA-Project Management degree. I am so glad I chose MSState Online and have recommended it to everyone I know: I even got one of my employees to apply as well!"</i></p>
+<p><i>"MSU's distance program was the only online degree program that made me feel like an actual student, rather than someone who was just trying to earn a degree. The entire staff made me feel like a welcome member of the Bulldog family way before I even completed my application. I loved the school and curriculum so much that MSU was the only school I applied to pursue my MBA-Project Management degree. I am so glad I chose MSState Online and have recommended it to everyone I know: I even got one of my employees to apply as well!"</i></p>
 
 <p style="text-align: right; color: #5D1725;">
     <b>-Grace, Charlotte, NC</b>

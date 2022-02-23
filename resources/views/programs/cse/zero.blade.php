@@ -8,8 +8,8 @@
 <p>Dear @@{{First}},</p>
 
 // PhD
-<p>Thank you for checking out MSU’s online Doctor of Philosophy in Computer Science degree.</p>
-<p>This degree is a 63-credit program designed to be completed in 4 years for traditional students. Students with a previous M.S. must only complete 32 hours of post master’s coursework. Working with a major professor and guiding committee, students will select appropriate core, specialization, and elective courses and develop a research program. Preparedness for research work will be measured via examinations, and finally defended before a body of peers in the dissertation defense.</p>
+<p>Thank you for checking out MSU's online Doctor of Philosophy in Computer Science degree.</p>
+<p>This degree is a 63-credit program designed to be completed in 4 years for traditional students. Students with a previous M.S. must only complete 32 hours of post master's coursework. Working with a major professor and guiding committee, students will select appropriate core, specialization, and elective courses and develop a research program. Preparedness for research work will be measured via examinations, and finally defended before a body of peers in the dissertation defense.</p>
 <p>Recent graduates have also gone to work for employers such as:</p>
 
 <ul>
@@ -33,8 +33,8 @@
 </ul>
 // end PhD // MS
 
-<p>Thank you for checking out MSU’s online Master of Science in Computer Science degree.</p>
-<p>This 31-credit hour degree has both thesis and non-thesis options. Computer Science and Engineering (CSE) is a research-intensive department with faculty who are world class researchers. CSE’s research expenditure in 2018 was about $10M, which is one of the highest in the nation. Research opportunities include areas such as:</p>
+<p>Thank you for checking out MSU's online Master of Science in Computer Science degree.</p>
+<p>This 31-credit hour degree has both thesis and non-thesis options. Computer Science and Engineering (CSE) is a research-intensive department with faculty who are world class researchers. CSE's research expenditure in 2018 was about $10M, which is one of the highest in the nation. Research opportunities include areas such as:</p>
 
 <ul>
 	<li>Artificial Intelligence</li>

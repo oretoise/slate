@@ -20,7 +20,7 @@
             <br />
             Once the application has been submitted and all items have been received, we typically can make an admissions decision within two weeks---plus, you will automatically be considered for academic scholarships as soon as you are admitted.&nbsp;<br />
             <br />
-            If you have any questions about MSU’s admission requirements, please feel free to contact Lisa Carraway at&nbsp;<a href="mailto:lisa.carraway@msstate.edu" style="color:blue; text-decoration:underline">lisa.carraway@msstate.edu</a>&nbsp;or 662 325-2639.<br />
+            If you have any questions about MSU's admission requirements, please feel free to contact Lisa Carraway at&nbsp;<a href="mailto:lisa.carraway@msstate.edu" style="color:blue; text-decoration:underline">lisa.carraway@msstate.edu</a>&nbsp;or 662 325-2639.<br />
             <br />
             <span style="line-height:107%">Hail State!</span><br />
             <br />

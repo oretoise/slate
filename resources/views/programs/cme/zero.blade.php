@@ -1,14 +1,14 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 0 - Subject: Thank you for checking out MSU’s online Master of Science in Computational Engineering program!</h3>
+<h3>Day 0 - Subject: Thank you for checking out MSU's online Master of Science in Computational Engineering program!</h3>
 
 <img class="img-right" width="350px" src="https://goto.msstate.edu/www/images/Distance/programs/cme/cme_1.jpg" />
 
 <p>Dear @@{{First}},</p>
 
 {% if @@{{program}} == 'PhD Computational Engineering' %}
-<p>Thank you for checking out MSU’s online Doctor of Philosophy in Computational Engineering degree.</p>
+<p>Thank you for checking out MSU's online Doctor of Philosophy in Computational Engineering degree.</p>
 <p>This degree requires 72 credit hours beyond the Bachelor of Science. Programs of study are personalized to the individual student.  Many classes in computational engineering are taken through the departments of Aerospace, Mechanical Engineering, Computer Science, Electrical and Computer Engineering, Math, and others.</p>
 
 <p>See how you can get started by:</p>
@@ -18,7 +18,7 @@
 </ul>{% endif %}
 
 {% if @@{{program}} == 'Master of Science in Computational Engineering' %}
-<p>Thank you for checking out MSU’s online Master of Science in Computational Engineering degree.</p>
+<p>Thank you for checking out MSU's online Master of Science in Computational Engineering degree.</p>
 <p>This degree has both thesis (30 hours) and non-thesis (33 hours) options. Programs of study are personalized to the individual student.  Many classes in computational engineering are taken through the departments of Aerospace, Mechanical Engineering, Computer Science, Math, and others.</p>
 
 <p>See how you can get started by:</p>
