@@ -14,7 +14,7 @@
 	<li>Spring - <b>December 1</b></li>
 	<li>Summer - <b>May 15</b></li>
 </ul>
-<p>If you have any questions or concerns, please contact me at joy.bailey@msstate.edu, and I will be glad to assist you!</p>
+<p>If you have any questions or concerns, please contact me at <a href="mailto:joy.bailey@msstate.edu">joy.bailey@msstate.edu</a>, and I will be glad to assist you!</p>
 <p>All the best,</p>
 @endsection
 
