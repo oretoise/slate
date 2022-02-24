@@ -73,5 +73,7 @@
 	<li><a href=" {{ url('ensc') }}">Environmental & Sustainability Certificate</a></li>
 	<li><a href=" {{ url('mscse') }}">MS Computer Science</a></li>
 	<li><a href=" {{ url('phcse') }}">PhD Computer Science</a></li>
+	<li><a href=" {{ url('phcee') }}">PhD Civil & Environmental Engineering</a></li>
+	<li><a href=" {{ url('mscee') }}">MS Civil & Environmental Engineering</a></li>
 </ul>
 @endsection
