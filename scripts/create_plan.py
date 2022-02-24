@@ -48,14 +48,14 @@ def homepage(acronym, name, path):
             new_homepage.append("</ul>")
             new_homepage.append("@endsection")
         
-        print("Homepage: ", home_path)
-        print("New homepage content:")
+        # print("Homepage: ", home_path)
+        # print("New homepage content:")
 
         # Overwrite homepage with new data.
         with open(home_path.resolve(), 'w') as f:
             for line in new_homepage:
                 f.write("%s\n" % line)
-                print(line)
+                # print(line)
 
 
 def skeleton(acronym, day_string, content, path, signature, home=False):
@@ -80,9 +80,9 @@ def skeleton(acronym, day_string, content, path, signature, home=False):
 
     # Debugging purposes.
     print("Creating file ", path_to_file)
-    print("File contents:")
-    print(default)
-    print()
+    # print("File contents:")
+    # print(default)
+    # print()
 
     # If the file doesn't exist, create it and write the content.
     if not path_to_file.exists():
