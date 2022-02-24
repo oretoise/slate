@@ -3,6 +3,16 @@
 @section('content')
 <h2>List of Communication Plans:</h2>
 
+<h3>Other Mailings</h3>
+
+<ul>
+	<li><a href=" {{ url('gmat_purchase') }}">GMAT Purchase</a></li>
+	<li><a href=" {{ url('info_sessions') }}">Info Sessions</a></li>
+	<li><a href=" {{ url('incomplete_apps') }}">Incomplete Apps</a></li>
+	<li><a href=" {{ url('bullybundles') }}">BullyBundles</a></li>	
+</ul>
+
+<h3>Programs</h3>
 <ul>
     <li><a href=" {{ url('bba') }}">BBA</a></li>
 	<li><a href=" {{ url('bsis') }}">BSIS</a></li>
@@ -59,16 +69,9 @@
 	<li><a href=" {{ url('ase') }}">MS / PhD Aerospace Engineering</a></li>
 	<li><a href=" {{ url('mtpa') }}">Master of Taxation / Professional Accountancy</a></li>
 	<li><a href=" {{ url('hdfs') }}">BS Human Development & Family Systems</a></li>
-</ul>
-
-<h3>Other Mailings</h3>
-
-<ul>
-	<li><a href=" {{ url('gmat_purchase') }}">GMAT Purchase</a></li>
-	<li><a href=" {{ url('info_sessions') }}">Info Sessions</a></li>
-	<li><a href=" {{ url('incomplete_apps') }}">Incomplete Apps</a></li>
-	<li><a href=" {{ url('bullybundles') }}">BullyBundles</a></li>
 	<li><a href=" {{ url('iswd') }}">PhD Industrial Systems & Workforce Development</a></li>
 	<li><a href=" {{ url('ensc') }}">Environmental & Sustainability Certificate</a></li>
+	<li><a href=" {{ url('mscse') }}">MS Computer Science</a></li>
+	<li><a href=" {{ url('phcse') }}">PhD Computer Science</a></li>
 </ul>
 @endsection
