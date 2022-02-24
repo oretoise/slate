@@ -9,11 +9,11 @@
 <ul>
 	<li>
 		<span style="color: #5D1725;"><b>Who Should apply?</b></span><br/>
-		The Conservation Education non-thesis master’s program prepares you to become a leader in the field of conservation education. The program is designed both for full and part-time students who are interested in enhancing conservation-focused educational, scientific, and leadership skills.<br/><br/>
+		The Conservation Education non-thesis master's program prepares you to become a leader in the field of conservation education. The program is designed both for full and part-time students who are interested in enhancing conservation-focused educational, scientific, and leadership skills.<br/><br/>
 	</li>
 	<li>
-		<span style="color: #5D1725;"><b>Why choose MSU’s Conservation Education program?</b></span><br/>
-		<b>Mississippi State Online’s non-thesis master’s degree in Conservation Education gives you the opportunity to:</b><br/>
+		<span style="color: #5D1725;"><b>Why choose MSU's Conservation Education program?</b></span><br/>
+		<b>Mississippi State Online's non-thesis master's degree in Conservation Education gives you the opportunity to:</b><br/>
 		<ul>
 			<li>Complete the only Conservation Education program in the United States that is 100% online with a focus on advancing leaders in conservation education.</li>
 			<li>This program was designed by our faculty to meet accreditation and industry standards.  The conservation education faculty are scientific researchers with experience in both non-formal and formal educational settings.</li>

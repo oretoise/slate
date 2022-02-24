@@ -13,7 +13,7 @@
 	<li>Speech language pathology</li>
 	<li>Plus, as the starting point for obtaining advanced degrees in Psychology and other areas</li>
 </ul>
-<p>Ready to apply? I’m happy to assist you or answer any questions.</p>
+<p>Ready to apply? I'm happy to assist you or answer any questions.</p>
 @endsection
 
 @section('signature')

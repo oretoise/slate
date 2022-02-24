@@ -25,7 +25,7 @@
 	// PhD
 	<li>
 		<span style="color: #5D1725;"><b>Does this program require comprehensive examinations?</b></span><br/>
-		Yes. During preparation for the doctoral degree, the student will be required to complete three examinations, including the final dissertation defense.  Additional information about these examinations can be found at <a href="https://www.cse.msstate.edu/grad/phd-cs/exam/">https://www.cse.msstate.edu/grad/phd-cs/exam/</a>.<br/><br/>
+		Yes. During preparation for the doctoral degree, the student will be required to complete three examinations, including the final dissertation defense.  Additional information about these examinations can be found at <a href="https://www.cse.msstate.edu/grad/phd-cs/exam/">here</a>.<br/><br/>
 	</li>
 	// end PhD
 	<li>

@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 0 - Subject: Thank you for checking out MSU’s online Companion Animal Management Certificate!</h3>
+<h3>Day 0 - Subject: Thank you for checking out MSU's online Companion Animal Management Certificate!</h3>
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/animal/kitten.png" alt="Kitten with red collar" />
 

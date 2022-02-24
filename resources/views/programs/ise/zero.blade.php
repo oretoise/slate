@@ -13,7 +13,7 @@
 {% endif %}
 
 {% if @@{{program}} == 'MS in Industrial & Systems Engineering' %}
-<p>Thank you for checking out MSU’s online Master of Science in Industrial Engineering degree.</p>
+<p>Thank you for checking out MSU's online Master of Science in Industrial Engineering degree.</p>
 <p>This 30-hour degree program has both thesis and non-thesis options.  Students can choose from five concentration track options with their program of study.  These concentrations are:</p>
 <ul>
 	<li>Human Factors and Ergonomics</li>

@@ -1,19 +1,19 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 0 - Subject: Thank you for checking out MSU’s online Master of Science / PhD in Civil Engineering program!</h3>
+<h3>Day 0 - Subject: Thank you for checking out MSU's online Master of Science / PhD in Civil Engineering program!</h3>
 
 <img class="img-right" width="350px" src="https://goto.msstate.edu/www/images/Distance/programs/cee/cee_1.jpg" />
 
 <p>Dear @@{{First}},</p>
 
 {% if @@{{program}} == 'MS Civil Engineering' %}
-<p>Thank you for checking out MSU’s online Master of Science in Civil Engineering degree.</p>
+<p>Thank you for checking out MSU's online Master of Science in Civil Engineering degree.</p>
 <p>This degree has both thesis (30 hours) and non-thesis (33 hours) options. Programs of study are personalized to the individual student.  This program allows students to specialize their program of study in the following areas:</p>
 {% endif %}
 
 {% if @@{{program}} == 'PhD Civil Engineering' %}
-<p>Thank you for checking out MSU’s online Doctor of Philosophy in Engineering with a concentration in Civil Engineering degree.</p>
+<p>Thank you for checking out MSU's online Doctor of Philosophy in Engineering with a concentration in Civil Engineering degree.</p>
 <p>This degree requires 18 hours of coursework and a minimum of 20 hours of research. This program allows students to specialize their program of study in the following areas:</p>
 {% endif %}
 <ul>

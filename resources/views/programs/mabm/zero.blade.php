@@ -19,7 +19,7 @@
     <li>Food marketing</li>
 </ul>
 
-<p>I will follow up with any questions you had in your request for information query shortly.  In the meantime, please view our <a href="https://online.msstate.edu/pdf/slate/MABM.pdf">program brochure</a> detailing admission requirements, prerequisites, and program curriculum.</p>
+<p>I will follow up with any questions you had in your request for information query shortly.  In the meantime, please view our <a href="https://online.msstate.edu/files/pdf/MABM.pdf">program brochure</a> detailing admission requirements, prerequisites, and program curriculum.</p>
 <p>Let me know if you have any questions. I'm happy to help!</p>
 <p>Thank you,</p>
 @endsection

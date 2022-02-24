@@ -6,11 +6,11 @@
 <img class="img-right" width="350px" src="https://goto.msstate.edu/www/images/Distance/programs/cyber/cyber_1.png" />
 
 <p>Dear @@{{First}},</p>
-<p>This 31-credit hour degree has both thesis and non-thesis options. The Master of Science in Cyber Security and Operations is designed for students who wish to help meet the challenges posed by increasing cyber-threats. Using a multidisciplinary approach, the program is designed to provide students with a focused education within a broad analytical framework for evaluating, understand, and solving cyber security problems.   Recognized nationally for its leadership in cyber security, MSU is one of only nine schools in the U.S. to hold all three of the National Security Agency’s centers of academic excellence credentials: CAE-Cyber Defense Education, CAE-Cyber Defense Research, and CAE-Cyber Operations.</p>
+<p>This 31-credit hour degree has both thesis and non-thesis options. The Master of Science in Cyber Security and Operations is designed for students who wish to help meet the challenges posed by increasing cyber-threats. Using a multidisciplinary approach, the program is designed to provide students with a focused education within a broad analytical framework for evaluating, understand, and solving cyber security problems.   Recognized nationally for its leadership in cyber security, MSU is one of only nine schools in the U.S. to hold all three of the National Security Agency's centers of academic excellence credentials: CAE-Cyber Defense Education, CAE-Cyber Defense Research, and CAE-Cyber Operations.</p>
 
 <p>See how you can get started by:</p>
 <ul>
-	<li>Reviewing the program structure.</li>
+	<li>Reviewing the <a href="https://online.msstate.edu/mscyso#program-structure">program structure</a>.</li>
 	<li>Requesting information about your desired area of study.</li>
 </ul>
 

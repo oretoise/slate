@@ -1,9 +1,9 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 0 - Subject: Thank you for checking out MSU’s online BSIS program!</h3>
+<h3>Day 0 - Subject: Thank you for checking out MSU's online BSIS program!</h3>
 <p>Dear @@{{First}},</p>
-<p>Thank you for checking out the MSU’s 100% online Bachelor of Science in Interdisciplinary Studies (BSIS) degree program.</p>
+<p>Thank you for checking out the MSU's 100% online Bachelor of Science in Interdisciplinary Studies (BSIS) degree program.</p>
 
 <p>
 	Our BSIS degree allows students maximum flexibility to customize a curriculum that aligns with their personal and career goals. Students may choose from the following emphasis areas within the BSIS degree:

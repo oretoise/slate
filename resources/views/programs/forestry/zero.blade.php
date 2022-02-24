@@ -9,7 +9,7 @@
 
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), your courses will meet the same standards as on-campus courses.  Also, your online degree will not be differentiated from an on-campus degree.</p>
 
-<p>I will follow up with any questions you had in your request for information query shortly.  In the meantime, please view our <a href="https://online.msstate.edu/pdf/slate/Forestry.pdf">program brochure</a> detailing admission requirements, prerequisites, and program curriculum.</p>
+<p>I will follow up with any questions you had in your request for information query shortly.  In the meantime, please view our <a href="https://online.msstate.edu/files/pdf/Forestry.pdf">program brochure</a> detailing admission requirements, prerequisites, and program curriculum.</p>
 
 <p>Let me know if you have any questions. I'm happy to help!</p>
 @endsection

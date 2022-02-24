@@ -12,7 +12,7 @@
 
 <p>Unfortunately, we are no longer able to place students in <b>Georgia</b> for an internship.</p>
 
-<p><b>Good news:</b>  You can earn your initial licensure and then teach full time in the state of MS while completing the MATS degree online!  Our licensure and endorsements page provides detailed information regarding that process.</p>
+<p><b>Good news:</b>  You can earn your initial licensure and then teach full time in the state of MS while completing the MATS degree online!  Review the licensure and endorsement <a href="https://online.msstate.edu/mats#licensure-and-endorsements">section</a> of our website to provide detailed information regarding that process.</p>
 
 <p>Let me know what questions you have.  I'm happy to help you get started with making a difference in the lives of our youth as a teacher!</p>
 <p>All the best,</p>

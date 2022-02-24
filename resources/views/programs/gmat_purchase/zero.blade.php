@@ -7,7 +7,7 @@
 <p>
 Mississippi State Online would like to congratulate you on completing the GMAT exam! We commend your commitment, dedication, and motivation to pursue graduate study.<br />
 <br />
-Mississippi State University’s College of Business offers an accredited, flexible, and affordable online MBA degree to students around the world.
+Mississippi State University's College of Business offers an accredited, flexible, and affordable online MBA degree to students around the world.
 </p>
 
 <p>
@@ -56,7 +56,7 @@ Because MSU is accredited by the Southern Association of Colleges and Schools Co
 </p>
 
 <p>
-Please view our program <a href="https://online.msstate.edu/pdf/slate/MBAFlyer.pdf">fast-facts flyer</a>, detailing program admission requirements, prerequisite information, and program curriculum. I'm happy to answer any questions you may have.
+Please view our program <a href="https://online.msstate.edu/files/pdf/MBAFlyer.pdf">fast-facts flyer</a>, detailing program admission requirements, prerequisite information, and program curriculum. I'm happy to answer any questions you may have.
 </p>
 
 <p>I look forward to working with you!</p>

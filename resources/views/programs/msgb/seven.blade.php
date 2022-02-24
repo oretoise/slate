@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 7 - Subject: Don’t Miss the Deadline!</h3>
+<h3>Day 7 - Subject: Don't Miss the Deadline!</h3>
 
 <p>Dear @@{{First}},</p>
 

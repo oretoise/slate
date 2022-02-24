@@ -15,9 +15,9 @@
 		The Companion Animal Management Certificate program is an online non-degree program that gives pre-veterinary medicine students, veterinary technician students, veterinary assistants, sales professionals, shelter managers, animal caretakers, pet breeders, and pet enthusiasts the opportunity to take in-depth courses on various aspects of companion animal management. Course topics include companion animal nutrition, behavior and training, evaluation, shelter medicine and the human animal bond.<br/><br/>
 	</li>
 	<li>
-		<b><span style="color: #5D1725;">Why choose MSU’s Companion Animal Management Certificate?</span></b><br/>
+		<b><span style="color: #5D1725;">Why choose MSU's Companion Animal Management Certificate?</span></b><br/>
 		<ul>
-			<li>Dedicated instructors with over 10 years’ experience in veterinary medicine and industry.</li>
+			<li>Dedicated instructors with over 10 years' experience in veterinary medicine and industry.</li>
 			<li>Certificate can be completed in 2 semesters.</li>
 			<li>Career guidance with established industry partnerships</li>
 			<li>Opportunities to pursue further education and degrees</li>

@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  You can download the <a href="https://online.msstate.edu/pdf/mba/MBA-Application-Checklist.pdf?cbe_email=@@{{Email}}">application checklist</a> to ensure that you have submitted the required documents for full admission into the MBA program.
+  You can download the <a href="https://online.msstate.edu/files/pdf/MBA-Application-Checklist.pdf?cbe_email=@@{{Email}}">application checklist</a> to ensure that you have submitted the required documents for full admission into the MBA program.
 </p>
 
 <p>

@@ -13,7 +13,7 @@
     </li>
     <li>
         <b>Would should apply?</b><br/>
-        A 100-hour practicum is included in the program; therefore, prospective students must be employed in a rehabilitation agency or enrolled in a master’s rehabilitation counseling degree program.<br/><br/>
+        A 100-hour practicum is included in the program; therefore, prospective students must be employed in a rehabilitation agency or enrolled in a master's rehabilitation counseling degree program.<br/><br/>
     </li>
     <li>
         <b>Are there stipends available?</b><br/>

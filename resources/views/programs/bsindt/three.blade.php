@@ -18,7 +18,7 @@
 
 <p>Many of our graduates have started their careers with outstanding companies such as Caterpillar, Milwaukee Electric Tool, Nissan North America, and more!</p>
 <p>Some of the most recent job titles of our graduates include Production Supervisor, Quality Engineer, and Engineer Specialist.</p>
-<p>Check out the <a href="https://online.msstate.edu/bsindt/career-outlook/">Career Outlook</a> for more job titles and potential employers.</p>
+<p>Check out the <a href="https://online.msstate.edu/bsindt#career-outlook">Career Outlook</a> for more job titles and potential employers.</p>
 <p>Ready to apply? I'll be happy to assist you or answer any questions.</p>
 <p>Sincerely,</p>
 @endsection

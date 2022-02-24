@@ -5,7 +5,7 @@
 <p>Dear @@{{First}},</p>
 
 <p>
-  Our award-winning online MBA faculty at MSU, are dedicated to enriching your graduate school experience. With MSU, it’s all about you! Read what faculty have to say about the value of the “MBA, Your Way” experience!
+  Our award-winning online MBA faculty at MSU, are dedicated to enriching your graduate school experience. With MSU, it's all about you! Read what faculty have to say about the value of the “MBA, Your Way” experience!
 </p>
 
 <p>

@@ -20,11 +20,11 @@
 	</li>
 	<li>
 		<span style="color: #800000;"><b>Do you accept transfer credit?</b></span><br/>
-		All courses taken at another accredited institution are recorded on the student’s permanent record; however, the student’s academic advisor determines the applicability of the work toward degree requirements.
+		All courses taken at another accredited institution are recorded on the student's permanent record; however, the student's academic advisor determines the applicability of the work toward degree requirements.
 	</li>
 </ol>
 
-<p>For more frequently asked questions, visit our website, or contact me directly. I'm happy to help.</p>
+<p>For more frequently asked questions, visit <a href="https://online.msstate.edu/bomp">our website</a>, or contact me directly. I'm happy to help.</p>
 <p>Sincerely,</p>
 @endsection
 

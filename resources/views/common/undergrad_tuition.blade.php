@@ -24,11 +24,11 @@
 </p>
 
 <p>
-    Additional information about <a href="https://online.msstate.edu/{{ $program }}/financial-aid/">financial aid</a>, <a href="https://online.msstate.edu/military-assistance/">military/veteran educational benefits</a> can be found on our <a href="https://online.msstate.edu/{{ $program}}">website</a>.
+    Additional information about <a href="https://online.msstate.edu/financial-matters">financial aid</a>, <a href="https://online.msstate.edu/military-assistance">military/veteran educational benefits</a> can be found on our <a href="https://online.msstate.edu/{{ $program}}">website</a>.
 </p>
 
 <p>
-    If you have any questions after reviewing this information, don’t hesitate to contact me.
+    If you have any questions after reviewing this information, don't hesitate to contact me.
 </p>
 
 <p>

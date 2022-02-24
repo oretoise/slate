@@ -11,7 +11,7 @@
 
 <p>
     <i>
-        "I chose MSU because of the accessibility to the program.  I started the MBA program from South Korea, so I needed to be able to do work on my own time without mandatory meeting times and classes.  As a pilot in the army, my schedule is always changing, and Mississippi State’s MBA program has always worked around that for me.  The quality of the program has been fantastic, and I couldn’t be happier with my choice.  Hail State!"
+        "I chose MSU because of the accessibility to the program.  I started the MBA program from South Korea, so I needed to be able to do work on my own time without mandatory meeting times and classes.  As a pilot in the army, my schedule is always changing, and Mississippi State's MBA program has always worked around that for me.  The quality of the program has been fantastic, and I couldn't be happier with my choice.  Hail State!"
     </i>
 </p>
 
@@ -21,7 +21,7 @@
 
 <p>
     <i>
-        "The flexibility of MSU’s MBA Distance program has been ideal.  It would have been impossible for me to achieve my goal of getting my MBA while working full-time if I could not have taken courses online.  With the quality of the program and the support of MSU’s excellent professors, this degree has given me the confidence to move forward in my career with the knowledge that I am thoroughly prepared for the challenges ahead."
+        "The flexibility of MSU's MBA Distance program has been ideal.  It would have been impossible for me to achieve my goal of getting my MBA while working full-time if I could not have taken courses online.  With the quality of the program and the support of MSU's excellent professors, this degree has given me the confidence to move forward in my career with the knowledge that I am thoroughly prepared for the challenges ahead."
     </i>
 </p>
 

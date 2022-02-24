@@ -21,7 +21,7 @@
 <p>Interested in enrolling? Fall admission is preferred, but spring and summer applicants will be considered.  The fall admission deadline is <b><span style="color: #5D1725;">August 1</span></b>.  Students who wish to apply should meet the following requirements:</p>
 
 <ul>
-    <li>A bachelor’s degree from a fully recognized four-year educational institution that has unconditional accreditation with appropriate regional accrediting agencies</li>
+    <li>A bachelor's degree from a fully recognized four-year educational institution that has unconditional accreditation with appropriate regional accrediting agencies</li>
     <li>A minimum grade point average of 2.75 on the last 60 hours of undergraduate work</li>
     <li>Completed the two prerequisite courses: Earth Science and Weather & Climate or their equivalents</li>
     <li>The GRE is <b>not</b> required for admission into this program</li>

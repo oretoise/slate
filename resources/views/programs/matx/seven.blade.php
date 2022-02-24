@@ -2,6 +2,7 @@
 
 @section('content')
 <h3>Day 7 - Subject: Start your application today!</h3>
+<a href="https://youtu.be/-gzq528lad0"><img class="img-right" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/grad_admissions_video.png" /></a>
 <p>Dear @@{{First}},</p>
 
 <p>Start your application for the online MATX program today!  Keep in mind the application deadlines listed below, and remember, the earlier you submit your admission or readmission application, the better chance you have of getting into the classes that you need.</p>
@@ -21,7 +22,7 @@ As you fill out your application, remember to select <b>Master of Art in Teachin
 
 <p><b>**We are no longer able to place students in Georgia for an internship. Residents living in the state of Georgia will not be eligible to teach in Georgia.**</b></p>
 
-<p>If you have any questions, don’t hesitate to ask me. I'd be happy to help.</p>
+<p>If you have any questions, don't hesitate to ask me. I'd be happy to help.</p>
 <p>Thanks,</p>
 @endsection
 

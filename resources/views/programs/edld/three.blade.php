@@ -15,7 +15,7 @@
     </li><br/>
     <li>
         <b>Do you accept transfer credit?</b><br/>
-        Yes, a total of nine (9) hours can be transferred to a student’s program of study from an accredited four-year university and are subject to approval by the Registrar’s Office and your advisor.
+        Yes, a total of nine (9) hours can be transferred to a student's program of study from an accredited four-year university and are subject to approval by the Registrar's Office and your advisor.
     </li><br/>
     <li>
         <b>What are the application deadlines?</b>

@@ -13,7 +13,7 @@
         The Early Intervention master's program prepares you to serve young children (birth to 5 years old) who have disabilities or other special needs. The program is designed both for full and part-time students who are interested in teacher licensure to work in Part C programs, preschool classrooms, or community-based programs.
     </li><br/>
     <li>
-        <b>Why choose MSU’s Early Intervention Program?</b>
+        <b>Why choose MSU's Early Intervention Program?</b>
         <p><b>Mississippi State's online master's degree in Early Intervention gives you the opportunity to:</b></p>
 
         <ul>

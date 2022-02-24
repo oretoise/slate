@@ -17,7 +17,7 @@
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>Do you accept transfer credit?</b></span><br/>
-		Yes. All courses taken at another accredited institution are recorded on the student’s permanent record; however, the student’s academic advisor determines the applicability of the work toward degree requirements.
+		Yes. All courses taken at another accredited institution are recorded on the student's permanent record; however, the student's academic advisor determines the applicability of the work toward degree requirements.
 	</li>
 </ul>
 

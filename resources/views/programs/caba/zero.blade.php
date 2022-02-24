@@ -1,11 +1,11 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 0 - Subject: Thank you for checking out MSU’s online Applied Behavior Analysis Certificate program!</h3>
+<h3>Day 0 - Subject: Thank you for checking out MSU's online Applied Behavior Analysis Certificate program!</h3>
 
 <p>Dear @@{{First}},</p>
 
-<p>Thank you for checking out the online Applied Behavior Analysis (ABA) certificate program at Mississippi State University (MSU)!  This program is designed for those who have an existing master’s degree in psychology or education and are seeking coursework that leads to certification as a <a href="https://www.bacb.com/bcba/">Board Certified Behavior Analyst (BCBA)</a>.</p>
+<p>Thank you for checking out the online Applied Behavior Analysis (ABA) certificate program at Mississippi State University (MSU)!  This program is designed for those who have an existing master's degree in psychology or education and are seeking coursework that leads to certification as a <a href="https://www.bacb.com/bcba/">Board Certified Behavior Analyst (BCBA)</a>.</p>
 
 <p>
 	<b>How does the distance ABA Certificate program work?</b>

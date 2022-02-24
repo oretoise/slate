@@ -14,8 +14,8 @@
                 <img alt="Tamra Swann" src="https://goto.msstate.edu/www/images/Distance/staff/tswann.png">
             </td>
             <td class="divider staff" style="text-align: left;">
-                <p>Tamra Swann began working as the Bagley College’s distance education coordinator in 2014. Her responsibilities are to assist with the facilitation and coordination of the college’s distance education programs and recruit distance education students. She works with students, faculty, technology services and other offices on campus on various BCoE graduate and distance projects.</p>
-                <p>Tamra has a bachelor’s in public relations, a master’s in agriculture and extension education from Mississippi State, and she is currently working on her PhD in Instructional Systems and Workforce Development.</p>
+                <p>Tamra Swann began working as the Bagley College's distance education coordinator in 2014. Her responsibilities are to assist with the facilitation and coordination of the college's distance education programs and recruit distance education students. She works with students, faculty, technology services and other offices on campus on various BCoE graduate and distance projects.</p>
+                <p>Tamra has a bachelor's in public relations, a master's in agriculture and extension education from Mississippi State, and she is currently working on her PhD in Instructional Systems and Workforce Development.</p>
             </td>
         </tr>
         <tr>

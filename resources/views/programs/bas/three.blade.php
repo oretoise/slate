@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 3 - Subject: Why should you complete a bachelor’s degree?</h3>
+<h3>Day 3 - Subject: Why should you complete a bachelor's degree?</h3>
 <p>Dear @@{{First}},</p>
 
 <p>According to a market research brief compiled by the Education Advisory Board, the following information was discovered:</p>

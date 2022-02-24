@@ -8,7 +8,7 @@
 <p>Dear @@{{First}},</p>
 
 // PhD
-<p>Thank you for checking out MSU’s online Doctor of Philosophy in Electrical & Computer Engineering degree.</p>
+<p>Thank you for checking out MSU's online Doctor of Philosophy in Electrical & Computer Engineering degree.</p>
 <p>This degree requires 66 credit hours beyond the Bachelor of Science. Programs of study are personalized to the individual student.</p>
 <p>See how you can get started by:</p>
 <ul>
