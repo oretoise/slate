@@ -12,7 +12,7 @@
 
 <p>See how you can get started by:
 	<ul>
-		<li>Reviewing the <a href="https://online.msstate.edu/engineeringed/phd-program/">program structure</a>.</li>
+		<li>Reviewing the <a href="https://online.msstate.edu/engineeringed#program-structure">program structure</a>.</li>
 		<li>Requesting information about your desired area of study</li>
 	</ul>
 </p>
@@ -26,7 +26,7 @@
 </p>
 
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) and the Accreditation Board for Engineering and Technology, Inc. (ABET), your courses will meet the same standards as on-campus courses.  Also, your online degree will not be differentiated from an on-campus degree.</p>
-<p>Are you <a href="https://online.msstate.edu/engineeringed/admissions-process/">ready to apply</a>? If you have any questions or concerns, please contact us. We are ready to help.
+<p>Are you <a href="https://online.msstate.edu/engineeringed#admissions-process/">ready to apply</a>? If you have any questions or concerns, please contact us. We are ready to help.
 
 All the best,
 
