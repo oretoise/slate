@@ -9,7 +9,6 @@
 
 // PhD
 <p>Start your application for the online Doctor of Philosophy with a concentration in Chemical Engineering program.  Here is a short video to help you navigate the application process.</p>
-Computational 
 <p>Remember to choose <span style="color: #5D1725;"><b>Doctor of Philosophy</b></span> and <span style="color: #5D1725;"><b>Chemical Engineering</b></span> as your Major and <span style="color: #5D1725;"><b>Online Education</b></span> as your campus when applying for <a href="https://online.msstate.edu/ece/admissions-process/">admission</a> or <a href="https://online.msstate.edu/ece/admissions-process/">readmission</a>.</p>
 // end PhD // MS
 <p>Start your application for the online Master of Science in Chemical Engineering program.  Here is a short video to help you navigate the application process.</p>
