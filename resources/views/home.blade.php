@@ -79,5 +79,7 @@
 	<li><a href=" {{ url('phcme') }}">PhD Computational Engineering</a></li>
 	<li><a href=" {{ url('msme') }}">MS Mechanical Engineering</a></li>
 	<li><a href=" {{ url('phme') }}">PhD Mechanical Engineering</a></li>
+	<li><a href=" {{ url('msece') }}">MS Electrical & Computer Engineering</a></li>
+	<li><a href=" {{ url('phece') }}">PhD Electrical & Computer Engineering</a></li>
 </ul>
 @endsection
