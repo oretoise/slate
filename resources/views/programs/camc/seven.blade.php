@@ -10,7 +10,7 @@
 <p>Start your application for the online Companion Animal Management Certificate today!</p>
 
 
-<p>Remember to choose <span style="color: #5D1725;"><b>Special Non-Degree or Undeclared or Unclassified</b></span> as your Major and <span style="color: #5D1725;"><b>Online Education</b></span> as your campus when applying for <a href="https://online.msstate.edu/{{ $program }}#admissions-process/">admission or readmission</a>.  
+<p>Remember to choose <span style="color: #5D1725;"><b>Special Non-Degree or Undeclared or Unclassified</b></span> as your Major and <span style="color: #5D1725;"><b>Online Education</b></span> as your campus when applying for <a href="https://online.msstate.edu/{{ $program }}#admissions-process">admission or readmission</a>.  
 
 <p>If you applying as a <b>GRADUATE</b> student, your application must be submitted by the semester deadline in which you plan to enroll:
 

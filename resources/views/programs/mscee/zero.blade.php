@@ -22,7 +22,7 @@
 
 <p>See how you can get started by:</p>
 <ul>
-	<li>Reviewing the <a href="https://online.msstate.edu/mscee#program-structure/">program structure</a>.</li>
+	<li>Reviewing the <a href="https://online.msstate.edu/mscee#program-structure">program structure</a>.</li>
 	<li>Reviewing the <a href="https://www.cee.msstate.edu/wp-content/uploads/CEE-Graduate-Policy-August-2020.pdf">CEE Graduate Studies Policy</a>.</li>
 	<li>Requesting information about your desired area of study.</li>
 </ul>
@@ -36,7 +36,7 @@ Summer Admission Deadline:  <b>January 15</b>
 <p>*Note: Applications for the off-campus M.S. in Civil Engineering degree program may be considered for review up to two months after the above deadlines.</p>
 
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) and the Accreditation Board for Engineering and Technology, Inc. (ABET), your courses will meet the same standards as on-campus courses.  Also, your online degree will not be differentiated from an on-campus degree.</p>
-<p>Are you <a href="https://online.msstate.edu/mscee#admissions-process/">ready to apply</a>? If you have any questions or concerns, please contact us. We are ready to help.
+<p>Are you <a href="https://online.msstate.edu/mscee#admissions-process">ready to apply</a>? If you have any questions or concerns, please contact us. We are ready to help.
 <p>All the best,</p>
 @endsection
 
