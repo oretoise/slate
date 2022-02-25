@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 0 - Subject: Thank you for checking out MSU's online Master of Science in Computational Engineering program!</h3>
+<h3>Day 0 - Subject: Thank you for checking out MSU's online PhD in Computational Engineering program!</h3>
 
 <img class="img-right" width="350px" src="https://goto.msstate.edu/www/images/Distance/programs/cme/cme_1.jpg" />
 
