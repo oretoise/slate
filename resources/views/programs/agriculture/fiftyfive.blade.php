@@ -11,7 +11,7 @@
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/agriculture/AgriWbBnnrN18MR3431.png" />
 
-<p>It is not too late to <a href="https://online.msstate.edu/agriculture/admissions-process/">apply</a> for admissions.</p>
+<p>It is not too late to <a href="https://online.msstate.edu/agriculture#admissions-process"apply</a> for admissions.</p>
 <p>I look forward to working with you!</p>
 <p>Thank you,</p>
 @endsection

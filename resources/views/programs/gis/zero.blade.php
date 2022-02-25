@@ -15,7 +15,7 @@
 <p>Students are required to complete 6 hours of additional coursework chosen from a list of restricted electives.</p>
 <p>All courses in the GIS certificate program are taught completely online by faculty from the Department of Geosciences at MSU and are accredited by the Southern Association of Schools (SACS). Your transcripts from MSU will not distinguish between GIS courses taught on campus and those offered through online education. The course schedule for the program can be accessed on the <a href="https://online.msstate.edu/gis/">GIS website</a>.</p>
 
-<p>I hope that you will find that our program meets your needs and that you will begin the process for admissions. Are you <a href="https://online.msstate.edu/gis/admissions-process/">ready to become a Bulldog</a>? If you have any questions or concerns, please contact me at <a href="mailto:joy.bailey@msstate.edu">joy.bailey@msstate.edu</a>, and I will be glad to assist you!</p>
+<p>I hope that you will find that our program meets your needs and that you will begin the process for admissions. Are you <a href="https://online.msstate.edu/gis#admissions-process"ready to become a Bulldog</a>? If you have any questions or concerns, please contact me at <a href="mailto:joy.bailey@msstate.edu">joy.bailey@msstate.edu</a>, and I will be glad to assist you!</p>
 <p>All the best,</p>
 @endsection
 

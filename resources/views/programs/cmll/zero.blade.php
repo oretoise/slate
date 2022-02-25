@@ -11,7 +11,7 @@
 <p>Overall, the program is designed to allow students the flexibility to earn a Master's degree that will best position them for their future, with faculty that are fully invested in the success of the department's graduates.</p>
 <p>After successful completion of the entire two year program, students will earn an MA in Foreign Languages.  The MAFL degree can be earned by completing 30 - 36 credit hours of online graduate level courses. For a list of available online courses, access the <a href="https://online.msstate.edu/cmll/program-structure/">Program Structure</a>.</p>
 
-<p>Are you <a href="https://online.msstate.edu/cmll/admissions-requirements/">ready to apply</a>?</p>
+<p>Are you <a href="https://online.msstate.edu/cmll#admissions-process">ready to apply</a>?</p>
 <p>I hope you will find that the MAFL program meets your needs and you start the online application for admission.  The admission deadline for the fall is 1 August.  If you have any questions or concerns, please contact me at <a href="mailto:joy.bailey@msstate.edu">joy.bailey@msstate.edu</a>, and I will be glad to assist you!</p>
 
 <p>Sincerely,</p>

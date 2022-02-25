@@ -19,7 +19,7 @@
 
 <p>To see the types of courses that are affiliated with the program, check out the <a href="https://online.msstate.edu/caba/program-structure/">Program Structure</a> on the <a href="https://online.msstate.edu/caba/">website</a>.</p>
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) and the Association to Advance Collegiate Schools of Business, your classes will meet the same standards as those on campus.  Also, your online degree will not be differentiated from an on-campus degree.</p>
-<p>Ready to <a href="https://online.msstate.edu/caba/admissions-process/">apply</a>? I'll be happy to assist you or answer any questions.</p>
+<p>Ready to <a href="https://online.msstate.edu/caba#admissions-process"apply</a>? I'll be happy to assist you or answer any questions.</p>
 <p>Hail State!</p>
 @endsection
 
