@@ -39,7 +39,7 @@
     </li>
 </ol>
 
-<p>Ready to <a href="https://online.msstate.edu/msit#admissions-process"apply</a>? I'll be happy to assist you or answer any questions.</p>
+<p>Ready to <a href="https://online.msstate.edu/msit#admissions-process">apply</a>? I'll be happy to assist you or answer any questions.</p>
 <p>Sincerely,</p>
 @endsection
 

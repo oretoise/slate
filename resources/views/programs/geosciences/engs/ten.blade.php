@@ -7,7 +7,7 @@
 
 <p>
 	<a href="https://youtu.be/-gzq528lad0"><img class="img-right" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/grad_admissions_video.png"/></a>
-	Start your <a href="https://online.msstate.edu/geosciences/engs#admissions-process"application for admission</a> today!
+	Start your <a href="https://online.msstate.edu/geosciences/engs#admissions-process">application for admission</a> today!
 </p>
 
 <p>Remember, the earlier you submit your application, the better chance you have of getting into the classes you need.</p>

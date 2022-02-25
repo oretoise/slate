@@ -9,7 +9,7 @@
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/bsindt/bsindt_3.png" />
 
-<p>Are you ready to <a href="https://online.msstate.edu/bsindt#admissions-process"apply</a> today?</p>
+<p>Are you ready to <a href="https://online.msstate.edu/bsindt#admissions-process">apply</a> today?</p>
 <p>I look forward to hearing from you soon!</p>
 <p>Thanks,</p>
 @endsection

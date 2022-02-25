@@ -8,7 +8,7 @@
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/ensc/ensc_2.png" />
 
-<p>You may start the Environment and Sustainability Certificate program at the beginning of the fall, spring or summer semester.  The sooner you complete your <a href="https://online.msstate.edu/ensc#admissions-process"application</a>, the closer you are to reaching your educational goal!</p>
+<p>You may start the Environment and Sustainability Certificate program at the beginning of the fall, spring or summer semester.  The sooner you complete your <a href="https://online.msstate.edu/ensc#admissions-process">application</a>, the closer you are to reaching your educational goal!</p>
 <p>All the best,</p>
 @endsection
 
