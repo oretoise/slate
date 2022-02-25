@@ -30,7 +30,7 @@
 
 <p>Check out how you can get started by:</p>
 <ul>
-    <li>Reviewing our <a href="https://online.msstate.edu/bas/program-structure/">program curriculum information</a></li>
+    <li>Reviewing our <a href="https://online.msstate.edu/bas#program-structure">program curriculum information</a></li>
     <li>Requesting a free transcript evaluation</li>
 </ul>
 

@@ -21,7 +21,7 @@
     </li>
 </ol>
 
-<p>For more frequently asked questions about the program, admissions, or student services, visit the <a href="https://online.msstate.edu/msgb/faq/">General Biology FAQ</a>.</p>
+<p>For more frequently asked questions about the program, admissions, or student services, visit the <a href="https://online.msstate.edu/faq/">General Biology FAQ</a>.</p>
 <p>Let me know if you have any questions. I'm happy to help!</p>
 <p>Sincerely,</p>
 @endsection

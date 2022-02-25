@@ -13,7 +13,7 @@
 <p>
     See how you can get started by
     <ul>
-        <li>Reviewing our <a href="https://online.msstate.edu/bba/program-structure/">program curriculum information</a></li>
+        <li>Reviewing our <a href="https://online.msstate.edu/bba#program-structure">program curriculum information</a></li>
         <li>Requesting a free transcript evaluation</li>
     </ul>
 </p>

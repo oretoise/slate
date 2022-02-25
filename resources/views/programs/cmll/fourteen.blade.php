@@ -21,7 +21,7 @@
 	</li>
 </ul>
 
-<p>For more frequently asked questions, check out our <a href="http://online.msstate.edu/cmll/faq">FAQ Page</a>.</p>
+<p>For more frequently asked questions, check out our <a href="https://online.msstate.edu/faq">FAQ Page</a>.</p>
 <p>If you have other questions or if we can assist you in any way, please contact us.  We are ready to help.</p>
 <p>All the best,</p>
 @endsection

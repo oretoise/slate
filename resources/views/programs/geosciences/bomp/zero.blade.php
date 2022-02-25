@@ -19,7 +19,7 @@
 	<li>Individuals who need coursework to be eligible to work for National Weather Service or to receive professional certification.</li>
 </ul>
 
-<p>The course schedule for the program can be accessed on our <a href="https://online.msstate.edu/geosciences/bomp/program-structure/">website</a>.</p>
+<p>The course schedule for the program can be accessed on our <a href="https://online.msstate.edu/geosciences/bomp#program-structure">website</a>.</p>
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) and the Association to Advance Collegiate Schools of Business, your courses will meet the same standards as on-campus courses.  Also, your online degree will not be differentiated from an on-campus degree.</p>
 
 <p>The deadline for fall admission is 1 August.  If you have any questions, contact me any time.  I am ready to help!</p>

@@ -14,7 +14,7 @@
 	<li>You can transfer up to 62 hours from accredited community colleges or an accredited 4-year institution. When you apply, the Registrar's Office will review your transcript(s) to confirm which classes will transfer.</li>
 </ul>
 
-<p>To see the types of courses that are affiliated with the program, please visit our <a href="https://online.msstate.edu/epy/program-structure/">website</a>.</p>
+<p>To see the types of courses that are affiliated with the program, please visit our <a href="https://online.msstate.edu/epy#program-structure">website</a>.</p>
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) and the Association to Advance Collegiate Schools of Business, your classes will meet the same standards as those on campus.  Also, your online degree will not be differentiated from an on-campus degree.</p>
 <p>Ready to apply? I'll be happy to assist you or answer any questions.</p>
 @endsection

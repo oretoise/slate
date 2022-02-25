@@ -28,7 +28,7 @@
     </li><br/>
     <li>
         <b>What courses are required for this program?</b><br/>
-        Please see our list of the <a href="https://online.msstate.edu/forestry/program-structure/">program structure</a> and <a href="https://online.msstate.edu/forestry/course-descriptions/">course descriptions</a>.
+        Please see our list of the <a href="https://online.msstate.edu/forestry#program-structure">program structure</a> and <a href="https://online.msstate.edu/forestry/course-descriptions/">course descriptions</a>.
     </li>
 </ul>
 

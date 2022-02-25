@@ -20,7 +20,7 @@
 	<li>You can transfer up to 61 hours from accredited community colleges or an accredited 4-year institution. When you apply, the Registrar's Office will review your transcript(s) to confirm which classes will transfer.</li>
 </ul>
 
-<p>Check out the courses in the program on <a href="https://online.msstate.edu/elem/program-structure">our website</a>.</p>
+<p>Check out the courses in the program on <a href="https://online.msstate.edu/elem#program-structure">our website</a>.</p>
 
 <p>
 	If you would like your transcripts evaluated before applying, please send an unofficial transcript of all your college course work to <a href="mailto:elemonline@colled.msstate.edu">elemonline@colled.msstate.edu</a>.

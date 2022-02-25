@@ -20,7 +20,7 @@
 	</ul>
 </p>
 
-<p>Access the <a href="https://online.msstate.edu/biology/program-structure/">program structure</a> on the website to see the types of courses that are available through the General Biology Certificate program.</p>
+<p>Access the <a href="https://online.msstate.edu/biology#program-structure">program structure</a> on the website to see the types of courses that are available through the General Biology Certificate program.</p>
 <p>Please let me know if I can answer any questions you may have. I'm happy to help!</p>
 @endsection
 

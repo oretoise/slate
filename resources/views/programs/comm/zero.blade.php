@@ -23,7 +23,7 @@ A BA in Communication with a concentration in Public Relations online opens door
 
 <p>Check out how you can get started by:</p>
 <ul>
-	<li>Reviewing our <a href="https://online.msstate.edu/comm/program-structure/">program curriculum</a> information</li>
+	<li>Reviewing our <a href="https://online.msstate.edu/comm#program-structure">program curriculum</a> information</li>
 	<li>Requesting a free transcript evaluation</li>
 </ul>
 

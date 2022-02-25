@@ -9,7 +9,7 @@
 <ul>
 	<li>
 		<span style="color: #800000;"><b>Is this program offered completed online?</b></span><br/>
-		No, this program is not completely online.  Some courses require students to participate in on-campus workshops, which will be held on our Starkville, MS, campus during four Saturdays in the semester.  Courses with an on-campus workshop are denoted with an asterisk (*) in the <a href="https://online.msstate.edu/bsindt/program-structure/">Program Structure</a>.<br/><br/>
+		No, this program is not completely online.  Some courses require students to participate in on-campus workshops, which will be held on our Starkville, MS, campus during four Saturdays in the semester.  Courses with an on-campus workshop are denoted with an asterisk (*) in the <a href="https://online.msstate.edu/bsindt#program-structure">Program Structure</a>.<br/><br/>
 	</li>
 	<li>
 		<span style="color: #800000;"><b>Do you accept transfer credit?</b></span><br/>
