@@ -8,7 +8,7 @@
 <p>Dear @@{{First}},</p>
 
 <p>Start your application for the online Doctor of Philosophy in Engineering with a concentration in Aerospace Engineering program.  Here is a short video to help you navigate the application process.</p>
-<p>Remember to choose <span style="color: #5D1725;"><b>Doctor of Philosophy in Engineering</b></span> and <span style="color: #5D1725;"><b>Aerospace Engineering</b></span> as your Major and <span style="color: #5D1725;"><b>Online Education</b></span> as your campus when applying for <a href="https://online.msstate.edu/phase#admissions-process/">admission or readmission</a>.</p>
+<p>Remember to choose <span style="color: #5D1725;"><b>Doctor of Philosophy in Engineering</b></span> and <span style="color: #5D1725;"><b>Aerospace Engineering</b></span> as your Major and <span style="color: #5D1725;"><b>Online Education</b></span> as your campus when applying for <a href="https://online.msstate.edu/phase#admissions-process">admission or readmission</a>.</p>
 
 <p>If you have any questions, just ask. We are happy to help.</p>
 <p>Thank you for considering Mississippi State for your online degree.</p>
