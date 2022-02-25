@@ -33,7 +33,7 @@
     </tbody>
 </table>
 
-<p>We'd love to hear from you.  Contact us with any question you may have about the program. We look forward to working with you!</p>
+<p>We'd love to hear from you.  Contact us with any questions you may have about the program. We look forward to working with you!</p>
 <p>Thank you,</p>
 @endsection
 

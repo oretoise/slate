@@ -14,7 +14,7 @@
     </li><br/>
     <li>
         <b>Is the GMAT or GRE required?  Can it be waived?</b><br/>
-        The academic department requires that you take the GRE.  This requirement cannot be waived.
+        Yes, it is currently being waived.
     </li><br/>
     <li>
         <b>Are there any prerequisites?  Do I have to have the prerequisites completed prior to admission?</b><br/>

@@ -17,9 +17,7 @@
     </li>
     <li>
         <b>What are the application deadlines?</b><br/>
-        <ul>
-            <li>Summer only:   March 1</li>
-        </ul>
+        Applications are accepted for any semester; however, summer applications are preferred.
     </li>
 </ol>
 

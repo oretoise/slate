@@ -19,6 +19,7 @@
 			<li>Human Factors & Ergonomics</li>
 			<li>Industrial Systems</li>
 			<li>Management Systems Engineering</li>
+			<li>Manufacturing Systems</li>
 			<li>Operations Research</li>
 		</ul><br/>
 	</li>

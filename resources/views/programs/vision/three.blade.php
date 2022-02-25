@@ -9,7 +9,7 @@
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/vision/vision_1.png" />
 <ol>
-    <li>Current employment as a vocational rehabilitation counselor or therapist in an agency serving persons who are blind or visually impaired, OR current enrollment in a master's rehabilitation counseling degree program.</li>
+    <li>Current employment as a vocational rehabilitation counselor or therapist in an agency serving persons who are blind or visually impaired OR current enrollment in a master's rehabilitation counseling degree program.</li>
     <li>Willingness to sign an agreement to be employed in a public rehabilitation agency for the required time period.</li>
     <li>Completion of an introductory course in Vocational Rehabilitation Counseling OR at least one year of experience in vocational rehabilitation counseling.</li>
     <li>Ability to complete all four courses during one continuous time period.</li>

@@ -6,7 +6,7 @@
 
 <p>As your PHCL online coordinator, I am here to help answer any questions you have about the program.</p>
 
-<p>You may start the online PHCL program at the start of fall, spring, or summer semesters.  The sooner you get your application completed, the closer you will be to reaching your educational goals.</p>
+<p>You may start the online PHCL program at any semester; however, summer applications are preferred.  The sooner you get your application completed, the closer you will be to reaching your educational goals.</p>
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/phcl/phcl_banner.png" />
 

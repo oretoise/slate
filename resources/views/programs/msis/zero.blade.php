@@ -13,7 +13,7 @@
 <p>The program's innovative combination of coursework, practical exercises and projects, and interactive learning approaches has distinguished it as a leader in the education of tomorrow's IT professionals.</p>
 <p>Program Highlights:</p>
 <ul>
-    <li>Nationally Ranked by <i>U.S. News & World Report</i><li>
+    <li>Nationally Ranked by <i>U.S. News & World Report</i></li>
     <li>All students pay in-state tuition</li>
     <li>30-credit hours to complete</li>
     <li>100% online courses</li>

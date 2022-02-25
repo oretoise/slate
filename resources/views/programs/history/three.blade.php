@@ -7,7 +7,7 @@
 
 <p>Dear @@{{First}},</p>
 
-<p>According to a market research brief compiled by the Education Advisory Board, the following information was discovered:</p>
+<p>According to market research compiled by the Education Advisory Board, the following information was discovered:</p>
 
 <ul>
     <li>The Bureau of Labor Statistics (BLS) projects occupations that require a bachelor's degree will grow 12 percent from 2012 to 2022.</li>

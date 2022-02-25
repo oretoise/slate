@@ -9,7 +9,7 @@
 <p><b>Online PHCL program highlights:</b></p>
 <ul>
     <li>61 hours are required to complete the program.</li>
-    <li>Students can start taking courses in the spring, summer, or fall semesters.</li>
+    <li>Applications for any semester are accepted; however, summer applications are preferred.</li>
     <li>All distance students pay <b>in-state tuition</b>.</li>
 </ul>
 

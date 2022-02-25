@@ -7,7 +7,7 @@
 
 <img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/msei/msei_2.png" />
 
-<p>The earlier you submit your application, the better chance, you have of getting into the classes you need.</p>
+<p>The earlier you submit your application, the better chance you have of getting into the classes you need.</p>
 
 <p>Your application must be submitted by the semester deadline in which you plan to enroll:</p>
 

@@ -10,7 +10,7 @@
 <ul>
     <li>
         <b><span style="color: #5D1725;">Is the GMAT or GRE required?  Can it be waived?</span></b><br/>
-        The academic department requires that you take either the GMAT or the GRE.  This requirement cannot be waived.  There is no preference for which test you take, so choose the one you feel most suits your abilities.
+        Yes, it is currently being waived.
     </li><br/>
     <li>
         <b><span style="color: #5D1725;">Are there additional fees outside of the graduate tuition rate?</span></b><br/>

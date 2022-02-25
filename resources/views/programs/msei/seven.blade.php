@@ -18,7 +18,7 @@
 
         <ul>
             <li>Complete the only Early Intervention program in the state that is fully online with a focus on children birth to 5 with disabilities and at-risk conditions.</li><br/>
-            <li>Build practical skills. Combined with an evidence-based curriculum, you'll practice applied techniques that get proven results. You'll acquire new skills for helping these children, to reach their maximum potential.</li><br/>
+            <li>Build practical skills. Combined with an evidence-based curriculum, you'll practice applied techniques that get proven results. You'll acquire new skills for helping these children to reach their maximum potential.</li><br/>
             <li>Work closely with industry professionals and faculty. This program was designed by our faculty and industry leaders who understand the need for well-trained professionals. The classes are taught by Mississippi State faculty and highly credentialed professionals who are practicing within early intervention programs. Receive the best of both worlds with cutting-edge research and recommended practices as pillars of the curriculum.</li><br/>
             <li>Work and take classes. Designed for the working professional, our classes are fully online with synchronous lectures and real-time class meetings to provide an authentic collaborative experience.</li>
         </ul>

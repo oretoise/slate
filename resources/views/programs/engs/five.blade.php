@@ -5,7 +5,7 @@
 
 <p>Dear @@{{First}},</p>
 
-<p>Wondering is the time to start is now?  Here are some answers to frequently asked question to help you confidently take the next step.</p>
+<p>Wondering if the time to start is now?  Here are some answers to frequently asked questions to help you confidently take the next step.</p>
 
 <ol>
     <li>
