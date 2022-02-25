@@ -12,7 +12,7 @@
 	<li>Bulletin boards</li>
 </ul>
 
-<p>Want to see the courses you would be taking? Check out the <a href="https://online.msstate.edu/cmll/course-descriptions/">Course Descriptions</a>. Ready to take those courses? Apply today by visiting <a href="https://apply.msstate.edu">apply.msstate.edu</a>!
+<p>Want to see the courses you would be taking? Check out the <a href="https://online.msstate.edu/cmll/#courses">Course Descriptions</a>. Ready to take those courses? Apply today by visiting <a href="https://apply.msstate.edu">apply.msstate.edu</a>!
 <p>Please let me know if I can answer any questions you may have. I'm happy to help!</p>
 @endsection
 

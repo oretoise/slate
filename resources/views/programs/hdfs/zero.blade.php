@@ -23,7 +23,7 @@
 
 <p>Check out how you can get started by:
 <ul>
-	<li>Reviewing our <a href="https://online.msstate.edu/hdfs">program curriculum</a> information</li>
+	<li>Reviewing our <a href="https://online.msstate.edu/hdfs#program-structure">program curriculum</a> information</li>
 	<li>Requesting more information</li>
 </ul></p>
 

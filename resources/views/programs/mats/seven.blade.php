@@ -6,7 +6,7 @@
 
 <a href="https://youtu.be/-gzq528lad0"><img class="img-right" src="https://goto.msstate.edu/www/images/Distance/Email%20Template/grad_admissions_video.png" /></a>
 
-<p>Start your application for the online Master of Arts in Teaching – Secondary Teacher Alternative Route (MATS) today!</p>
+<p>Start your application for the online Master of Arts in Teaching - Secondary Teacher Alternative Route (MATS) today!</p>
 
 <p>Remember, the earlier you submit your application, the better chance you have of getting into the classes you need.   We've provided a short video to help you navigate the application process.</p>
 

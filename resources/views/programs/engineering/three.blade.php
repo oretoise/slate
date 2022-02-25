@@ -23,10 +23,10 @@
         <span style="color: #5D1725;"><b>Are there additional admission requirements to the online MENG program?</b></span><br/>
         Yes, in addition to university requirements, all students must have completed the following standard engineering undergraduate courses:
         <ul>
-            <li>Calculus I – IV and Differential Equations</li>
+            <li>Calculus I - IV and Differential Equations</li>
             <li>One year of calculus-based physics</li>
             <li>One semester of a general chemistry class</li>
-            <li>Two – three engineering science courses (e.g., electronic circuits, engineering mechanics, thermodynamics, production control systems)</li>
+            <li>Two - three engineering science courses (e.g., electronic circuits, engineering mechanics, thermodynamics, production control systems)</li>
         </ul>
         More details about the program requirements can be found in our <a href="https://www.bagley.msstate.edu/wp-content/uploads/MENG-Program-Guide-June-2019.pdf">Program Guide</a>.<br/><br/>
     </li>

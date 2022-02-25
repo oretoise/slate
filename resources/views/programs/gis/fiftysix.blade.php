@@ -6,7 +6,7 @@
 
 <p>Dear @@{{First}},</p>
 <p>If you haven't applied, the sooner you get your application completed, the closer you are to reaching your educational goals. As the online Geospatial and Remote Sensing Technologies certificate program coordinator, I am here to help you with any questions you have about the program.</p>
-<p>Are you <a href="https://online.msstate.edu/gis/admissions-process">ready to apply</a> today?  Let me know what I can do to assist you.</p>
+<p>Are you <a href="https://online.msstate.edu/gis#admissions-process">ready to apply</a> today?  Let me know what I can do to assist you.</p>
 <p>Sincerely,</p>
 @endsection
 

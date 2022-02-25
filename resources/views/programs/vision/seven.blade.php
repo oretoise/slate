@@ -17,7 +17,7 @@
     </li>
     <li>
         <b>Are there stipends available?</b><br/>
-        Yes, there are limited federal stipends available.  Check out the <a href="https://online.msstate.edu/vision/stipends/">Finances for Stipends</a>.
+        Yes, there are limited federal stipends available.  Check out the <a href="https://online.msstate.edu/vision#admissions-process/">Finances for Stipends</a>.
     </li>
 </ol>
 

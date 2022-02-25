@@ -8,7 +8,7 @@
 <p>Dear @@{{First}},</p>
 <p>Thank you for checking out MSU's online Master of Engineering (MENG) degree.</p>
 <p>Flexibility and individuality are the highlights of this 30-credit hour degree which has both thesis and non-thesis options.  Students choose courses based on their educational and professional goals.  While there are two required courses (Engineering Stats and Project Management), students who completed equivalent courses during their undergraduate studies may substitute other options.</p>
-<p>Students also choose between two different concentrations – General Engineering and Military Engineering.</p>
+<p>Students also choose between two different concentrations - General Engineering and Military Engineering.</p>
 
 <p>See how you can get started by:</p>
 <ul>

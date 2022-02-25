@@ -8,7 +8,7 @@
 
 <p>The SEED program is designed to provide new and veteran classroom teachers with the opportunity to expand their knowledge and vision of education in terms of theory, research, and practice.</p>
 
-<p>The 33-hour degree can be completed almost entirely online. Visit our website to see the types of <a href="https://online.msstate.edu/seed/overview">courses</a> that are affiliated with the online program.</p>
+<p>The 33-hour degree can be completed almost entirely online. Visit our website to see the types of <a href="https://online.msstate.edu/seed#courses">courses</a> that are affiliated with the online program.</p>
 
 <p>You may also review the <a href="https://online.msstate.edu/seed#admissions-process">admissions</a> process to determine what materials you need to apply for the SEED program.</p>
 

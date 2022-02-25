@@ -22,7 +22,7 @@
 			</td>
             <td class="divider" style="text-align: center; width: 50%;">
 				<b>Dr. James Adams</b><br/>
-				ISWD – Professor<br/>
+				ISWD - Professor<br/>
 				662.325.7563
 			</td>
 		</tr>
@@ -32,7 +32,7 @@
 			</td>
             <td class="divider" style="text-align: center; width: 50%;">
 				<b>Dr. John Wyatt</b><br/>
-				ISWD – Associate Professor/Advisor<br/>
+				ISWD - Associate Professor/Advisor<br/>
 				662.325.7257
 			</td>
 		</tr>
@@ -42,7 +42,7 @@
 			</td>
             <td class="divider" style="text-align: center; width: 50%;">
 				<b>Jonathon Dale</b><br/>
-				ISWD – Instructor/Advisor<br/>
+				ISWD - Instructor/Advisor<br/>
 				662.809.0230
 			</td>
 		</tr>
@@ -52,7 +52,7 @@
 			</td>
             <td class="divider" style="text-align: center; width: 50%;">
 				<b>Mickey Giordano</b><br/>
-				ISWD – Instructor/Advisor<br/>
+				ISWD - Instructor/Advisor<br/>
 				662.325.7563
 			</td>
 		</tr>

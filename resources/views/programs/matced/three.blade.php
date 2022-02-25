@@ -4,7 +4,7 @@
 <h3>Day 3 - Subject: Check out the MATCED courses!</h3>
 <p>Dear @@{{First}},</p>
 
-<p>The MATCED is a 30 credit-hour degree program.  You can visit the <a href="https://online.msstate.edu/matced/course-descriptions">Course Descriptions</a> for an overview of these hours.</p>
+<p>The MATCED is a 30 credit-hour degree program.  You can visit the <a href="https://online.msstate.edu/matced#courses">Course Descriptions</a> for an overview of these hours.</p>
 
 <p>The degree prepares you to teach in a community college and requires a minimum of 18 hours in your teaching field of interest (e.g. history, math, biology).  Please note that your interest area may not be available online and may only be offered on campus (Starkville or Meridian).</p>
 

@@ -12,7 +12,7 @@
 
 <ol>
     <li>
-        <p><b>Instructional Design</b>–Emphasizes the design, delivery, management, and evaluation of learner-centered instructional solutions in a variety of settings.</p>
+        <p><b>Instructional Design</b>-Emphasizes the design, delivery, management, and evaluation of learner-centered instructional solutions in a variety of settings.</p>
         <p>Potential careers include:</p>
 
         <ul>
@@ -22,7 +22,7 @@
         </ul>
     </li>
     <li>
-        <p><b>Distance Education</b>–Emphasizes the application of online learning theories and technologies to design, delivery, and management of online education.</p>
+        <p><b>Distance Education</b>-Emphasizes the application of online learning theories and technologies to design, delivery, and management of online education.</p>
         <p>Potential careers include:</p>
         <ul>
             <li>E-Learning Specialist</li>

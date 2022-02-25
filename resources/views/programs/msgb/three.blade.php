@@ -23,7 +23,7 @@
 
 <p>Students must also attend the final 10-day capstone course, which is held on the MSU campus in Starkville, MS. During the capstone course, all students will take a proctored, written, comprehensive exam.</p>
 
-<p>Visit our <a href="https://online.msstate.edu/msgb/course-descriptions/">website</a> to see the types of courses that are available through the MSGB program.</p>
+<p>Visit our <a href="https://online.msstate.edu/msgb/#courses">website</a> to see the types of courses that are available through the MSGB program.</p>
 
 <p>Please let me know if I can answer any questions you may have. I'm happy to help!</p>
 

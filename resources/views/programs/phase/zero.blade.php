@@ -11,7 +11,7 @@
 <p>This degree prepares students to enter academia as a faculty member or for a rewarding career as a researcher in industry or government. The degree structure is comprised of a minimum of 50 hours of course work beyond the master's degree, of which 20 hours is devoted toward dissertation research.</p>
 <p>See how you can get started by:</p>
 <ul>
-	<li>Reviewing the <a href="https://online.msstate.edu/phase/#program-structure">program structure</a>.</li>
+	<li>Reviewing the <a href="https://online.msstate.edu/phase#program-structure">program structure</a>.</li>
 	<li>Requesting information about your desired area of study.</li>
 </ul>
 

@@ -12,9 +12,9 @@
 <p><b>How does the online VSP work?</b></p>
 <ul>
     <li>All online students pay in-state tuition.</li>
-    <li>Certificate Program includes four online education <a href="https://online.msstate.edu/vision/course-descriptions/">graduate courses</a>, including a 100 hour practicum.</li>
+    <li>Certificate Program includes four online education <a href="https://online.msstate.edu/vision#courses">graduate courses</a>, including a 100 hour practicum.</li>
     <li><b>Great news:</b>  Starting with the class of 2020, the three-week residency component is <b>no longer required!</b>  All coursework will be online with some activities conducted in agencies that are serving individuals who are blind or visually impaired.</li>
-    <li>Students begin online coursework in the spring and continue through the summer and fall semesters (January – December).</li>
+    <li>Students begin online coursework in the spring and continue through the summer and fall semesters (January - December).</li>
     <li>Application Deadline for spring semester only: <b>October 1st.</b></li>
 </ul>
 

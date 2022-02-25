@@ -18,9 +18,9 @@
 
         <br/><br/>
         <ul>
-            <li>Freshmen – 2.0</li>
-            <li>Sophomores – 2.25</li>
-            <li>Juniors and Seniors – 2.5</li>
+            <li>Freshmen - 2.0</li>
+            <li>Sophomores - 2.25</li>
+            <li>Juniors and Seniors - 2.5</li>
         </ul>
         <br/><br/>
 

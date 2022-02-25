@@ -4,7 +4,7 @@
 <h3>Day 55 - Subject: The Bulldog family wants you!</h3>
 <p>Dear @@{{First}},</p>
 
-<p>Thank you again for your interest in the Master of Engineering – with a concentration in General or Military Engineering at Mississippi State Online. We just wanted to touch base with you again to see if you had any follow up questions.</p>
+<p>Thank you again for your interest in the Master of Engineering - with a concentration in General or Military Engineering at Mississippi State Online. We just wanted to touch base with you again to see if you had any follow up questions.</p>
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/meng/meng_2.png" />
 
