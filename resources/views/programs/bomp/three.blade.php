@@ -14,7 +14,7 @@
 </p>
 
 <p>
-	The <a href="https://online.msstate.edu/bomp/degree-requirements/">BS degree</a> can be earned by completing all 17 BOMP courses and by satisfying all general education requirements (approximately 72 credit hours) to reach the 124 total credit hours you need.
+	The <a href="https://online.msstate.edu/bomp#program-structure">BS degree</a> can be earned by completing all 17 BOMP courses and by satisfying all general education requirements (approximately 72 credit hours) to reach the 124 total credit hours you need.
 </p>
 
 <p>
