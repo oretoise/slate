@@ -5,7 +5,7 @@
 
 <p>Dear @@{{First}},</p>
 
-<p>Start your <a href="https://online.msstate.edu/geosciences/amf#admissions-process">application</a> for the online Aeronautical Meteorology Forecaster certificate program.</p>
+<p>Start your <a href="https://online.msstate.edu/amf#admissions-process">application</a> for the online Aeronautical Meteorology Forecaster certificate program.</p>
 
 <p>The earlier you submit your application, the better chance you have of getting into the classes you need.</p>
 <p>Your application must be submitted by <b>August 1st</b> to be considered for fall admission.</p>

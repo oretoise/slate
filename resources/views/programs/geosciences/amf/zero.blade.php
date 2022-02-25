@@ -16,7 +16,7 @@
 	<li>World Meteorological Organization</li>
 </ul>
 
-<p>The course schedule for the AMF program can be accessed <a href="https://online.msstate.edu/geosciences/amf#program-structure" alt="Program Structure">here</a>.  Please note that these organizations will require math and science courses in addition to the AMF coursework.</p>
+<p>The course schedule for the AMF program can be accessed <a href="https://online.msstate.edu/amf#program-structure" alt="Program Structure">here</a>.  Please note that these organizations will require math and science courses in addition to the AMF coursework.</p>
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), your courses will meet the same standards as on-campus courses.  Also, your online degree will not be differentiated from an on-campus degree.</p>
 
 <p>If you have any questions or concerns, please contact me. I will be glad to assist you!</p>

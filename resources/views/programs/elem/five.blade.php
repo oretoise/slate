@@ -17,8 +17,7 @@
 
 <p>
 	Be sure to review the following admission requirements before applying:<br/>
-	<a href="http://www.admissions.msstate.edu/freshmen/apply/#admission-requirements">MSU Freshman Admission Requirements</a><br/>
-	<a href="http://www.admissions.msstate.edu/transfer/apply/#admission-requirements">MSU Transfer Admission Requirements</a><br/>
+	<a href="https://www.admissions.msstate.edu/prospective-students/steps-to-enrollment">MSU Admission Requirements</a>
 </p>
 
 <p>

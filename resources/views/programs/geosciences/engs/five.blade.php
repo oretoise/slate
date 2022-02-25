@@ -27,7 +27,7 @@
     </li>
 </ol>
 
-<p>For more frequently asked questions about the program, admissions, or student services, visit the <a href="https://online.msstate.edu/geosciences/engs/">Environmental Geosciences website</a>.</p>
+<p>For more frequently asked questions about the program, admissions, or student services, visit the <a href="https://online.msstate.edu/engs/">Environmental Geosciences website</a>.</p>
 
 <p>Also, you can contact me if you have any questions. I'm happy to help!</p>
 <p>Sincerely,</p>

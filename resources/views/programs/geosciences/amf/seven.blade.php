@@ -24,7 +24,7 @@
 	</li>
 </ul>
 
-<p>For more frequently asked questions, visit our <a href="https://online.msstate.edu/geosciences/amf/">website</a>, or ask me directly. I'm happy to help!</p>
+<p>For more frequently asked questions, visit our <a href="https://online.msstate.edu/amf/">website</a>, or ask me directly. I'm happy to help!</p>
 <p>Sincerely,</p>
 @endsection
 

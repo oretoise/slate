@@ -16,7 +16,7 @@
     <li>Taught online by faculty and staff from the Department of Geosciences at MSU, which is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC)</li>
 </ul>
 
-<p>The course schedule for the TIG program can be accessed <a href="https://online.msstate.edu/geosciences/tig#program-structure">here</a>.</p>
+<p>The course schedule for the TIG program can be accessed <a href="https://online.msstate.edu/tig#program-structure">here</a>.</p>
 
 <p>Interested in enrolling? Fall admission is preferred, but spring and summer applicants will be considered.  The fall admission deadline is <b><span style="color: #5D1725;">August 1</span></b>.  Students who wish to apply should meet the following requirements:</p>
 
@@ -27,7 +27,7 @@
     <li>The GRE is <b>not</b> required for admission into this program</li>
 </ul>
 
-<p>If you are interested in enrolling or would like more information, check out the <a href="https://online.msstate.edu/geosciences/tig#admissions-process">admissions requirements</a>.</p>
+<p>If you are interested in enrolling or would like more information, check out the <a href="https://online.msstate.edu/tig#admissions-process">admissions requirements</a>.</p>
 <p>If you have any questions or concerns, contact me, and I will be glad to assist you!</p>
 @endsection
 
