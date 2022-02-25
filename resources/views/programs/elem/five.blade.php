@@ -22,7 +22,7 @@
 </p>
 
 <p>
-	Have you attended MSU before but never completed your degree? Students can apply for readmission and have the application fee waived.  Review the <a href="https://online.msstate.edu/elem/admissions-process">Admission/Readmission Process</a> before applying to the program.
+	Have you attended MSU before but never completed your degree? Students can apply for readmission and have the application fee waived.  Review the <a href="https://online.msstate.edu/elem#admissions-process"Admission/Readmission Process</a> before applying to the program.
 </p>
 
 <p>Thank you for considering Mississippi State for your online degree.</p>

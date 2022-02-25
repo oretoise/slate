@@ -10,7 +10,7 @@
 </p>
 
 <p>
-	Remember to choose <b><span style="color: #800000;">Pre-Interdisciplinary Studies (BS)</span></b> as your major and <b><span style="color: #800000;">Online Education</span></b> as your campus when applying for <a href="https://online.msstate.edu/bsis/admissions-process">admission or readmission</a>.
+	Remember to choose <b><span style="color: #800000;">Pre-Interdisciplinary Studies (BS)</span></b> as your major and <b><span style="color: #800000;">Online Education</span></b> as your campus when applying for <a href="https://online.msstate.edu/bsis#admissions-process"admission or readmission</a>.
 </p>
 
 <p>If you have any questions, ask. We are happy to help.</p>

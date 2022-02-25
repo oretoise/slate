@@ -10,7 +10,7 @@
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/msei/msei_banner.png" />
 
-<p>It is not too late to <a href="https://online.msstate.edu/msei/admissions-process">apply</a> for admission. I look forward to working with you!</p>
+<p>It is not too late to <a href="https://online.msstate.edu/msei#admissions-process"apply</a> for admission. I look forward to working with you!</p>
 
 <p>Thank you,</p>
 @endsection

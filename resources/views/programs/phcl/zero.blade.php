@@ -17,7 +17,7 @@
 
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), your courses will meet the same standards as on-campus courses, and your degree will not differentiate between online or on-campus.</p>
 
-<p>Are you ready to <a href="https://online.msstate.edu/phcl/admissions-process">apply</a>?  Do you have any questions? I will be glad to assist you.</p>
+<p>Are you ready to <a href="https://online.msstate.edu/phcl#admissions-process"apply</a>?  Do you have any questions? I will be glad to assist you.</p>
 
 <p>Thank you,</p>
 @endsection

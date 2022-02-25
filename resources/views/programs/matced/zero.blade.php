@@ -10,7 +10,7 @@
 
 <p>
     <b>Requirements</b><br/>
-    It is important to know that the <b>GRE is not required</b> for the MATCED program.  View the <a href="https://online.msstate.edu/matced/admissions-process">Admission Requirements</a> for a complete overview of what you need to apply to the MATCED.
+    It is important to know that the <b>GRE is not required</b> for the MATCED program.  View the <a href="https://online.msstate.edu/matced#admissions-process"Admission Requirements</a> for a complete overview of what you need to apply to the MATCED.
 </p>
 
 <p>If you have any questions just ask. I'm happy to help!</p>

@@ -16,7 +16,7 @@
 
 <p>To see the types of courses that are affiliated with the program, please check out the <a href="https://www.educationalleadership.msstate.edu/academic-programs/school-administration/master-science-educational-leadership-school-administration/">Program Structure</a>.</p>
 
-<p>Are you <a href="https://online.msstate.edu/edld/admissions-process">ready to apply</a>?  If you have any questions or concerns, please contact me, and I will be glad to assist you.</p>
+<p>Are you <a href="https://online.msstate.edu/edld#admissions-process"ready to apply</a>?  If you have any questions or concerns, please contact me, and I will be glad to assist you.</p>
 <p>Thanks,</p>
 @endsection
 

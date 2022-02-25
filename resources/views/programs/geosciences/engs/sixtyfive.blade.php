@@ -10,7 +10,7 @@
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/geosciences/engs/engs_banner.png" />
 
-<p>Are you ready to <a href="https://online.msstate.edu/geosciences/engs/admissions-process">apply</a> today?  If so, I'm here to help you!</p>
+<p>Are you ready to <a href="https://online.msstate.edu/geosciences/engs#admissions-process"apply</a> today?  If so, I'm here to help you!</p>
 <p>Sincerely,</p>
 @endsection
 

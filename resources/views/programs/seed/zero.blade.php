@@ -10,7 +10,7 @@
 
 <p>The 33-hour degree can be completed almost entirely online. Visit our website to see the types of <a href="https://online.msstate.edu/seed/overview">courses</a> that are affiliated with the online program.</p>
 
-<p>You may also review the <a href="https://online.msstate.edu/seed/admissions-process">admissions</a> process to determine what materials you need to apply for the SEED program.</p>
+<p>You may also review the <a href="https://online.msstate.edu/seed#admissions-process"admissions</a> process to determine what materials you need to apply for the SEED program.</p>
 
 <p>Are you ready to apply? I'll be happy to assist you or answer any questions.</p>
 <p>Thank you,</p>

@@ -10,7 +10,7 @@
 
 <p>It is important to know that all courses are taught online by faculty and staff from Mississippi State University.  Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), your online classes will meet the same standards as those on-campus, and your degree will not be differentiated from an on-campus degree.</p>
 
-<p>Ready to <a href="https://online.msstate.edu/matced/admissions-process">apply</a>? I'll be happy to assist you!</p>
+<p>Ready to <a href="https://online.msstate.edu/matced#admissions-process"apply</a>? I'll be happy to assist you!</p>
 <p>Thank you,</p>
 @endsection
 
