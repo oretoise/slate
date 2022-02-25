@@ -83,5 +83,7 @@
 	<li><a href=" {{ url('phece') }}">PhD Electrical & Computer Engineering</a></li>
 	<li><a href=" {{ url('phchemeng') }}">PhD Chemical Engineering</a></li>
 	<li><a href=" {{ url('mschemeng') }}">MS Chemical Engineering</a></li>
+	<li><a href=" {{ url('msase') }}">MS Aerospace Engineering</a></li>
+	<li><a href=" {{ url('phase') }}">PhD Aerospace Engineering</a></li>
 </ul>
 @endsection
