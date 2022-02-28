@@ -8,32 +8,13 @@
 	<tbody>
 		<tr>
 			<td class="divider" style="width: 50%;">
-				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/martindale.jpg"/>
+				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/bray.jpg"/>
 			</td>
             <td class="divider" style="text-align: center; width: 50%;">
-				<b>Dr. Trey Martindale</b><br/>
-				ISWD - Department head<br/>
-				662.325.7258
-			</td>
-		</tr>
-		<tr>
-			<td class="divider" style="width: 50%;">
-				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/adams.jpg"/>
-			</td>
-            <td class="divider" style="text-align: center; width: 50%;">
-				<b>Dr. James Adams</b><br/>
-				ISWD - Professor<br/>
-				662.325.7563
-			</td>
-		</tr>
-		<tr>
-			<td class="divider" style="width: 50%;">
-				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/wyatt.jpg"/>
-			</td>
-            <td class="divider" style="text-align: center; width: 50%;">
-				<b>Dr. John Wyatt</b><br/>
-				ISWD - Associate Professor/Advisor<br/>
-				662.325.7257
+				<b>Dr. Marty Bray</b><br/>
+				Industrial Tech - Department head<br/>
+				<a href="mailto:mbray@colled.mssstate.edu">mbray@colled.mssstate.edu</a><br/>
+				662.325.2281
 			</td>
 		</tr>
 		<tr>
@@ -42,18 +23,31 @@
 			</td>
             <td class="divider" style="text-align: center; width: 50%;">
 				<b>Jonathon Dale</b><br/>
-				ISWD - Instructor/Advisor<br/>
-				662.809.0230
+				Industrial Tech - Instructor<br/>
+				<a href="mailto:jwd43@msstate.edu">jwd43@msstate.edu</a><br/>
+				662.325.0230
 			</td>
 		</tr>
 		<tr>
 			<td class="divider" style="width: 50%;">
-				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/giordano.jpg"/>
+				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/giordano.png"/>
 			</td>
             <td class="divider" style="text-align: center; width: 50%;">
 				<b>Mickey Giordano</b><br/>
-				ISWD - Instructor/Advisor<br/>
-				662.325.7563
+				Industrial Tech - Instructor<br/>
+				<a href="mailto:mgiordano@colled.msstate.edu">mgiordano@colled.msstate.edu</a><br/>
+				662.325.1610
+			</td>
+		</tr>
+		<tr>
+			<td class="divider" style="width: 50%;">
+				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/wyatt.png"/>
+			</td>
+            <td class="divider" style="text-align: center; width: 50%;">
+				<b>Dr. John Wyatt</b><br/>
+				Industrial Tech - Associate Professor<br/>
+				<a href="mailto:wyatt@colled.msstate.edu">wyatt@colled.msstate.edu</a><br/>
+				662.325.7257
 			</td>
 		</tr>
 		<tr>

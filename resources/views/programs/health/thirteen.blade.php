@@ -23,6 +23,17 @@
         </tr>
         <tr>
             <td class="divider staff">
+                <img src="https://www2.online.msstate.edu/sites/www.online.msstate.edu/files/inline-images/pylate_0.jpg">
+            </td>
+            <td class="divider staff" style="text-align: center; width: 30%;">
+                <b>Dr. Leah Pylate</b><br/>
+                <i>Assistant Professor</i><br/>
+                Health Promotion<br/>
+                <a href="mailto:lbp77@msstate.edu">lbp77@msstate.edu</a>
+            </td>
+        </tr>
+        <tr>
+            <td class="divider staff">
                 <img src="https://goto.msstate.edu/www/images/Distance/programs/fnh/a_gardner.png">
             </td>
             <td class="divider staff" style="text-align: center; width: 30%;">
@@ -31,7 +42,7 @@
                 <a href="mailto:ajg130@msstate.edu">ajg130@msstate.edu</a>
             </td>
             <td class="divider staff" style="text-align: left;">
-                Dr. Gardner has a BS in Biology from Alabama A&M University in Normal, AL, an MS in Human Environmental Sciences with a Specialization in Rural Community Health from the University of Alabama, and a PhD in Health Education and Promotion from the University of Alabama. Health disparities have been his primary focus of research with a special interest in HIV prevention.
+                Dr. Gardner has a BS in Biology from Alabama A&M University in Normal, AL, and an MS in Human Environmental Sciences with a Specialization in Rural Community Health from the University of Alabama, and a PhD in Health Education and Promotion from the University of Alabama. Health disparities have been his primary focus of research with a special interest in HIV prevention.
             </td>
         </tr>
         <tr>

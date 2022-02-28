@@ -9,7 +9,7 @@
     <tbody>
         <tr>
             <td class="divider" style="width: 50%;">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png" />
             </td>
             <td class="divider" style="text-align: center; width: 50%;">
                 <b>Samantha Clardy</b><br/>
@@ -20,11 +20,13 @@
             </td>
         </tr>
         <tr>
-            <td class="divider"></td>
+            <td class="divider">
+                <img src="https://goto.msstate.edu/www/images/Distance/elem/gaither.png" />
+            </td>
             <td class="divider" style="text-align: center; width: 50%;">
                 <br/>
                 <b>Michelle Gaither</b><br/>
-                ELEM Coordinator / Advisor<br/>
+                Elementary Education Coordinator / Advisor<br/>
                 (P): 662-325-7128
                 <a href="mailto:elemonline@colled.msstate.edu">elemonline@colled.msstate.edu</a>
             </td>

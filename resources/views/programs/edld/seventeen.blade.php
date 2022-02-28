@@ -10,13 +10,13 @@
     <tbody>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/edld/mcmullan.png">
+                <img src="https://www2.online.msstate.edu/sites/www.online.msstate.edu/files/inline-images/Tharp_Paula.jpg">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Dr. Leigh Ann McMullan</b><br/>
-                <i>Grad Coordinator/Advisor</i><br/>
-                <a href="mailto:lmcmullan@colled.msstate.edu">lmcmullan@colled.msstate.edu </a><br/>
-                (P): 662.325.7110<br/>
+                <b>Dr. Paula Tharp</b><br/>
+                <i>Dept of Educational Leadership - Assistant Professor</i><br/>
+                <a href="mailto:ptharp@colled.msstate.edu">ptharp@colled.msstate.edu</a><br/>
+                (P): 662.325.4711<br/>
             </td>
         </tr>
         <tr>
