@@ -35,7 +35,7 @@ A BA in Communication with a concentration in Public Relations online opens door
 @endsection
 
 @section('signature')
-	@include('signatures.kanthony')
+	@include('signatures.mchancellor')
 @endsection
 
 @section('apply')

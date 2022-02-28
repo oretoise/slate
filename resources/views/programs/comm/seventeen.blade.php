@@ -51,7 +51,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.kanthony')
+	@include('signatures.mchancellor')
 @endsection
 
 @section('apply')

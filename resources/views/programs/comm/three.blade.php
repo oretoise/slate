@@ -14,11 +14,12 @@
 </ul>
 
 <p>You can also visit the <a href="https://www.bls.gov/">Bureau of Labor Statistics</a> to research any other information regarding labor statistics.</p>
+<p>Our students have interned with MSU Athletics, Walt Disney World, Coca Cola, the U.S. Congress, local news stations, and community-based organizations.</p>
 <p>We look forward to hearing from you soon!</p>
 @endsection
 
 @section('signature')
-	@include('signatures.kanthony')
+	@include('signatures.mchancellor')
 @endsection
 
 @section('apply')
