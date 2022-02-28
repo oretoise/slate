@@ -9,7 +9,7 @@
 <ul>
 	<li>Regional demand for bachelor's-level interdisciplinary studies graduates increased 27 percent from July 2013 to December 2016.</li><br/>
 	<li>Employers in the greater Mississippi area posted 44,820 jobs for interdisciplinary studies graduates in the second half of 2016.</li><br/>
-	<li>The Bureau of Labor Statistics (BLS) projected occupations that require a bachelor's degree will grow 12 percent from 2012 to 2022.</li><br/>
+	<li>The Bureau of Labor Statistics (BLS) projected occupations that require a bachelor's degree would grow 12 percent from 2012 to 2022.</li><br/>
 	<li>Individuals with a bachelor's degree experienced 43 percent higher median weekly earnings than those with an associate degree. </li><br/>
 	<li>A bachelor's-level interdisciplinary studies program can provide opportunities for improved employment outcomes for non-traditional graduates.</li>
 </ul>

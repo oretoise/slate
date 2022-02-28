@@ -8,7 +8,7 @@
 <ul>
 	<li>
 		<b>Is the GMAT or GRE required?  Can it be waived?</b><br/>
-		The academic department requires that you take the GMAT.  This requirement is usually waived for applicants with a 3.5 or higher GPA.  *GMAT requirements are currently being waived for Fall 2021 applicants.<br/><br/>
+		The academic department requires that you take the GMAT.  This requirement is usually waived for applicants with a 3.5 or higher GPA.  *GMAT requirements are currently being waived for all applicants.<br/><br/>
 	</li>
 	<li>
 		<b>Are there additional fees outside of the graduate tuition rate?</b><br/>

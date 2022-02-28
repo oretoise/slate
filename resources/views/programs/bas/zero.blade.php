@@ -25,8 +25,10 @@
     <li>Public Management</li>
     <li>Social Work</li>
     <li>Sociology</li>
-    <li>Veterans' Certificate</li>
+    <li>Veterans' Certificate*</li>
 </ul>
+
+<p>* The Veterans Certificate emphasis area will not be an option for the time being, but please check back later for an accurate course listing or ask an adsivor for more information.</p>
 
 <p>Check out how you can get started by:</p>
 <ul>
