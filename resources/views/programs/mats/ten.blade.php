@@ -14,13 +14,6 @@
 </p>
 
 <p>
-    <b>Katrina Miller</b><br/>
-    <i>MATS Coordinator / Advisor</i><br/>
-    662.325.1999<br/>
-    <a href="mailto:kmiller@colled.msstate.edu">kmiller@colled.msstate.edu</a>
-</p>
-
-<p>
     <b>Samantha Clardy</b><br/>
     <i>Distance Coordinator</i><br/>
     662.325.9092<br/>
@@ -32,7 +25,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.sclardy')
+	@include('signatures.ssteward')
 @endsection
 
 @section('apply')

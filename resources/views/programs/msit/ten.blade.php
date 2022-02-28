@@ -10,7 +10,7 @@
     <tbody>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/bsindt/wyatt.jpg" />
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/soonlee.jpg" />
             </td>
             <td class="divider staff" style="text-align: center;">
                 <b>Dr. Sang Joon Lee</b><br/>

@@ -9,18 +9,6 @@
     <tbody>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/programs/vision/sylvia_stinson-perez.jpg">
-            </td>
-            <td class="divider staff" style="text-align: center;">
-                <b>Sylvia Stinson-Perez</b><br/>
-                NRTC on Blindness and Low Vision<br/>
-                Project Director<br/>
-                <a href="mailto:ssp258@msstate.edu">ssp258@msstate.edu</a><br/>
-                (P): 662.325.2001
-            </td>
-        </tr>
-        <tr>
-            <td class="divider staff">
                 <img src="https://goto.msstate.edu/www/images/Distance/programs/vision/ashelton.png">
             </td>
             <td class="divider staff" style="text-align: center;">

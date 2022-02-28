@@ -14,7 +14,7 @@
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>What are the prerequisites for this program?</b></span><br/>
-		Students interested in this program must either have a Bachelor of Science in Mechanical Engineering or a Bachelor of Science degree in engineering with an undergraduate foundation in solid mechanics and thermal sciences or a Bachelor of Science degree in science and must demonstrate the mastery of content of the undergraduate ME program courses up through the senior courses in mechanical systems design and energy systems design.<br/><br/>
+		Graduates with a Bachelor of Science degree in engineering must either have or obtain an undergraduate foundation in solid mechanics and thermal sciences. Graduates with a Bachelor of Science degree in science must demonstrate the mastery of content of the undergraduate ME program courses up through the senior courses in mechanical systems design and energy systems design<br/><br/>
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>Is there a thesis and non-thesis option for this program?</b></span><br/>

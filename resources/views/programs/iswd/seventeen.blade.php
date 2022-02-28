@@ -11,12 +11,13 @@ your pursuit of your degree. Meet your team!</p>
     <tbody>
         <tr>
             <td class="divider staff">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/peterson.jpg" />
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>John Adams, PhD</b><br/>
-                <i>Online Graduate Coordinator/Advisor</i><br/>
+                <b>Whitney Peterson</b><br/>
+                <i>Instructor / Coordinator</i><br/>
 				Instructional Systems and Workforce Development
-                <a href="mailto:jadams@colled.msstate.edu">jadams@colled.msstate.edu </a>
+                <a href="mailto:wpeterson@colled.msstate.edu">wpeterson@colled.msstate.edu</a>
             </td>
         </tr>
         <tr>

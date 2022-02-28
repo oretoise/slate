@@ -13,7 +13,7 @@
     </li>
     <li>
         <span style="color: #5D1725;"><b>Which classes can be included in the MENG program of study?</b></span><br/>
-        Students can take all 30 hours within the college of engineering or transfer up to 12 hours from other colleges at the university.  Some examples include business, geoscience, education, and others, as approved by the advisor. Classes must be graduate level and students must have met necessary prerequisites.<br/><br/>
+        Students can take all 30 hours within the Bagley College of Engineering or complete up to 12 hours from other colleges and departments at the university. Some additional subject areas could be business, geoscience, education, or others, as approved by the advisor. Classes must be graduate level and students must have met necessary prerequisites.  More information can be found in the <a href="https://www.bagley.msstate.edu/wp-content/uploads/MENG-Program-Guide-June-2019.pdf">Master of Engineering Program Guide</a>.<br/><br/>
     </li>
     <li>
         <span style="color: #5D1725;"><b>Do you accept transfer credit?</b></span><br/>

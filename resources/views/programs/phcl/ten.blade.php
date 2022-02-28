@@ -8,7 +8,7 @@
 
 <p>Start your application for the online PHCL today!  Keep in mind the application deadlines listed below, and remember the earlier you submit your admission or readmission application, the better chance you have of getting into the classes that you need.</p>
 
-<p>Your application must be submitted by the semester deadline in which you plan to enroll.</p>
+<p>Your application must be submitted by the semester deadline in which you plan to enroll. Summer applications are preferred, with a deadline of March 15.</p>
 
 <P>We've provided a short video to help you get started on your application.</p>
 
