@@ -8,7 +8,7 @@
 <p>Dear @@{{First}},</p>
 
 <p>Thank you for checking out MSU's online Doctor of Philosophy in Computer Science degree.</p>
-<p>This degree is a 63-credit program designed to be completed in 4 years for traditional students. Students with a previous M.S. must only complete 32 hours of post master's coursework. Working with a major professor and guiding committee, students will select appropriate core, specialization, and elective courses and develop a research program. Preparedness for research work will be measured via examinations, and finally defended before a body of peers in the dissertation defense.</p>
+<p>This degree is a 63-credit program designed to be completed in 4 years for traditional students. Students with a previous M.S. must only complete 32 hours of post master's coursework. Working with a major professor and guiding committee, students will select appropriate core, specialization, and elective courses and develop a research program. Preparedness for research work will be measured via examinations and defended before a body of peers in the dissertation defense.</p>
 <p>Recent graduates have also gone to work for employers such as:</p>
 
 <ul>

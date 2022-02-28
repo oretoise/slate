@@ -13,7 +13,7 @@
 <p>See how you can get started by:
 	<ul>
 		<li>Reviewing the <a href="https://online.msstate.edu/engineeringed#program-structure">program structure</a>.</li>
-		<li>Requesting information about your desired area of study</li>
+		<li>Requesting information about your desired area of study.</li>
 	</ul>
 </p>
 

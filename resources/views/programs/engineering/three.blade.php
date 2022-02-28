@@ -9,7 +9,7 @@
 <ul>
     <li>
         <span style="color: #5D1725;"><b>What is the difference between the General and Military concentrations?</b></span><br/>
-        Each semester one or more classes will be offered that are more specific to engineers in the military.  There is an Introduction to Military Engineering class, as well as other potential courses within engineering and other colleges.<br/><br/>
+        Each semester one or more classes will be offered that are more specific to engineers in the military.  There is an Introduction to Military Engineering class as well as other potential courses within engineering and other colleges.<br/><br/>
     </li>
     <li>
         <span style="color: #5D1725;"><b>Which classes can be included in the MENG program of study?</b></span><br/>

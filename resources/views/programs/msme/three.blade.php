@@ -18,7 +18,7 @@
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>Is there a thesis and non-thesis option for this program?</b></span><br/>
-		Yes. The thesis option consists of 24 hours of coursework, 1 hour of graduate seminar and 6 hours if thesis research.  The non-thesis option consists of 30 hours of coursework and 1 hour of graduate seminar.<br/><br/>
+		Yes. The thesis option consists of 24 hours of coursework, 1 hour of graduate seminar and 6 hours of thesis research.  The non-thesis option consists of 30 hours of coursework and 1 hour of graduate seminar.<br/><br/>
 	</li>
 	<li>
 		<span style="color: #5D1725;"><b>Can the entire program be completed online?</b></span><br/>

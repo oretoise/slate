@@ -12,7 +12,7 @@
 <p>Program Highlights:</p>
 <ul>
 	<li>30-credit hours to complete, 100% online</li>
-	<li>Pay the in-state tuition rate, no matter your state of residency.</li>
+	<li>Pay the in-state tuition rate, no matter your state of residency</li>
 	<li>Courses are taught by the same professors as our on-campus program</li>
 	<li>Accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) and dually accredited for Business and Accounting by the Association to Advance Collegiate Schools of Business (AACSB)</li>
 </ul>

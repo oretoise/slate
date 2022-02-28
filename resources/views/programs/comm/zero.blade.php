@@ -18,8 +18,9 @@ A BA in Communication with a concentration in Public Relations online opens door
 	<li>Entertainment</li>
 	<li>Government Relations</li>
 	<li>Leadership</li>
-	<li>Plus, as the starting point for obtaining advanced degrees in Communication and other areas</li>
 </ul>
+
+<p>Plus, this degree can serve as the starting point for obtaining advanced degrees in Psychology and other areas.</p>
 
 <p>Check out how you can get started by:</p>
 <ul>
