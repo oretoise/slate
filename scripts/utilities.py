@@ -34,17 +34,7 @@ def get_program_email_list(program):
     # Navigate to 'programs' directory in repository.
     programs = pathlib.Path(os.getcwd()) / ".." / "resources" / "views" / "programs"
 
-    # Handle 'geosciences' subdirectory.
-    if "geosciences" in program:
-            # Split the path.
-            path_parts = program.lower().split('/')
-            directory = programs
-
-            # For each folder in the given path, navigate to it.
-            for folder in path_parts:
-                directory = directory / folder
-    else:
-        directory = programs / program
+    directory = programs / program
     
     emails = os.listdir(directory)
     emails.remove("home.blade.php")
@@ -59,18 +49,18 @@ def get_program_list():
     programs = pathlib.Path(os.getcwd()) / ".." / "resources" / "views" / "programs"
     programs_list = os.listdir(programs)
 
-    # Walk the geosciences subdirectory.
-    geosciences = programs / "geosciences"
-    geo_list = os.listdir(geosciences)
-    new_list = []
+    # # Walk the geosciences subdirectory.
+    # geosciences = programs / "geosciences"
+    # geo_list = os.listdir(geosciences)
+    # new_list = []
 
-    # Append geosciences list to a new list.
-    for item in geo_list:
-        new_list.append("geosciences/" + str(item))
+    # # Append geosciences list to a new list.
+    # for item in geo_list:
+    #     new_list.append("geosciences/" + str(item))
 
     # Append main program list and remove unnecessary 'geosciences' entry.
-    programs_list = programs_list + new_list
-    programs_list.remove("geosciences")
+    # programs_list = programs_list + new_list
+    # programs_list.remove("geosciences")
     
     # Return completed list.
     return programs_list
