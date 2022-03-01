@@ -42,7 +42,7 @@
 	<li>Upon admission to the university, the <a href="https://www.registrar.msstate.edu/">Registrar's Office</a> will evaluate transfer credit to determine how it transfers to Mississippi State University.</li>
 </ul>
 
-<p>Remember to choose <b><span style="color: #800000;">Communication/Public Relations (BA)</span></b> as your major and <b><span style="color: #800000;">Online Education</span></b> as your campus when applying for <a href="https://online.msstate.edu/comm#admissions-process">admission or readmission</a>.</p>
+<p>Remember to choose <b><span style="color: #800000;">Communication (BA)</span></b> as your major and <b><span style="color: #800000;">Online Education</span></b> as your campus when applying for <a href="https://online.msstate.edu/comm#admissions-process">admission or readmission</a>.</p>
 
 <p>If you have any questions, ask. We are happy to help.</p>
 <p>Thank you for considering Mississippi State for your online degree!</p>
