@@ -7,6 +7,7 @@
 
 <table style="width: 450px; margin: auto;">
     <tbody>
+        // PR
         <tr>
             <td class="divider" style="width: 50%;">
                 <img src="https://goto.msstate.edu/www/images/Distance/staff/kanthony.png">
@@ -19,6 +20,22 @@
                 <a href="mailto:kanthony@comm.msstate.edu">kanthony@comm.msstate.edu</a>
             </td>
         </tr>
+        // End PR
+        // CMST
+        <tr>
+            <td class="divider" style="width: 50%;">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/pete_smith.png">
+            </td>
+            <td class="divider" style="text-align: center; width: 50%;">
+                <b>Dr. Pete Smith</b><br/>
+                <i>Associate Professor</i><br/>
+                Communication & Media Studies Advisor<br/>
+                Department of Communication<br/>
+				Phone: 662-325-0983<br/>
+                <a href="mailto:gsmith@comm.msstate.edu">gsmith@comm.msstate.edu</a>
+            </td>
+        </tr>
+        // End CMST
         <tr>
             <td class="divider" style="width: 50%">
                 <img src="https://goto.msstate.edu/www/images/Distance/staff/hcrouch.png">
