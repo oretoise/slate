@@ -26,7 +26,7 @@ Summer Admission Deadline:  <b>May 15</b>
 </p>
 
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), your courses will meet the same standards as on-campus courses.  Also, your online degree will not be differentiated from an on-campus degree.</p>
-<p>Are you ready to <a href="https://apply.grad.msstate.edu/">apply</a>? If you have any questions or concerns, please contact us. We are ready to help.</p>
+<p>Are you ready to <a href="https://online.msstate.edu/conservationed#admissions-process">apply</a>? If you have any questions or concerns, please contact us. We are ready to help.</p>
 <p>All the best,</p>
 @endsection
 
