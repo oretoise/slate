@@ -224,7 +224,7 @@ def upload(acronym, day_int, email, population):
     # CONTEXT CHANGE: Email View
 
     # pull email from server
-    url = os.getenv("HOST") + "/slate/" + acronym.lower() + "/" + email
+    url = os.getenv("HOST") + acronym.lower() + "/" + email
     r = requests.get(url)
     raw_html = r.text
 

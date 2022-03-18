@@ -67,11 +67,17 @@ def update(acronym, host, offset):
     # Grab the clipboard contents.
     email_name = pyperclip.paste()
 
+    # handle geoscience
+
     # Split on underscore
     email_name_parts = email_name.split('_')
 
     # Get just the last part.
     email = email_name_parts[2].lower()
+
+    # handle geoscience
+    if "GEOSCIENCES" in email:
+        email = email.split('/')[1]
 
     # Stop the mailing.
     pyautogui.click(1840, 425)
