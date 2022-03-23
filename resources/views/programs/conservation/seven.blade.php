@@ -24,7 +24,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.dknox_hines')
+	@include('signatures.mwolfe_hines')
 @endsection
 
 @section('apply')
