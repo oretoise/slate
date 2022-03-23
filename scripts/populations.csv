@@ -1,58 +1,73 @@
 ﻿Acronym,Population
 agriculture,Distance - Master of Agriculture
-ase,Distance - MS Aerospace Engineering
+amf,Distance - Aeronautical Meteorology Forecaster
+amp,Distance - MS Geoscience / Applied Meteorology
+ase,
 bas,Distance - Bachelor of Applied Science
 bba,Distance - Bachelor of Business Admin.
 biology,Distance - General Biology Certificate
+bomp,Distance - BS Geoscience - Broadcast & Operational Meteorology
 bsindt,Distance - BS Industrial Technology
 bsis,Distance - BS Interdisciplinary Studies
 caba,Distance - Applied Behavior Analysis Certificate
 camc,Distance - Companion Animal Management Certificate
-cee,Distance - MS Civil Engineering
-chemeng,Distance - MS Chemical Engineering
-cme,Distance - MS Computational Engineering
+cee,
+chemeng,
+cme,
 cmll,Distance - MA Foreign Languages
 comm,Distance - BA Communication / PR
-cse,Distance - MS Computer Science
 conservation,Distance - MS Conservation Education
-ece,Distance - MS Electrical & Computer Engineering
+cse,
+ece,
 edld,Distance - MS Educational Leadership / School Admin
 elem,Distance - Elementary Education
 engineering,Distance - Master of Engineering
 engineeringed,Distance - PhD Engineering Education
+engs,Distance - MS Geoscience / Environmental
 ensc,Distance - Environment and Sustainability Certificate
 epy,Distance - BS Educational Psychology
 forestry,Distance - MS Forestry
-amf,Online - Aeronautical Meteorology Forecaster
-geosciences/amp,Distance - MS Geoscience / Applied Meteorology
-geosciences/bmp,
-geosciences/bomp,Distance - BS Geoscience - Broadcast & Operational Meteorology
-geosciences/engs,Distance - MS Geoscience / Environmental
-geosciences/tig,Distance - MS Geoscience / Teachers
 gis,Distance - GIS Certificate
 hdfs,Distance - BS Human Development and Family Systems
 health,Distance - MS Food Sc Nutr. Health Prom
 history,Distance - BA History
-ise,Distance - MS / PhD Industrial Engineering
+ise,
 iswd,Distance - PhD Instructional Systems & Workforce Dev
 mabm,Distance - Master of Agribusiness Mgt
 matced,Distance - MATCED (Comm. College Ed)
 mats,Distance - MA Teaching Secondary
 matx,Distance - MA Teaching Special
 mba,Distance - MBA
-mbapm,Distance - MBA Project Management
-me,Distance - MS Mechanical Engineering
+mba-pm,Distance - MBA Project Management
+me,
+msase,Distance - MS Aerospace Engineering
+mscee,Distance - MS Civil Engineering
+mschemeng,Distance - MS Chemical Engineering
+mscme,Distance - MS Computational Engineering
+mscse,Distance - MS Computer Science
 mscyso,Distance - MS Cyber Security and Operations
+msece,Distance - MS Electrical & Computer Engineering
 msei,Distance - MS Early Intervention
 msgb,Distance - MS General Biology
 msis,Distance - MS Information Systems
+msise,Distance - MS Industrial Engineering
 msit,Distance - MS Instructional Technology
-mtpa,Distance - Master of Professional Accountancy
+msme,Distance - MS Mechanical Engineering
+mtpa,Distance - Master of Taxation
+phase,Distance - PhD Aerospace Engineering
+phcee,Distance - PhD Civil Engineering
+phchemeng,Distance - PhD Chemical Engineering
 phcl,Distance - PhD in Community College Leadership
+phcme,Distance - PhD Computational Engineering
+phcse,Distance - PhD Computer Science
+phece,Distance - PhD Electrical & Computer Engineering
+phise,Distance - PhD Industrial & Systems Engineering
+phme,Distance - PhD Mechanical Engineering
 psychology,Distance - BS Psychology
-seed,Distance - MS Secondary Education
 sbp,Distance - MS Sustainable Bioproducts
+seed,Distance - MS Secondary Education
 snd,Distance - Special Non Degree
+tig,Distance - MS Geoscience / Teachers
 veterans,Distance - Veterans' Certificate
 vision,Distance - Vision Specialist Certificate
 wel,Distance - MS Workforce Education Leadership
