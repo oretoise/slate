@@ -61,7 +61,7 @@ def upload(acronym, day_int, email, population):
     pyautogui.moveTo(950, 161)
 
     # Click on the pinned "Distance" folder
-    pyautogui.click(950, 335)
+    pyautogui.click(950, 245)
 
     # CONTEXT CHANGE: Email Listing
 
@@ -140,7 +140,7 @@ def upload(acronym, day_int, email, population):
         pyautogui.typewrite("Population")
 
         # Click "Population"
-        pyautogui.click(1157, 547)
+        pyautogui.click(1157, 570)
 
     else:
 
@@ -148,7 +148,7 @@ def upload(acronym, day_int, email, population):
         pyautogui.typewrite("population timestamp days")
 
         # Click "Popuation Timestamp Days"
-        pyautogui.click(824, 542)
+        pyautogui.click(824, 570)
 
     # Click Continue
     pyautogui.click(845, 1115)
@@ -193,30 +193,30 @@ def upload(acronym, day_int, email, population):
         pyautogui.typewrite(export)
 
         # Click it.
-        pyautogui.click(850, 570)
+        pyautogui.click(850, 600)
     
     # Click Continue
     pyautogui.click(840, 1115)
 
-    # add program of interest
-    # Click Export
-    pyautogui.click(1861, 600)
-    # Click searchbox
-    pyautogui.click(1035, 415)
-    # Type "distance - academic"
-    pyautogui.typewrite("Distance - Academic")
-    # Click it
-    pyautogui.click(850, 570)
-    # Click "Continue"
-    pyautogui.click(840, 1115)
-    # Double click the export
-    pyautogui.click(834, 677, clicks=2)
-    # hit tab
-    pyautogui.press('tab')
-    # typerwrite "program"
-    pyautogui.typewrite("program")
-    # Click save
-    pyautogui.click(964, 1074)
+    # # add program of interest
+    # # Click Export
+    # pyautogui.click(1861, 600)
+    # # Click searchbox
+    # pyautogui.click(1035, 415)
+    # # Type "distance - academic"
+    # pyautogui.typewrite("Distance - Academic")
+    # # Click it
+    # pyautogui.click(850, 570)
+    # # Click "Continue"
+    # pyautogui.click(840, 1115)
+    # # Double click the export
+    # pyautogui.click(834, 677, clicks=2)
+    # # hit tab
+    # pyautogui.press('tab')
+    # # typerwrite "program"
+    # pyautogui.typewrite("program")
+    # # Click save
+    # pyautogui.click(964, 1074)
 
     # Go back to Email View.
     pyautogui.click(704, 215)
@@ -391,6 +391,8 @@ def main(acronym):
     print("Sorted files by day number...")
     files = sorted([x.split('.')[0] for x in files], key=numbers_dict.get)
     print("File list:", files)
+
+    pyautogui.hotkey("Win", "1")
 
     # Upload each file to Slate.
     skip = []
