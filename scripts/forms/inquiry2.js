@@ -91,7 +91,7 @@ $("#interest").parent().parent().find(".form_responses").find("select").change(f
 
     // If they select general question, set the coordinator to dc716 and hide program fields.
     if ($select_value == "General Education Question") {
-        setCoordinator('acw338');
+        setCoordinator('mwb6');
 
         // Hide program fields.
         $(".program_option").parent().parent().parent().hide();
@@ -119,11 +119,11 @@ $("#grad_prog").parent().parent().find(".form_responses").find("select").change(
     // Dict to store program:coordinator relationships
     var dict = {
         "MA Foreign Languages": "mwb6",
-        "MA Teaching - Community College Education": "vdt1",
-        "MA Teaching - Secondary Education": "vdt1",
-        "MA Teaching - Special Education": "vdt1",
-        "Master of Agribusiness Management": "dc716",
-        "Master of Agriculture": "dc716",
+        "MA Teaching - Community College Education": "sam103",
+        "MA Teaching - Secondary Education": "sam103",
+        "MA Teaching - Special Education": "sam103",
+        "Master of Agribusiness Management": "mmw13",
+        "Master of Agriculture": "mmw13",
         "Master of Business Administration (MBA)": "sam103",
         "Master of Engineering": "dc716",
         "Master of Professional Accountancy": "sam103",
@@ -134,35 +134,37 @@ $("#grad_prog").parent().parent().find(".form_responses").find("select").change(
         "MS Civil Engineering": "dc716",
         "MS Computational Engineering": "dc716",
         "MS Computer Science": "dc716",
-        "MS Conservation Education": "dc716",
-		"MS Cyber Security and Operations": "dc716",
+        "MS Conservation Education": "mmw13",
         "MS Early Intervention": "dc716",
+        "MS Educational Psychology": "sam103",
+        "MS Cyber Security and Operations": "dc716",
         "MS Electrical & Computer Engineering": "dc716",
         "MS Food Science, Nutrition, Health Promotion": "dc716",
-        "MS Forestry": "dc716",
+        "MS Forestry": "mmw13",
         "MS General Biology": "mwb6",
         "MS Geoscience - Applied Meteorology": "mwb6",
         "MS Geosciences - Environmental Geoscience": "mwb6",
         "MS Geosciences - Teachers in Geoscience": "mwb6",
-        "MS in Educational Leadership - School Administration": "vdt1",
+        "MS in Educational Leadership - School Administration": "sam103",
         "MS in Industrial & Systems Engineering": "dc716",
         "MS Information Systems": "sam103",
-        "MS Instructional Technology": "vdt1",
+        "MS Instructional Technology": "sam103",
         "MS Mechanical Engineering": "dc716",
-        "MS Secondary Education": "vdt1",
-        "MS Sustainable Bioproducts": "dc716",
-        "MS Workforce Education Leadership": "vdt1",
+        "MS Secondary Education": "sam103",
+        "MS Sustainable Bioproducts": "mmw13",
+        "MS Workforce Education Leadership": "sam103",
         "No Degree / Unclassified-Grad": "dc716",
         "PhD Aerospace Engineering": "dc716",
+        "PhD Chemical Engineering": "dc716",
         "PhD Civil Engineering": "dc716",
-        "PhD Community College Leadership": "vdt1",
+        "PhD Community College Leadership": "sam103",
         "PhD Computational Engineering": "dc716",
-		"PhD Computer Science": "dc716",
+        "PhD Computer Science": "dc716",
         "PhD Electrical & Computer Engineering": "dc716",
         "PhD Engineering / Engineering Education": "dc716",
         "PhD Industrial and Systems Engineering": "dc716",
-        "PhD Instructional Systems & Workforce Development": "vdt1",
-        "PhD Mechanical Engineering": "dc716"
+        "PhD Instructional Systems & Workforce Development": "sam103",
+        "PhD Mechanical Engineering": "dc716",
     }
 
     setCoordinator(dict[$select_value]);
@@ -189,18 +191,19 @@ $("#undergrad_prog").parent().parent().find(".form_responses").find("select").ch
 
     var dict = {
         "Applied Science (BAS)": "kmd160",
+        "BA in Communication - Comm & Media Studies": "mhm49",
         "BA in Communication - Public Relations": "mhm49",
-        "BS Educational Psychology": "vdt1",
+        "BS Educational Psychology": "sam103",
         "BS Human Development and Family Science": "dc716",
         "Business Administration (BBA)": "sam103",
-        "Elementary Education (BS)": "vdt1",
+        "Elementary Education (BS)": "sam103",
         "Geoscience / Broadcast & Operational Met (BS)": "mwb6",
         "History (BA)": "mwb6",
-        "Industrial Technology (BS)": "vdt1",
+        "Industrial Technology (BS)": "sam103",
         "Interdisciplinary Studies (BS)": "jnh102",
         "Psychology (BS)": "jnh102",
         "Special Non-Degree (No Degree)": "mwb6",
-        "Undeclared": "mwb6"
+        "Undeclared": "mwb6",
     }
 
     setCoordinator(dict[$select_value]);
@@ -226,7 +229,7 @@ $("#certificate").parent().parent().find(".form_responses").find("select").chang
             break;
         
         case "Applied Behavior Analysis Certificate":
-            setCoordinator("vdt1");
+            setCoordinator("sam103");
             break;
         
         case "Broadcast & Operational Meteorology Certificate":
@@ -236,24 +239,28 @@ $("#certificate").parent().parent().find(".form_responses").find("select").chang
             break;
         case "Companion Animal Management Certificate":
             $("#level").parent().parent().parent().show();
-            setCoordinator("dc716");
+            setCoordinator("mmw13");
+            break;
+
+        case "Environment and Sustainability Certificate":
+            setCoordinator("mmw13");
             break;
         
         case "General Biology Certificate":
             setCoordinator("mwb6");
             break;
         
-        case "GIS Certificate":
+        case "GIS & Remote Sensing Certificate":
             setCoordinator("mwb6");
             break;
         
         case "Veterans' Certificate":
             $("#level").parent().parent().parent().show();
-            setCoordinator("vdt1");
+            setCoordinator("sam103");
             break;
         case "Vision Specialist Certificate":
             setProgram("Graduate", "No Degree / Unclassified-Grad");
-            setCoordinator("vdt1");
+            setCoordinator("sam103");
             break;
         case "Wellness Coaching Certificate":
             setProgram("Graduate", "MS Food Science, Nutrition, Health Promotion");
