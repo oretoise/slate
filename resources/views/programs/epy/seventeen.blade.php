@@ -19,14 +19,15 @@
             </td>
         </tr>
         <tr>
-            <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
+        <td class="divider staff">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/anusha_rijal.jpg">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Ms. Samantha Clardy</b><br/>
-                <i>Distance Coordinator </i><br/>
-                <a href="mailto:s.clardy@msstate.edu">s.clardy@msstate.edu</a><br/>
-                (P): 662.325.9092<br/>
+                <b>Anusha Rijal</b><br/>
+                <i>Online Program Coordinator</i><br/>
+				Center for Distance Education
+                <a href="mailto:a.rijal@msstate.edu">a.rijal@msstate.edu</a><br/>
+                (P): 662.325.8876<br/>
             </td>
         </tr>
     </tbody>

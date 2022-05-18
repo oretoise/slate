@@ -57,6 +57,7 @@
             <td class="divider" style="text-align: center; width: 50%;">
 				<b>Anusha Rijal</b><br/>
 				Distance Coordinator<br/>
+				<a href="mailto:a.rijal@msstate.edu">a.rijal@msstate.edu</a><br/>
 				662.325.8876
 			</td>
 		</tr>

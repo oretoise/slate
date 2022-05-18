@@ -21,10 +21,10 @@
         </tr>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
+            <img src="https://goto.msstate.edu/www/images/Distance/staff/anusha_rijal.jpg">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Mrs. Anusha Rijal</b><br/>
+                <b>Anusha Rijal</b><br/>
                 Center for Distance Education<br/>
                 Distance Coordinator<br/>
                 <a href="mailto:a.rijal@msstate.edu">a.rijal@msstate.edu</a><br/>

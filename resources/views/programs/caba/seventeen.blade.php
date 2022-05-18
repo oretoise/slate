@@ -28,12 +28,12 @@ your pursuit of your degree. Meet your team!</p>
                 <img src="https://goto.msstate.edu/www/images/Distance/staff/anusha_rijal.jpg" />
             </td>
             <td class="divider staff" style="text-align: center; width: 50%;">
-                <b>Samantha Clardy</b><br/>
-                <i>Program Coordinator</i><br/>
-                Center for Distance Education<br/>
-                (E): <a href="mailto:s.clardy@msstate.edu">s.clardy@msstate.edu</a><br/>
-                (P): 662.325.9092<br/>
-                (F): 662.325.2657
+            <b><span id="coordinator_name">Anusha Rijal</span></b><br/>
+            <i>Online Program Coordinator</i><br/>
+            Center for Distance Education<br/>
+            Mississippi State University<br/>
+            662.325.8876<br/>
+            <a href="mailto:a.rijal@msstate.edu"><span id="coordinator_email">a.rijal@msstate.edu</span></a><br/>
             </td>
         </tr>
     </tbody>

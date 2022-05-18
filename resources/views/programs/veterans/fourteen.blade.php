@@ -30,10 +30,10 @@
         </tr>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
+            <img src="https://goto.msstate.edu/www/images/Distance/staff/anusha_rijal.jpg">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Mrs. Anusha Rijal</b><br/>
+                <b>Anusha Rijal</b><br/>
                 <i>Distance Coordinator </i><br/>
                 <a href="mailto:a.rijal@msstate.edu">a.rijal@msstate.edu</a><br/>
                 (P): 662.325.9092

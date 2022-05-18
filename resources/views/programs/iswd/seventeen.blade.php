@@ -25,11 +25,11 @@ your pursuit of your degree. Meet your team!</p>
                 <img src="https://goto.msstate.edu/www/images/Distance/staff/anusha_rijal.jpg">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Mrs. Anusha Rijal</b><br/>
+                <b>Anusha Rijal</b><br/>
                 <i>Online Program Coordinator</i><br/>
 				Center for Distance Education
-                <a href="mailto:a.rijal@msstate.edu">a.rijal@msstate.edu</a><br/>
                 (P): 662.325.8876<br/>
+                <a href="mailto:a.rijal@msstate.edu">a.rijal@msstate.edu</a><br/>
             </td>
         </tr>
     </tbody>
