@@ -52,12 +52,12 @@
 		</tr>
 		<tr>
 			<td class="divider" style="width: 50%;">
-				<img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png"/>
+				<img src="https://goto.msstate.edu/www/images/Distance/staff/anusha_rijal.jpg"/>
 			</td>
             <td class="divider" style="text-align: center; width: 50%;">
-				<b>Samantha Clardy</b><br/>
+				<b>Anusha Rijal</b><br/>
 				Distance Coordinator<br/>
-				662.325.9092
+				662.325.8876
 			</td>
 		</tr>
 	</tbody>

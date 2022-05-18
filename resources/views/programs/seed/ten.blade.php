@@ -31,7 +31,7 @@
         </tr>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/anusha_rijal.jpg">
             </td>
             <td class="divider staff" style="text-align: center;">
                 <b>Mrs. Anusha Rijal</b><br/>

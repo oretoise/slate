@@ -22,14 +22,14 @@ your pursuit of your degree. Meet your team!</p>
         </tr>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/anusha_rijal.jpg">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Ms. Samantha Clardy</b><br/>
+                <b>Mrs. Anusha Rijal</b><br/>
                 <i>Online Program Coordinator</i><br/>
 				Center for Distance Education
-                <a href="mailto:s.clardy@msstate.edu">s.clardy@msstate.edu</a><br/>
-                (P): 662.325.9092<br/>
+                <a href="mailto:a.rijal@msstate.edu">a.rijal@msstate.edu</a><br/>
+                (P): 662.325.8876<br/>
             </td>
         </tr>
     </tbody>

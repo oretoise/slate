@@ -88,7 +88,7 @@
 	<li><a href=" {{ url('msme') }}">MS Mechanical Engineering</a></li>
 	<li><a href=" {{ url('phme') }}">PhD Mechanical Engineering</a></li>
 </ul>
-<h3>Bagley College of Forest Resources</h3>
+<h3>College of Forest Resources</h3>
 <ul>
     <li><a href=" {{ url('conservation') }}">MS Conservation Education</a></li>
 	<li><a href=" {{ url('forestry') }}">MS Forestry</a></li>
