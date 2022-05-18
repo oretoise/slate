@@ -27,7 +27,7 @@ As you fill out your application, remember to select <b>Master of Art in Teachin
 @endsection
 
 @section('signature')
-	@include('signatures.sclardy')
+	@include('signatures.arijal')
 @endsection
 
 @section('apply')

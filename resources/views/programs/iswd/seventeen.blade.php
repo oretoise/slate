@@ -39,7 +39,7 @@ your pursuit of your degree. Meet your team!</p>
 @endsection
 
 @section('signature')
-	@include('signatures.sclardy')
+	@include('signatures.arijal')
 @endsection
 
 @section('apply')

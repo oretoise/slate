@@ -19,20 +19,12 @@
         <table>
             <tbody>
                 <tr>
-                    <td class="divider staff">Current graduate tuition rate</td>
-                    <td class="divider staff">($489 per credit hour)</td>
-                </tr>
-                <tr>
                     <td class="divider staff">Instructional Support Fee</td>
                     <td class="divider staff">($25 per credit hour)</td>
                 </tr>
                 <tr>
                     <td class="divider staff">College of Business Distance Fee</td>
                     <td class="divider staff">($249 per credit hour)</td>
-                </tr>
-                <tr>
-                    <td class="divider staff">Total</td>
-                    <td class="divider staff">approximately $763 per credit hour</td>
                 </tr>
             </tbody>
         </table>

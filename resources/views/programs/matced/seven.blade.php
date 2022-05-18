@@ -24,10 +24,10 @@
                 <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Ms. Samantha Clardy</b><br/>
+                <b>Mrs. Anusha Rijal</b><br/>
                 <i>Distance Coordinator </i><br/>
-                <a href="mailto:s.clardy@msstate.edu">s.clardy@msstate.edu</a><br/>
-                (P): 662.325.9092<br/>
+                <a href="mailto:a.rijal@msstate.edu">a.rijal@msstate.edu</a><br/>
+                (P): 662.325.8876<br/>
             </td>
         </tr>
     </tbody>
@@ -38,7 +38,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.sclardy')
+	@include('signatures.arijal')
 @endsection
 
 @section('apply')

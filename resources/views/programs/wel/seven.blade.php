@@ -25,7 +25,7 @@ Summer semester:	<b>May 15</b>
 @endsection
 
 @section('signature')
-	@include('signatures.sclardy')
+	@include('signatures.arijal')
 @endsection
 
 @section('apply')

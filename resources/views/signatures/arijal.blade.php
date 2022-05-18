@@ -2,4 +2,5 @@
 <i>Online Program Coordinator</i><br/>
 Center for Distance Education<br/>
 Mississippi State University<br/>
-<a href="mailto:ar2758@msstate.edu"><span id="coordinator_email">ar2758@msstate.edu</span></a>
+662.325.8876<br/>
+<a href="mailto:a.rijal@msstate.edu"><span id="coordinator_email">a.rijal@msstate.edu</span></a>
