@@ -20,7 +20,7 @@
 
 <p>All courses are taught by faculty and staff from MSU.  Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), your classes will meet the same standards as those on-campus.  Also, your online degree will not be differentiated from an on-campus degree.</p>
 
-<p>Are you ready to <a href="https://online.msstate.edu/vision#admissions-process">apply</a>?  If you have any questions or concerns, please contact me, and I will be glad to assist you.</p>
+<p>Are you ready to <a href="hhttps://www.online.msstate.edu/request-information">apply</a>?  If you have any questions or concerns, please contact me, and I will be glad to assist you.</p>
 <p>Thanks,</p>
 @endsection
 
