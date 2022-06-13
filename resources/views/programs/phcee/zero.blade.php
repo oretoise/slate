@@ -21,7 +21,7 @@
 <p>See how you can get started by:</p>
 <ul>
 	<li>Reviewing the <a href="https://online.msstate.edu/phcee#program-structure">program structure</a>.</li>
-	<li>Reviewing the <a href="https://www.cee.msstate.edu/wp-content/uploads/CEE-Graduate-Policy-August-2020.pdf">CEE Graduate Studies Policy</a>.</li>
+	<li>Reviewing the <a href="https://www.cee.msstate.edu/wp-content/uploads/CEE-Graduate-Policy.pdf">CEE Graduate Studies Policy</a>.</li>
 	<li>Requesting information about your desired area of study.</li>
 </ul>
 

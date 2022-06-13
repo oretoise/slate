@@ -39,7 +39,7 @@ def main(list_file):
         pyautogui.press('enter')
 
         # Update the plan.
-        update_plan.main(plan)
+        update_plan.main(plan, 0)
 
 
 if __name__ == "__main__":
