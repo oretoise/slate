@@ -11,7 +11,7 @@
 <p>This program is designed for you -- the student who is preparing for employment leading to supervisory and management positions in the production, automation, or maintenance areas of industry.</p>
 
 <p>
-	<span style="color: #800000;"><b>How does the distance INDT work?</b></span>
+	<span style="color: #800000;"><b>How does the online INDT work?</b></span>
 </p>
 
 <ul>

@@ -8,7 +8,7 @@
 <p>Thank you for checking out the online Applied Behavior Analysis (ABA) certificate program at Mississippi State University (MSU)!  This program is designed for those who have an existing master's degree in psychology or education and are seeking coursework that leads to certification as a <a href="https://www.bacb.com/bcba/">Board Certified Behavior Analyst (BCBA)</a>.</p>
 
 <p>
-	<b>How does the distance ABA Certificate program work?</b>
+	<b>How does the online ABA Certificate program work?</b>
 	<ul>
 		<li>In-state tuition for all students.</li>
 		<li>Completely online.</li>

@@ -5,7 +5,7 @@
 <p>Dear @@{{First}},</p>
 
 <p>Thank you for checking om the online Doctor of Philosophy (Ph.D.) in Instructional Systems and Workforce Development (ISWD) degree program at Mississippi State University (MSU)! The program is an individualized degree program that builds on your existing work and educational experience.</p>
-<p><b>How does the distance PhD ISWD degree program work?</b></p>
+<p><b>How does the online PhD ISWD degree program work?</b></p>
 <ul>
 	<li><b>In-state tuition for all students.</b></li>
 	<li>A minimum of 90 graduate credits beyond the bachelor's degree.</li>

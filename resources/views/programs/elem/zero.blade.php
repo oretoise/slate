@@ -9,7 +9,7 @@
 	Thank you for checking out the online Bachelor of Science in Elementary Education (ELEM) degree program at Mississippi State University (MSU)!  This program is designed to prepare you to have the essential foundations for instructing children in preK-6th grade.
 </p>
 
-<p><b>How does the distance ELEM degree program work?</b></p>
+<p><b>How does the online ELEM degree program work?</b></p>
 <ul>
 	<li><b>In-state tuition for all students.</b></li>
 	<li>123 hours are required to complete the program.</li>
