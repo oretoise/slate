@@ -57,6 +57,7 @@
     <li><a href=" {{ url('mats') }}">Master of Arts Teaching - Secondary</a></li>
 	<li><a href=" {{ url('matx') }}">Master of Arts Teaching - Special</a></li>
 	<li><a href=" {{ url('edld') }}">MS Educational Leadership</a></li>
+    <li><a href=" {{ url('msepy') }}">MS Educational Psychology- Applied Behavior Analysis</a></li>
     <li><a href=" {{ url('msit') }}">MS Instructional Tech</a></li>
     <li><a href=" {{ url('seed') }}">MS Secondary Education</a></li>
     <li><a href=" {{ url('wel') }}">MS Workforce Education Leadership</a></li>
