@@ -31,10 +31,10 @@
 		<a href="{{ url('msepy/fourtyfour') }}">Day 44</a>
 	</li>
 	<li>
-		<a href="{{ url('msepy/fifty') }}">Day 50</a>
+		<a href="{{ url('msepy/fiftyfive') }}">Day 55</a>
 	</li>
 	<li>
-		<a href="{{ url('msepy/fiftyfive') }}">Day 55</a>
+		<a href="{{ url('msepy/sixty') }}">Day 60</a>
 	</li>
 	<li>
 		<a href="{{ url('msepy/sixtyfive') }}">Day 65</a>
