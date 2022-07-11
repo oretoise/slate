@@ -11,12 +11,12 @@ your pursuit of your degree. Meet your team!</p>
     <tbody>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/smith.jpg" />
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/hallie_smith.jpg" />
             </td>
             <td class="divider staff" style="text-align: center;">
                 <b>Hallie Smith, PhD, BCBA-D</b><br/>
                 <i>Assistant Professor, Program Coordinator, Online Coordinator/Advisor</i><br/>
-				Counseling, Ed Psych, & Foundations
+				Counseling, Ed Psych, & Foundations<br/>
                 <a href="mailto:hms238@msstate.edu">hms238@msstate.edu</a>
             </td>
         </tr>
