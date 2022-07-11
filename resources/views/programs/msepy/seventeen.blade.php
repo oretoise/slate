@@ -11,7 +11,7 @@ your pursuit of your degree. Meet your team!</p>
     <tbody>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/hallie_smith.jpg" />
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/halliesmith.jpg" />
             </td>
             <td class="divider staff" style="text-align: center;">
                 <b>Hallie Smith, PhD, BCBA-D</b><br/>
