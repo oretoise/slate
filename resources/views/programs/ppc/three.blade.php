@@ -5,7 +5,7 @@
 
 <p>Dear @@{{First}},</p>
 
-<p>Wondering if the time is now to start the Public Procurement Certificate? Here are few answers to frequently asked questions to help you confidently take the next step./p>
+<p>Wondering if the time is now to start the Public Procurement Certificate? Here are few answers to frequently asked questions to help you confidently take the next step.</p>
 
 <ol>
 	<li>
