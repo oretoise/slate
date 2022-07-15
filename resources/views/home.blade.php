@@ -39,6 +39,7 @@
     <li><a href=" {{ url('amf') }}">Aeronautical Meteorological Forecaster Certficiate</a></li>
     <li><a href=" {{ url('gis') }}">GIS Certificate</a></li>
     <li><a href=" {{ url('biology') }}">General Biology Certificate</a></li>
+    <li><a href=" {{ url('ppc') }}">Public Procurement Certificate</a></li>
 </ul>
 <h3>College of Business</h3>
 <ul>
@@ -95,6 +96,7 @@
 	<li><a href=" {{ url('forestry') }}">MS Forestry</a></li>
     <li><a href=" {{ url('sbp') }}">MS Sustainable Bioproducts</a></li>
     <li><a href=" {{ url('ensc') }}">Environmental & Sustainability Certificate</a></li>
-</ul>
 
+	
+</ul>
 @endsection
