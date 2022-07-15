@@ -9,7 +9,7 @@
     <tbody>
 		<tr>
             <td class="divider" style="width: 50%;">
-                <img src="https://goto.msstate.edu/www/images/Distance/programs/psychology/knox.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/daphne_knox.png">
             </td>
             <td class="divider" style="text-align: left; width: 50%;">
                 <p>Daphne Knox has been working for the Center for Distance Education at Mississippi State University since 2018. She coordinates programming for the College of Engineering, College of Forest Resources, and the College of Agriculture and Life Sciences.</p>
