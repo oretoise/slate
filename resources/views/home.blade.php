@@ -70,6 +70,7 @@
 </ul>
 <h3>Bagley College of Engineering</h3>
 <ul>
+    <li><a href=" {{ url('bsee') }}">BS Electrical Engineering</a></li>
     <li><a href=" {{ url('engineering') }}">Master of Engineering</a></li>
     <li><a href=" {{ url('msase') }}">MS Aerospace Engineering</a></li>
 	<li><a href=" {{ url('phase') }}">PhD Aerospace Engineering</a></li>
@@ -96,7 +97,5 @@
 	<li><a href=" {{ url('forestry') }}">MS Forestry</a></li>
     <li><a href=" {{ url('sbp') }}">MS Sustainable Bioproducts</a></li>
     <li><a href=" {{ url('ensc') }}">Environmental & Sustainability Certificate</a></li>
-
-	
 </ul>
 @endsection

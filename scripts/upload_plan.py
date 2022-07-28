@@ -140,7 +140,7 @@ def upload(acronym, day_int, email, population):
         pyautogui.typewrite("Population")
 
         # Click "Population"
-        pyautogui.click(1157, 570)
+        pyautogui.click(1165, 546)
 
     else:
 
@@ -148,7 +148,7 @@ def upload(acronym, day_int, email, population):
         pyautogui.typewrite("population timestamp days")
 
         # Click "Popuation Timestamp Days"
-        pyautogui.click(824, 570)
+        pyautogui.click(952, 547)
 
     # Click Continue
     pyautogui.click(845, 1115)
@@ -193,7 +193,7 @@ def upload(acronym, day_int, email, population):
         pyautogui.typewrite(export)
 
         # Click it.
-        pyautogui.click(850, 600)
+        pyautogui.click(981, 573)
     
     # Click Continue
     pyautogui.click(840, 1115)
