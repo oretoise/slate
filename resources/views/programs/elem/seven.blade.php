@@ -21,14 +21,14 @@
         </tr>
         <tr>
             <td class="divider">
-                <img src="https://goto.msstate.edu/www/images/Distance/elem/gaither.png" />
+                <img src="https://goto.msstate.edu/www/images/Distance/elem/etheridge.jpg" />
             </td>
             <td class="divider" style="text-align: center; width: 50%;">
                 <br/>
-                <b>Michelle Gaither</b><br/>
+                <b>Stephanie Etheridge</b><br/>
                 Elementary Education Coordinator / Advisor<br/>
-                (P): 662-325-7128
-                <a href="mailto:elemonline@colled.msstate.edu">elemonline@colled.msstate.edu</a>
+                (P): 662-325-1999
+                <a href="mailto:setheridge@colled.msstate.edu">setheridge@colled.msstate.edu</a>
             </td>
         </tr>
     </tbody>
