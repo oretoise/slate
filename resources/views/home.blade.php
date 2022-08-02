@@ -90,6 +90,7 @@
     <li><a href=" {{ url('phise') }}">PhD Industrial & Systems Engineering</a></li>
 	<li><a href=" {{ url('msme') }}">MS Mechanical Engineering</a></li>
 	<li><a href=" {{ url('phme') }}">PhD Mechanical Engineering</a></li>
+    <li><a href=" {{ url('athlete') }}">Athlete Engineering</a></li>
 </ul>
 <h3>College of Forest Resources</h3>
 <ul>
