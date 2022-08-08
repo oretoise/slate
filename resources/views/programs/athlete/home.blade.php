@@ -30,8 +30,5 @@
 	<li>
 		<a href="{{ url('athlete/fiftyfive') }}">Day 55</a>
 	</li>
-	<li>
-		<a href="{{ url('athlete/sixty') }}">Day 60</a>
-	</li>
 </ul>
 @endsection
