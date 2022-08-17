@@ -1,12 +1,12 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 7 - Subject: Are you ready for online learning?</h3>
-@include('common.smartermeasure')
+<h3>Day 24 - Subject: How Much Will Your Online Degree Cost?</h3>
+@include('common.grad_tuition')
 @endsection
 
 @section('signature')
-	@include('signatures.mwolfe')
+	@include('signatures.arijal')
 @endsection
 
 @section('apply')

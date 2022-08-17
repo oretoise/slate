@@ -98,5 +98,6 @@
 	<li><a href=" {{ url('forestry') }}">MS Forestry</a></li>
     <li><a href=" {{ url('sbp') }}">MS Sustainable Bioproducts</a></li>
     <li><a href=" {{ url('ensc') }}">Environmental & Sustainability Certificate</a></li>
+	<li><a href=" {{ url('msrc') }}">MSRC</a></li>
 </ul>
 @endsection
