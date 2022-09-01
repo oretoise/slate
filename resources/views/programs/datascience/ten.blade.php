@@ -1,7 +1,7 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 10 - Subject: Meet your Data Science Pedagogy Certificate program team!</h3>
+<h3>Day 10 - Subject: Meet your Data Science Pedagogy Certificate program team! </h3>
 
 <p>Dear @@{{First}},</p>
 
