@@ -16,7 +16,7 @@ If you have questions, please ask. I'm happy to help!</p>
 @endsection
 
 @section('signature')
-	@include('signatures.dknox')
+	@include('signatures.mwolfe')
 @endsection
 
 @section('apply')

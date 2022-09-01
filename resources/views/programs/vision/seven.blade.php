@@ -12,7 +12,7 @@
         Yes!  Starting with the class of 2020, the three-week residency component is no longer required!  All coursework (four classes) will be online with some activities conducted in agencies that are serving individuals who are blind or visually impaired.<br/><br/>
     </li>
     <li>
-        <b>Would should apply?</b><br/>
+        <b>Who should apply?</b><br/>
         A 100-hour practicum is included in the program; therefore, prospective students must be employed in a rehabilitation agency or enrolled in a master's rehabilitation counseling degree program.<br/><br/>
     </li>
     <li>

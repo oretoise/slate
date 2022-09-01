@@ -1,12 +1,12 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 47 - Subject: Let's get social!</h3>
-@include('common.social')
+<h3>Day 24 - Subject: We’re here to serve you!</h3>
+@include('common.student_services')
 @endsection
 
 @section('signature')
-	@include('signatures.mwolfe')
+	@include('signatures.dknox')
 @endsection
 
 @section('apply')

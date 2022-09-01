@@ -9,13 +9,16 @@
 
 <table>
     <tbody>
-        <tr>
-            <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/daphne_knox.png">
+    <tr>
+            <td class="divider" style="width: 50%;">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/wolfe.png">
             </td>
-            <td class="divider staff" style="text-align: left;">
-                <p>Daphne Knox has been working for the Center for Distance Education at Mississippi State University since 2018.  She coordinates programming for the College of Engineering, College of Forest Resources, and the College of Agriculture and Life Sciences.</p>
-                <p>Daphne holds a Bachelor of Arts in Political Science and a Master of Public Policy and Administration from Mississippi State University.  In her leisure time, Daphne enjoys spending time with her family, playing tennis, and reading.</p>
+            <td class="divider" style="text-align: center; width: 50%;">
+                <b>Mindy Wolfe</b><br/>
+                <i>Recruitment Coordinator</i><br/>
+                Center for Distance Education<br/>
+                <a href="mailto:mindy.wolfe@msstate.edu">mindy.wolfe@msstate.edu</a><br/>
+                (P): 662-325-8545
             </td>
         </tr>
 		<tr>
