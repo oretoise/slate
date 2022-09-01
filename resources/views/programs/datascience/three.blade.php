@@ -5,9 +5,7 @@
 
 <p>Dear @@{{First}},</p>
 
-<p>Wondering if the time to start is now?  Here are some answers to frequently asked questions to help you confidently take the next step.</p>
-
-<p><b><u>*Please note</u></b>:  This program is NOT designed to provide the skills for a person to become a practicing, "on-the-ground" field forester who manages the forest land base.  That will require the coursework of an undergraduate Forestry degree.</p>
+<p>Wondering if the time to start is now?  Here are some answers to frequently asked questions to help you confidently take the next step.</p>	
 
 <ul>
     <li>
