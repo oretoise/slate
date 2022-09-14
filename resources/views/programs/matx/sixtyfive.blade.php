@@ -6,7 +6,7 @@
 
 <p>I wanted to touch base with you to see if you had any questions about the online Master of Arts in Teaching - Special Education (MATX) program.</p>
 
-<p>I wanted to remind you that you can start the teacher education program in the fall or spring semester; however, if you have core classes to take, you can start those in the summer. The sooner you get your application completed, the closer you are to reaching your educational goals.</p>
+<p>I wanted to remind you that you can start the MATX program in the fall, spring, or summer semester. The sooner you get your application completed, the closer you are to reaching your educational goals.</p>
 
 <img class="img-center" src="https://goto.msstate.edu/www/images/Distance/programs/matx/matx_banner.png" />
 

@@ -10,9 +10,7 @@
 
 <p><b>Grades K-12</b></p>
 <ul>
-    <li>Art</li>
     <li>French</li>
-    <li>Music</li>
     <li>Physical Education</li>
     <li>Spanish</li>
 </ul>
@@ -20,7 +18,6 @@
 <p><b>Grades 7-12</b></p>
 <ul>
     <li>Biology</li>
-    <li>Business</li>
     <li>Chemistry</li>
     <li>English/Language Arts</li>
     <li>Physics</li>

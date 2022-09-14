@@ -14,6 +14,13 @@
 </p>
 
 <p>
+    <b>Stephanie Etheridge</b><br/>
+    <i>MAT Advisor</i><br/>
+    662.325.1999<br/>
+    <a href="mailto:setheridge@colled.msstate.edu">setheridge@colled.msstate.edu</a>
+</p>
+
+<p>
     <b>Anusha Rijal</b><br/>
     <i>Distance Coordinator</i><br/>
     662.325.8876<br/>

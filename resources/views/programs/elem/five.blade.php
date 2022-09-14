@@ -9,7 +9,7 @@
 	Start your application for the online Elementary Education program. Here is a short <a href="https://youtu.be/YQIXYYITnZs">video</a> to help you navigate the application process.
 </p>
 
-<p>Our online classes fill up quickly. The earlier you submit your admission or readmission application, the better chance you have of getting into the classes that you need.</p>
+<p>Our online classes fill up quickly. The earlier you submit your admission or readmission application, the earlier you will get your admission decision..</p>
 
 <p>The semester start dates can be found on the <a href="http://www.registrar.msstate.edu/calendars/academic-calendar/">academic calendar</a>.</p>
 
