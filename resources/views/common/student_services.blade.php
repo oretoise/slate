@@ -19,7 +19,7 @@
 
 <p>
     <span style="color: #5D1725; text-decoration: underline;"><b>FINANCIAL AID</b></span><br/>
-    You pay in-state tuition no matter where you live.  Check to see if you qualify for federal aid by filling out the free application for <a href="https://studentaid.ed.gov/sa/fafsa">Federal Student Aid.</a>
+    You pay in-state tuition no matter where you live.  Check to see if you qualify for federal aid by filling out the free application for <a href="https://studentaid.gov/">Federal Student Aid.</a>
 </p>
 
 <p>
