@@ -8,46 +8,13 @@
 	<tbody>
 		<tr>
 			<td class="divider" style="width: 50%;">
-				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/bray.jpg"/>
+				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/threet.jpg"/>
 			</td>
             <td class="divider" style="text-align: center; width: 50%;">
-				<b>Dr. Marty Bray</b><br/>
-				Industrial Tech - Department head<br/>
-				<a href="mailto:mbray@colled.mssstate.edu">mbray@colled.mssstate.edu</a><br/>
-				662.325.2281
-			</td>
-		</tr>
-		<tr>
-			<td class="divider" style="width: 50%;">
-				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/dale.jpg"/>
-			</td>
-            <td class="divider" style="text-align: center; width: 50%;">
-				<b>Jonathon Dale</b><br/>
-				Industrial Tech - Instructor<br/>
-				<a href="mailto:jwd43@msstate.edu">jwd43@msstate.edu</a><br/>
-				662.325.0230
-			</td>
-		</tr>
-		<tr>
-			<td class="divider" style="width: 50%;">
-				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/giordano.png"/>
-			</td>
-            <td class="divider" style="text-align: center; width: 50%;">
-				<b>Mickey Giordano</b><br/>
-				Industrial Tech - Instructor<br/>
-				<a href="mailto:mgiordano@colled.msstate.edu">mgiordano@colled.msstate.edu</a><br/>
-				662.325.1610
-			</td>
-		</tr>
-		<tr>
-			<td class="divider" style="width: 50%;">
-				<img src="https://goto.msstate.edu/www/images/Distance/bsindt/wyatt.png"/>
-			</td>
-            <td class="divider" style="text-align: center; width: 50%;">
-				<b>Dr. John Wyatt</b><br/>
-				Industrial Tech - Associate Professor<br/>
-				<a href="mailto:wyatt@colled.msstate.edu">wyatt@colled.msstate.edu</a><br/>
-				662.325.7257
+				<b>Lara Threet</b><br/>
+				Industrial Tech - Advisor<br/>
+				<a href="mailto:lthreet@colled.msstate.edu">lthreet@colled.msstate.edu</a><br/>
+				662.325.7253
 			</td>
 		</tr>
 		<tr>
@@ -64,7 +31,7 @@
 	</tbody>
 </table>
 
-<p>We are here to help and look forward to working with you!</p>
+<p>Lara and I are here to help. We look forward to working with you!</p>
 <p>Thanks,</p>
 @endsection
 

@@ -18,7 +18,7 @@
 </p>
 
 <p>
-	Be sure to select your desired concentration - <span style="color: #800000;"><b>Manufacturing and Maintenance Management</b></span> or <span style="color: #800000;"><b>Industrial Automation</b></span>.
+	Be sure to select your desired concentration - <span style="color: #800000;"><b>Industrial Automation, Manufacturing & Maintenance Management, Industrial Coatings, Industrial Packaging or Process Technology</b></span>.
 </p>
 
 <p>

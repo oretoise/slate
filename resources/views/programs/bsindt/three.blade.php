@@ -6,14 +6,17 @@
 
 <p>
 	<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/bsindt/bsindt_2.png" />
-	Would you like to jump start your career in the manufacturing sector or in the automation of manufacturing processes?
+	Would you like to jump start your career in the manufacturing, process, maintenance or in the automation of manufacturing processes?
 </p>
 
-<p>You can with the INDT degree! Choose from two concentrations:</p>
+<p>You can with the INDT degree! Choose from five concentrations:</p>
 
 <ul>
-	<li><b>Manufacturing and Maintenance Management</b> involves the management, maintenance, and day-to-day operation and improvement of manufacturing processes.</li>
-	<li><b>Industrial Automation</b> includes fixed automation, robotics, and the troubleshooting of automated systems and their role in the manufacturing environment.</li>
+	<li>Industrial Automation</li>
+	<li>Manufacturing & Maintenance Management</li>
+	<li>Industrial Packaging</li>
+	<li>Industrial Coatings</li>
+	<li>Process Technology</li>
 </ul>
 
 <p>Many of our graduates have started their careers with outstanding companies such as Caterpillar, Milwaukee Electric Tool, Nissan North America, and more!</p>

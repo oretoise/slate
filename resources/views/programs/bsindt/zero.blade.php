@@ -8,7 +8,7 @@
 	Thank you for checking out MSU's online Bachelor of Science in Industrial Technology (INDT) degree.
 </p>
 
-<p>This program is designed for you -- the student who is preparing for employment leading to supervisory and management positions in the production, automation, or maintenance areas of industry.</p>
+<p>This program is designed for you -- the student who is preparing for employment leading to supervisory and management positions in the production, process, automation, or maintenance areas of industry.</p>
 
 <p>
 	<span style="color: #800000;"><b>How does the online INDT work?</b></span>
@@ -19,7 +19,7 @@
 	<li>124 hours are required to complete the program.</li>
 	<li><span style="color: #800000;"><b>This program is not completely online.</b></span> Some courses require students to participate in on-campus workshops, which will be held on our Starkville, MS, campus during four Saturdays in the semester.</li>
 	<li>You can start taking courses in the spring, summer, or fall semester.</li>
-	<li>Two concentrations are available: 1) Industrial Automation and 2) Manufacturing & Maintenance Management.</li>
+	<li>Five concentrations are available: 1) Industrial Automation 2) Manufacturing & Maintenance Management 3) Industrial Coatings 4) Industrial Packaging 5) Process Technology</li>
 </ul>
 
 <p>Because MSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) and the Association to Advance Collegiate Schools of Business, your courses will meet the same standards as on-campus courses.  Also, your online degree will not be differentiated from an on-campus degree.</p>
