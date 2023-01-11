@@ -15,7 +15,7 @@ Let me know if you have any questions. I'm happy to help!</p>
 @endsection
 
 @section('signature')
-	@include('signatures.dknox')
+	@include('signatures.lhudson')
 @endsection
 
 @section('apply')

@@ -10,7 +10,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.dknox')
+	@include('signatures.lhudson')
 @endsection
 
 @section('apply')

@@ -23,7 +23,7 @@ Summer Admission Deadline:  <b>May 15</b></p>
 @endsection
 
 @section('signature')
-	@include('signatures.dknox')
+	@include('signatures.lhudson')
 @endsection
 
 @section('apply')

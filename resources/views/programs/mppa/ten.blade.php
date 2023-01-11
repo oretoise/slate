@@ -10,13 +10,16 @@
 <table>
     <tbody>
     <tr>
-            <td class="divider" style="width: 50%;">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/daphne_knox.png">
+            <td class="divider staff">
+                <img alt="Lily Hudson" src="https://goto.msstate.edu/www/images/Distance/staff/lily_hudson.png">
             </td>
-            <td class="divider" style="text-align: center; width: 50%;">
-                <p>Daphne Knox has been working for the Center for Distance Education at Mississippi State University since 2018.  She coordinates programming for the College of Engineering, College of Forest Resources, and the College of Agriculture and Life Sciences.</p>
-                <p>Daphne holds a Bachelor of Arts in Political Science and a Master of Public Policy and Administration from Mississippi State University.  In her leisure time, Daphne enjoys spending time with her family, playing tennis, and reading.</p>
-            </td>
+            <td class="divider staff" style="text-align: left;">
+				<p><b>Lily Hudson</b><br>
+				Online Coordinator<br>
+				Center for Distance Education<br>
+				(E): <a href="mailto:lily.hudson@msstate.edu">lily.hudson@msstate.edu</a><br>
+				(P): 662.325.1559</p>
+			</td>
         </tr>
 		<tr>
             <td class="divider staff">
@@ -35,7 +38,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.dknox')
+	@include('signatures.lhudson')
 @endsection
 
 @section('apply')
