@@ -20,17 +20,14 @@
 				   (P): 662.325.7949</p>
 			</td>
         </tr>
-		<tr>
+        <tr>
             <td class="divider" style="width: 50%;">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/daphne_knox.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/wolfe.png">
             </td>
             <td class="divider" style="text-align: center; width: 50%;">
-                <p>Daphne Knox<br>
-				   Coordinator<br>
-				   Center for Distance Education<br>
-				   (E): <a href="mailto:daphne.knox@msstate.edu">daphne.knox@msstate.edu</a><br>
-				   (P): 662.325.0658</p>
-			</td>
+                <p>Mindy Wolfe has been working for the Center for Distance Education at Mississippi State University since 2000.  She coordinates programming for the College of Forest Resources, and the College of Agriculture and Life Sciences. </p>
+                <p>Mindy holds a Bachelor of Business Administration from Mississippi State University.  She is currently an online student seeking her master’s degree in Food Science, Nutrition, and Health Promotion. In her leisure time, Mindy enjoys spending time with her family, spin classes, and cooking. </p>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -39,7 +36,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.dknox')
+	@include('signatures.mwolfe_swann')
 @endsection
 
 @section('apply')
