@@ -9,7 +9,7 @@
         </td>
         <td>
             <b>Dr. Leslie Burger</b><br/>
-            <i>Coordinator for Distance Education Programming</i><br/>
+            <i>Coordinator for Online Programming</i><br/>
             <a href="mailto:leslie.burger@msstate.edu">leslie.burger@msstate.edu</a>
         </td>
     </tr>
