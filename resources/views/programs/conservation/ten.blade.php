@@ -23,11 +23,14 @@
         </tr>
 		<tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/programs/conservation/stacy_hines.jpg">
+                <img src="https://goto.msstate.edu/www/images/Distance/programs/conservation/leslie_burger.jpg">
             </td>
-            <td class="divider staff" style="text-align: left;">
-                <p>Dr. Stacy L. Hines is an instructor in the Department of Wildlife, Fisheries and Aquaculture at Mississippi State University. She currently has appointments in teaching and program coordination for the online Conservation Education program. Her background in nonformal and formal conservation education are central to her work.  She currently serves as a board member for the Friends of the Noxubee Refuge and on the Mississippi Environmental Education Alliance.</p>
-            </td>
+            <td class="divider" style="text-align: center; width: 50%;">
+                <b>Dr. Leslie Burger</b><br/>
+                <i>Coordinator for Online Programming</i><br/>
+                <a href="mailto:leslie.burger@msstate.edu">leslie.burger@msstate.edu</a><br/>
+                (P): 662-325-6686
+            </td>       
         </tr>
     </tbody>
 </table>

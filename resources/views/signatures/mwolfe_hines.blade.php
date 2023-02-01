@@ -8,9 +8,9 @@
             <a href="mailto:mindy.wolfe@msstate.edu"><span id="coordinator_email">mindy.wolfe@msstate.edu</span></a>
         </td>
         <td>
-            <b>Stacy L. Hines</b><br/>
-            <i>Instructor, Coordinator for Distance Education Programming</i><br/>
-            <a href="mailto:sla335@msstate.edu">sla335@msstate.edu</a>
+            <b>Dr. Leslie Burger</b><br/>
+            <i>Coordinator for Distance Education Programming</i><br/>
+            <a href="mailto:leslie.burger@msstate.edu">leslie.burger@msstate.edu</a>
         </td>
     </tr>
 </table>
