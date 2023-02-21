@@ -20,11 +20,11 @@
         </tr>
         <tr>
             <td class="divider staff">
-                <img alt="Daphne Knox" src="https://goto.msstate.edu/www/images/Distance/staff/daphne_knox.png">
+                <img alt="Mindy Wolfe" src="https://goto.msstate.edu/www/images/Distance/staff/mindy_wolfe.png">
             </td>
             <td class="divider staff" style="text-align: left;">
-                <p>Daphne Knox has been working for the Center for Distance Education at Mississippi State University since 2018.  She coordinates programming for the College of Engineering, College of Forest Resources, and the College of Agriculture and Life Sciences.</p>
-                <p>Daphne holds a Bachelor of Arts in Political Science and a Master of Public Policy and Administration from Mississippi State University.  In her leisure time, Daphne enjoys spending time with her family, playing tennis, and reading.</p>
+                <p>Mindy Wolfe has been working for the Center for Distance Education at Mississippi State University since 2000.  She coordinates programming for the College of Forest Resources, and the College of Agriculture and Life Sciences. </p>
+                <p>Mindy holds a Bachelor of Business Administration from Mississippi State University.  She is currently an online student seeking her master’s degree in Food Science, Nutrition, and Health Promotion. In her leisure time, Mindy enjoys spending time with her family, spin classes, and cooking. </p>
             </td>
         </tr>
     </tbody>

@@ -41,7 +41,7 @@ Summer Admission Deadline:  <b>January 15</b>
 @endsection
 
 @section('signature')
-	@include('signatures.dknox_swann')
+	@include('signatures.mwolfe_swann')
 @endsection
 
 @section('apply')
