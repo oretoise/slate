@@ -19,10 +19,10 @@
             </td>
         </tr>
         <tr>
-            <td class="divider" style="width: 50%;">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/wolfe.png">
+            <td class="divider staff">
+                <img alt="Mindy Wolfe" src="https://goto.msstate.edu/www/images/Distance/staff/mindy_wolfe.png">
             </td>
-            <td class="divider" style="text-align: center; width: 50%;">
+            <td class="divider staff" style="text-align: left;">
                 <p>Mindy Wolfe has been working for the Center for Distance Education at Mississippi State University since 2000.  She coordinates programming for the College of Forest Resources, and the College of Agriculture and Life Sciences. </p>
                 <p>Mindy holds a Bachelor of Business Administration from Mississippi State University.  She is currently an online student seeking her master’s degree in Food Science, Nutrition, and Health Promotion. In her leisure time, Mindy enjoys spending time with her family, spin classes, and cooking. </p>
             </td>
