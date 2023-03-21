@@ -9,7 +9,7 @@
         </td>
         <td>
             <b>Dr. Leslie Burger</b><br/>
-            <i>Coordinator for Online Programming</i><br/>
+            <i>Graduate Coordinator - Conservation Education</i><br/>
             <a href="mailto:leslie.burger@msstate.edu">leslie.burger@msstate.edu</a>
         </td>
     </tr>

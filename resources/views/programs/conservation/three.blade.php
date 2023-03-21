@@ -16,7 +16,8 @@
 		<b>Mississippi State Online's non-thesis master's degree in Conservation Education gives you the opportunity to:</b><br/>
 		<ul>
 			<li>Complete the only Conservation Education program in the United States that is 100% online with a focus on advancing leaders in conservation education.</li>
-			<li>This program was designed by our faculty to meet accreditation and industry standards.  The conservation education faculty are scientific researchers with experience in both non-formal and formal educational settings.</li>
+			<li>Learn from conservation education faculty who are scientists and educators with experience in both non-formal and formal educational settings.</li>
+			<li>Meet accreditation and industry standards upon completion of the program.</li>
 			<li>Work and take classes. Designed for the working professional, our classes are fully online with weekly tasks assigned for you to complete on your schedule.</li>
 		</ul>
 		<br/>

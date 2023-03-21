@@ -27,7 +27,8 @@
             </td>
             <td class="divider" style="text-align: center; width: 50%;">
                 <b>Dr. Leslie Burger</b><br/>
-                <i>Coordinator for Online Programming</i><br/>
+                <b>Dr. Leslie Burger</b><br/>
+                <i>Graduate Coordinator - Conservation Education</i><br/>
                 <a href="mailto:leslie.burger@msstate.edu">leslie.burger@msstate.edu</a><br/>
                 (P): 662-325-6686
             </td>       
