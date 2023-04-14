@@ -11,13 +11,14 @@ your pursuit of your degree. Meet your team!</p>
     <tbody>
         <tr>
             <td class="divider staff">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/peterson.jpg" />
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/francom.jpg" />
             </td>
             <td class="divider staff" style="text-align: center;">
-                <b>Whitney Peterson</b><br/>
-                <i>Instructor / Coordinator</i><br/>
-				Instructional Systems and Workforce Development
-                <a href="mailto:wpeterson@colled.msstate.edu">wpeterson@colled.msstate.edu</a>
+                <b>Dr. Gregory M. Francom</b><br/>
+                <i>Assistant Clinical Professor, Graduate Coordinator</i><br/>
+				Instructional Systems and Workforce Development<br/>
+                (P):  662-325-7499<br/>
+                <a href="mailto:greg.francom@msstate.edu ">greg.francom@msstate.edu </a><br/>
             </td>
         </tr>
         <tr>
