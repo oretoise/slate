@@ -1,5 +1,6 @@
-<b><span id="coordinator_name">Evan Hawkins</span></b><br/>
+<b><span id="coordinator_name">Samantha Clardy</span></b><br/>
 <i>Online Program Coordinator</i><br/>
 Center for Distance Education<br/>
 Mississippi State University<br/>
-<a href="mailto:e.hawkins@msstate.edu"><span id="coordinator_email">e.hawkins@msstate.edu</span></a>
+662.325.9092<br/>
+<a href="mailto:sam103@msstate.edu"><span id="coordinator_email">sam103@msstate.edu</span></a>

@@ -24,16 +24,16 @@
             </td>
         </tr>
         <tr>
-            <td class="divider" style="width: 50%;">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/evan_hawkins.png">
+            <td class="divider staff">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/samantha_clardy.png">
             </td>
-            <td class="divider" style="text-align: center; width: 50%;">
-                <b>Evan Hawkins</b><br/>
-                <i>Coordinator</i><br/>
+            <td class="divider staff" style="text-align: center;">
+                <b>Samantha Clardy</b><br/>
+                <i>Online Program Coordinator</i><br/>
                 Center for Distance Education<br/>
-                <a href="mailto:e.hawkins@msstate.edu">e.hawkins@msstate.edu</a><br/>
-                (P): 662-325-2655<br/>
-                (F): 622-325-2657
+                <a href="mailto:sam103@msstate.edu">sam103@msstate.edu</a>
+                (P): 662.325.9092<br/>
+                (F): 662.325.2657                
             </td>
         </tr>
     </tbody>
