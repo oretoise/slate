@@ -1,12 +1,12 @@
 @extends('layouts.mjml')
 
 @section('content')
-<h3>Day 7 - Subject: Are you ready for online learning?</h3>
-@include('common.smartermeasure')
+<h3>Day 47 - Subject: Be a Bulldog with MSU traditions!</h3>
+@include('common.traditions')
 @endsection
 
 @section('signature')
-	@include('signatures.kdunlap')
+	@include('signatures.mwolfe')
 @endsection
 
 @section('apply')

@@ -10,19 +10,6 @@
     <tbody>
         <tr>
             <td class="divider" style="width: 50%;">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/evan_hawkins.png">
-            </td>
-            <td class="divider" style="text-align: center; width: 50%;">
-                <b>Evan Hawkins</b><br/>
-                <i>BSIS Coordinator/Advisor</i><br/>
-                Center for Distance Education<br/>
-                <a href="mailto:e.hawkins@msstate.edu">e.hawkins@msstate.edu</a><br/>
-                (P): 662-325-2655<br/>
-                (F): 622-325-2657
-            </td>
-        </tr>
-        <tr>
-            <td class="divider" style="width: 50%;">
 				<img src="https://goto.msstate.edu/www/images/Distance/staff/kali_dunlap.png" />
 			</td>
             <td class="divider" style="text-align: center; width: 50%;">
@@ -38,11 +25,11 @@
     </tbody>
 </table>
 
-<p>Kali and I are here to help. We look forward to working with you!</p>
+<p>We look forward to working with you!</p>
 @endsection
 
 @section('signature')
-	@include('signatures.ehawkins')
+	@include('signatures.kdunlap')
 @endsection
 
 @section('apply')
