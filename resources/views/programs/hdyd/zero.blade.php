@@ -3,22 +3,23 @@
 @section('content')
 <h3>Day 0 - Subject: Thank you for checking out MSU's online Child Development program!</h3>
 
-<img class="img-right" src="https://goto.msstate.edu/www/images/Distance/programs/hdfs/hdfs_1.jpg" width="350px" alt="Children reading together."/>
-
 <p>Dear @@{{First}},</p>
 
-<p>Thank you for checking out MSU's online Bachelor of Science (BS) in Human Development and Family Science with a concentration in Child Development degree program.</p>
+<p>Thank you for checking out MSU’s online Bachelor of Science (BS) in Human Development and Family Science with a concentration in Youth Development degree program. </p>
 
-<p>The BS in Human Development and Family Science with a concentration in Child Development degree program is designed both for students who want to complete or start their degree completely online. The child development concentration explores the growth and development of children (conception until adolescence) within the family system and sociocultural milieu.</p>
+<p>The BS in Human Development and Family Science with a concentration in Youth Development degree program is designed both for students who want to complete or start their degree completely online. The Youth Development concentration prepares you to understand and work effectively with children and adolescents, ages 10-18, in a variety of settings.  The program provides students with a comprehensive view of the needs and developmental characteristics of youths, as well as the challenges facing today’s youths. </p>
 
-<p><b>What can you do with a BS in Human Development and Family Science with a concentration in Youth ?</b></p>
+<p><b>What can you do with a BS in Human Development and Family Science with a concentration in Youth Development?</b></p>
 
-<p>A BS in Human Development and Family Science with a concentration in Youth Development degree online opens doors to many career opportunities, including:
+<p>A BS in Human Development and Family Science with a concentration in Youth Development degree online opens doors to many career opportunities in a variety of fields, including:
 <ul>
-	<li>early care and education professionals</li>
-	<li>parent educators</li>
-	<li>child advocates</li>
-	<li>early interventionists</li>
+	<li>recreation and sports</li>
+	<li>juvenile justice</li>
+	<li>extension (4-H and Family & Consumer Sciences)</li>
+	<li>human services</li>
+	<li>out-of-school programming</li>
+	<li>military family support services</li>
+	<li>youth ministry</li>
 </ul></p>
 
 <p>Check out how you can get started by:
