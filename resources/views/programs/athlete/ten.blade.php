@@ -11,11 +11,14 @@
     <tbody>
     <tr>
             <td class="divider" style="width: 50%;">
-                <img src="https://goto.msstate.edu/www/images/Distance/staff/wolfe.png">
+                <img src="https://goto.msstate.edu/www/images/Distance/staff/anusha_rijal.jpg" />
             </td>
             <td class="divider" style="text-align: center; width: 50%;">
-                <p>Mindy Wolfe has been working for the Center for Distance Education at Mississippi State University since 2000.  She coordinates programming for the College of Forest Resources, and the College of Agriculture and Life Sciences. </p>
-                <p>Mindy holds a Bachelor of Business Administration from Mississippi State University.  She is currently an online student seeking her master’s degree in Food Science, Nutrition, and Health Promotion. In her leisure time, Mindy enjoys spending time with her family, spin classes, and cooking. </p>
+                <b>Anusha Rijal</b><br/>
+                <i>Online Program Coordinator</i><br/>
+                Center for Distance Education<br/>
+				(P): 662-325-8876
+                <a href="mailto:a.rijal@msstate.edu">a.rijal@msstate.edu</a>
             </td>
         </tr>
     </tbody>
@@ -25,7 +28,7 @@
 @endsection
 
 @section('signature')
-	@include('signatures.mwolfe_swann')
+@include('signatures.arijal_swann')
 @endsection
 
 @section('apply')
